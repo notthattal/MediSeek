@@ -1,0 +1,79 @@
+.form {
+  width: 100%;
+}
+
+.inputContainer {
+  display: flex;
+  align-items: flex-end; /* Changed from center to align with bottom of textarea */
+  gap: 0.5rem;
+  background-color: rgba(64, 65, 79, 0.9);
+  border-radius: 1rem;
+  padding: 0.75rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 0.25rem;
+  outline: none;
+  resize: none; /* Prevents user resizing */
+  max-height: 200px; /* Maximum height before scrolling */
+  overflow-y: auto; /* Add scrollbar when content exceeds max-height */
+  min-height: 24px; /* Maintain a minimum height */
+  line-height: 1.5;
+}
+
+.input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* Custom scrollbar for the textarea */
+.input::-webkit-scrollbar {
+  width: 6px;
+}
+
+.input::-webkit-scrollbar-track {
+  background: rgba(64, 65, 79, 0.9);
+  border-radius: 4px;
+}
+
+.input::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+}
+
+.input::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.iconButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.5);
+  padding: 0.25rem;
+  cursor: pointer;
+  transition: color 0.2s ease, background-color 0.2s ease;
+  border-radius: 0.375rem;
+}
+
+.iconButton:hover {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.iconButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

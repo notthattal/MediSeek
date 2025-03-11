@@ -1,0 +1,1112 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. Oded Rechavi: Genes & the Inheritance of Memories Across Generations
+Published: 2/27/2023
+2/27/2023 - 2h 32m 1s
+ - 
+US
+Downloaded:
+(in RSS feed: 2h 27m 23s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+Huberman  
+00:00:00
+Welcome to the Huberman Lab Podcast where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today my guest is Dr. Oded Rechavi. Dr. Oded Rechavii is a professor of neurobiology at Tel Aviv University in Israel. His laboratory studies genetic inheritance. Now everybody is familiar with genetic inheritance as the idea that we inherit genes from our parents, and indeed that is true. Many people are also probably now aware of the so-called epigenome. That is ways in which our environment and experiences can change our genome, and therefore the genes that we inherit or pass on to our children. 
+Huberman  
+00:00:44
+What is less known, however, and what is discussed today, is the evidence that we can actually pass on traits that relate to our experiences. That's right. There is evidence in worms, in flies, in mice, and indeed in human beings that memories can indeed be passed from one generation to the next, and that turns out to be just the tip of the iceberg in terms of how our parents' experiences and our experiences can be passed on from one generation to the next, both in terms of modifying the biological circuits of the brain and body, and the psychological consequences of those biological changes. During today's episode, Dr. Rajavi gives us a beautiful description of how genetics work. 
+Huberman  
+00:01:26
+So even if you don't have a background in biology or science, by the end of today's episode, you will understand the core elements of genetics and the genetic passage of traits from one generation to the next. In addition, he makes it clear how certain experiences can indeed modify our genes such that they are passed from our parents to us, and even transgenerationally across multi-generations. That is one generation could experience something and their grandchildren would still have genetic modifications that reflect those prior experiences of their grandparents. Dr. Rajavi takes us on an incredible journey explaining how our genes and different patterns of inheritance shape our experience of life and who we are. 
+Huberman  
+00:02:08
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. 
+ROKA (Ad)  
+00:02:25
+Our first sponsor is Roka. Roka makes eyeglasses and sunglasses that are the absolute highest quality. The company was founded by two all-American swimmers from Stanford, and everything about Roka, eyeglasses and sunglasses were designed with performance in mind. And I've spent a lifetime working on the biology, the visual system, and I can tell you that your visual system has to contend with an enormous number of challenges in order for you to be able to see clearly under any conditions. Roca understands this and has designed their eyeglasses and sunglasses accordingly. Originally, Roca, eyeglasses and sunglasses were designed for sport. That is for things like running and cycling, and many of the features they have reflect that. So for instance, they are extremely lightweight. They won't slip off your face if you get sweaty, and they can indeed be worn for running and cycling and things of that sort. However, they also come in a number of different aesthetics and styles that make them perfectly suited, not just for sport, but also for wearing to the office to work. If you'd like to try Roka eyeglasses or sunglasses, go to Roka, that's rka.com and enter the code huberman to save 20% off your first order. Again, that's roka rka.com enters the code huberman at checkout. 
+Ketone-IQ (Ad)  
+00:03:31
+Today's episode is also brought to us by H V M N Keto iq. Keto IQ is a keto supplement that increases blood ketones. Now, most everybody has heard of the so-called ketogenic diet. Most people, including myself, do not follow a ketogenic diet. That does not however mean that ketones cannot be valuable because ketones are one of the primary sources of brain fuel and body fuel that allows us to think clearly for long durations of time and to perform well physically, which is all to say that even if you're somebody who's not on a ketogenic diet such as myself, increasing your blood ketones can be immensely beneficial for cognitive and physical performance. Indeed, that's how I use KE iq. I'll take one or two servings per day, typically sometimes before a workout, but most typically before doing about of cognitive work. So I'm going to sit down and prepare a podcast or focus on research for my lab or a writing project or anything that requires a high degree of concentration for a prolonged period of time. Ingesting keto IQ prior to that I've noticed greatly increases my level of concentration, and I can sustain that concentration for much longer periods of time than if I don't take Keto iq. If you'd like to try Keto iq, you can go to hvn.com/huberman to save 20% off. Again, that's hvm n.com/huberman. 
+Eight Sleep (Ad) huberman 
+00:04:47
+Today's episode is also brought to us by eight Sleep. Eight Sleep Makes Smart Mattress covers with cooling, heating and sleep tracking capacity. So I've talked about many times before on the podcast, there's a critical relationship between sleep and temperature. And indeed, between waking up and temperature, that is your body temperature needs to decrease by about one to three degrees in order for you to fall and stay deeply asleep at night. And when you wake up in the morning, in order to do that feeling refreshed, your body temperature actually needs to increase by about one to three degrees. So it's critical that you control the temperature of your sleeping environment and that that temperature be controlled very specifically across the night and into the morning. With eight sleep mattress covers, that's all extremely easy to do. You can program the temperature your mattress in the beginning, middle, and throughout the night, and when you wake up. I've been sleeping on an eight sleep mattress cover for over a year now, and it has greatly improved the quality of my sleep. And indeed, I know that because eight Sleep also includes a terrific sleep tracker built directly into that mattress cover. If you'd like to try eight sleep, you can go to eight sleep.com/huberman to save $150 off their pod three, cover eight Sleep. Currently ships in the usa, Canada, uk, select countries in the EU and Australia. Again, that's eight sleep.com/huberman. 
+Huberman  
+00:06:01
+nd now for my discussion with Dr. Oded Rajavi. ODed, thank you so much for being here. 
+Oded Rechavi  
+00:06:06
+Totally, my pleasure. 
+Huberman  
+00:06:08
+Yeah, this podcast has an somewhat unusual origin because I am familiar with your work, but we essentially met on Twitter where you are known for many things, but lately especially, you have been focusing not just on the discoveries in your laboratory and other laboratories, but also sort of meme type humor that relates to the scientific process. And we'll return to this a little bit later, but first of all, I think it's wonderful that you're so active on social media in this positive stance around science that also includes humor. But today, what I mainly want to talk about is the incredible questions that you probe in your lab, which are highly unusual, incredibly significant for each and all of our lives, and very controversial and at times even a little bit dangerous or morbid. 
+Huberman  
+00:07:03
+So this is going to be a fun one for me and for the audience, just to start off very basically, get everyone up to speed because people have different backgrounds. I think most people have a general understanding of what genes are, what R n A is and so on. But maybe you could explain to people in very basic terms, and I'll just preface all this by saying that I think most people understand that if they have two blue-eyed parents, that there's a higher probability that they, their offspring will have blue eyes than brown eyes. Similarly, if two brown-eyed parents, higher probability that they have brown eyes rather than blue eyes and so on, but that most people generally understand and accept that if they spend part of their life, let's say, studying architecture, that if they have children that there's no real genetic reason. 
+Huberman  
+00:07:52
+We assume that their children would somehow be better at architecture because they contain the knowledge through the DNA of their parents. They might be exposed to it in the home, so-called nature nurture as a nurture in that case, but that they wouldn't inherit knowledge or other traits. And today, I'm hoping you can explain to us why I color, but not knowledge is thought to be inherited, and the huge landscape of interesting questions that this opens up, including some evidence that contrary to what we might think, certain types of knowledge at the level of cells and systems can be inherited. So that was a very long-winded opening, but to frame things up, what is D n A? 
+Huberman  
+00:08:35
+What is RNA and how does inheritance really work? 
+Oded Rechavi  
+00:08:39
+Okay, so DNA are the, is is the material, the genetic instructions that is containing every one of our cells. We have the set of genes containing the entire set is called the genome. And this is present in every cell of our body, the same set of instructions. And genes are made of dna and they're, they also contain and chromosomes, they're containing chromosomes. Chromosomes is the DNA and the proteins that condense the dna because we have a huge amount of DNA in every cell. You need to condense it to 
+Huberman  
+00:09:12
+Sure, like thread on a, on a spore, 
+Oded Rechavi  
+00:09:14
+Right? Huge amounts that you have to condense. And we have the same genome, the same DNA in every cell in our body. 
+Huberman  
+00:09:21
+Can I just interrupt and I'll do that periodically just to make sure that people are being carried along. I sometimes find that even remarkable that a skin cell in a brain cell, a neuron, for instance, very different functions, but they all contain the full menu of genes and the same menu 
+Oded Rechavi  
+00:09:40
+Of genes. No, it, it is amazing. It is amazing. And perhaps it's good to have an analogy to, to understand how it works. So this is, I hope this is not a commercial, but this is like the Ikea book that you have in every cell in your body, the instructions to make everything that you need in your house, the chairs, the, the, the kitchen, the pictures. But in every, but in every room, you want something else. So in the kitchen, you want things that fit the kitchen, and in the toilet you want things that fit the toilet. So you only re remove one particular page of instructions, which is the instruction of how to build the chair. And this you place in the key in the, in the living room. Okay. And in the toilet, you put in the toilet. So the DNA is the instruction to make the, the genome, the is the instruction to make everything. 
+Oded Rechavi  
+00:10:24
+This is the care book. And in every cell, we, we take just instructions for make one particular furniture. And this is the lna, this is the rna, this is the set. And then the end, you'll, you'll build the chair. The chair is the protein. So the dna, the RNA is, there are instructions to make one particular protein based on the entire set of possibilities. And, and this is, this is true for one particular type of rna, which won't be the style of, of this conversation, which is messenger rna. This is the RNA contents information for making pots. In fact, this is just a small percent of our, of the RNA in the cell. So we have a very big genome, and less than 2% of it encodes for this messenger rna. 
+Oded Rechavi  
+00:11:12
+However, a lot of the, the, the genome is transcribed to make RNA that does other things. Some of these RNAs we understand and many of them we don't. 
+Huberman  
+00:11:23
+I think it's a beautiful description. And IKEA is not a sponsor of the podcast, so it's totally fair game to, to use the IKEA catalog as, as the analogy for dna, the specific instructions for specific pieces of furniture as the RNA and the furniture pieces being the proteins that are, that are essentially made from RNA using messenger rna. Correct. Okay, thank you for that. So despite the fact that the same genes are contained in all the cells of the body, there is a difference between certain cell types, right? I would say, is it fair to say that there is basically one very important exception, which is somatic cells versus germ cells? 
+Huberman  
+00:12:03
+And would you mind sharing with us what that distinction is? 
+Oded Rechavi  
+00:12:06
+Sure. So, so yes, every cell, every cell type is different because it expresses, it brings into action different genes from the entire collection and assumes an identity. And so we have, we have cells in the legs, we have cells in the brain, we have in the, in the brain, we have cells that produce dopamine cells that produce roline and so on. And we can make different separation, different distinctions, but we can make one very important distinction between the somatic cells and the germ cells. The germ cells are supposed to be the only cells that contributes to the next generation, that out of which the next generation will be made. 
+Oded Rechavi  
+00:12:49
+So each of us is made just from a, a combination of experimenting egg. These are two types of germ cells, and then they fuse, and you make, you, you, you get one fertilized egg. And out of this one cell, all the rest of the body will develop. And what happens in the summa, which is, which are all the cells that are not the, the germ cells should stay in the suma, should not be able to contribute to the next generation. This is very important. And it's also to be one of the main barriers for the inheritance of acquired traits, the inheritance of memory, and so on. Because for example, like the example that you gave her in with learning architecture, if I learn about architecture, the information is encoded in my brain. 
+Oded Rechavi  
+00:13:31
+And since my brain cells can't transfer information to the sperm and the egg, cause the information is supposed to reside in synaptic connections between different neurons in particular circuits that developed. So what's, what, what happens in the brain shouldn't be able to transfer to the next generation. Even simpler. A simpler example should go to the gym and you build up muscles, you know that your kids will, will, will have to work out on their own. It won't, this shortcut won't, won't happen. This is something that we know intuitively, even if we don't have any background in biology, and this is connected to the fact that as we said at the beginning, every cell in the body has its own genome and the next generation will only form from the combination of the genomes in the sperm and the egg. 
+Oded Rechavi  
+00:14:22
+Even if you somehow acquire the mutation or change in your DNA in one of particular brain cells, it wouldn't matter because this mutation, there's no way to transfer it to the DNA of the, of the germ cells that will contribute to the next nation. 
+Huberman  
+00:14:37
+So despite that, there is, as you'll tell us, some evidence for inheritance of experience, let's call it. Or, and here we have to be careful with the language, right? I just want to put a big asterisk and underline and a highlight that the language around what we're about to talk about is both confusing and at the same time fairly simple and controversial, right? It's a little bit like in the, in the field of longevity, people sometimes will say anti-aging. Some people say longevity. The anti-aging folks feel that longevity is more about longevity clinics. They don't like that anti-aging is related to some other kind of niche clinics. 
+Huberman  
+00:15:17
+Sometimes FDA approved or government approved, sometimes not. And so there's a lot of argument about the naming, but it's all about living longer and living healthier in this field of acquiring traits or the passage of information to offspring, what is the proper language to refer to what we're about to discuss? There is this idea, and I'll say it so that you don't have to, that dates back to Lamar and Lamar in evolution, very controversial, right? And maybe not even controversial. I think it's very like offensive even to certain people. This idea of inheritance of acquired traits, the idea that one could change themselves through some activity, use the example of going to the gym. We could also use the example of somebody who becomes an endurance runner, then decides to have children within another endurance runner, and has in mind the idea that because they did all this running and not just because they were biased towards running in the first place, right? 
+Huberman  
+00:16:10
+But because they of the distance, they actually ran that their offspring somehow would be fabulous runners. Okay? This lamarckian concept is we believe wrong. So how do we talk about inheritance of acquired traits? What's the proper language for us to frame this discussion, 
+Oded Rechavi  
+00:16:26
+Right? We have to be very careful, as you said, and there are many complications that many am ambiguities and 
+Huberman  
+00:16:32
+Maybe you could tell us why lamarque in evolution for those that don't know is so, so such a stained thing, right? So it's not polite, right? 
+Oded Rechavi  
+00:16:41
+Perhaps, perhaps we'll start, we just, just say that we can talk about inheritance required traits, transmission of parental responses, inheritance of memory, all of these things. And we can also talk about epigenetics and transgenerational epigenetics and intergenerational epigenetics. There are many terms that we need to, to, to make clear for, for the audience. The, the reason that is so toxic or controversial is very complicated. And it goes a long time back even way before a mark. So even the, the Greeks talked about inheritance, quiet trade. Lamar is associated with the term, but it's probably a mistake, although everyone talks about including people who studied. 
+Oded Rechavi  
+00:17:23
+So Lamar worked, he published his book about a little more than 200 years ago, and he, he believed in inheritance acquired traits, absolutely, but just like anyone else in his time, just everyone believed in it. This is, it seemed obvious to them that it was long before Mendel and the rules of, of genetic inheritance and also Mendel was long before the, the understanding the DNA is the heritable material. So this happened a long time ago. Everyone believed in it, including Davin. Davin was perhaps more Lamar. Del Lamar, really? Yes, absolutely. 
+Huberman  
+00:18:00
+All right, now we're, now we're getting into the, into 
+Oded Rechavi  
+00:18:03
+The meat of it. And, and, and this is in the, in, in the origin of the species. It's in all of his writings, Lamar didn't even really make the distinction between the generations. He had many other reasons for being wrong, but he connected the terms in inherit trades to evolution. And this is some of the reasons he, that he was very controversial, even in his time. There were other reasons. For example, he rejected current day chemistry and he can explain everything based on aristo fluids, earth, wind, fire, and water. 
+Huberman  
+00:18:34
+Hmm. There's still some people on the internet that think they can discard with chemistry and explain everything based on earth, wind, and fire. 
+Oded Rechavi  
+00:18:40
+And this wasn't only biology, it was also the weather and everything. So, so that was part of the reason. But Lama Sok made many mistakes, but he did have a, a, a full theory of inheritance, which was a, a big step towards where we are today. So he had important contributions. Nevertheless, although he was mistake about the mechanism, what he believed, like everyone else drives evolution is the transmission of the traits that you acquired during your life or the, the, the things that you do or don't, you do. We talked about use and disuse of, of certain organs that shape the, our organs and eventually also the organs of the next generation. 
+Huberman  
+00:19:25
+He sounds a little bit like the, the first self-help public figure, right? Well, this idea, you know, I mean this is heavily embedded into a lot of the health and fitness space on the, in Twitter and Instagram and on the internet, which is that, and it's the, and it's the idea that we're sold very early in life, at least here in the United States and probably elsewhere, which is that we can become anything that we want to become and then that will forever change the offspring, either because of nature or nurture, right? 
+Oded Rechavi  
+00:19:54
+And this is a very dangerous idea as I'll explain in a second. And it led to horrible things. This is part of the reason that this is such a taboo. It's not only self-help that you are helping your or this helping yourself. The problem is when you apply to others, and this happened in a very, very dramatic and horrible way in, in, in recent, in the recent past as I'll, I'll tell you in a second. So Lamar, this is what he believed and, and he thought this, what is, this is how evolution, progress progression. And later darvin showed that it's really natural selection, the selecting of the, the people that, of, of the organisms that are already, that already contain the, the, the particular qualities are selected based on the, whether they survive or not in particular environments. 
+Oded Rechavi  
+00:20:43
+And therefore the evolution progresses, they become more common and take over. This is very different, two different explanations. The most common way this is contrasted is the neck of the giraffes. This is the classic example. According to to Lama, the giraffes had to stretch their necks towards the trees to eat when the tree, when the trees were high. And because of that, they, they transmitted these traits long necks to their children who also had long necks. By the way, he only mentioned this example, you know, handful of times he didn't really focus on that. And according to that, we just, the, a genetic happened to be born with the long necks survived because it aids. So it's genetic heritable materials in know about genetics, but takeover. 
+Oded Rechavi  
+00:21:27
+And the rest of the s that have different heritable materials just die. So this is natural selection versus inheritance for quiet traits. There are many reasons why Lamar and inheritance for quiet traits became such a bad term. One of the biggest is what happened in the Soviet Union, the Stalin, there was a, a scientist called Liko who thought that Mendelism normal genetics is bourgeois science shouldn't be done. And whoever the normal genetics was either killed or sent to the Siberia. And, and he thought that just like you said, we can not only, we can become everything that we want, but we can grow everything that we want in every field can take frozen field and grow potatoes there and so on. 
+Oded Rechavi  
+00:22:15
+And this led to massive starvation ruin agriculture in, in, in, in, in the Soviet Union, also on science for many, many years. And put a very dark cloud on the entire field. And only probably in the eighties or something like this, the field started to recuperate for that. Aside for that, which is a very dramatic thing, there was also crazy stories around an attempt to, to prove the inheritance acquired traits, despite the realization of many scientists is something that is very rare or that normally doesn't happen. That it is not a normal way that inheritance works. And I can tell you about two such dramatic cases that will illustrate it. 
+Oded Rechavi  
+00:22:59
+Yeah, please. So, so in the, in the beginning of the 20th century in Vienna, there was a researcher called Paul Cameron was a very famous and, and also very colorful figure who did experiments on many different types of animals. He did experiments on toads that are called the midwife toad because the male carries the, the eggs. And there's a beautiful book about it from, from Kessler telling the story of what happened there. And he, there, there are a couple of types of, of toads, some of them live underwater and some of them live on land. 
+Oded Rechavi  
+00:23:39
+And these toads are different in the shape and in the behavior. So of course the, the capacity to live underwater is one thing, but also the, the morphology and appearance changes. The, the totes that live underwater develop these NPI pads, these black pads on their hands that allow the males to grab onto the female without slipping 
+Huberman  
+00:24:02
+For mating 
+Oded Rechavi  
+00:24:03
+Form formatting. And the ones online don't have them. He claimed that he can take the +totes and train them to live underwater, changing the temperature and all kinds of things. It's very difficult animal to work with. Eventually, according to camera, they will acquire the capacity to live underwater and also changed the physiology and developed these new black nal pairs of their heads. With this discovery, he traveled, the world became very famous. This was in just the beginning of the previous century as the person who found the true foreign inheritance VA trades, despite the controversy and so on. 
+Oded Rechavi  
+00:24:45
+And in the beginning of the realization of how it actually works with DNA and so on, not with dna, but with the natural selection. DNA came later and, and people didn't believe him. He was actually under a lot of attacks, but it seemed convincing at the end. What happened is that they found that he injected ink to the toads, to to, to make them become black, to have this n So he fake the results and and he couldn't stand the, the accusations and, and kill himself. Wow. In this book by Kesler, just, maybe it was, it was the assistant who did it 
+Huberman  
+00:25:26
+Who killed 
+Oded Rechavi  
+00:25:27
+Him. No, no, I, who, who injected to, to sort of saving from, because the, the samples lost the coloring or something like that. So it might be, who knows what 
+Huberman  
+00:25:36
+Happened. Yeah. Well, in science, whenever there's a fraud accusation or controversy, the, it's not uncommon to see a passing of responsibility, right? There are recent cases, there are ongoing cases now where it's a question of who did what, et cetera. Actually, I have two questions before the second story. I'm struck by the idea that he was traveling and talking, I'm guessing this was before PowerPoint and Keynote, but also before transparencies, which are actually were still in place when I was like, graduate student, for those of you don't know transparency, they're basically transparent pieces of plastic paper that are that, that you put onto a projector and then you can write on them and do demonstrations, but can show photographs and things like that. 
+Huberman  
+00:26:18
+So how was he giving these talks and would he travel with the toes? So 
+Oded Rechavi  
+00:26:21
+He traveled with a samples. I see. And, and I'm basing this on this Casler book, which is on its own very controversial. It's more of a beautiful story than, you know, perhaps the truth. But, and, and, and according to the story there, he had to stand one side of the lecture hall with his hands behind the back while others would ex examine the samples and pass them around and so on. 
+Huberman  
+00:26:42
+But he, he cheated, someone cheated. 
+Oded Rechavi  
+00:26:44
+He probably, he probably did it. Let's, at least that's, that's the what most people think. But this wasn't replicated. I mean also I don't think anyone tried to replicate 
+Huberman  
+00:26:54
+It. Interesting. Rep, rep. This is just a point about replication and actually another tragic example, not, but a few years ago, Sacai who was a, as far as we knew, was doing very accomplished work on the growth of retinas, literally growing eyes in a dish. I think everyone believes that result, but then there were some accusations about another result that turned out to be fraudulent and Sacai killed himself. Right? This was a recent, this was only about maybe five, 10 years ago. Right? So it still happens. 
+Oded Rechavi  
+00:27:24
+Yeah, it happens. I think it's rare, but it does happen. Yeah. Especially in this very high profile 
+Huberman  
+00:27:29
+Situation. No, I would argue, I'd love to know what your number is, but I would argue that 99% of scientists are seeking truth and are well-meaning honest people. 
+Oded Rechavi  
+00:27:38
+I totally agree. Yeah. And I think that even thi when people are wrong, it's mostly not because they're evil and trying to act, reflect they maybe they really want to believe the results or there are all kinds of way to be wrong and, and even to bend truth without, you know, just blatant fraud, right? But, but this is according to the story and an example of of very bad thought, which is I agree is rare because most scientists, as you said this also my opinion, are just trying to, to discover truth and do the best they 
+Huberman  
+00:28:10
+Can. Well, why else would you go into it? Because it's certainly not a profession to go into if you want to get rich, it's not the money and it's probably not even a profession to go into. If you want to get famous, if you wanna be famous, you should go to Hollywood or become a serial killer cuz they'll make specials about please don't, but please don't do either. No. Hollywood I suppose for some is fine, but in any case, okay, so camera around 19 0 7, 19 0 6, 
+Oded Rechavi  
+00:28:34
+This, this is slightly before the, the whole the the, the cont broke out after the first World War. 
+Huberman  
+00:28:40
+Okay. Yeah. Great. So camera is gone. His toads with their either ink or whatever Neal pads, they have to go back to mating on land. Yeah, yeah. 
+AG1 (Ad)  
+00:28:51
+Okay. I'd like to take a quick break and acknowledge one of our sponsors, athletic Greens, athletic Greens now called Ag One is a vitamin mineral probiotic drink that covers all of your foundational nutritional needs. I've been taking Athletic Greens since 2012, so I'm delighted that they're sponsoring the podcast. The reason I started taking Athletic Greens, and the reason I still take Athletic Greens once or usually twice a day, is that it gets to me the probiotics that I need for gut health. Our gut is very important. It's populated by gut microbiota that communicate with the brain, the immune system, and basically all the biological systems of our body to strongly impact our immediate and long-term health. And those probiotics and athletic greens are optimal and vital for microbiotic health. In addition, athletic Greens contains a number of adaptogens, vitamins and minerals that make sure that all of my foundational nutritional needs are met and it tastes great. If you'd like to try Athletic Greens, you can go to athletic greens.com/huberman and they'll give you five free travel packs that make it really easy to mix up athletic greens while you're on the road, in the car, on the plane, et cetera. And they'll give you a year's supply of vitamin D three K two. Again, that's athletic greens.com/huberman to get the five free travel packs and the year supply of vitamin D three K two. 
+Oded Rechavi  
+00:30:06
+So, so this is, forget about that. We, we also had the, the Senco episode, you know, that's a, a very big thing. And, and then in the US there was in the seventies n eighties a researcher named McConnell who did very different experiments and he was also a character. He worked, he worked on he, so he was a joker type of thing. And he published many of his results in at genre that he published that was called Warms Breeders Gazette and had many cartoons. And 
+Huberman  
+00:30:34
+So he started his own journal 
+Oded Rechavi  
+00:30:36
+Yes. And, 
+Huberman  
+00:30:36
+But it's one way to publish a lot. Yeah. 
+Oded Rechavi  
+00:30:38
+But they also published in, in in very respected journals in parallel. But he was, he was a psychologist, American psychologist. He, he worked on a warm, which is a flatworm, which is called planer, which is very interesting. This is different than what we'll discuss today. Different type of warm, you know, worms are, are very common. So four out of five animals on this planet is a warm. Really? Yes. Numerically just count the individuals. So we are the exception and, and so, but, but I'll talk about it very different, warm later. This is a flatworm, this is called planar. And it is remarkable in many ways. It was also a model that many people worked on, including the, the fathers of, of genetics and people who started genetics like Morgan. 
+Oded Rechavi  
+00:31:25
+They worked on it in the beginning. But it's very, very hard to study genetics in this worm because unlike us, unlike what we explained before about how we all develop from sperm and egg, these worms, most of the time reproduced just by fission, they're tear themselves apart. So they have a head and a tail and the part of the head will just tear itself apart from the tail grow a new, the head will grow a new tail, the tail will grow a new head. You can even cut them to 200 pieces. Each piece will grow into a new warm wild. And, and they have centralized brains with lobes and everything. And even this degenerate eyes, he studied these worms and he said that he can teach them certain things, associations by pairing all for, I don't remember exactly what he did. 
+Oded Rechavi  
+00:32:14
+I think it was either lights or electricity with shock them, which shock them with other things and he could train them to learn and remember particular 
+Huberman  
+00:32:24
+Things. Like you might get shocked on one side of the tank. Exactly. And then avoid that side of the tank. Yes. And then I guess the question is whether or not they're, they're ripped apart selves and they're subsequent generations will know to avoid that side of the tank without having ever been exposed to the shock. 
+Oded Rechavi  
+00:32:40
+Right. So without ever being exposed to shock or the, whether the, the new generation, the new head will be able to reem to learn faster. That's another the subtlety that you know might happen. Okay. And, and this what he said it happened, he said he can teach 'em certain things, remove cut of their heads and new heads with all the brain will, will grow and that it will contain the memory. This was the start of the, not the end of it, only the beginning. Then he said something even much wilder, which is it can train them to learn certain things and then just chop them out, put 'em in a blender and feed them to other worms. 
+Oded Rechavi  
+00:33:21
+Cause they are cannibalistic, they eat each other and that the memory will transfer through feeding. This sounds 
+Huberman  
+00:33:27
+Such a dramatic field. Yeah. 
+Oded Rechavi  
+00:33:31
+And by the way, this, this opened the field. So people did experiments that not only in plan area, but in gulf fish and certain rodents, and indeed this memory, brain transfer essays implanting brain. And this is in the back when they, they had a, an idea that some memories could be moleculars, could have a molecular form, which is very appealing. It's almost like science fiction. You could have a memory in a tube and like the way we think about memory normally, which is something that is distributed in run circuits and encoded in the strength of particular signs and so on. But, but the idea that you can take a, a memory and reduce it into a molecule and transfer it around is very, very, you know, interesting. 
+Oded Rechavi  
+00:34:13
+So this why it's attracted so many people. This ended up in a catastrophe. So there was an NIH investigation, couldn't, no one can replicate anything. It was a big mess. Although there were always scientists who said, yes, we can replicate this in this. So they were in the background. Okay. McConnell's stuff was different. Again, people thought that they couldn't, that, that there are problems replicating, but it wasn't necessarily, but some people replicate, but it wasn't necessarily about replicating the whole thing. But the question was, did the memory, the transfer is specific or is it an overall sensitation that transmits and so on, 
+Huberman  
+00:34:49
+Right? Like you could imagine that what gets transmitted is a hypersensitivity to electricity as opposed to the specific location that the electricity was introduced 
+Oded Rechavi  
+00:34:57
+Or, or even more than that. Even just, you know, a hypersensitivity engine in, in general more you're more vigilant and you'll learn anything so faster. That's also a possibility. But his problem wasn't the accusation. It was much worse that he was targeted by the unibo, these terrorists who sent letters with bombs to many scientists for 15 years. And, and his assistant again, is the assistant I think exploded. And this is how his line of research ended. Just recently, a few years ago, a researcher from Boston, Mike Levin and and his postdoc replicated some of McConnell's experiment with the cutting of the heads, but in a very, using very fancy equipment and automated tracking. 
+Oded Rechavi  
+00:35:42
+And they could say that they can replicate some of this. His, his his experiment. 
+Huberman  
+00:35:48
+Really? Yes. And they don't open packages in that lab. 
+Oded Rechavi  
+00:35:51
+They have, they have interesting stories. You should have Mike over. Yeah, 
+Huberman  
+00:35:54
+I'm familiar with his, with a bit of his work. Now I didn't realize they had done that experiment. 
+Oded Rechavi  
+00:35:58
+Yeah. So, so they published it yet a few years ago. And this is very interesting, but of course they, they don't know how it happens. The mechanism is unclear. McConnell went a step further than this. And what's fascinating in is that this, these are experiments that were done in the seventies and eighties. He said that he cannot only transfer the memos through chopped animals, but he can take the, the animal that that learned and break it down into different fractions. So just the dna, just the rna, just the, the fats, the, the proteins, the sugars. And he said that the fraction that transmit the memory is the rna. And this is very, very interesting because it was a long time before everything that we know about RNA today, I'll soon go into my research, explain what what we do. 
+Oded Rechavi  
+00:36:45
+And then you'll see that you can actually feed worms with RNA and get, and, and have many things happen. And this is, everyone knows this is true. Okay? So this is why it was so appealing to, to go back to that and, and study, by the way, at the time it became popular knowledge. Everyone knew these experiments. There's a, there's a Star Trek episode about it from 84. There's, there are comics books about it, books about it. So this was very, and people were eating RNA cause they thought that was r and in memory, this was of course complete nonsense. But, but this was, it made a lot of noise in these years, which is part of the reason it was so toxic until recently. You couldn't touch it because it's, it, it was considered pseudoscience, likely sanko. 
+Oded Rechavi  
+00:37:27
+Like, so this was just something you, you didn't wanna touch at all. Okay? And, and then we go back to, to, to these studies about inheritance of memory or inheritance of acquired traits in other organisms, in, in mammals, in, in, in, in humans. And aside from the dark cloud that these episodes left, there were also also theoretical problems. Why? Of why this can't happen. Barriers that have to be breached for this to happen. And you can, you can talk about many different types of barriers and, and, and you can also narrow it down to two main barriers. 
+Oded Rechavi  
+00:38:07
+First barrier, we mentioned it. This is the separation of the soma from the germline, 
+Huberman  
+00:38:11
+Right? The somatic cells, they can change in response to experience the sperm and the egg. The so-called germ cells cannot, that's 
+Oded Rechavi  
+00:38:20
+The idea. Or they're isolated on what happens in the summer. Okay? The men who, who, who first thought about this barrier is called Wiseman Weisman. This was in the 19th century. So it is called today the Wiseman barrier separation of the summer from the German only the germline transmitting from to the next generation. And this is also called the second law of biology. So this is very, very fundamental. So natural selection is the first one. This is the second one because it's so important to how we work, to how our bodies work. Wiseman by, by the way, thought that if you will have direct influence of the environment on the germ cells, then perhaps this could transfer to the next generation. So it, he wasn't as strict as his barrier suggests, but, but this is not how most people remember it. 
+Oded Rechavi  
+00:39:09
+Okay? But he thought that this is unnecessary. It, it's possible that natural selection can explain everything. And then compared to, to a boat, which is in the ocean, it is sailing and it has a sail open. So you don't have to assume that it has an engine. The wind is blowing, you don't have to assume other things. The natural selection might be enough. So this barrier is still standing, but not entirely. It is bridge breaching some organisms. We'll go into that in a second. The other barrier is the, now we have to, to, to understand the other barrier. We have to talk about epigenetics. We have to define epigenetics and what it is. 
+Oded Rechavi  
+00:39:48
+And epigenetics is another term which people misuse horribly and say about everything that these epigenetics, even people from the field, okay, the, the, the, the, the, the word itself. That the term was defined in the forties by Weddington con Conrad Wellington. And he talked about the interactions between genes and that and, and the product that, that in, in the end bring about the phenotype of the consequences and how genes influence development. Later people discovered mechanisms that are, that that change the action of genes, the different mechanisms. And started talking about these as epigenetics. 
+Oded Rechavi  
+00:40:30
+For example, the DNA is built out of four basic elements is how the, the ATG C, right? And they can be mod, chemically modified. So in addition to just the information that you have in the sequence of the dna, you also have this, the information in the modification of the basis. The most common modification that has been studied more than others is modification of the letter C of cytosine methylation, addition of a metal group to this C And, and, and this can be replicated. So after the, the, the dna, the cell divide and, and replicate the genetic material in certain cases also the, these chemical modifications can be added on and replicate and be preserved 
+Huberman  
+00:41:20
+For those who aren't as familiar with thinking about genes and gene structure and epigenetics. Could we think of these, you mentioned the four nucleotide basis, C G A D, but could we imagine that through things like methylation, it's sort of like taking the primary colors and adding a, changing one of them a little bit, changing the the hue just slightly, which then opens up an enormous number of new options of colored integration. 
+Oded Rechavi  
+00:41:47
+Absolutely. Just more combinations, more ways, more information. There are the modifications of the dna and also there are the modifications of the proteins, which condense the DNA that are called his stones. So they're also modified by many different chemicals. Again, methylation is a very common modification. Sation, even serotonin, the serotonin of of hiss 
+Huberman  
+00:42:12
+Serotonin, right? 
+Oded Rechavi  
+00:42:12
+This is a new paper from nature from a few years 
+Huberman  
+00:42:14
+Ago, can change dna n 
+Oded Rechavi  
+00:42:16
+The, the, not the DNA itself, but the protein that condenses 
+Huberman  
+00:42:18
+It. Essentially how in the analogy I used before of, of how the threat is wrapped around the spool, essentially. 
+Oded Rechavi  
+00:42:26
+Yes. And, and this determines the, the, the degree of condensation of the dna. Whether the gene is now more or less accessible and therefore can perhaps be expressed more or less. This is, this is one way to affect the, the gene expression and, and bring about the, the function of the gene. There are many additional words, not the only one. So then when this was, when all of these was starting to be lucid, people talked about epigenetics, they started talking about these modifications, forgot the original definition. And when people said epigenetics, they talk about methylation and things 
+Huberman  
+00:43:00
+Like that. And again, to just frame this up, so we could imagine two identical twins, so-called monozygotic twins. We could go a step further and say that they're monochorionic and they were in the same placental sack. Cuz twins can be raised in separate sacs, slightly different early environments. Let's say those two twins are raised separately. One experiences certain things, the other, other things, they eat different foods, et cetera. And there is the possibility through epigenetic mechanisms that through methylation, acetylation, serotonin, production, et cetera, that the expression of certain genes in one of the twins could be amplified relative to the other. 
+Oded Rechavi  
+00:43:37
+Correct. So yeah. So we know that even a totally identical twins, genetically they're identical, but they, they look different and they are different. This we, we experience, we all experience it. And this is, this can happen because of these epigenetic changes. Okay? Or it can happen because of other mechanisms, because genes respond to the environment. Genes don't exist in a vacuum. There are genes are need to be activated by transcription factors. And there's a whole, there's, there's a lot of machinery that is responsible for making genes function. So we are a combination of our genetic material and the environment. Okay? So when people talk about epigenetics and talks that talk just about the modification, they're also not exactly right. 
+Oded Rechavi  
+00:44:21
+My definition of epigenetics is inheritance, which occurs either across cell division or more interestingly also for this podcast now across generations, not because of changes to the DNA sequence by, but through other mechanisms. I think this is the, the, the, the most robust definition that, that allows you to understand what you're talking about. And then again, and then, and then the question is, if this happens, then what are the molecules that actually transmit information and cautions? Are they the, these chemical modifications to the DNA or to the proteins that condense the dna? 
+Oded Rechavi  
+00:45:02
+Or are there other modif? Are there agents that transmit information and which molecules can do it? And I actually think that the most interesting players today are RNA molecules. Okay, but before I go into that, I just wanna say that when we talk about the barriers to epigenetic inheritance or the barriers to inheritance of acquired traits, in addition to the separation of the summer from the German that we discussed, the other main barrier, it's called epigenetic reprogramming, which is that we acquired our diff our cells, the, the, the genetic material in, in our cells acquires all kinds of changes, these chemical changes, modifications we discussed. 
+Oded Rechavi  
+00:45:43
+But these modifications are largely erased in the transition between generations. So in the germline, in the, in the, the sperm and the egg, and also in the early embryo, most of them modifications are removed. So we can start a blank slate based on the genetic instructions. And this is crucial. Otherwise, according to the theory, it's not clear that actually true because in some organisms doesn't really happen. We will just, we will not develop according to the species typical genetic instructions. So to preserve this, we, we erase the mat, the all these modifications that start anew, and this is in, in memos and in humans, this is largely two, most of the modifications on the, in the sperm and in the act are removed. 
+Oded Rechavi  
+00:46:31
+So about 90% of it some remain, which could be interesting. 
+Huberman  
+00:46:36
+So the idea, if I understand correctly, is that there's some advantage to wiping the slate clean and returning to the original plan. In, in the context of the Ikea furniture analogy, the instruction book is the one that's issued to everybody. Okay? Or every cell, right? Only certain instructions are used for certain cells, say a skin cell or a neuron or a liver cell or a any other cell for that matter, through the course of the lifespan of the organism, those specific instructions are adjusted somewhat. Okay? So maybe like Ikea furniture, sometimes you, you ca they sent you seven, not eight of particular screws or they sent you the proper number, but you put them in the wrong place. 
+Huberman  
+00:47:20
+And it sort of changes the way that the thing works a little bit. Once that assuming furniture could reproduce, but here in the analogy of the furniture as as, as the cell or, or the organ in the mates with another organism, that needs to be replicated. And so the idea is to take the instruction but go through and erase all the pen and pencil marks, erase all those additional little modifications that the, the owner use or introduced to it and return to the original instruction, 
+Oded Rechavi  
+00:47:48
+Right? Because if you want to bring back the instruction book, you want it to have all the potential to make all the furnitures. You don't want it to be restricted to the ones that you made in a particular room. 
+Huberman  
+00:47:57
+Yeah. So it's essentially the opposite of acquired traits and characteristics based on your, what we say in biology, geek speak, lineage based experience, but what your parents experience, right? In some ways we want to eliminate all that and go back to just the genes they provided. 
+Oded Rechavi  
+00:48:13
+Yes. But it's more complicated. It's more complicated than that because we have some very striking examples, even in memos where some of the, of the marks are maintained. For example, the classic example is imprinting. Imprinting is a very interesting phenomena. The the way DNA works is that we, you, you inherit a copy for every chromosome from your mother and your father, and then you have in every cell of your body two copies if you are a human of every chromosome. Okay? And then so, so every gene is represented twice. These are called alleles, the different versions of the genes. 
+Oded Rechavi  
+00:48:54
+And the, the thought is that once you entered in the next generation, the two copies that you inherited are, are equal. It doesn't matter whether you inquire, acquire them from your mother or from your father, right? There are some situations where it does matter. There is, there is a limited number of genes that are called imprinting genes where it does matter whether you inherited from your mother or your father. And, and this is happening through epigenetic inheritance for not because of changes to the DNA sequence, but because of maintain maintenance of this chemo chemical modifications across generations. 
+Huberman  
+00:49:29
+And as I recall from the beautiful work of Catherine Dulac at Harvard, that especially in the brain, there is evidence that some cells contain the complete genome from mom or the complete genome from dad 
+Oded Rechavi  
+00:49:45
+And it can also switch during your life. So for her work show that early on in, in, in your life, it's different whether you express the, the maternal or paternal copy than when you are more mature. 
+Huberman  
+00:49:57
+So parents and children take note, you know, for those of you that are saying, oh, you know, the child is more like you or more like me, that can change across the life, man. And if you're thinking about your parental lineage and wondering whether or not you quote unquote inherited some sort of trait from mother or from father, it can be of course both or it can be just one or just the other, which I think most parents tend to see and describe in their children from time to time. That's just like the father or 
+Oded Rechavi  
+00:50:26
+That's just just like the mother for instance, right? Right, right. But it's important to know that in this situation, the environment played no role. This was just whether it passed to the mother or the father. It's not that something that happened to the mother or the father affected this. Okay, so this is slightly different. The question is now can the environment change the heretical material? Okay? So it's very important to understand that there's a difference between nurture and nature. And this is very confusing. People are, are, it's, it's a little subtle. So for example, people tell me I'm growing horses for many years and I just know that this horse has a particular character. 
+Oded Rechavi  
+00:51:09
+It's very different from, from the other horse. And so this is epigenetic inherited, no, it could be just genetically determined. Yes, this horse inherited a different set of genetic instructions. So it is different, doesn't have to be about epigenetics. Epigenetic inheritance means that the environment of the parents somehow changed the, the, the children, okay? And there, there are these two main barriers that are serious bed bottlenecks that we have to think what type of molecule and how they can be breached. So one possibility is that is really this limited number of chemical modifications that survive, which is about 10% or so. 
+Oded Rechavi  
+00:51:50
+That could be very interesting. Not a small number. Not a small number, but perhaps, perhaps, okay, this is one, one possibility. The other possibility that there are other mechanisms that the situation now in humans is that it's just really unclear what transmits if it can transmit in which molecule does it. We'll talk later about other organisms where it, it is a lot more clear, but in humans and members in general, there are many examples for environments that change the children. Whether they the, you need to invoke an epigenetic mechanism to explain this phenomena. 
+Oded Rechavi  
+00:52:32
+This is unclear first of all because it's how to separate nurture from nurture and second, because the mechanism is just not understood. So there are classic examples for in humans there were periods of famine, starvation in different places in the world, in the Netherlands, in China, in Russia, where people did huge epidemiological study to study the next generation and saw that the children of women who were starved during pregnancy are different, different, in many ways. They have different birth weight, glucose sensitivity, and also some neurological higher changes of getting some neurological diseases. 
+Oded Rechavi  
+00:53:19
+And this has been shown in very large studies. 
+Huberman  
+00:53:25
+Is there ever an instance in which starvation or hardship of some kind, some challenge, a sensory challenge or survival-based challenge led to adaptive traits? 
+Oded Rechavi  
+00:53:37
+Yes, there are in different organisms it could be as a result of a trade-off. So there could be a downside as well. But for example, there are two examples that come into mind. One of them is that if you stress male mice or, or, or rats, I don't remember. This is work of Isabel Manou in the ET in Switzerland, if you stress the males, you can do it in many different ways. I don't remember exactly how they did, but you can, you can do, you can separate them from their mothers, you can do social defeat, all kinds of things. Then the next generations are less stressed, they show less anxiety. 
+Huberman  
+00:54:15
+So the threshold for stress is higher. 
+Oded Rechavi  
+00:54:18
+Yes. However, I think they have memory deficits and, and other metabolic 
+Huberman  
+00:54:22
+Problem, which may be an advantage for dealing with stress. 
+Oded Rechavi  
+00:54:25
+Could be, 
+Huberman  
+00:54:25
+Yeah, it could. I don't have any direct evidence of that, but there's some, there's some simmering ideas that, you know, our ability to anchor our thoughts in the past, present, or future seems very adaptive in certain contexts, in other contexts that can keep us ruminating and not right, you know, right. Adaptively present to our current challenges. 
+Oded Rechavi  
+00:54:42
+Another example is that nicotine exposure. This is, I think the work of uhand from UMAS is, if I'm not mistaken, these are not my studies, but they improve the, the tolerance to exposure to similar drugs in the next generation. The interesting thing here is that it's very nonspecific. So you, you treat them with nicotine, but then in the next generation there are more tolerant to nicotine but also to other think cocaine or 
+Huberman  
+00:55:12
+That sort of makes sense to me because yeah, obviously nicotine activates the cholinergic system, the dopaminergic system, epinephrine and et cetera. And you can imagine that there's crossover because other drugs like cocaine, amphetamine mainly target the calomine, the dopamine and norepinephrine. 
+Oded Rechavi  
+00:55:28
+In, in, in, in, in this particular study, if I remember correctly, they show that this happens, this heritable effect, even if you use an antagonist to block the nicotine receptor. 
+Huberman  
+00:55:39
+Wow. 
+Oded Rechavi  
+00:55:39
+So, so, so it's something more about clearance of x antibiotics and, and hepatic functions that is transmitted and is very non-specific. 
+Huberman  
+00:55:48
+What I love about all the examples you've given today and, and especially that one is, and I hope that people, if you're just listening, I'm smiling because biology is so cryptic sometimes, you know, the, the, the obvious mechanism is rarely the the one that's actually at play. Correct. And people always ask, well why, why is it like this? And I always say, you know, the one thing I know for sure is that I wasn't consulted the design phase. And if anyone claims they were, then you definitely want to back away very fast. 
+Oded Rechavi  
+00:56:16
+And there could be so, so many tradeoffs, so many tradeoffs. So for, for example, we started and also other, many, many other people started effects. These are in, in warms we'll go, we'll go deep into that in a second, but show that when you starve them, the next generations live longer. And this I think could be a tradeoff with other things like, like fertility. So the next generations are more sick and fur and, and less fertile perhaps because of this they live longer. So there could be, it's not necessarily a good thing. 
+Huberman  
+00:56:50
+Right. I don't wanna draw you off course cuz this is magnificent what you're doing and, and, and slaying out for us here. But do you recall there was a few years ago it actually ended very tragically, it was an example, I think it was down in San Diego County, there was a, a cult of sorts that were interested in living forever. And so they castrated the males self castrated themselves in the idea that somehow maintaining some prepubescent state or reverting to a pseudo prepubescent state would somehow extend longevity. The idea that sexual behavior, somehow limited lifespan. This has been an idea that's been thrown around in the kind more wacky longevity communities. They also shaved their heads. They also all wore the same sneakers, but then they also all committed suicide, right. 
+Huberman  
+00:57:31
+As the hell bop comet came through town. Wow. But that's just, but one example of many cults aimed at sort of, that obviously was not life extension, that was life truncation, but aimed at kind of eternal life or some sort of through caloric restriction. That's right. This, this cult also is very into the whole idea that by, through caloric restriction, we can live much longer, which may actually turn out to be true. I think it's still debated, hence all the debate about intermittent fasting, et cetera. But also it is known that if you overeat, you shorten life. This is, this is clear, it's known that big bodied members of a species live far shorter lives than the smaller members of a Great Dane versus a Chihuahua, for instance. 
+Huberman  
+00:58:14
+So there is some like, sort of shards of truths in all of these things. But I I, it seems to me that the real question is like, what is the real mechanism and, and why would something like this exist? Right. And why questions are very dangerous in biology. Right, 
+Oded Rechavi  
+00:58:28
+Right. But, but very interesting also, and, and so, so when it comes to metabolic changes and nutrition, there are numerous examples where you either overfeed or starve and get effects in the next generations. Many of the, sometimes the effects contrast, depending on the way you do this. Again, these are none of, we don't do any of that in, in MAMs, but people show that starving or overfilling, the mothers, all the fats changes the body weight of the, the next generation and also the, the glucose tolerance and, and other, and, and also a productive success. And, and, and so the, the fact that there's an effect, that there's, that something transmits, this is clear. 
+Oded Rechavi  
+00:59:11
+The question is how miraculous is it? And whether you need new biology and epigenetics to explain it. What do I mean by that? If you affect the next generation, it doesn't necessarily has to go through the O side or the sperm and involves the epigenome. You change the metabolism of the animal as it develops, and obviously it'll affect it. The, when you, for example, starve women that are pregnant has happened during the, the, the, this famous starvation studies, the, the, the baby's already in Utah exposed directly to the environment. 
+Oded Rechavi  
+00:59:52
+So it's not even heritable effect. The baby is itself affected. It's a direct effect, very interesting, important, and has many implications. And it will be separate from the genetics. You'll have to take it into account to understand what's going on. Doesn't require necessarily new biology, a new, new biology of inheritance. Not only is the embryo affected the embryo, while neuter already has gem cells, so it's also the next generation, so is directly exposed, and you don't need any new biology necessarily to explain it. And it doesn't have, has to involve genetic epigenetics or epigenetics, etc. 
+Huberman  
+01:00:30
+It's clear to me that in the female fetus, the total number of eggs that she'll someday produce and potentially have fertilized by sperm exist, but in males with a 60 day sperm cycle. Leads me to the question, do fetal males, males as fetuses, living as fetuses in their moms already start producing sperm, or it's the primordial cells that give rise to sperm? 
+Oded Rechavi  
+01:00:55
+So I'm, I'm not an expert, so I don't wanna go into the details of exactly when in ma Sure, yeah. But, but, but yes, exposure of the, of the mother also affect the, eventually the, the, the, the transmission of the father of, of genetic information for the sperms father. And there are also many examples of just stressing the fathers affecting the sperm and affecting the next generation there. If you go to the F two generator, if you go two generations down the road, not to the kids, but to the grandkids, then it is a real epigenetic effect. Because, because you, you examine something that happens, although the, the next generation was, was never exposed to the original challenge. 
+Oded Rechavi  
+01:01:36
+Okay? So when we say about epigenetic inheritance in through the paternal line, through the founders, we talk about two generations. And when you go through the mother, it's three generations to talk about to, to when you need to invoke some real epigenetic mechanism. And there the evidence becomes much more scarce in moments, there are examples, more or less convincing. The field is evolving and improving a lot. So for example, now to many people use the cutting edges to use IVs in vitro fertilization or transfer of embryos to make sure that you actually, it's the, it's the heritable information and not the environment or, and that it goes through the germline. 
+Oded Rechavi  
+01:02:23
+So this is something that is being done. Now, there are studies, 
+Huberman  
+01:02:25
+You're talking about the three parent IVF where they take the DNA from mom, the sperm from dad, and they take the DNA from mom and put it into a novel cytoplasm or 
+Oded Rechavi  
+01:02:34
+No, none. Or, or just you just take the sperm and transfer it and fertilize the, the, the an 
+Huberman  
+01:02:41
+Egg. So standard ivf Yes, 
+Oded Rechavi  
+01:02:43
+Standard ivf, yeah. Yeah. You can do it in many different ways. But this idea that you separate the, the, the environmental, the environment of the mother from the inheritance or, or the environment of the father, and to, to control and separate nature from nature, 
+Huberman  
+01:02:55
+The, the environment becomes the culture. J Yes. Yeah. 
+Oded Rechavi  
+01:02:59
+So, so the field is, is improving. People do experiment it have a higher end, so more replicates and better controlled. And there are some examples for effects that transfer. And it depends who you ask whether people believe it or not. Many geneticists do not believe it, and many people do believe it. And it depends on the community. There are strong resistance for many reasons. Some of them are, are justified, some less justified, and are part of the scientific process of, and how things work because it's, it's, it's a new, it's challenging the dogma. So this is very interesting on its own. If you ask psychologists, many psychologists believe that there's heritable trauma and, and things like that. 
+Oded Rechavi  
+01:03:43
+Population geneticists less so. Okay. So this really depends. And I think that we are just at a, a point in time where we don't really know whether it happens to what extent, and we need bigger studies. Even if you think about normal, just genetic studies where people trying to understand the genetic underpinning of complex traits, like anything that involves the brain, pretty much we now know that you need to study many, many, many people. So now these big genome-wide association studies, big genetic studies involve hundreds of thousands of people. No one did an experiments like this. For epigenetics, it's much more complicated because you need to also take into account the environment and to, it's, I don't, I'm not even sure we know how to design such an experiment. 
+Oded Rechavi  
+01:04:32
+It's very, very challenging. Okay, so, so the part of the resistance resistant to the idea is based on to theoretical grounds. Because of these barriers and because of the, of the controversies, on the other hand, there's people really want to believe it. People really want to believe it because it sorts of gives your life meaning if you can change your bi biology through changing of, of your kids through changing your biology. So psychologically, I can understand why many people want this to happen. Even shredding, the famous physicist. So he wrote a, a very important book in 44. 
+Oded Rechavi  
+01:05:15
+So this was before the, the double helix and the, that's, it's called What is Life. This is actually a book that was drove many physicists to establish molecular biology. It's very, very important. And he talked about the heritable material. It also talks about evolution. And he said, unfortunately, Lamar or inheritance of acquired trait is untenable. It doesn't happen. And it, and it, you're rights. This is very, very sad or unfortunate because unlike galvanism or natural selection, which is gloomy, doesn't matter what you do, the next generation will be born based on the instruction in the, the sperm. It doesn't me, you can't influence it. Of course, you can give your kids money and education, but you can't biologically influence it. 
+Huberman  
+01:05:56
+You can also, one thing I'm fascinated by for a number of reasons is partner selection. I mean, in some ways, you know, we think, oh, we, we wanna find someone who is, you know, kind. That does seem to be, by the way, the primary feature, at least in the data tell us, we had David Buss on the podcast of how women, like men, that people are kind. There's also resource potential. There's also beauty or aesthetic attractiveness in males and females, et cetera. Male, male, female, female as the case may be. But in terms of reproduction, sperm, egg, male, female obviously. So we're selecting for a number of traits, but presumably subconsciously we are also selecting for a number of traits related to vigor. And in the, the idea that if we were to have offspring with somebody that those traits would be selected for. 
+Oded Rechavi  
+01:06:42
+Right? And we actually have a, a have work on that in nematodes that I'll be happy to tell you about in a second after we, we, 
+Huberman  
+01:06:48
+The dating in the dating, the 
+Oded Rechavi  
+01:06:50
+Dating in Warmths and, and, and where we understand the mechanism. And, and we'll go into that in a second, but or in a few minutes after we, we, we dive into the worms. But, but yes, the, the original calculations of how population genetics work to simplify things and to do the math. So it'll be easy. It was random meeting, of course it doesn't work like that. So it complicates things because we know, and there there's research per about potential capacity to somehow sense immune compatibility and things like this, which is, I don't know. I'm not an expert on that, but, 
+Huberman  
+01:07:24
+And neither am I, but my understanding is that of course, we're familiar with the other traits we select for like potential nurturing ability, whether or not someone is reliable predicts something about their nurturing ability and for offspring, potentially. I mean, you can draw lines between these things without any direct evidence, but, but they seem so logical, right? That somebody kind might also stick around or be honest in these kinds of things. That correct? That didn't make sense. But that one would be selecting for certain biological traits like immune function or some other form of robustness that we're not aware of is I think a fascinating, fascinating area of biology. Yeah, yeah. 
+Oded Rechavi  
+01:07:58
+Yeah. So, so this is where the, the, the, the work in mammals stand. However, there's also one additional thing to to mention, which is that on top of chemical modifications to the DNA and, and the proteins that condense the dna, which are called hiss, there are also other mechanisms that might transmit information including transmission between generations of rna. And there are different types of rna, not just the RNA that we mentioned before, the messenger rna, which includes for the information for making potent, but also other RNAs that regulate gene expression. 
+Oded Rechavi  
+01:08:39
+And this is, and I think that in recent years, also in the mammalian field RNA as the molecule that has the potential to transmit information between generation took center stage. So I think this is the cutting edge, a lot more to understand than no, but RNA has a lot of potential for doing that as we'll explain soon, but we have to go to worms 
+Inside Tracker (Ad)  
+01:09:03
+First, I'd like to just take a brief moment and thank one of our podcast sponsors, which is Inside Tracker. Inside Tracker is a personalized nutrition platform that analyzes data from your blood and d n a to help you better understand your body and help you reach your health goals. I've long been a believer in getting regular blood work done for the simple reason that blood work is the only way that you can monitor the markers such as hormone markers, lipids, metabolic factors, et cetera. The impact your immediate and long term health. One major challenge with blood work, however, is that most of the time it does not come back with any information about what to do in order to move the values for hormones, metabolic factors, lipids, et cetera, into the ranges that you want with inside Tracker. Changing those values becomes very straightforward because it has a personalized dashboard that you can use to address the nutrition-based, behavior-based, supplement based approaches that you can use in order to move those values into the ranges that are optimal for you. Your vitality and your longevity inside tracker now includes a measurement of apo lipoprotein B, so-called apo B in their ultimate plan. Apo B is a key marker of cardiovascular health, and therefore there's extreme value to knowing your apo B levels. If you'd like to try inside tracker, you can go to inside tracker.com/huberman to get 20% off any of inside tracker's plans. Again, that's inside tracker.com/huberman to get 20% off. 
+Oded Rechavi  
+01:10:21
+Thank you for that incredible overview of genetics and RNA and epigenetics and was essentially a survey of this very interesting and on the face of it, complex field, but you've simplified it a great deal for us in our transition to talking about worms. 
+Huberman  
+01:10:40
+I would like to plant a flag in the, in the Huberman Lab podcast and say that what we are about to discuss is the first time that anyone on this podcast has discussed so-called model organisms. I may have mentioned a fly paper here or there, or a study on honeybees and caffeine and flower preference at one point, but typically that's done in passing and we quickly rotate to humans. I know that many, if not most of our listeners are focused on humans and human biology and health, et cetera. But I cannot emphasize enough the importance of model organisms and the incredible degree to which they've informed us about human health, especially when it comes to very basic functions in cells. 
+Huberman  
+01:11:22
+Right? I mean, one could argue, okay, there, and there's been some debate telomeres in mice did that really lead to the same sort of data in humans? Okay. There are these, those cases certainly, but model organisms are absolutely critical and have been, and basically inform most of what we understand about human health. So before we start to go into the description about worms per se, could you just explain to a general audience what a model organism is, right? They're not modeling, they're not posing for photographs, obviously. What, what that means and what some of the general model organisms are and why you've selected or elected to work on a particular type of worm to study these fascinating topics that in there's zero question also take place in in humans at some level. 
+Oded Rechavi  
+01:12:10
+So it's, it's a, it's a real pleasure and an honor to represent the model organisms here. I'm really happy just for that. This is, it was worth it because as you said, model organisms are extremely important and we learn so much about, about biology through them. The, the model organisms mean that it's an, it's an organism that many people work on. So there's a community of people that work on, people work, study many types of organism, but not around every organisms a a huge community of researchers that com that combine sources to create all the, the resources and the tools and understanding that accumulates. There is just a handful of model organisms in the his, in the short history of the field of biology. 
+Oded Rechavi  
+01:12:55
+It's not so long. We learned about every aspect of biology through them, including many important diseases, human diseases. And these are e coli bacteria phage, which is a, a virus of bacteria flies, worms, they're called sea elegance. Nema, this is what we study in the lab fish, which are called zebo fish. It's 
+Huberman  
+01:13:23
+A particular is Danny Oio or something, 
+Oded Rechavi  
+01:13:25
+Right? Yeah. And, and of course there are also model organism, other and mouse and, and also plants, important plants. The most I studies one is the sis 
+Huberman  
+01:13:37
+Yeah. And perhaps less so nowadays, but non-human primates, meac monkeys, Marat squirrel monkeys 
+Oded Rechavi  
+01:13:43
+Mainly right. These, I, I don't know exactly how to definition this, but emerging model organisms. There are many of model organisms that are emerging, and there are communities that are formed, including also around thelen area that we mentioned before. This flatworm that regenerates is a great model for studying regenerations. If we could develop new heads, it would be incredible and we can learn from these organisms. And the reason that we can learn a lot also about humans by studying these animals is that we all evolve from the same system. So we shared, we shared, we shared a lot of our, our functions with them and also a lot of our genes, sea elegance. And, and they have the different model. Organisms have different advantages that serve us. 
+Oded Rechavi  
+01:14:27
+They, they sometimes have some things that are much more apparent in them that we can study. For example, learning and memory was largely studied in the beginning in a snail ecclesia where many of the discoveries were made because it has big noise ones that you can easily study and, and examine, 
+Huberman  
+01:14:46
+And yes, snails learn. 
+Oded Rechavi  
+01:14:48
+Yes, they learn, yeah, even sea elegance. These nematodes that we study learn, and they're much simpler than another important reason to send them, of course, is you can, you can actually experiment on them. We can't do this to humans, the things that we do to these animals. And we can change their genes, do all kinds of things for them. 
+Huberman  
+01:15:08
+And in some, sorry to interrupt, but in some cases think you're going to tell us, for instance, in Gans in particular, the wa the presence of particular cell types is so stereotyped that you can look at several different worms and you can, the, the community of people that study gans is literally numbered and named each neuron so that two laboratories on opposite sides of the world can publish papers on the same neuron knowing that it's the same neuron absolutely in the, in two different laboratories. Something that is extremely hard to do in any mammalian model, right? A mouse or certainly in humans. And has posed huge challenges that give great advantages to studies of things like cns. 
+Oded Rechavi  
+01:15:48
+Yeah. So cng, this is the star now of, of what, what, and, and this is what, what we study. These are nematodes, small worms, round worms that are just one millimeter long. So you can't see them with a naked eye. You have to look under the scope. 
+Huberman  
+01:16:03
+Where do they live in the, in the natural world. So 
+Oded Rechavi  
+01:16:06
+They, they used to call them soil nematodes, but this is not really true. They are, they are in many places, but they're mostly in, in rotten fruits and leaves. And you can find 'em in the ground as well, but you can also find them and, and they're free living, so they're not parasites, but you can sometimes also find them in snails. Okay. But, but the best way to isolate 'em is from rotten fruits. 
+Huberman  
+01:16:28
+Okay. Yeah. I like the idea that they're not parasites. I, I'm one of these people that gets a little squeamish about the notion of 
+Oded Rechavi  
+01:16:33
+Parasites. Yep. Yeah. So, so they're not parasites. They're really fun to handle because they're so small and easy. You just grow them on plates with egger and e coli bacteria. This is what they eat in the lab. You can just pick them with, with a small pick wire pick and move them around and change their, their genes and do many things for them. But, but they have many advantages for neuroscience and for studying inheritance, as you mentioned, they have always certain number of cells in the body. So seal against nematode always says 959 cells in its body. That's it. 
+Huberman  
+01:17:08
+Okay. Not 960, no, not 9 58. 
+Oded Rechavi  
+01:17:11
+9 59 59, okay. And out of which 302 are neurons, always 302. There's a huge debate now over Twitter on whether it's 300, two or 300. I, I mean, I don't wanna get into trouble, okay? But people take this very, very hard. I think it's 302, but we, let's not get into it because I'll get into 
+Huberman  
+01:17:32
+Trouble. Well, we can equilibrate all things here by you say 300, two. Granted, you're far more informed in this model organism than I am or ever will be. I'll say 300. And then we are balanced in terms of partisan politics in the sea elegance community. Perfect. 
+Oded Rechavi  
+01:17:46
+Right? So, so, so it's, and it's always the same. And each neuron has a name like you said. And we, we not only does every noon has a name, many of of them, we know what they do. So there's a, a few cells that are sensory neurons that sense particular chemicals in certain situations will know that a chemical will be sent just by one noon. Okay? There are the s and internals and all of that. We know how many dopamine neurons there are and serotonins, and we know them all by their name. Not only that, we know how they are connected to one another. We have a map, a connector since the eighties, like a subway map that tells us, which no one talks with which other neurons. 
+Oded Rechavi  
+01:18:28
+And it is the same. Okay? It was used to thi to people thought that it was exactly the same between genetically identical worms. Now we know that there are slight differences, but by and large it is the same. And we have a map, a roadmap that we can use to 
+Huberman  
+01:18:42
+Study the so-called connector, 
+Oded Rechavi  
+01:18:43
+The ConnectTo. Not only that the worms are transparent, so we can actually see the no one's fire using particular tools. And we can activate genes and solid genes using optogenetics like was discussing on the podcast. We can make the worms go forward or backward or lay an egg by shining different waves of length of, of light on them. And so we have very powerful tools for manipulating the brain. On top of that, we have great understanding of the genetics of the worm, of, of the genome. This is sance is the first animal to have its se its genome sequenced before humans for that, of course the were bacteria. 
+Oded Rechavi  
+01:19:29
+But, and, and we know that, and each worm produces, each mother produces about 250 babies, which are almost genetically identical. So we can, and, and we know what we g where we grow them, that the environment is very controlled. So we grown them in the plate. We just bacteria. So we can easily separate between nature and nature. 
+Huberman  
+01:19:52
+And, and one thing that I wonder about often is generation time. You know, even though mice are not humans, mice have certain advantages because they're mammalian species. You can't do all the magnificent things that you can do in sea elegans and mice. But one major issue with mice is that the generation time is somewhat long. Even pair two mice, they mate, you get a mouse or litter of mice 21 days later might seem like, okay, that's only 21 days or so. But if you are a graduate student or postdoc trying to do a project, I mean, that can extend the time to do experiments out three or four years compared to what you could do in Cel. 
+Oded Rechavi  
+01:20:29
+You're absolutely right. This is one of the major advantages. The generation time in Celicas is three days. Three days. So you can do hundreds of warm generations in one PhD. This is very important. Not only that every warm will produce hundreds of progeny. So you will have that are genetically identical. So you'll have great statistics for your 
+Huberman  
+01:20:47
+Experiments. And the worms probably don't mind living on these agar plates, you know, munching away on e coli where it's the good life, you know, it's questionable whether or not mice or certainly, listen, I I I'm a proponent of well-controlled over and as long as there's oversight animal research, it's necessary for the development of treatments of diseases that, that hinder humans. But it is always a little bit of, of a, of a kind of a, a cringe and go kind of thing when you're dealing with, with mammals that are living so far outside their natural environment. You know, I'd be lying if I didn't say that. It, it gets to you after a while and if it doesn't get to you, you kind of have to wonder about your own psyche a bit. Right? 
+Oded Rechavi  
+01:21:24
+I also think that this is important, but for me it's much easier to work on worms. I don't have to, you know, feel bad about 
+Huberman  
+01:21:32
+It. Yeah, they're happy. 
+Oded Rechavi  
+01:21:34
+They're happy. And you also, I mean, if, if a if a worm dies, it's la less painful to the human than if and other more sensitive animals. Yeah, 
+Huberman  
+01:21:44
+I I would argue Yes, I agree. Yeah. 
+Oded Rechavi  
+01:21:46
+So yes, there are, so there are many advantages for studying sea elegance and in the warm we now have very obvious and clear cut proof that there is inheritance of acquired traits. So much so that I don't think that anyone pretty much in the epigenetic field argues against it. 
+Huberman  
+01:22:08
+Well, and in large part thanks to you in the work you've done. So could you tell us what was the first experiment that you did on seal Agains that confirmed for you that there is inheritance of acquired traits? Because of course, the best experiments and experimenters always set out to disprove their hypothesis. And when the hypothesis survives, despite all the control experiments and poking and prodding and attempts to contradict oneself, then it's considered a victory. But it's one that you have to be, we all have to be very cautious about enjoying because of the tendency to want our, our hypothesis to be true. So what was the first experiment where you were convinced that inheritance of acquired traits is real? 
+Oded Rechavi  
+01:22:53
+The first experiment I did was when I, in my postdoc, which I did with Olive Ho, in University of Columbia, we set to test whether worms can produce transgenerational for long multiple generation resistance to viruses. 
+Huberman  
+01:23:12
+Oh wow. This is a very pertinent topic. 
+Oded Rechavi  
+01:23:14
+Yes. Which is relevant to you. And, and worms. These worms don't have dedicated immune cells like we do. They don't have T-cells or B-cell. They defend themselves from vis very efficiently using rna. So in fact, when we started these experiments, there wasn't any natural vials that was known to infect the elegance, which is amazing cause vis are very good as we all experience now in infecting. Okay. And the worms are resistant to vis because of molecules, short molecules that destroy vis. And these are called smallers. Now we need to discuss them. 
+Oded Rechavi  
+01:23:55
+Before I explained my experiment in 2006, two researchers that were studying sealants, andile and correct melo at the Noble prize for showing that there is a mechanism that regulate genes that happens for smallers. What they've shown is that if you inject the worms with RNA molecules with are, which are double stranded, they lead to the site to, to, they shut off the genes that correspond that that match in sequence to this rna. 
+Huberman  
+01:24:34
+So it's sort of like taking the specific instructions for the coffee table from your Ikea handbook, and you insert a copy of that into the book and in doing so, you prevent the expression of sort of erase the original page. 
+Oded Rechavi  
+01:24:50
+Perfect explanation. Perfect explanation. And for, for they found that double strand rna, RNA two strands is what starts the response leading to the production of small RNA molecules, which are the ones that actually find the messenger RNA and leads to its destruction, silence it so you don't get proteins in the, for that they got the Nobel Prize after people found that this is conserved in many organisms, including humans. And now there are now drugs. This was only in 2006 that the Nobel Prize, the paper was published in 98. There are now drugs that use this mechanism also in, in, in humans. 
+Huberman  
+01:25:27
+And I'll just interject and say that not only is it a recent discovery and an incredibly important one, but Andy Fyre and Craig, me are also really nice people. Yeah. They just happened to be very nice people. And Craig Mell is an excellent, I think he's a kite surfer when I, the only time I've met him in person was at a meeting in h a black eye and I thought, okay, wow. I guess he's also a pugilist or something. But turns out he had done that kite surfing. So scientists actually do things other than go to the laboratory Nobel prize winning scientist. That is Okay, I'll let you continue. Thanks for allowing that. 
+Oded Rechavi  
+01:26:01
+Yeah. Incredible scientist. And there were also studies in many organisms on the mechanisms of how this happens. It is called RNA interference. RNA interferes in the expression of a gene in the, in the function of a gene. And it's also also called gene silencing. Because these RNAs enforce the silencing of genes instead of the genes being expressed, they are silenced that, and you don't manifest the function. Okay? Already in this, the first paper that they published about this, where they've shown the double strand is what leads to the silencing or the control. They've shown two very important things. One of them is that if you inject the worms with double santa, you don't only see the action in the cell that you injected or in the tissue that you injected, but you see it all over the worm's body. 
+Oded Rechavi  
+01:26:52
+It spreads. It wasn't exactly clear what spreads, but it was clear that it spreads. You see the silencing all over the body. This includes also the germ cells. So if you inject the double egg just to somatic cells, even to the head, you will get also the effect in the germ cells and in the next generation. Okay. In the immediate progeny, the F1 generation, the, the kids. So this was really clear proof that this is inherited. However, this is just one generation, okay? In this original studies, later dub shown something, which will immediately remind you what I told you about with planar, that you can just take warmths and feed them on bacteria that produce this double and that the double sin and the silencing would move from the site of ingestion from the gut where the bacteria are eaten to the rest of the body and also to the next generation. 
+Oded Rechavi  
+01:27:55
+Okay, so before we left, when I mentioned this cannibalistic experiments of McConnel with thelen, and now you see that it can happen and, and this is not controversial at all. This is being done routinely every day by any sea biologist in the world. Okay? So this has been replicated a million times. Not only that, you can also feed planaria, these other worms with arna. You can just put it in chopped liver and let them eat it. And again, this will signages throughout the body. Okay? Wild. Okay. And this is what we do routinely. We always, when we want, we use this technique to see what genes do. If we want to see whether a particular gene is important for a certain behavior or a certain something, the way to study is to neutralize the gene activity. 
+Oded Rechavi  
+01:28:44
+And we do it by just introducing the worms with double standard that correspond in sequence, that match in sequence this gene, this will lead to the silencing, this activate the gene's activity. And then we, and if then the, the, the effect stops, we know this gene is, is involved in the, in the function, and we never wanna just examine one worm. So we feed the mother with <unk> and then we examine all of its children so we can have the statistics over hundreds of worms or thousands of worms. So this is validated and not controversial in Ireland. Totally routine. 
+Huberman  
+01:29:18
+Is it fair to say that McConnell's experiments have chopped, blending up these worms, very graphic image, blending up these worms and then feeding them to other worms plenary, that those experiments can yes, be explained by double stranded rna, which, and through RNA interference 
+Oded Rechavi  
+01:29:37
+Potentially hasn't been done yet. We are working on it in, in my lab now in collaboration with other labs. Fantastic. But it wasn't published, but yes, this, this could be the explanation. Okay, so, so fire and mellow did these experiments. Some other people did these experiments. When I started my work, I wanted to see whether in addition to artificial double strand, some natural traits can, can also transmit cost generations because of rna, because smaller, right? 
+Huberman  
+01:30:08
+Because injecting r n ai or in, in shorter interfering RNAs that is, or you know, putting worms into an environment with an abundance of inhibitory RNAs as an experiment is very different than worms experiencing something and then passing on that acquired trait to their offspring. And it's a world apart in my opinion. One is an extreme manipulation that illustrates an underlying principle. The other is something that in theory occurs in the passage of, of generations just naturally 
+Oded Rechavi  
+01:30:39
+We're going from the less artificial to the more artificial the, the advantages, just like with model organisms that the more artificial it is, the it is to you know exactly what you did, just now introduce one factor and you can follow the result. So this is always the trait. What I did was in Oliver's lab is to see whether the magic part of the magic for the worms resistance to vis is the capacity to transmit information in the form of RNA molecules inhibitor RNA molecules to the next generations. And it has been shown before in G that the worms resist vis be using this mechanism, this small ADEs, okay? 
+Oded Rechavi  
+01:31:20
+In fact, this is probably the reason that these small evolved in the first place to get rid of virus cells and other parasitic genomic elements. And this is a mechanism to fight them. And what I I did is a very simple experiment. I took worms and I infected them with a vials. When you do this, this also has been shown in the past, the worms destroy the vials, okay? We demonstrated this very clearly using a, a fluorescent virus. So when, if the, if the vials replicate successfully, the worms just turns green and if the virus is destroyed, the worm stays black. 
+Oded Rechavi  
+01:32:05
+Okay? This is very simple. It's a clear cutoff. It's not this, you don't examine the worm and ask whether it feels good. You just see this 
+Huberman  
+01:32:12
+Green light binary response. Yes. 
+Oded Rechavi  
+01:32:15
+Yeah. And so we, we took worms, we infect them with the fluorescent barrels, they destroyed. This also has been done in the past, but then what we did is we neutralized the machinery that makes smaller RNAs in the descendants of the worms. So they cannot make smaller nas from the start on their own because they just don't have the genes that you need to, to make these smaller. Okay? And then we ask when will, will, what will happen will we'll affect these worms with the vowels? Will they be green or black? They can't make their own smaller, so they can't protect themselves on their own. The only way for them to stay black for have them not having the vial subcate is if they inherit the smaller from the pen. 
+Oded Rechavi  
+01:33:02
+And this is exactly what happens. All the worms progeny, although they don't have the gene that is needed for making the smallers are black, they sign the vowels. And this also continues for additional generations. 
+Huberman  
+01:33:13
+Okay? So the, the parent worms effectively puts something into the genetic instructions of the offspring that would afford them this, let's call it an advantage in this case, right? But afford them an advantage if they were to be confronted with the same thing that the parents were, right? 
+Oded Rechavi  
+01:33:30
+And we know exactly what this advantage is, that the advantages are sh small RNAs that match the viral genome and just chop up the virus in the next generation. And we can identify these small RNAs in the, the inhibitor organism, in the descendants until they don't have the machinery to make it. Just because inherited, we can identify them by sequencing, by RNA sequencing, which is like DNA sequencing. You actually get the actual sequence of the RNA molecules and we can see that they correspond the vows and they have, they inherited smaller only if their, their parents were infected 
+Huberman  
+01:34:06
+With them. So there's specificity there. 
+Oded Rechavi  
+01:34:09
+There's 
+Huberman  
+01:34:09
+Specificity, yeah. It's not something just general resilience passage, right? I have to be careful in drawing an analogy that isn't correct. And I want to acknowledge that what I'm about to say with certainty cannot be entirely correct. But the, the analogy that comes to mind in mammals is this idea that if one generation is stressed, that their offspring may in some cases have a higher stress threshold, a resilience distress. I could imagine why that would be advantageous, right? Your parents have a hard life, they have offspring and they want their children to have a higher threshold distress because stress can inhibit reproduction, et cetera. And I always say, you know, at the, at the end of the day, and at the end of life, evolution is about the offspring, not about the parents. 
+Huberman  
+01:34:51
+And every species pretty much seems to want to make more of itself and protect ex young one way or another, either through nature or through nurture. This is a nature-based protection of young. Is it fair to say that in the mammalian experiment with a passage of stress resilience, that it could be r n a based, that that would be perhaps set some new threshold on glucocorticoid production. Here I'm speculating, but I, and I want to highlight that I'm speculating, but I'm speculating with a reason, which is, I think for people that are hearing about this in worms, you've done a beautiful job of slaying out why mono organisms are really important. But to think about how this may operate in, in our, in the passage of human generations, I think is a reasonable thing to entertain, 
+Oded Rechavi  
+01:35:32
+Right? And, and it it's true that also in memos, now RNAs and smaller RNAs are a lending candidate for something that could mediate the transmission of, of stress protection or also harmful effects that transmit between generations. Perhaps RNA do it. However, in worms, the RNAs have one more trick that we don't, we don't know the equivalent in memos yet. This is something very crucial that we showed in that particular paper, in the first 
+Huberman  
+01:36:03
+Paper, which is, 
+Oded Rechavi  
+01:36:05
+So the effect that I described, this transmission of resistance to viruses through these RNAs doesn't only affect the next generation. It also affect multiple additional generations. 
+Huberman  
+01:36:15
+So it gets passed, 
+Oded Rechavi  
+01:36:16
+It gets passed, and you have to ask yourself, how doesn't it get dilute? Why, why isn't it diluted? Right? Because I mean, everyone produces 250 babies, so you dilute by 250 and if something is diluted for four generations, so it's 250 times 250 after four generations, it's a dilution of four billions completely on myopathic would never work. Okay? Just there's nothing left. The secret of these worms is that they have a machinery for amplifying the smaller RNA in every generation, okay? This is called RNA dependent RNA polymers. It's a complex which uses the RNA to find, and, and once it finds the messenger, just create many, many, many, many small organs so they don't get diluted and they pass on for additional generations. 
+Oded Rechavi  
+01:37:08
+Okay? And this is the, the trick. We later also identify genes that regulate for how long an effect would last otherwise I in if, if in the beginning we ask why does, how doesn't it stop after one generation? Now we have to ask why doesn't it last forever? And it doesn't. Typically, we see that the responses last not only with the viral system, but also with other traits for a few generations free to five generations, we found genes that function as a sort of a clock that times the duration of the inheritance. 
+Huberman  
+01:37:41
+What, what sorts of genes are those? 
+Oded Rechavi  
+01:37:43
+So we call these genes, MoTeC genes, MoTeC, I don't know how is your Hebrew, but mox it means sweetheart in Hebrew, but the acronym is modified transgenerational, epigenetic kinetics. There there are different types of genes like that. And for some of them, if you mutate, if you disrupt their function now, now the effect would transmit stably for hundreds of generations. It would never stop because their role is to stop the inheritance from going from, from just, you don't wanna carry over something forever, otherwise you will, it'll no longer fit the environment of the parents and you'll be prepared for the wrong things. So this is important. 
+Oded Rechavi  
+01:38:23
+There are, what type of genes are they? One gene that we studied, it's called met two. It's actually a gene that functions in methylation of the, of the protein that condenses the dna. So this is, and there are, but when there are other genes that affect also production of smallers, 
+Huberman  
+01:38:41
+Is there some mechanism that controls the duration of passage in a way that logically links up with the lifespan of the organism? So for instance, I knew my grandparents met them. I did not ever meet my great-grandparents and I certainly didn't meet my great-great-grandparents. I could imagine that my great-great-grandparents or my great-grandparents experienced certain things that were passed into their children and, and perhaps into their children. But it seems reasonable given that humans live somewhere between zero and a hundred years. Typically. What now? 80 years. Is that the typical lifespan? 
+Huberman  
+01:39:21
+More or less? Okay. That the, if I were gonna design the system, and again, I was not consulted the design phase, I would want an adaptive trait to be passed for two generations. Because given the way that our, given how long our species lives, and certainly given the way the world looks now as opposed to the turn of the previous century or the turn of the previous century, different stressors, different adapt, you know, different life environments, and what I would want to pass on to my offspring, I can basically hedge pretty well, I can place a good bet on the next a hundred years, maybe the next 200. But I don't have the foggiest clue what the world is gonna look like in 300 years. 
+Huberman  
+01:40:02
+Is is what I'm saying, make any sense whatsoever. 
+Oded Rechavi  
+01:40:04
+It makes a lot of, and really it, we need to, to talk about two things in response to this question. First of all, yes, you can imagine that the reason that the worms in herz typically for three to five generations is that this is relevant to something that happened in environments. For example, we also show that when you start the worms, it affects the next generations again for a few generations, 
+Huberman  
+01:40:29
+Which itself is amazing, right? I just like wanna highlight that, that, I mean, you can imagine next generation, it's sort of like a genetic version of be careful kids, but I'm gonna give you this extra lunch pack in your genome that protects you against the possibility of starvation. But it's also saying, and we're you to have kids, right? So they have it also. 
+Oded Rechavi  
+01:40:46
+Yeah. So I have to, but just, I have to just make a disclaimer that we not don't know that necessarily it's adaptive could also be damaged. As I said, when you start them, the next generations live longer, but this could be a trade off of a trade off for fertility or something. So other labs also have also shown following our work that if you star the worms, the next generations are also more resistant to how shelf starvation this sounds. This is not our work, but this sounds adaptive. Okay? But when, whenever you're talking about the adaptation, you have to see it in the context of evolution. There's also this famous saying, nothing in biology makes sense except in the light of evolution. And so it's, it's very hard to say without doing the lab evolution experiments, we actually see who wins the ones that inherit or the ones that don't hit who takes over. 
+Oded Rechavi  
+01:41:31
+Otherwise, it's, it's hard to talk about whether it's adaptive or not. But when it comes to the duration of the response, yes, it could be programmed to fit something. For example, if you're talking about starvation warms transition between periods of starvation and trans periods where they have a lot of food. So let's say they sign an apple for a few generations, they will consume the apple and then they will be starved for a while. Perhaps this is the number of generations that takes them to finish an effort. Or perhaps there are other responses also to higher temperatures. If you grow warms in higher temperatures, the offerings are different. They change how they mate is what I'm I alluded to before. We're 
+Huberman  
+01:42:10
+Gonna get back to this because it relates to cold exposure, which many 
+Oded Rechavi  
+01:42:13
+Listeners are interested and perhaps it is somehow correlated with the cycle of the year. Okay? But to tell you the truth, I don't know. As I said, we, we, we go from the more artificial to the less artificial. If double standard synthetic RNA is the most, artificial starvation is more, more natural. But it's not starvation in real, the real context of the world in a real apple, it's a plate with or without e coli bacteria, but it's not an apple on a tree exposed to the elements with other worms, with bacteria, with all kinds of complications. And it could be that we will see different durations of heritable effects, the more natural we go. 
+Oded Rechavi  
+01:42:56
+It's just much less controllable and hard to do. And again, when, when we're talking about humans, part of the argument why people were the disbelievers, it's not about faith. You know, the critics say that this wouldn't happen in humans is they say, you know, the, the warmth generation time is just free days. The chances that the parent's environment will match the children's environment is very high because there, there's not a lot of time to, for, for the environment to change it. Plus they can't go very far small. There are many examples of epigenetic inheritance in plants. This is a big field where the very established proof for inheritance of acquired trait for, for epigenetic inhaler be more careful. 
+Oded Rechavi  
+01:43:41
+Epigenetic inheritance of qurate is more loaded, 10, but implant it also happens. And there you also say, these are cile organisms, they can't run away. So the environment is more 
+Huberman  
+01:43:50
+Constant. The ideas, maybe just a quick example that I've heard before. Tell me if I'm wrong. I very well maybe for instance, a a particular species or plant that grows a, a straight, maybe slightly blended stalk might be exposed to some environment where in order to capture enough sunlight and other, other nutrients might need to grow in a cork screw form. The cork screw form can be inherited several generations. First, 
+Oded Rechavi  
+01:44:13
+This is an example that I don't know, but perhaps it 
+Huberman  
+01:44:16
+Something like that. I seem to, someone will tell, trust me, the one thing we know about podcasting and YouTube is someone will tell us in the comments. So, and please do we invite that, right? 
+Oded Rechavi  
+01:44:24
+But there's a long history of epigenetic inheritance studies in plants with excellent studies, well controlled showing that it happens also there. So this is very clear when it comes to humans. You could say maybe my kids will go off to live in a different continent and they will be on the computer every day and everything will be different. So it makes less sense to prepare them for the same hardships that I experienced. However, this, in my opinion, this is, this argument comes a lot. It's not the best ex argument because it depends on the scale of, of how you look at things we experience, we we meet, for example. I'm not saying that this is inherited, but in humans, but we experience the same pathogens in the same viruses all the time. 
+Oded Rechavi  
+01:45:08
+So perhaps it is worth preparing for them, right? Again, I'm not saying that that it happens, but, but it depends on the, on the, on the scale. 
+Huberman  
+01:45:15
+Well, what you're describing makes perfect sense and I do want to acknowledge these critics, whoever they may be. I do have the advantage that I don't work in this exact field. And so I'm, I'm happy to stand on toe to toe with those critics now and say that at least in terms of, in inheritance of reactions or adaptive or maladaptive traits to stress or to reward. You talked about nicotine before, you know, a passage of response to drugs of different kinds, not being specific to nicotine. It was sort of a more general passage of, of some sort of information related to reactions to chemicals present in nicotine. But other, other drugs, I have long been irritated and a little bit tickled by the fact that people say, oh, you know, we have this system for stress that was really designed to keep us, you know, safe from lions and sabertooth tigers. 
+Huberman  
+01:46:06
+Sure. But the hallmark of the stress system is that it generalizes. I mean, if I get a troubling text message or if I suddenly see a dark figure in the, in the hallway when I go to the bathroom at night, that I don't recognize both of those have the same generic response, which is the deployment of adrenaline in both brain and body. You know, changes in the optics of the eyes, quickening of the heart rate, stress is by design generic. And so one could imagine that a passage of, of some sort of stress resilience or a maladaptive passage to stress would be also somewhat generic. And that's actually advantageous overall. Same thing with the reward system. You know, we ha essentially have one or two chemical systems of reward. 
+Huberman  
+01:46:47
+I mean, there's the opioid system and there's a cannabinoid system, but in large part, anticipation and reward is governed by the dopamine circuits. And anticipation and reward of an ice cream cone for a kid is the same neural circuitry that's going to be repurposed when they get to reproductive age. And they are anticipating creating children with their mate. And assuming they want to do that, the dopaminergic system's gonna be engaged. So ice cream, sex, you know, stress to weather, stress to famine. The, the biology of of these more modal systems and especially in the nervous system are, again, I have to be careful with the words by design are certainly generic. And so I don't see the need for, so for immense specificity, I mean, it's not like we're well covid just happened. 
+Huberman  
+01:47:32
+So could you imagine that there's the passage of a, a covid 19 specific resilience? No, I think what would probably be passed along would be some sort of, if it does occur, would be some sort of resilience to viruses more generally. And that would be advantageous, right? 
+Oded Rechavi  
+01:47:46
+So I, I agree. And this, this opens the question of what is the bandwidth of inheritance? How specific can it be? Does it make sense for it to be specific? And in the case of sea elegance, the response can be very specific. Flu is inheritance of rna, which are just sequence specific. They don't regulate the, the, the control one particular gene. Okay? With other cases it could be a very general response. And, and and, and it's very interesting to think about it when we talk about inheritance of memories, which is the most interesting thing we could imagine, can brain activity of some sort transmit, at least in these words. 
+Oded Rechavi  
+01:48:26
+I said Noah, I I said this disclaimer multiple times in, in, in members. We don't know, times will tell in worms, we, we know a lot. So can worms transmit brain activity to, to do they have the specificity to do it. Okay, before I'll say that I just say that we over the years learned a lot about the mechanisms that shuttle the RNAs between generations. We know about genes that are needed just for that, about worms will be perfectly okay, but just don't have the capacity to transfer the RNA to the next generations. We know about genes that will make the responses longer or shorter. We know about genes that prevent the transfer of RNA between different tissues, about genes that make certain smallers. 
+Oded Rechavi  
+01:49:10
+So we know a lot about that. And then the question arises, we can, we can finally ask, can memory transfer between generation? I think that first of all, we need to define memory for that. And the broadest definition would be any change in your behavior because of what happened in the past or in your response because what happened in the past or because of your history. The more interesting part, of course is to talk about memories that are encoded in the brain. And the reason is that the brain is capable of holding much more specific and elaborate memories. Then I think that any tissues that transmit transfer to transmit RNA to the the next generation and affect the next generation is interesting. 
+Oded Rechavi  
+01:49:50
+The guts muscles, everything, but the brain can synthesize information about the environment and about internal state and can also think ahead. And the most provocative thing you can say is that you could plan how somehow the fate of your, of your nation using your brain, you know, after taking many things into the co, this is 
+Huberman  
+01:50:11
+Without talking to them, 
+Oded Rechavi  
+01:50:12
+Right? Without talking, 
+Huberman  
+01:50:13
+Right. And instruction. So it's, again, we go back to this instruction manual. It's like writing something into the instruction manual based on your own experience, right? 
+Oded Rechavi  
+01:50:20
+And, and can it happen? Okay? And what is the bandwidth? Can we transfer specific things? And, and then I have to agree with you that I would imagine that what can transfer, and I could be wrong, is a general something sensitivity. Okay? You can make the analogy to being inflamed or not hypersensitive to pathogens, hyper vigil, something like this. Okay? But it can also be something very specific. Now we have to, we have to understand that the brain uses a different language than the language of inheritance the brain. The way we normally think about the brain is that it keeps information in signups in the connections between different no ones. 
+Oded Rechavi  
+01:51:09
+When you learn something, you make, you make some connections stronger and some con other connections weaker, and you wire the nervous system in a different way. The information in the brain is synoptic and it is in the connections. On the other hand, heritable information of any sort has to go through a battle neck of one cell, the fertilized egg, because we all start from just one cell. So it cannot be in the connections because this cell doesn't have any connections with other cell there alone. So it, so heritable information has to be molecular, it has to be inside this one cell. So the question is can you or do you translate information, this free structure information of sign upstairs and the connection between brains in the architecture of the brain, can you somehow translate it to heritable information to a molecular form? 
+Huberman  
+01:51:59
+It's an incredibly important and deep question. It brings to mind something that was once told to me, which as soon as I heard it was obvious, but was very important in formulating my understanding of biology, which is that a map is just the transformation of one set of points into another set of points, right? So a map of, of the world essentially is just, you take the, what's been drawn out in terms of the architecture and the, the coastlines, et cetera, and divisions between states. And you transfer that to an electronic map or a piece of paper seems so obvious as sort of a duh why are we talking about this? But just to make sure that people understand what you're really talking about is, let's say the memory. And I have a very distinct memory for my childhood. 
+Huberman  
+01:52:41
+Phone number. Phone number doesn't exist anymore and I, I won't give it out because then some other person might get you retired with repeated calls. But in any case, I remember it, it's totally useless information, but it lives in my neocortex or my hippocampus or somewhere as a series of connections between neurons at the locations as you call synapses. Would my grandchildren know that phone number? There's no reason. Absolutely no, no. Right? Would my children know that unless there was some adaptive reason or some other reason for them to know. And the, and this passage of, of acquired traits, and what you're saying is in order for that to happen, there has to be a transformation of the neural circuit, literally the wiring of neuron A, B, C, D that relates to and carries the information of that number into the kind of nucleotide sequences that are contained in DNA or patterns of methylation or r n a more likely. 
+Huberman  
+01:53:33
+So it's the transformation of one set of points in physical space to a translation of points in genetic space, right? Does that make 
+Oded Rechavi  
+01:53:40
+Right? And then we have many problems when, first of all, we don't know of a mechanism to translate between the two different languages, the language of the brain and the language of inheritance. We are not familiar with the mechanism like that. Second, the next generation, if it's not a warm, if it's a mam, would have a different brain, even if it's, if it, even if it was genetically identical to the parent, the the wiring of the brain and the particular neuro circuits will be different. This is true for twins. It'll always be true because it depends, because it's partly random and it depends on the environment. Even if you have the same genetic instructions. So let's say you somehow had the mechanism, miracle mechanism to take the 3D information and to the magic, to the language of inheritance, you would then in the next generation have to translate it again to the brain. 
+Oded Rechavi  
+01:54:33
+Although it is different. This sounds very unlikely. Okay. I I'm playing a trick on you now. Okay. Cause I believe it. 
+Huberman  
+01:54:41
+Okay, but I'm easy to trick, so 
+Oded Rechavi  
+01:54:43
+That's 
+Huberman  
+01:54:43
+Good. 
+Oded Rechavi  
+01:54:44
+But, but, but, but if, if this is how it happened or if this was required, it could never happen in my opinion, which means, and I still think that there are certain memories that cannot transfer transgeneration and this complex and things that you learn about the environment are arbitrary. If you, if none of our listeners kids will remember this conversation, no way. This is impossible. 
+Huberman  
+01:55:07
+Unless they're listening with them. There are some families or parents that tell me 
+Oded Rechavi  
+01:55:10
+They listen, but, but, but it cannot transmit because it's, it's random and it's, these are connections that are arbitrary. So this seems to be a limitation of what can transfer on the other hand. So, so perhaps more general things could pass some, these, these type of things I doubt take place. However, you can nevertheless imagine that some things that are very specific, some memories that are very, very specific could nevertheless transmit from the brain after learning to the next generation. I'll give you an example. You can teach worms, even although they have just 300, two neurons, you can teach them simple things about the world. For example, you can take an o that their worms, like the worms have thousands of auto receptors and they can recognize many, many, many molecules. 
+Oded Rechavi  
+01:55:57
+They can smell them so they can find food or avoid enemies. You can take a food that the worms, an order that the worms like and per it to something bad like starvation. And then the worms will learn to dislike this auto. We don't know that this learning involves necessarily changing in the strength of signup says it's a possibility, but it doesn't have to be the case. It could be the, just the receptor for this particular auto is being removed when they, and this is how they live now. They won't have the receptor, they won't smell, they won't like the auto. This is a possibility, this type of thing. You can perhaps not that anyone has showed it convincingly transmit to the next generation because all it would take is an irony with will control this particular receptor. 
+Oded Rechavi  
+01:56:46
+Okay? So this is a possible, people have shown things like that, not in sea elegance, but people have shown things like this in mammals. They said that you learn certain thing and then just in next generation, that's a particular receptor would be methylated or would change. And this will transmit the response. And on the one hand, it could be true. On the other hand, you need to understand, they need to prove, and this wasn't done convincingly enough yet how exactly does the information transfer from the brain to the germ cells and then in the next generation, from the germ cells back to the brain to where the receptor receptor need to operate. 
+Oded Rechavi  
+01:57:27
+And this is a challenge. This is the current state of, of the field that this is something that needs to be proven. What we did in sea elegance is we showed that certain that the brain can communicate with the next generations using smallers and the disc can change behavior. And it doesn't require any translating between any language. It's very simple. What we've shown is that if you take a one and you change the production of smallers just in its brain in the next generations, their behavior will be different even though you don't mess with their brains. This is a paper that we published in 2000 and in 19 in in sale we show that you just manipulate the production of endogenous, natural RNAs in the worms brain that are always made. 
+Oded Rechavi  
+01:58:14
+But you, you change the amount and this changes the capacity of the worms in the next generation to find food, to find not only in one generation, but free generations down the road. And the way that it works is that perturbing, the production of these smaller in the brain affects in the end the expression of a gene in the germline one gene. It is called sage two, don't know how it works, but we can do all kinds of controls where we manipulate activity of the gene. Inci also affect behavior. And this gene works in the jump cells. The information needs to go from the brain to the jump cells. It doesn't need to go back from the jump cells to the brain to affect behavior. 
+Oded Rechavi  
+01:58:57
+And this depends. We know that this is a two epigenetic effect because it goes on for multiple generations. And also because it requires the machinery that transfers RNA between generations. If you don't have the protein that physically carries the RNA between generation doesn't happen. 
+Huberman  
+01:59:12
+So it has to be rna, it 
+Oded Rechavi  
+01:59:14
+Has to be RNA 
+Huberman  
+01:59:16
+And, 
+Oded Rechavi  
+01:59:16
+And no, we can actually, we can also find the RNAs in the next generation. The change we sequence the actual es the change in next generation. 
+Huberman  
+01:59:24
+You mentioned that you don't know what sage this gene sage does, but is it reasonable to assume that it does something in the context of the nervous system or that's unclear as 
+Oded Rechavi  
+01:59:33
+Well? It is possible. It is possible, but we have reasons to believe or experiments to to show, although there could be alternative explanations that it functions for the germline. Now, you may ask how can you affect behavior just by changing the germ cells, 
+Huberman  
+01:59:50
+Right? Well, it would have to change the germ cells in very specific ways because as people probably recall, the germline, the germ cells are where the inheritable information is contained. But you can imagine, for instance, adjusting the gain or sensitivity rather on some sort of sensory foraging system, right? Right. 
+Oded Rechavi  
+02:00:14
+And and the the, the interesting thing is it again can be quite unspecific. So it sounds weird that you change gem cells and it changes behavior sperm, but if you think about it, it's trivial. If you castrate a dog, it behaves differently, right? 
+Huberman  
+02:00:30
+Sadly. Yeah, I did that to my dog and I ended up putting him on testosterone therapy later and it brought him back. Yes. Just as a, as a aside, as an aside, yes. 
+Oded Rechavi  
+02:00:38
+This is because the germ cells affect the soma, including the brain in many ways by secreting certain chemicals. And also because the, the other cells develop developed from the, from the germ cells. So some information could be transmitted over development, or the course of development could be altered because of changes that are occurring in the germ cells. And for example, in mammals, one of the explanations for how heritable information transmits is that it just affects something very on in development. I, I I told you that the secret to worms inheritance is that they have the capacity to amplify these smaller arrays all the time. This is what keeps it going and prevents the dilution in MAMs. 
+Oded Rechavi  
+02:01:21
+We don't know of such an amplification mechanism. So you ask how can a little bit of RNA or something without amplifying affect the entire organism? And it could be that you just perturb something in the very beginning when you just have a few cells, or even if the, in the placenta that develops in pregnancy and this letters throws everything off. And because of the US you have many problems with metabolism and so on. And this is called the, the, it's, it's an idea of the develop developmental origin of health and disease. Many of the, of the functions occur early on in development. 
+Huberman  
+02:01:55
+So you raised a number of incredibly fascinating aspects of this. I, I do have a question about one particular aspect, and feel free to pass on this for a future episode if it's gonna take us too far off track. But something you said it really captured my attention, although I was listening to all of it, which is that the germ cells, so in the case of males, it's gonna be sperm, and in the case of females is gonna be eggs. Something perhaps not coincidental about those cells and the environment that they live in is that yes, they contain the genetic information of pasta offspring, right? Of course you explain how that works, but also it's a, it, it, those cells live in a region that is rich with hormones that can be secreted and in fact are secreted and through so-called endocrine signaling, communicate with other cells, not just at the level of receptors on their surface, but also can enter the genomes of those cells and modify those cells. 
+Huberman  
+02:02:50
+In other words, it seems to me that the microenvironment of the germ cells, the testes and the ovaries are rich with information not just for the passage to next generations, but also for all the, as you said, all the somatic cells of the body. They're telling the somatic cells of the body what to do and what to become. And the best example I can think about this would be puberty, right? I mean, I would argue that the, that one of the greatest rates of aging and d and transitions we go through in life is from puberty. I mean, a child becomes a very different person after puberty. They look at the world differently. They think about it differently. The growth of, it's not just about the growth of the hair and the jaw and the atoms, apple and breasts and so on. It's a transformation of the somatic cells from the same microenvironment that the DNA containing cells reside, right? 
+Oded Rechavi  
+02:03:37
+So once you think about it like this, it becomes obvious that just by affecting the germ cells, you can affect the rest of the body. And in sealants there are experiments show it very clearly. So for example, if you take, just take warms and prevent sperm production, it changes the capacity to smell. These are experiments done by others, which is obviously a drain function. 
+Huberman  
+02:04:00
+And in a castrated dog, you're not just eliminating the, the possibility of transfer of DNA n information to subsequent generations. You're also limiting communication of, yeah. Oh, without question, my bulldog Castella changed after castration and was a wonderful dog, but at some point developed some health issues. The introduction of a small amount of testosterone every other day changed him fundamentally in that case for the better back to a version of himself that I had only observed earlier, but also a different version of the same dog. I know he wasn't humping everything. Maybe the occasional knee particular people who I, his names I won't mention, but it was absolutely clear that the hormone was not just taking a system and amplifying it, it was actually modifying the system. 
+Huberman  
+02:04:43
+So anyway, I just wanted to highlight that and then now thank you for indulging me. Let's, if you will, let's continue down this path of that we were going on, because I wanna make sure that we absolutely get to this issue of transmission, of information about sex, choice of offspring. 
+Oded Rechavi  
+02:04:59
+So the worms are her maite, which means that they make both sperm and, and eggs. But there are also males which are much more rare, and they can choose to meet with the males or not when they made with the male. It's a huge decision because it's very costly energetically. And they also risk predation in all kinds of troubles. The males hurt them and reduce their lives. Men when they met with them. 
+Huberman  
+02:05:25
+People are gonna draw all sorts of analogies here, but it's inevitable. But hey, here we go. So, and, 
+Oded Rechavi  
+02:05:31
+And most importantly for evolution, when you mate with another animal, you dilute your genome in half. Cause the worms can just self fertilize and transmit the exact same genome to the next generation. But when they mate, they dilute it in half. So this is a big price to pay. On the other hand, when you mate, you diversify your genome. So maybe some combination of genome will 
+Huberman  
+02:05:53
+Be good. And we know that in humans, I mean, you know, it's kind of interesting that the brain circuits that are associated with a, with a version and with approach are fairly hardwired for a number of things like puddle of vomit, almost everybody kind of cringes plate of cookies. If you like cookies, you move towards it. But there's one particular word in the English, and particularly the Israeli language, that that ought to evoke disgust. And that's incest. Because incest is actually not just disgusting as a practice, but it's dangerous genetically, right? Because of the inbreeding creates a deleterious mutation, 
+Oded Rechavi  
+02:06:26
+Right? So there are studies on how people in Israeli kibbutz, for example, where they all grow together, the children live together. It used to be like that don't date each other. Okay? This is their classic thing. I talk to some of whom, the kibbutz, they told me that's not true. But, but yes, that there are studies like this, let's say, but it makes sense. 
+Huberman  
+02:06:41
+And in some countries, Scandinavian countries or in a lapland and isolate where populations are small, they keep exquisite records of lineage in order to avoid inbreeding, right? 
+Oded Rechavi  
+02:06:50
+Yeah. Right. So you are absolutely right. But the worms, it's the safe choice for them is to self-made. And, and if they met with a male, they take a risk, but they diversify. Okay? What, what we found is that if you take the herma, the the, we can call it the, the female for just one second and you stress it with high temperatures, then the next generations of worms for free generations meet much more with males. And they do it because the female starts secreting a, the that attracts the males. 
+Huberman  
+02:07:26
+Ah, okay. It's very cryptic mechanism. It's not that she somehow changes and then goes seeking males. It's that it draws males in, 
+Oded Rechavi  
+02:07:33
+It draws men. Oh. And we know how it works. We think we know, know how it works. What happens is that the stress, the high temperatures compromise the production of sperm in the herma. So the hermaphrodite don't, they make sperm enough to, to make next generations, but the sperm because of defective smaller inheritance, cause RNAs are not inherited. Okay? The sperm is not made optimally. So they make less sperm. And when they don't make a lot of sperm, they feel that they don't sell fertilized correctly. So they call the males by secreting the pheromones so that it would provide its own sperm and they can continue to make babies. Okay? And we know this also from experiments. You just take a maite and you kill it. 
+Oded Rechavi  
+02:08:13
+Sperm starting pheromone and the the males come. 
+Huberman  
+02:08:16
+It's a need-based 
+Oded Rechavi  
+02:08:17
+System. Exactly, exactly. 
+Huberman  
+02:08:19
+Incredible. And I, I hope people can appreciate as they're hearing this, that none of this, we assume I have not, I don't know how to speak worm. None of this we assume is a conscious decision in these animals. They much like hu human mating behavior, which to us always seems so conscious, but is being governed by both conscious and subconscious decision making. None of this is an active decision to secrete the hormone to draw in more males. It's simply a biasing of probabilities, right? The hormone is now secreted in, in greater quantities or more fr greater frequency. The males therefore approach more. So it's just increasing probability of interactions. Is that right? 
+Oded Rechavi  
+02:08:56
+Right. What happens naturally, normally if you don't stress the, the ancestors is that the worm starts secreting the, the only when they're old. This also know people will, 
+Huberman  
+02:09:06
+When they're running, they're running out of, of their own fertility. 
+Oded Rechavi  
+02:09:09
+Exactly. Because they only make the sperm at a particular time, and then they run out of steal stem, they can sell fertilize. So they have to call the males if they wanna continue to meet. 
+Huberman  
+02:09:18
+Well, this is sort of the plastic surgery approach. Okay, I'll take the heat for that one. But, you know, but it's true, I think as, as certain people age to a certain point and they feel that their fertility is waning, if they want offspring, they need to take any number of different approaches. They could get a, here we're talking about a female, but we could also do the reverse, right? We d sperm donor, right? Or, but if they want to attract a lifelong maid or co-parent with somebody, oftentimes they will do things to adjust their attractiveness in any number of different ways, psychological attractiveness or physical attractiveness. I'm not afraid to bring this up because I think that the parallels are very important because I do think that every species and individuals within a species of course, decides whether or not they want to reproduce or not, but has an inherent understanding, conscious or subconscious about where they reside in the arc of their lifespan. 
+Huberman  
+02:10:07
+I do believe that. Not just based on experience. Some people are very attuned to the, the passage of time being very fast, others very slow. I think that knowing how long your parents and their parents lived makes a big difference. I have friends whose fathers in particular died fairly young, and then all these guys basically got married and had kids really young, right? 
+Oded Rechavi  
+02:10:27
+So here, the, the luckily for me, I don't have to get into psychology of the worms, the explanation is just like an instinct when they run out of sperm, they start the monts and attract the males. There are studies also in humans about older fathers that children of older fathers have more, has a higher chance of, have of becoming autistic. There 
+Huberman  
+02:10:48
+Are studies 40 and up basically. 
+Oded Rechavi  
+02:10:49
+Yeah. However, in this case, it's not clear that this is not, that this is something epigenetics could be just because of DNA damage, you know, because it accumulates 
+Huberman  
+02:10:58
+Or, and actually nowadays there we have an episode on fertility coming up both male and female fertility. And there's, they're actually DNA fragmentation kits for at home dna n fragmentation kits are sperm analysis. You send the sperm back in, you don't do the DNA people pipe pipetting semen at home wouldn't be an odd picture, let's not go there. But the, but there are clinics that do this for a, for a nominal charge. But the, but it's, I did want to ask about autism and human disease in particular. Another thing that you hear sometimes, and here I want to acknowledge autism is on a spectrum. Some people get upset if you call it a disorder. There are some adaptive autistic traits and et cetera. But one thing that often comes up is this idea that two people who are more of the kind of engineering hard science, if you will, of phenotype mate and have children, higher probability of the offspring being on the spectrum. 
+Huberman  
+02:11:50
+Some people would argue, ah, but that's already selecting for people that might have already been partially on the spectrum. So maybe it's a gene copy issue. I'm not asking you to comment on autism in particular, but when you hear things like that, that the children of older fathers born from older fathers tend higher probability of, of autism. What does that, at, at the level of intuition, does that strike you as an epigenetic phenomenon, as a nature nurture mishmash, or the possibility that it's RNA passage or anything? Does anything sort of trigger the whiskers? Your, your, your, your spidey sense? 
+Oded Rechavi  
+02:12:25
+So in that case, I would go with the most palsy explanation, which is it just less fidelity or of dna, less DNA maintenance and some damage that passes on. It doesn't have to be an epigenetic thing, 
+Huberman  
+02:12:39
+But the sperm are generated at once every 60 days. So the damage must be at the level of the germ cells not having the proper machinery, right. Mitochondria or something like that. 
+Oded Rechavi  
+02:12:48
+Or, or the DNA repair machinery. The DNA repair machinery could be defective or, or could work less well in older, the people leading to the constant production of germ cells with more mutation. This is a 
+Huberman  
+02:13:01
+Possibility. Do we know exactly what the DNA repair machinery is? Yes. 
+Oded Rechavi  
+02:13:05
+There are many types of DNA repair there. There's one that use other copies of the DNA to, to to correct. There are, there are ones that just recognize all kind of lesions on the DNA and, and remove it. That it, it's a very elaborate and complicated system. 
+Huberman  
+02:13:24
+And is it a system that is now tractable that can be modified through pharmacology or through anything like that? 
+Oded Rechavi  
+02:13:30
+So I dunno about drugs that correct. That improve it. Maybe they exist and I'm not aware, but it's very well understood and many people are studying these 
+Huberman  
+02:13:40
+Directions. Yeah. One thing that came across in the exploration of the fertility work is that what I'm about to describe is not legal in the us it is illegal, but is legal in the UK and in other countries is this notion of three parent ivf where it does seem that some of the eggs that persist in older females don't, even if fertilized don't produce healthy embryos, they have chromosomal abnormalities or replications and, and deletions that are problematic for the development of the embryo, such as trisomy 21, AK down syndrome in part or in large part because of deficits in the mitochondrial genome. So what they now do is they take the, because the mitochondrial genome re resides mainly in the cytoplasm. 
+Huberman  
+02:14:25
+They'll take the, an egg from the, the mother, the sperm from the father, but they'll take the nucleus from the mother and put that into a cytoplasm of a younger woman whose mitochondrial DNA n is healthy, then used a sperm to fertilize that egg. And then a, and that's why it's called three parent ivf, then implant that into the mother. And this has been done several times for in cases of mitochondrial damage or, or mutations in the, in the mother. It works. The question is whether or not those offspring will grow up to be healthy. So this of course is not just a pure divergence. It raises a bigger question that I have for you, which is in terms of the work in either sea elegans or in other model organisms, but in particular in sea elegans, where do you see this going next? 
+Huberman  
+02:15:10
+And in, if you would indulge us, I would love for you to tell us a little bit about the admittedly unpublished work that you're doing on temperature exposure and environments. I mean, how malleable is this system? Because to me it just seems incredibly malleable and yet it, a lot of it's still cloaked off to us. There's still a ton to learn. 
+Oded Rechavi  
+02:15:31
+So assuming that we will discover similar things in, in humans, which we don't know that this is the case, but let's say we, we find it, I think there are many things you can do before you change it. For example, you could, you could also change it, change a parent inheritance by having the, the parent exercise, for example. Some things like this have been done. For example, there are experiments in, in rodents where they show that overfilling the, the, the rodents creates problems for the next generations, for the, for the children. However, if you let the, the rodent exercise, then it corrects the parent inherit. 
+Oded Rechavi  
+02:16:11
+So this is one possibility and you can also manipulate it at, at the sauce. You can change if it's RNAs, let's say you could, in the future, perhaps if we understand how it works, actually change the composition of the heritable RNAs 
+Huberman  
+02:16:25
+By eating RNAs. Just like the worms RNA sandwich. No. 
+Oded Rechavi  
+02:16:28
+So the RNA sandwich sandwich will be difficult because it's not, I don't know. But, but you could, if you do ivf, if you do vial fertilization, you can perhaps change the composition of the RNAs in the, the stuff that you introduce. But way before that, what you could do, perhaps even in the not so far future, is use this for diagnostics, DNA based diagnostics for every couple that wants to have a kid. You can, in Israel, this is done for, for most couples, you can look at the DNA and look for genetic disease, but no one look is looking at the RNA at the moment. If you understand how it works better, we'll have another level, a whole new world to look at. 
+Oded Rechavi  
+02:17:09
+And perhaps there will be some RNAs that correlate with disease that that will say, okay, you know, the beauty is that this, unlike dna, it's plastic. So with dna, this is your dna. Perhaps we can choose another embryo. But here you could say perhaps again in the future, this is science fiction. Doesn't happen now. But if we understand this and it's true, we can say maybe you should run on the treadmill a little bit. This will change the profile of your RNAs and then we will use it for ivf. This seems more because just it correlates with healthy profiles of RNAs. This is a level that no one looks at now and hold great potential again with a disclaimer that we know, know how it works in humans at all. 
+Oded Rechavi  
+02:17:51
+Yeah. Yes. But of course this is why, why, why it's so interesting. 
+Huberman  
+02:17:54
+Yeah. Yeah. It's super interesting. Incredibly promising. So along the lines of things that one can do in the short term and your experiments on sea elegans, I'd love for you to share with us what you're observing about cold exposure and how that impacts subsequent generations of sea elegance. And, and if you would indulge us with the story of this discovery, like some of the earlier stories you told us. It is a, a surprising and fascinating one, 
+Oded Rechavi  
+02:18:22
+I'll tell you about it. This is not a, a story about transgenerational inherit. It's, it's a story about memory within one generation. 
+Huberman  
+02:18:28
+Ah, excuse me. Okay. 
+Oded Rechavi  
+02:18:29
+Within one generation. Okay. And, and as you said, the story of how it happens is it's, it's, it's totally by Excellent. It's a funny story and I'm, I'm bringing this up because I know Donna lunch after is a huge fan of your post, will really, you know, be happy that, that this is her work. This is her work. And this is unpublished work. It's, it's even, we didn't even finish it. So we're working 
+Huberman  
+02:18:50
+It. Okay, well when it's published, we will feature the paper cuz I love this. Oh, thanks story. Thanks a lot. 
+Oded Rechavi  
+02:18:55
+Great. So, so what happened is that when you, we talked about time generational memories, and I said that in worms there are very long time generational memories. If, if a generation time for Syrians three days, some memories last for many generations. So way beyond the, the lifespan of the, of the worm, the lifespan of the worm is three weeks. Okay? Generat, you have a new generation every three days, but every worm lives for three weeks. But there's a lot of research that shows that unlike heritable memory, which can be very long, the memories that, that the worms acquired during the lifetime is very short-lived. So if you teach something after two hours, it forgets, okay, so for example, you can teach the worm, you can take an auto that it likes and pair it with starvation and then it would dislike the auto. 
+Oded Rechavi  
+02:19:44
+And then there's a simple test, just put it in a plate. You put the, the order in one side and the control order in the other side. And you see whether it prefers this order or not. And it stops preferring it. Okay. There is 30 years or more of research, 40 years of research on, on this, showing that the worms forget after two hours. The reason I went to study sea elegance is that I wanted to understand memory because such a simple nervous system, you say maybe I have the contention to actually understand how it works, but this is slightly disappointing because they forget after two hours. So what is it exactly? Okay, my idea was, and I tried to convince students to do it for 10 years, is to take the worms, teach them this association to dislike the auto that they innately like. 
+Oded Rechavi  
+02:20:25
+And then just put the worms in minus 80 and freeze them, freeze them, completely, throw them and see whether they still remember after they are thought 
+Huberman  
+02:20:34
+The Han Solo experiment. 
+Oded Rechavi  
+02:20:36
+Yes. And, and I didn't wanna do it because of cryo-preservation or something like this. I wanted to do it because as you know, better than me, many materials about memory say that you need electrical activity to maintain the memory, need to reverberate it in the brain 
+Huberman  
+02:20:49
+During dreams or replay of the thing or whatever. 
+Oded Rechavi  
+02:20:52
+And if the memories will nevertheless be kept, even though the worms were frozen in minus 80, it would mean that it was kept in the absence of, of electricity because there's no electricity in minus 80 degrees. This was the idea I asked many students, no one wanted to do it cause of it's, it's not so easy and also a little crazy. 
+Huberman  
+02:21:13
+Well, and when the pi, the principal investigator or lab has a pet experiment, no one wants to do that experiment. 
+Oded Rechavi  
+02:21:18
+That's, that is a university tool. So I, I, and then, then I agreed to do it. Dana, Alan shift, I was very happy only later to find out that she ignored me completely and did the different experiment. The experiment the data did in instead is to just take the worms, teach them the association and place them on ice. She wanted to see how the kinetic of memory in forgetting change in low temperature. Cause maybe whatever memory is the breakdown of the memory is affected by the temperature. A very simple idea. We know 
+Huberman  
+02:21:55
+Different experiment. 
+Oded Rechavi  
+02:21:56
+Different experiment. Yeah. But a cool experiment. Very cool. Yeah. And what she found is that when you place the worms on ice, after you teach 'em, they just don't forget if the even 10 times longer than control worms. At that point, after 24 hours, if no one worms forget, after two hours, after 24 hours, the worms will become six. So normally we do shorter experiments, okay? But for two hours the worms don't forget, this is cool. But it was only the beginning because the Boeing explanation is just what I just said, that everything slows down in low temperatures. So the breakdown of memory, again, we don't know what it is, but whatever it is happens slower in low temperatures. But this is not the case. 
+Oded Rechavi  
+02:22:36
+It's not merely the physical, it's the response. It's the changing of the internal state of the worms, which affect the memory kinetics. How do we notice there's a beautiful work over the last one years on cold tolerance in sance nematodes. If you take the worms and you place them on ice like she did, but longer for 48 hours, they all die. However, if you take the worms, acclimate them to lower temperatures for a few hours, five hours is minimum, and then place them on ice, they all survive. They become called tolerant. And people who study this show that this involves changes in lipid metabolism and many things. So Dana took the worms, acclimated them to slightly lower temperatures, made them called resistant, and then taught them the association and placed them on ice. 
+Oded Rechavi  
+02:23:24
+And now they've for forgot immediately, which means that when they change their internal state to become cold tolerant, they no longer extend memories on ice. Which means it's not only the temperature cause the temperature is anyway low, now they know the memory. We took this as a starting point to understand what, which genes change when the worms are becoming cold, tolerant on and off ice. And we found jeans that when you mutate them, the worms just remember longer, always, even when they're off ice. Cause these are the genes that normally change when they're surprised on the ice. And these genes are expressed just in one pill of neurons, just two out of the 302. 
+Huberman  
+02:24:02
+Notice he said 302, not 300. 
+Oded Rechavi  
+02:24:05
+And we can manipulate the activities of these genes in these neurons to extend memory. And then the punchline of everything that happened is that we found out that this, this neuron where these genes function, this one pair of neuron is the only no in silicon, which is sensitive to lithium. And lithium is a drug that is being given to bipolar disorder patients for decades. Although it's not entirely clear how it works, it's very, very interesting. It's also interesting, there's an episode of course in your podcast about this. You know more about this than me a lot. But it's also interesting because it's just an atom created in the big bank, yet it works on our brains in such a fundamental way. 
+Oded Rechavi  
+02:24:50
+And we wanted to see whether it works on the, also on the worms, because this neuro was tied to this memo, extension phenotype, we found so danu, the worms on lithium, removed them from lithium, taught them the association and found out that they learn a lot long. They, they remember a lot longer than control worms. Not only that, if you first make the worms call tolerant and then lithium doesn't work on them. So lithium switches this forgetfulness mechanism on and off. Amazing. And it it all, and it is all connected to call tolerance. 
+Huberman  
+02:25:26
+Amazing and amazing for a number of reasons. And so at risk of being long-winded in my response, I just wanted to highlight something that I think will be of relevance to most people, which is when at some point we did a few episodes on memory and I highlighted a review that was written by the great James Maga, one of the great mammalian memory researchers who's worked a lot on humans and mice. And I was shocked, pun intended and amused to learn that in medieval times, if people wanted children to remember lessons, they could be religious lessons or school doctrine or whatever it was, mathematics, what they would take children, teach them and then throw them into cold water to introduce a, a memory instilling event. 
+Huberman  
+02:26:09
+And we now know that the memory instilling event is the release of adrenaline in the body, which makes perfect sense if you think about traumatic events. But it also, this whole general mechanism also applies to the learning of other types of information. And so if I understand correctly about the role of lithium and the role of cold in the experiments that you just described, there's some general state switch, some internal state switch that says what happened in the minutes or hours preceding this was important. It acts as sort of like a highlighter pen Exactly. In, in the book of experiences. Thanks. And I'm absolutely curious to know whether or not this is an RNA dependent mechanism in some way. This, so this is literally like the highlighter in the IKEA instruction book. 
+Oded Rechavi  
+02:26:52
+This we don't know this we don't know. And as I said, this is not even a finished work. It's not peer reviewed, it just the state that I told you about. But, but it's, it's very exciting for, for me to, to go into this new field and, you know, once it's out, I'd be happy to, to talk more about it and think about the implications and the connections to other things and more about the mechanisms. 
+Huberman  
+02:27:13
+Yeah. Well, thank you for sharing it with us. Despite the fact that it's not finished, we, people now know that it's also not finished and I love a good cliffhanger. So we, we, we await the full, the full conclusion and interpretation of these results today. You've taken us on an amazing journey through the genome rna, short interfering RNAs, a ton of history of prior experiments, some of which ended tragically, many of which fortunately did not. They were true triumphs and in particular the work in your laboratory, which is just incredible. And also this introduction of model organisms. So, and I only mentioned a, a short handful of the things that you've taught us about today. 
+Huberman  
+02:27:54
+So first I wanna extend thanks for the incredible teaching. I also wanna say thank you for something equally important, which is that absolutely came through, but is what initially brought me to explore you and your work more, although I had certainly heard of you, which is that your spirit and kind of approach to biology is an, is an extremely unique and intoxicating one. It's, thank you. It's even, I venture to call it seductive. It's a, you know, there's a, i I do believe that whether or not it's music or poetry or science or mathematics, that the spirit behind something dictates the amount of intelligence and, and precision with which that thing is, is carried out. 
+Huberman  
+02:28:38
+And it absolutely comes through. So if I'm making you feel on the spot about this, I, I've succeeded. 
+Oded Rechavi  
+02:28:43
+Oh, thank you. Thank you, you 
+Huberman  
+02:28:44
+Very much. But I, I know that the listeners can, can feel it. It's, it's a felt thing. So thank you. There are, there are many scientists out there, fewer with this phenotype and even fewer that, you know, I think that can communicate with such articulate precision. So thank you. Thanks a lot so much. Thank you. It's been a real pleasure. 
+Oded Rechavi  
+02:29:04
+Pleasure was all mine. Thanks a lot. 
+Huberman  
+02:29:06
+Great. Well, we'll do it again and we'll learn about all the incredible things you're doing, trying to transform science as it were at the level of publishing, at the level of social media because there's a whole other discussion there. Meanwhile, we will, of course point people in the direction of you and to learn more about your work. And I look forward to hearing the conclusion of Dana's studies. 
+Oded Rechavi  
+02:29:24
+Thanks a lot. It's been a real pleasure. 
+Huberman  
+02:29:27
+Thank you for joining me today for my discussion with Dr. about genetics inheritance, the epigenome and transgenerational passage of traits. If you're learning from and or enjoying the podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please subscribe to the podcast on Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review. If you have questions for us or comments or suggestions about topics you'd like us to cover or guess you'd like me to include on the huberman Lab podcast, please put those in the comments section on YouTube. I do read all the comments. In addition, please check out the sponsors, mention the beginning and throughout today's episode. That's the best way to support this podcast. 
+Huberman  
+02:30:07
+Not so much on today's episode, but on many previous episodes of the huberman Lab podcast, we discuss supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them for things like improving sleep, improving focus, and for hormone support. The Huberman Lab podcast is proud to partner with momentous supplements. We've done that for several reasons. First of all, momentous supplements are the very highest quality. Also, they tend to focus on single ingredient formulations, which makes it very straightforward to build the most cost effective and biologically effective supplement regimen for you. We've also partnered with Momentus because we realize that many listeners of this podcast reside outside of the United States and fortunately Momentus ships internationally. If you'd like to learn more about the supplements discussed on the Huberman Lab podcast, you can go to live Momentus spelled O u s. 
+Huberman  
+02:30:52
+So that's live momentus.com/huberman. If you're not already following us on social media, please feel free to do so. We are huberman Lab on Instagram, Twitter, Facebook, and LinkedIn. And at all those places I cover information, some of which overlaps with the content of the huberman Lab podcast, but much of which is distinct from content on the huberman Lab podcast. So again, it's Huberman Lab on all social media channels. The huberman Lab podcast also has a so-called Neural network newsletter. This is a zero cost monthly newsletter that consists of podcast summaries and so-called toolkits. And those toolkits range from things like a toolkit for sleep, for focus, for controlling dopamine, deliberate cold exposure, for increasing focus, and much, much more. 
+Huberman  
+02:31:33
+If you wanna sign up for that newsletter, you can go to huberman lab.com, go to the menu, scroll down to newsletter. You simply provide your email and I assure you, we do not share your email with anybody. And again, it's a completely zero cost newsletter. Find it@hubermanlab.com. Thank you once again for joining me for today's discussion with Dr. Oi. And last but certainly not least, thank you for your interest in science.

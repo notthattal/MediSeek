@@ -1,0 +1,842 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. Casey Halpern: Biology & Treatments for Compulsive Behaviors & Binge Eating
+Published: 9/26/2022
+9/30/2022 - 2h 14m 35s
+ - 
+US
+Downloaded:
+(in RSS feed: 2h 11m 0s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman Lab Podcast where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today my guest is Dr. Casey Halpern. Dr. Haler is the chief of neurosurgery at the University of Pennsylvania School of Medicine. His laboratory focuses on bulimia, binge eating disorder, and other forms of obsessive compulsive behaviors. Normally, when we hear about eating disorders or obsessive compulsive disorders of other kinds, the conversation quickly migrates to pharmacologic interventions and serotonin or dopamine or talk therapy interventions, many of which can be effective. 
+0  
+00:00:43
+The Halpern Laboratory, however, takes an entirely different approach while they embrace pharmacologic and behavioral and talk therapy interventions. Their main focus is the development and application of engineered devices to go directly into the brain and stimulate the neurons, the nerve cells that generate compulsions, that cause people to want to eat more even when their stomach is full. In other words, they do brain surgery of various kinds, sometimes removing small bits of brain, sometimes stimulating small bits of brain with electrical current and even stimulating the brain through the intact skull that is without having to drill down beneath the skull in order to alleviate and indeed sometimes cure these conditions. Today's discussion with Dr. 
+0  
+00:01:23
+Halpern was an absolutely fascinating one for me because it represents the leading edge of what's happening in modification of brain circuits and the treatment of neurologic and psychiatric disease. For instance, they just recently published a paper in Nature Medicine, one of the premier journals out there entitled Pilot Study of Responsive Nucleus, Accumin Deep Brain Stimulation for Loss of Control. Eating the Nucleus Accumin is an area of our brains that we all have. In fact, we have two of them, one on each side of the brain that is intimately involved in the release of dopamine for particular motivated behaviors. And while most often we think about dopamine for the release of behaviors that we want to engage in, in this context, they're using stimulation and control of neuronal activity in nucleus acus to control, loss of control, eating something that when people suffer from it, despite knowing they shouldn't eat, despite not even wanting to eat, they find themselves eating. 
+0  
+00:02:16
+So again, this represents really the leading edge of where neuroscience is going, and certainly is going to be an area of neuroscience that's going to expand in the years to come. And Dr. Halpern and the members of his laboratory are among a very small group of scientists in the world that are using the types of approaches that I described a minute ago, and that you're gonna hear more about in today's episode in order to resolve some of the most difficult and debilitating human conditions during today's discussion, You will also learn about the use of deep brain stimulation and other approaches for the treatment of movement disorders such as essential tremor, Parkinson's Disease, and various types of dystonias, which are challenges in generating particular types of movement. So whether or not you or somebody that you know suffers from an eating disorder, from obsessive compulsive disorder, or from a movement disorder, today's episode is sure to teach you not only about what's happening in those arenas, but also in the arenas of neuroscience generally. 
+Roka Eyewear (Ad)  
+00:03:08
+In fact, I would say today's episode is especially important for anyone that wants to understand how the brain works and what the future of brain modification really looks like for all of us. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. Our first sponsor is Roka. Roka makes eyeglasses and sunglasses that are the absolute highest quality. The company was founded by two all American swimmers from Stanford, and everything about Roka, eyeglasses and sunglasses were created with performance in mind. I've spent a lifetime working on the biology, the visual system, and I can tell you that your visual system has to contend with a number of very important challenges in order for you to be able to see clearly. For instance, when you go from a sunny area to a more shaded area and then back out again, it's a very complex process. Roca, eyeglasses and sunglasses were built that is engineered with that sort of biology in mind. And as a consequence, no matter where you are wearing them and where you happen to be, you always see through them with crystal clarity. The aesthetic of Roca eyeglasses and sunglasses is also worth mentioning. Unlike a lot of performance eyeglasses out there, which only come in the kind of cyborg variety, roka, eyeglasses and sunglasses come in those varieties, but they also come in varieties that you would feel very comfortable wearing out to dinner or to work or to school, really anywhere that you go. If you'd like to try Roka eyeglasses, you can go to Roka, that's r k.com, and enter the code huberman to save 20% off on your first order. Again, that's roka r k.com and enter the code huberman at checkout. 
+Eight Sleep (Ad)  
+00:04:45
+Today's episode is also brought to us by eight Sleep. Eight Sleep Makes mattress covers with cooling, heating and sleep tracking ability. I've talked many times before on this podcast about the close relationship between temperature and your ability to stay asleep and emerge from sleep. The way eight Sleep mattress covers work is that they allow you to program the temperature of your mattress so that you can fall asleep quickly, get into deep sleep, stay in deep sleep, and emerge from that sleep feeling especially rested by dropping the temperature of that surface by one to three degrees at the beginning of the night, dropping it a little bit further into the night, and then raising the temperature towards morning because waking up requires that one to three degree re increase in body temperature. I've been sleeping on an eight sleep mattress cover for the last six months or so now, and I can assert that it is the absolute biggest game changer in the quality and duration of my sleep. In fact, I don't really like traveling as much as I used to because the eight sleep doesn't go with me, and they don't seem to have them yet in Airbnbs and hotels. So this is also a call to action Airbnbs and hotels. Please put eight sleep mattresses on your beds, and I'll be more apt to stay in those hotels and Airbnbs. With that said, if you'd like to try an eight sleep mattress cover, you can go to eight sleep.com/huberman. Check out the pod three cover to save $150 at checkout. Again, that's eight sleep.com/huberman. And please note that eight Sleep currently ships in the usa, Canada, uk, select countries in the EU and Australia. Again, eight sleep.com/huberman to save $150 at checkout. 
+Inside Tracker (Ad)  
+00:06:12
+Today's episode is also brought to us by Inside Tracker. Inside Tracker is a personalized nutrition platform that analyzes data from your blood and DNA to help you better understand your body and help you reach your health goals. Now, I've long been a believer in getting regular blood work done for the simple reason that many of the factors that impact your immediate and long-term health can only be assessed with a quality blood test. One of the major issues with the various blood tests out there is that you get information back about lipids and hormones and metabolic factors, et cetera, but you don't know what to do with that information. With Inside Tracker, they make knowing what to do with the information you get about your biological health, extremely easy. They have this very easy to use dashboard, and that dashboard tells you, for instance, what to change in your nutrition, what supplements you may want or may not want to take, as well as other behavioral and other types of interventions that can allow you to move those numbers related to metabolic hormone and other factors into the precise range that's optimal for your immediate and long-term health. If you'd like to try inside Tracker, you can go to inside tracker.com/huberman to get 20% off any of inside trackers plans. Again, that's inside tracker.com/huberman to get 20% off 
+Momentous (Ad)  
+00:07:19
+. On many episodes of the Huberman Lab podcast, we talk about supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them. Things like enhancing sleep and the depth of sleep, or for enhancing focus and cognitive ability, or for enhancing energy or adjusting hormone levels to optimal range for you. The Huberman Lab Podcast is now partnered with Momentous supplements. We partnered with Momentous for a number of important reasons. First of all, the quality of their ingredients is exceptional. It's really second to none. Second of all, they ship internationally, and that was important to us because a number of you reside outside of the United States. Third, we've worked with momentous very closely to develop single ingredient formulations. Now, this turns out to be very important because if you're going to take supplements, you want to know what's working for you and what isn't. And of course, you wanna optimize the cost efficiency and the biological efficiency of those supplements. To find the supplements we discuss on the Huberman Lab podcast, you can go to live momentous spelled os live momentous.com/huberman. And I should just mention that the library of those supplements is constantly expanding. Again, that's live momentus.com/huberman. 
+0  
+00:08:26
+And now from my discussion with Dr. Casey Haler, Casey, I should say Dr. Halpern, I was listening. Welcome. Thank you. Great to be here. Yeah, that's been a long time coming. We're colleagues at Stanford, and then recently you moved of course to University of Pennsylvania, also an incredible institution. We're we're sorry to lose you. So it's bittersweet for me too. Stanford's loss is up, pen's gain, but let's talk about your work past and present. As I've told the listeners already, you're a neurosurgeon, which I consider the astronauts of neuroscience because you're in somewhat uncharted territory or very uncharted territory, and yet precision is everything, right. 
+0  
+00:09:09
+The the margins of error are very, very small. So for those that aren't familiar with the differences between neurosurgery, neurology, psychiatry, you could just educate us a bit. What does a neurosurgeon do and what does the fact that you're a neurosurgeon do for your view of the brain? How do you think about and conceptualize the brain? 
+2  
+00:09:31
+Yeah, the scope of neurosurgery is quite broad. When I was in medical school, I, I was drawn to neurosurgery because of a procedure known as deep brain stimulation. When I was a Penn as a college student, I actually watched my first deep brain stimulation surgery perform by Gordon Uck. Who to to date is one of my career mentors. Deep brain stimulation is a one surgery that neurosurgeons offer, but it's actually sort of a very small minority of what neurosurgery does. You know, we take out brain tumors, we clip aneurysms in the brain. We take care of patients that have had traumatic brain injury, concussion, spine surgeries, 90% of what neurosurgeons do around the country, you know, taking care of herniated discs and lumbar fusions. 
+2  
+00:10:22
+So, you know, the scope is the entire central nervous system, including the peripheral nervous system. We take care of patients with carpal tunnel syndrome and nerve disorders. Now, over the course of the past two decades or so, there's been a mission in the field to, to subspecialize. And so historically, neurosurgeons did everything in that domain, but now we subspecialize and I'm lucky to be at Penn Medicine where we can focus on one of these areas. So I'm chief of stereotactic functional neurosurgery. All I do is deep brain stimulation surgery, and a compliment to that is focus ultrasound or transcranial focus ultrasound, which is a noninvasive way to do an ablation in the brain. 
+2  
+00:11:09
+Recently, FDA approved and it's FDA approved for tremor. At the moment, these two procedures are, for me, my every day, but still the minority of what neurosurgeons have to offer. The majority of neurosurgery in my mind is, is a bit more structural than it is physiology or deeply rooted in, in how the brain functions. When we take out a brain tumor, we have to find a, a safe trajectory to get to the brain tumor, and then we remove it and we help the patient recover In the icu, similar to a brain aneurysm, often we don't have to go into the brain to clip a brain aneurysm, but we go around the brain or under the brain to get there. 
+2  
+00:11:52
+And in my mind, those surgeries are a bit more structural, deep brain stimulation. The surgery that I do routinely is a procedure where yes, there, there is structure involved. Of course, we have to place a, a very thin wire that's insulated deep into a part of the brain that's involved in Parkinson's disease, for example. But that's actually not the therapy. The therapy is delivering electrical stimulation through the tip of that wire, or one of the tips as there actually are multiple contexts at the bottom of the wire. They're very small, but that's all done out of the operating room. 
+2  
+00:12:32
+You know, this stimulation wire is connected to a, a battery pack or a pulse generator that's kind of like a pacemaker. And so we deliver this therapy, and I always tell patients it's a bit more like I have to implant a, a tool to, to deliver you a medication, but that medication is gonna be in the form of electricity and it's gonna be delivered into a very small region of the brain. And it's that procedure that's inspired me to not just become a neurosurgeon, but has really defined the focus of my research laboratory as well. 
+0  
+00:13:06
+Maybe by way of antidote, you could tell us one of the more outrageous or surprising or who knows, delightful and thrilling things about the brain that you've observed as a consequence of stimulating different brain areas. You know, in textbooks, we always hear about the kind of dark stuff. You know, stimulate one brain area, somebody goes into a rage, stimulate another brain area, person starts laughing uncontrollably. First of all, given that some of the information, let's hope not much, but some of the information textbooks is incorrect. Is, are those sorts of statements true? Can one observe those in the clinic? And what are some of the more interesting, and I don't necessarily mean entertaining, but surprising things that you've seen when you've poked around in the brain deliberately, Of course. 
+0  
+00:13:56
+And what have you seen? What have you heard? 
+2  
+00:13:59
+I have to say, I I, I am amazed by these effects every day. Yeah. I'm very privileged to be able to interact with the human brain in this way. It's always in the, with the goal of trying to provide somebody with a meaningful therapy. But when we deliver electrical stimulation, you know, the, these electrodes, while they might be sitting in a very small region of the brain, there are regions within a few millimeters of where these electrodes are. That if stimulated could cause a temporary, very brief side effect. A a moment of laughter, like you said, or a moment of panic. And of course we can just shut that electrode off. But often these side effects could be therapeutic. And actually that's how we have discovered ways to use deep brain stimulation, not just for movement disorders like Parkinson's disease, but for example, patients with Parkinson's disease that have a psychiatric comorbidity like depression or obsessive compulsive disorder. 
+2  
+00:14:55
+A lot of these patients are highly compulsive and impulsive. Sometimes these problems actually melt away, and we're trying to help their tremor. But the patients also tell us that their gambling issue has gotten better or their mood has improved. And why is that? Well, you know, there's probably more than one reason, you know, you can help somebody's mood by making their tremor go away, of course. But we see laughter in the clinic sometimes. And and why is that? And that's because we're stimulating parts of the brain that are not just involved in these motor circuits, but they're also involved in what we call limbic circuit or part of the brain involved in emotion. And if we learn how to modulate those areas therapeutically, step by step, we can actually develop these therapies for other indications like depression. 
+2  
+00:15:41
+I would say the most impressive and consistent effect we have when we have a patient with tremor who has been tremoring for the past 20 years, if we can deliver stimulation through that electrode in the clinic, we have immediate relief of tremor. And that is the effect that inspired me to be a neurosurgeon when I was in college. I've never really wanted to do anything else except help develop that type of therapeutic for another, another kind of symptom. I'm very interested in obesity and related eating disorders, compulsive behavior that urged to, to, to have something that might be delicious, but dangerous or unhealthy or a drug or a compulsion like we see in OCD or test of compulsive disorder. 
+2  
+00:16:28
+Interestingly, like we see tremor melt away when we deliver electricity to a certain part of the brain. We can see these psychiatric, more psychiatric problems. They're not all psychiatric disorders, but let's say disorders of the brain. We can see symptoms of those disorders also improve and often immediately, just like we do with tremor. So I see it all the time. To, to, to pick out one would be, would be a challenge, because for me, this is my, my every day, 
+0  
+00:16:57
+The speed of the relief that you describe for tremor is really incredible. Just thinking about drug therapies. And there too, there are side effects, but there still a lot of mysteries as to, for instance, why SSRIs even work when they work. Yes. And the 
+2  
+00:17:14
+Timing is always challenge, 
+0  
+00:17:17
+Timing dosage. Yes. Absolutely. I'd love to learn more from you about ocd. I, I have several reasons for asking this. First of all, I'm a somewhat obsessive person. I tend to be very, very narrowly focused. Although I confess it's not a step function. It takes me some time to turn off the chatter, but once I'm into a thought train or a mode of being and thinking and work, it's very hard for me to exit that, that mode. It's like a deep trench adaptive, in some circumstances, less adaptive than others is, you know, the other is, is that when I was a kid, I had a little bit of a grunting tick. I used to, I had a, this intense, intense desire to clear my throat to the point where my, my dad said, Look, you need to stop that. 
+0  
+00:18:02
+And he used to squeeze my hand every time I do it. And I used to hide in the backseat of the car or in the closet to do it because it provided so much relief. And then it eventually passed. Yes, I wasn't medicated. They never did anything about it. Every once in a while, now, if I'm very fatigued, if I've been working a lot, I notice it starts to come back. I'll do this like kind of grunting. And so it's been a sort of like a, a pet neurological symptom for me that reminds me that these, these circuits exist in all of us. And that sometimes they go haywire and sometimes they just have subtle, you know, over excitation or something of that sort. And then the third reason is that I get thousands of questions about O c D. Could you perhaps just tell us what is O C D? 
+0  
+00:18:45
+Sure. What are some brain areas involved? What are the current range of treatments and what's the difference between someone who is obsessive and somebody who has true O C D? 
+2  
+00:18:58
+So, a brief disclosure, as a, as a neurosurgeon, I do take care of patients with severe obsessive compulsive disorder. But my perspective on O C D may be a little bit different than a psychiatrist who who lives and breathes OCD and sees patients every single day. With ocd, I probably take care of a three to five patients a year with deep brain stimulation for obsessive compulsive disorder. So I don't see these patients as routinely, but my laboratory is geared as a researcher. I'm very focused on trying to improve outcomes of deep brain stimulation for, for ocd. So I, I do feel I have expertise and, and a perspective to share, but just a, a brief disclosure, I, I do feel that as a neurosurgeon, I am obligated to better understand where the obsessions in the brain come from and how we can interrupt them to stop the compulsion that's associated with the obsession, sort of the intrinsic most feature of ocd, better than we're actually doing it. 
+2  
+00:20:04
+For example, if we were to offer a patient with tremor, deep brain stimulation surgery, of course there's some risk to the procedure, but the outcome is so consistent and positive that many patients are willing to take on that risk for obsessive compulsive compulsive disorder. The surgery risk is about the same, however, the benefit is not quite as robust. And so a lot of patients, and they're referring psychiatrists, are reluctant to refer these patients to us. And it's completely understandable. I've been leading an endeavor with a number of collaborators around the country to try to better understand these circuits in the brain, study them in humans, both invasively and noninvasively. 
+2  
+00:20:51
+That would be with an electrode based surgery, sort of like we do in epilepsy to understand where seizures come from. We wanna understand better where obsessions come from. But we're also working with imaging experts and geneticists to understand O C D at a broader level as well. I, I consider OCD to be a, a spectrum disorder in a way, and I, I, I apologize to those who, who might feel that I'm using that term incorrectly. I, I'm using it in a way to describe patients that have obsessions and even some related compulsions might not meet criteria for ocd. It may be something Andrew, that, that you have. And as a neurosurgeon, I'm really obsessive about safety and compulsive about my surgical procedures. 
+2  
+00:21:37
+So, you know, I, I think that some aspect of ocd, which we often joke about, but we should, you know, consider seriously, cuz people do suffer from this. Some aspect of it helps us. There are, you know, famous CEOs that probably have some level of O C D surgeons and scientists alike. So perhaps if it can be controlled, it's an asset and, but if it goes awry and is uncontrollable, then it becomes obsessive compulsive disorder. And I tend to see the patients that are the most severe. So they have failed medication and there are multiple medications that are worth trying for ocd. 
+2  
+00:22:16
+Some can actually be very helpful. Which, which neurotransmitter systems do they tend to poke at? Well, SSRIs are sort of the, the first line for O C D, but also tricyclics can be helpful. So this is still the serotonin system, but as we know, the serotonin system interacts with the, you know, neurogen system and the dopamine system. So it's hard to be specific to one of these things. And I think that's also why it's hard for us to predict how these medications are going to, to work for these kinds of patients. But tricyclics and SSRIs can be very helpful and are definitely first line. And there's others exposure response prevention is probably the most effective option, which is kind of like cognitive behavioral therapy. 
+2  
+00:23:01
+But these are different and offered by psychologists, and this is a whole field and there's a, a field, or I should say a whole clinic at my institution focused who started by Edna FOA at Penn, who this is, what they do for these patients is offer these types of cognitive therapies, exposure to the stressor, and to try to get patients to habituate to whatever it is that stresses them and causes these compulsions to help these patients live in every day and, and function. The, these are all fabulously helpful PA therapies for a variety of patients, but they're still about 30% of patients that still suffer from ocd. 
+2  
+00:23:44
+And some of them have severe ocd, sometimes it's monitored to severe. And those are the patients that I'm really motivated to try to help our therapies for. Those patients right now, I would say are, are worth pursuing, but not optimal. And so it's, it's one of those things that we have to balance as a researcher, because when you see patients like this, you wanna do everything you can to help them. And I think it's important to educate patients on the risk and benefits of them. This is deep brain stimulation surgery, but also capsulotomy, which is more of an ablation approach, a little bit like deep brain stimulation, but rather than delivering stimulation through an electrode, you can actually heat the tissue and even destroy it. Some would say this part of the brain is very safe to destroy. 
+2  
+00:24:25
+It's kind of like an appendix. Others would say it's safer to modulate. I have seen patients do very well with these ablations. And so, you know, you asked me earlier what, what I find so amazing about the brain, these effects that we can have. Sometimes the lack of effect is what's so amazing. You can actually traverse parts of the brain without having any adverse effects on patients function, at least that you can test. But you can also destroy small parts of the brain. We're talking three or four millimeters in size. These little ablations can be really helpful for patients, but have no obvious side effects that we can tell perhaps after a short recovery from surgery. But nonetheless, despite how safe they might be, these surgical procedures still are surgical procedures and patients are hesitant to proceed, especially when they know that their chance of a transformative effect is quite low. 
+2  
+00:25:15
+We, we can generally achieve a responder rate of about 50% and responders still have symptomatic ocd. So I'm really sort of inspired to really find a way to deliver these therapies in a more disease specific or symptom specific way. But we're years away probably from, from that therapy since it's all part of a research study at the moment. 
+0  
+00:25:40
+What brain areas should I think about when I think about O C D years ago, I remember opening a textbook, I think I was an undergraduate still and work from Judith Rapaport at the National Institutes of Mental Health. This would be late eighties, early nineties, was had done some neuro imaging, or maybe it was PET of or some other imaging technique and had identified portions of the basal ganglia. Sure. Ca eight putan type structures in OCD and maybe some differences in boys versus girls. So what brain areas are there sex differences in terms of ocd and we're one to come into your clinic, this, you know, for this sort of a work of ablations or stimulation, Where would you first start to probe in the brain? 
+2  
+00:26:28
+Yeah, this is a, a disorder of both cortex and the sub sub cortex. The cortical control areas, areas that are involved in inhibitor control, we have found to not function properly in patients with ocd. So areas like the overall frontal cortex and the prefrontal cortex. If you image these areas or study them even in a eroded model of ocd, which quite honestly these models, they model aspects of ocd. But OCD is a human condition. You can't really model this whole condition in a, in a mouse or a rat, but perhaps you can model compulsive behavior in a rat. 
+2  
+00:27:10
+Sure. And that pulling out their hair. Yeah, exactly. You know, that's, that's not necessarily obsessive compulsive disorder, but that is compulsive behavior. And perhaps if you can ameliorate that in a rat, that might be helpful for a patient with ocd. But we have to approach animal modeling of OCD thoughtfully. And I and I, and most scientists do, I think, and when we study OCD in, in models or in in humans with imaging and, and we're trying to do it invasively with, with electrodes like we do at epilepsy patients, we, we find that areas in the cortex, like the prefrontal and overal frontal cortex are, are not functioning. They the way they would in a non OSD patient. They're often hyper functioning such that while you might say, well, they're hyper functioning, so aren't these patients, you know, functioning better? 
+2  
+00:27:55
+That that hyperfocused Yeah, hyperfocused, exactly. No, I I would say it's, it's not so much an or a down, it's more that they're just dysfunctional and we need to find a way to try to restore normal function to these areas. It's not so much directional really. We, we tend to oversimplify brain function by thinking about it with directionality too much. Unfortunately, imaging studies sometimes demonstrate activation or hypo activation. And that's where I think these kinds of things can be misconstrued. But what I would call the cortical areas of OCD is that they're dysregulated and we need to find a way to try to normalize their function. So the frontal lobe is, is huge, but areas of the frontal lobe that are a bit more basal like the o c or orbital frontal cortex, and the prefrontal cortex definitely consistently seem to be implicated in patients with O C D and then their projections to the sub cortex. 
+2  
+00:28:45
+This is the basal ganglia, like you were saying, ca a PTA or the dorsal strum. And these are interconnected with the ventral strum. This is an area of the brain that I focus a lot of my energy in. This is the ventral strum, which is not limited to but includes the nucleus succumbs. This is an area of the brain that we know to be involved in gating reward seeking behavior. When it's perturbed, it seems to gate compulsive behavior, meaning a rat will pursue a reward despite punishment, despite a foot shock, for example. And that can be similar to an OCD patient. They will check their home for safety until 3:00 AM in the morning and not sleep that night in a way that is similar to a rat seeking out a food reward despite a foot shock doing something because of the urge. 
+2  
+00:29:31
+But despite the risk, and perhaps there is some normal judgment there, we all have to take risks to function in everyday society to be successful, we have to take a risk to take care of patients with surgery. There's some risk there. We make a judgment call and that's not a condition that, that's just normal. But when our judgment is consistently sort of puts us at risk, that's where we have something like ocd. But OCD is also, you know, it's one of many conditions that suffer from these kinds of problems. We tend to label them because they tend to present in a consistent way. 
+2  
+00:30:12
+So we have patients with OCD that have hyper checking behavior or contamination behavior where they, if they feel contaminated, they'll wash their hands for hours repeatedly or if they drop their toothbrush on the floor, this will lead to a compulsive behavior of cleaning a toothbrush or brushing your teeth consistently. Very, very common symptoms that we see or signs that that patients report to us or, or that we observe. But, you know, patients with eating disorders, you know, they tend to, if if they have binging disorder, they'll overeat. If they have bulimia, they might purge despite the risk of these things. And so addiction is, is similar. We, we tend to drug seek, if we're addicted, will will pay off a, a dealer in order to get our fix despite the risk. 
+2  
+00:30:59
+And, and that type of urge, despite the risk, is something that I, I've always been really interested in. And, and it's a common denominator to all of these problems. And if you think about these problems, I mean these are some of the most common conditions in our society today. 
+AG1 (Ad)  
+00:31:12
+I'd like to take a quick break and acknowledge one of our sponsors, Athletic Greens, Athletic Greens now called Ag One is a vitamin mineral probiotic drink that covers all of your foundational nutritional needs. I've been taking Athletic Greens since 2012, so I'm delighted that they're sponsoring the podcast. The reason I started taking Athletic Greens, and the reason I still take Athletic Greens once are usually twice a day, is that it gets me the probiotics that I need for gut health. Our gut is very important. It's populated by gut microbiota that communicate with the brain, the immune system, and basically all the biological systems of our body to strongly impact our immediate and long-term health. And those probiotics in athletic greens are optimal and vital for microbiotic health. In addition, athletic Greens contains a number of adaptogens, vitamins and minerals that make sure that all of my foundational nutritional needs are met and it tastes great. If you'd like to try Athletic Greens, you can go to athletic greens.com/huberman and they'll give you five free travel packs that make it really easy to mix up athletic greens while you're on the road, in the car, on the plane, et cetera. And they'll give you a year supply of vitamin D three K two. Again, that's athletic greens.com/huberman to get the five free travel packs and the year supply of vitamin D three K two. 
+2  
+00:32:26
+Yeah, I really appreciate that you're building this bridge from OCD to nucleus, ACC Cummins, which is of course associated with reward in various forms. And we'll get to that. 
+0  
+00:32:36
+I'll share a personal anecdote as a, as a a form of question. When I was in college and studying a lot, I relied on caffeine as a stimulant. I've never really been into drugs or alcohol. I've been lucky in that sense. I don't drink and I care less of alcohol disappeared. Never really liked recreational drugs, so it was never drawn to them. However, when I was in college at the time, there were these little epinephrine pills that were common in a lot of sports supplements. Oh, these were like pre-workout type things? Yes. Not unlike energy drinks now, which I completely avoid. And I had this experience of taking one of these and drinking some coffee and of course it gave me a lift in energy. 
+0  
+00:33:18
+These are very similar to amphetamine. They were legal over the counter at the time. They're now either banned or illegal. I do not recommend them. And I had a lot of energy. But what I noticed is that my grunting tick came back and I had, I made one mistake. I still think of this as one mistake, which was I engaged in a superstitious behavior, I knocked on wood and then somehow it felt very rewarding. Like it gave me some totally irrational but internally irrational sense of, of security around, I forget what I was knocking on wood about. And I found that I couldn't break that knock on wood compulsion. I felt I needed to knock on wood. And so then I started sneaking, knock on wood, like in mid exam and studying and pretty soon I was knocking on wood. 
+0  
+00:34:01
+Often I developed a superstition. And so I'm curious about the role of superstition and compulsion and the crossover there. It makes sense logically to me. But I was equally shocked to learn that when I stopped taking this stimulant, which I was quite happy to, to stop because it did make me feel too alert, couldn't sleep well, et cetera, that the superstition went away as well. And I'm guessing this has something to do with some of the reward circuitry, as it's called, related to stimulants. Again, I am not encouraging anyone to take stimulants, although healthy use of caffeine or safe use of caffeine might be the one universally accepted stimulant. It was really surprising to me how quickly this came on, how quickly it engaged my, my thinking and my behavior, the obsessions and the compulsions and how quickly it turned off when I stopped taking this sports stimulant or whatever it was. 
+0  
+00:34:55
+I don't even remember. I think it was some form of epinephrine, a fein. Sure. Some saw epinephrine, Excuse me, I'm apo a Fed. Sure. Does what I describe sound totally outside the bounds of, of logic or is, or am I imagining at all? No, it did happen. I'm certain it happened. 
+2  
+00:35:13
+Yeah. No, I don't think you're imagining it at all. I, you know, this the grunting that you, you mentioned to me, you know, first of all I didn't comment, but you know, that that sort of, not to put a label on it, but it sounds like a tick. And you know, ticks and young males extremely common and they do tend to go away 
+0  
+00:35:31
+As linking. Cause I have a good friend who you actually, a famous neuroscientist, I won't mention who it is, who's worked very hard to suppress, suppress his, his blinking tick. Yes. And when he gets fatigued, it comes back and, and he's very high functioning Yes. In his personal life and his professional life. Yes. But, but when you're talking to him and he starts doing this, you kind of start wondering like, what's going on? Yeah, 
+2  
+00:35:51
+Yeah. And it's unfortunate, you know, people with these problems, especially as they get more severe than you get Tourette syndrome, you know, it's hard to function in our society. I have some friends that have tourette, and I'll tell you, I I'm just so inspired because they're so, they're so confident and you know, people obviously notice these problems, but they, they just live their life and they're very successful. And that's not typical. I have, I have friends that I went to Penn with undergrad that had these kinds of problems and I was always just so happy and inspired by them. But what's more typical is, you know, these problems cause people to lose their confidence and, and not, you know, pursue, you know, their profession as they may have done or the things of that nature. 
+2  
+00:36:38
+So I, I think it's all related to the fact that we, our brains are very vulnerable. And to get back to your question about the stimulant, you know, I think, I think your brain was very vulnerable to it. You know, you, you sort of may have had a predisposition to it. You mentioned that you have your, a little obsessive and with the tick there, maybe you have this kind of, you know, on the, on the mild side of the spectrum, ocd and I, I probably do as well, by the way. So I also also have avoided drugs for that reason in my life. I'll drink a little bit of wine here and there, but that's about it. And, but I, I think most people don't avoid these things. And we see these problems in relation to not just taking a stimulant, but any kind of environmental exposure. 
+2  
+00:37:22
+Our own society causes so much stress. And that's why I think we have these human conditions, these are human conditions. We try to model them in, in animals, but most animals don't have these kinds of problems. You know, I've heard that you can, a animal like a, a monkey in the wild can have depression, a monkey's version of depression. But I don't think it's really typical or human depression, you know? And certainly it's not as prevalent as depression is in our human society. I think, you know, we haven't evolved to manage the stresses that are in this society that we currently have. And stimulants is probably one of them. You know, and i I I suspect you're probably a little bit vulnerable. It's possible the stimulant led to an overdrive of your prefrontal andal frontal cortex and even brought out a little OCD behavior related to this super, this superstition that you had. 
+2  
+00:38:10
+So, no, I believe that entirely. And I also think, you know, that's why things like O C D and other kinds of psychiatric disorders tend to present themselves in college. When people leave their home and they're in school and they're stressed and they're getting exposed to things that they haven't been exposed to before outside of the home. And, you know, their brains aren't evolved and sophisticated enough yet to help them cope with these kinds of stresses. And how it manifests is in these kinds of conditions. And it's, I don't wanna put a label on those conditions, but certainly could be a psychiatric disorder, but could also just be lots of anxiety. It could also be the kind of problems that, that you had as well. So, and I think the nucleus succumbs and the cortical areas that we've been discussing that, that sort of send projections to these areas are, are probably at least one of the main circuits involved in these kinds of things. 
+0  
+00:39:03
+I'm relieved it's no longer present, but I confess it, I always feel it close by. A long run helps. So mo you know, being a slightly fatigued, not overly fatigued, but slightly fatigued, seems to move out the, the kind of physical compulsion, but tried to channel it. Never taken any medication for it. Here I am. So I'm still still going. I may call you for a, a referral at some point, but at this point I'm, I'm feeling. Okay. Let's talk about nucleus acus and reward circuitry and the relationship between O C d reward addiction. And to just give you a sense of where we're headed with this is into the realm of, of food related and eating related be behaviors and disorders. 
+0  
+00:39:45
+Yeah. Cause I know you, you're doing some very important work there. What is nucleus acus? I know we all have one war two. Yes. One on each side of the brain. What is it, what roles does it play in healthy brain behavior and in pathology? 
+2  
+00:40:01
+Yeah. The nucleus acus is a part of the brain, part of our reward circuits, the hub of the reward circuits that I've always been most fascinated in. There are scientists around the world, some of the leading, arguably some of the leading scientists in the world, the father of addiction, neuroscience, I call him, although he tells me I'm nuts. Rob Malanca, who has studied the nucleus acus since the beginning of his career and who I worked with when I was at Stanford, Fabulous scientist and mentored, taught me so much, taught the world so much. 
+0  
+00:40:35
+Incredible person, scientist and pH and physician as well. Well, 
+2  
+00:40:39
+Yes, MD, PhD and brilliant in both ways. And very fatherly in a lot of way in terms of teaching people how to, how to do science and, and be good citizens as well. But yeah, the nucleus ICUs is an area that is also very complicated because it has a lot of functions. It, it interconnects with many parts of the brain. But there are some things about the nucleus acus that are very consistent. So when I started getting interested in reward and what a, what I could do as a surgeon to try to improve how we manage rewards. 
+2  
+00:41:23
+And what I mean by that specifically is what if you have an urge for a reward, that that's a normal phenomenon. That that's not something we're trying to stop. The, the issue is if you have have an urge for a reward that either puts you or somebody else at risk, it's probably a reward we shouldn't have. I suppose you can say, well, depends on the size of the reward and the size of the risk and how that fits into your societal norms. But for example, if you are obese and you have a doctor who is advising that you lose weight and try to control your eating habits, you know, perhaps better food choices is an important way for you to be healthier and, and not pursuing those better food choices. 
+2  
+00:42:04
+That's an urge that we probably need to treat. If you're a drug addict and you use heroin or opiate considering the opiate crisis right now, or cocaine, which is un untreatable at the moment, you know that, that cocaine might make you feel like you have some more energy that day to, to deal with your work or that opiate might make you feel better. Cuz life is stressful, but the risk of doing those things is really high. In fact, potentially lethal. So that's an urge that's treatable. If you have O C D and you can't sleep at night because you're so nervous that you didn't lock the door and you check 30 times, that's a reality for some people with severe OC d that's an urge we gotta treat eating disorders the same. 
+2  
+00:42:59
+Eating, eating disorders and obesity are obviously linked because of the relationship of a patient with food, but they're also quite distinct. Not everybody with obesity has an eating disorder and obviously not everybody with an eating disorder has obesity. I'm particularly interested in patients that have binge eating disorder as well as obesity because they're so heavily linked. Not everybody with binge eating disorder has obesity, but on average most are overweight. We are doing a deep brain stimulation trial at Penn where we're trying to modulate the nucleus succumbs and understand it better in patients that have failed gastric bypass surgery, the most aggressive form of treatment for obesity. 
+2  
+00:43:39
+And we, and we believe they failed gastric bypass surgery because of binge eating disorder, meaning they just can't control how much they eat. So their obesity is either related or even due to overeating, not some predisposition to that body habitus. You know, obesity is a phenotype, something that we can see. Not everybody is obese because of the same thing. So it's very important. I was taught this by a close mentor and friend Tom Wadden when he was the director of the obesity center at Penn or the Center for Weight Needing Disorders. And, and he said to me, you know, Casey, you know, be careful with obesity. You're, you're interested in addiction and I understand you're interested in the addictive tendencies of certain patients with obesity and, and, and their relationship with food. 
+2  
+00:44:24
+But not everybody with obesity has that problem. And, and in fact it's, it's probably present in about 20% of patients with obesity. But now taking a step back, 20% of patients with obesity is still a massive problem of epidemic proportions. And perhaps some of these patients have either some form of binging disorder or, or I should say some degree of binging disorder or at least loss of control eating, which is common to both. So that's a feature that I think eating disorder experts, obesity experts, neurosurgeons, obesity, obesity medicine experts would agree is common to eating disorders and obesity. And I also believe is common to addicts and perhaps patients with OCD is sort of a loss of control disorder. 
+2  
+00:45:11
+It's actually not a disorder known by like the DSM five, some diagnostic manual, but a feature I should say, of these conditions that's common and that common denominator, I believe can be restored or at least this problem can be ameliorated or improved upon by a better understanding and a tailored treatment to the nucleus succumbs. Specifically we've learned in mice that if you expose a mouse, now this is just a model. If you expose a mouse to high fat food, not food that they would normally eat food that is like 60% fat, high fat, it's like butter. We've learned that if you expose them to food like that within two weeks, their nucleus succumbs is not functioning like a mouse that was never exposed to that high fat food. 
+2  
+00:45:58
+There's aspects of it that are hyperactive, I could say, and there's aspects of it that are hypoactive or decreased activity, but either way it's, it's not functioning properly. And most likely that function is predisposing continued behavior and then probably eventually leads to things like a habit that gets developed. And that's a whole nother area of these kinds of problems that is very complicated and poorly understood. But in any case, if we just focus on the behavior at hand, it seems that repeated exposure to something like high fat food, a drug of abuse or any type of reward that is a really strong reward in a way it can hijack normal functioning of the nucleus acus. 
+2  
+00:46:41
+So the goal of our invasive trial is to try to restore normal functioning to that nucleus acus in mice. There seems to be a, a signal that predicts when they're going to lose control and we can use that signal to deliver a sort of a, a real time therapy in the form of brain stimulation, just a brief amount of stimulation. And that actually blocks the behavior. And what's interesting is over time that signal actually decreases in frequency, which suggests some level of restoring normal function to that circuit in a mouse. And we're trying to do that now in a human trial. 
+0  
+00:47:17
+Fascinating. Where is the stimulation provided? Because I would imagine that if one were to stimulate nucleus acus, you would see a reinforcement of whatever behavior coincided or proceeded at the stimulation. 
+2  
+00:47:30
+So the stimulation, it's a, a brief delivery of stimulation anywhere between five and 10 seconds that is intended to just disrupt the perturbed signaling that's happening in the nucl Cummins. There are disorders like depression, let's say that I, I would describe as a bit more of a state disorder. And this is obviously oversimplified because we know that there's fluctuations in mood and depression as well. So don't let me oversimplify it too much. But, but, but for now, let's forgive the oversimplification. If we, if we accept that depression is a state disorder or maybe Parkinson's disease is a state disorder, ex recognizing that they do fluctuate these types of problems, most likely not, but not definitely most likely need a continuous therapy of some form a therapy that's consistent. 
+2  
+00:48:22
+Perhaps a therapy that fluctuates with the condition but nevertheless still consistent binge eating disorder or O C D or addiction and, and binge eating disorder In the context of obesity, a lot of these patients are functioning quite normally every single day. It's just that intermittently throughout the day there's brief interruptions in their normal functions such that they have thoughts about food or the drug of abuse that they're really longing to have. And so we want to deliver a episodic therapy delivered at the right time and only at the right time to try to interrupt the circuit aberration or the, the problem at hand that is gonna lead to that dangerous behavior and to kind of get the patient back on track to what they're doing. 
+2  
+00:49:13
+I don't necessarily think that it leads to a reinforcement. It's possible we have to study that more. But rather the goal is to just disrupt perhaps what is kind of habitual or, or at least this kind of recurring problem that is happening. You know, people that have bingeing gene disorder, at least at a severe level, they tend to binge about once a day, but they don't binge all day long. Of course they have a moment perhaps when they get home from work and they're stressed where they might have a bout of binge 
+0  
+00:49:48
+What constitutes a binge. And I also want to know, does bingeing eating disorder come on suddenly? Meaning as an entire disorder, one day people wake up, suddenly they have bingeing eating disorder or is this, you know, a few too many buffets and I'm being entirely serious here. You know, it kind of un unlimited food. Yeah. And a circuit gets flipped or kind of starts moving into the high RPMs, so to speak. So how does it come on? And, and I'm actually surprised to hear that it's once a day, I would think just hearing binging disorder, I assume it's like ocd, which it probably fluctuates across the day as well. But I would've thought anytime people around food, they just simply can't control their intake of food. 
+0  
+00:50:31
+Yes. So, so what does this look like in terms of the onset of the disorder? And then what do you think underlies this once a day type of phenomena? That's pretty interesting. 
+2  
+00:50:40
+Yeah. So severe binging disorder, these patients will binge about once a day. It could be a couple times a day, but in general it's not more than that. Moderate is about three to four times a week, for example. The reason I think that that seems surprising to you, and if you think about it, it is surprising. But, but, but, and I agree with you, but the reason for that is, is actually just in the definitions of the word. And as a neurosurgeon in full disclosure, as I, as I mentioned, you know, I don't see these patients clinically, I see them for research trial purposes and I try to understand the literature around eating disorders and I obviously collaborate with fabulous eating disorders in, in these problems that are, that are highly innovative people. 
+2  
+00:51:26
+But the word binge is a definition there, there's a definition to that word. And you can't necessarily binge all day because our stomachs are not big enough. And so there's a limit to how much one can eat. And to meet criteria for a binge, you have to have a sense of loss of control. You have to eat an enormous amount of food in a brief period of time. And yes, generally that doesn't happen more than about once a day in, in a patient with severe binging disorder. However, they can lose control quite often. And in fact, perhaps even at every meal they might meet criteria for about of loss of control where they, yes, they may have lost control, but they might not have eaten enough to constitute what we would define as a binge. 
+2  
+00:52:13
+And that would be an, there's no specific number to that by the way. It's, it's really just compared to their normal meal. You know, perhaps it's 50% of their daily calories in that one brief moment. So that's, that's why I think it seems surprising that binges aren't happening more often than that. What I would say is if we replace the term binge with loss of control, eating loss of control eating could happen dozens of times a week. And in fact, you know, the patients that we're studying, you know, we've, we've seen patients that lose control 20, 30 times a week. And that's probably the, the term you have in mind when you're say you're surprised that it's just one time a day. And it's specifically really to the fact that these patients have to eat such a large amount of food in such a brief period of time. 
+2  
+00:52:58
+So it's hard to do that more than once a day. 
+0  
+00:53:00
+I see. You mentioned that some preexisting anxiety might bias somebody to have a binge I'm also fascinated by something I've observed before, which was when I was in college, my, my girlfriend had a roommate who we were aware was bulimic Hmm. And would binge and then purge. And often when she ingested alcohol, that would lead to a, a binge. Sure. Which is kind of the opposite of anxiety when I think about alcohol as something that slightly reduces prefrontal activity, somewhat of a sedative or certainly a sedative at higher dosages. So this brings to something that you said, I'm just gonna, I won't say it as eloquently as you did, that it seems like it's neither the case that anxiety leads to binging nor that hypo reduced activation of the forebrain and lower anxiety leads to binging is just, it's this dysregulation of circuitry that the, the seasaw could go either way and it, and it can throw things off. 
+0  
+00:54:00
+It's off balance in both cases. Yes. It's, and that seems to be a a, that seems to pose a problem. It seems like it's a particularly tricky problem and kind of explains to me in my nonclinical awareness why medication might be really hard to use as a way to treat this. But that being able to poke around in the brain and assay in real time, you know, how do you feel, Do you feel like binging now or do you feel further from the bing pulse? Is that what you do with these patients? Are they awake while you're stimulating the brain? Because it's one thing to say I stimulate a brain area and that binging goes away, or partial relief or complete relief. But how do you know? Are they in there with a donut and you're tempting them? 
+0  
+00:54:44
+So how do you actually know if it's ablating a brain area is going to lead to relief or exacerbation or no impact on, on this disorder. 
+2  
+00:54:54
+Yeah. So there's a lot to unpack there. I'll try to go one step at a time and if I, if I miss something, please 
+0  
+00:55:00
+Remind No, and I tend to ask these three part questions specifically of neurosurgeons because I like to challenge you guys. Cause again, you are the astronauts of neuroscience also. I'm just gonna take a moment to poke at neurosurgeon. Cause I have couple close friends who are neurosurgeons and I consider Casey, I don't know if he considers me a friend, but I of course him a friend. I'm teasing there too. Which is, first of all, they all have incredible hands, right? They have, I'm not, They all guard their hands with the kind of protection that you would guard the, the tools of the most important tools of your trade. So they're very careful with their hands. You're not gonna see them doing heavy deadlifts. You're not because of the way that impacts the, the motor neurons. Exactly. They, it's all about fine control. 
+0  
+00:55:40
+Yes. So if you're neurosurgeon does heavy deadlifts, you might want to consider getting a different neurosurgeon. Hope I didn't put anyone outta work there. And then the other, the other thing is that you all are, tend to be very calm people, at least on the exterior. We'll return to this later. Okay. But I do throw three or four questions out at once. So, so elevated autonomic arousal and alertness, as well as decreased autonomic arousal and alertness both seem to be able to lead to binging. And then there's this question of how do you know whether or not to stimulate or to ablate or whether or not to leave a structure alone? In other words, what does one of these experiments look like in the laboratory? 
+2  
+00:56:17
+Yeah. Sort 
+0  
+00:56:18
+Of a clinic. Excuse 
+2  
+00:56:19
+Me. Yeah, of course. Yeah. I, These, these are questions I think about all the time, and I do wanna come back to the deadlifting comment, but I, regarding, and you, and you referred to this earlier as well, and I, I don't know if I addressed it sufficiently either. Is is sort of like, what, what comes first here? Or how does this develop? I, I think first of all, I, I, I like to understand these kinds of problems in, in sort of the, the construct of what I, I consider to be a bit of a two hit hypothesis. So you sort of need, like in the concussion literature, you need the second hit is can be devastating. 
+2  
+00:57:00
+So if you have a concussion, you know, you wanna only return to play when your symptoms are gone and cleared by a, a physician. So in the context of eating disorders or let's say binge eating disorder, and first of all, I, I did mention earlier, but this is the most common eating disorder affects anywhere between three and 5% of the population. Wow. And it's probably underdiagnosed in obesity, by the way. And if obesity affects 35% of our population, most likely binging disorder affects more than three to 5%. But that's, that's the current literature estimate on, on the prevalence. So how do we develop binging disorder and is it related to this anxiety question? 
+2  
+00:57:41
+You know, I think that there is a predisposition that's the first hit. I actually think all humans have this predisposition. Just some have it more than others. I don't think that we've evolved to live in a society where foods are so readily available and enormously delicious and have so much sugar and fat in them. Not that there's any particular problem with either of these ma macronutrients, it's just the excess of it and how they're refined. That I think is the problem. You know, there's high fructose corn syrup in almost everything we eat. It's in bread. I don't even know why it's in bread sometimes. It's just kind of crazy. So, so I don't, I don't think we're evolved to live in a society that, that has food that's so readily available like that. 
+2  
+00:58:26
+And cheap by the way. In fact, the cheaper the foods are sort of the, the more refined and palatable and I would argue, dangerous to eat. I think they change our reward circuits for the worse and put us at risk for wanting more. I tend to get a headache when I eat food like that. And, and perhaps that's evolutionary advantage because I don't wanna eat those foods cuz they actually do make me sick. So in, in a lot of ways, I, I kind of wish that headache on everybody because perhaps we wouldn't have all these problems or at least some of them would go away. So I think that's for the first issue is a predisposition to, or a vulnerability to these types of foods, which we undoubtedly all have to a certain extent, but some more than others. 
+2  
+00:59:13
+And then, and then, and that's, so that's the first hit is this predisposition in the context of this sort of food focused society. And then the second hit is probably a stressful event or a stressful life and probably a recurring stressful event. I'm not sure this is published. I've never sat down with like a eating disorder expert and, and had this question about how this develops. And I'm not sure it's actually well, well known. But in a lot of ways I think that that answer anybody would agree with that we need sort of a predisposition in the exposure, the environmental exposure and the genetic predisposition, but also a stressor. 
+2  
+00:59:55
+And that stressor is probably one that's recurring. And you know, it's obvious that our society, these stressors are everywhere and how we can manage them is, is often poor. And you know, I think we can all relate with that. And then there's something else in the background that I think is really important to mention is that patients with these kinds of problems are embarrassed because our society doesn't think fondly of these kinds of patients. You know, binging disorder patients do, they do tend to be overweight. That's obviously a stigma. Obese obesity is another stigma. Then there's the opposite in a way it's an opposite by the way, for, from a phenotype standpoint is that's anorexia. I mean, that's another stigma. 
+2  
+01:00:36
+And you know, gosh, you know, not to make this about one sex over another, but when, when girls are told they're pretty, because they're thin, it just reinforces this problem. And of course you wanna compliment people and make them feel good about themselves. But the problem is that in this vulnerable society, that that can lead to problems because people start thinking, Oh, I should be thin or thinner. So I, I think that it's a little bit of a societal understanding that our brains are very vulnerable. And I think that will really help. Changing society is hard and most of society is not, you know, ill meaning it's all done by accident, but that, that is the society that we live in. 
+2  
+01:01:21
+So if we can try to improve that stigma and, and be kinder to people in that way, I think a lot of these problems would get better. People that are obese, that feel embarrassed by their obesity, it doesn't help, It only makes it worse cuz they give up. Same thing might be true for anorexics. So I really think it's important to consider all of these things and and that's why it's so complicated and it, it would be so hard to do a well controlled study to understand it better because there's so many of these variables to control for that you really can't control for, You might be able to control for them in a, in a mouse's home cage, but not, not in the society that we live in. So, so that, that's kind of my brief sort of summary of how I would answer your, your first question then. 
+2  
+01:02:06
+I, I think you know, your second question. I, I sort of take that as well. How do you study such a complicated problem in the operating room and, and in the clinic? Because I mentioned the operating room because that's sort sort of the first step here. First we wanna, we have, just to clarify, we have a NIH funded trial approved by the FDA for, for research to do this first in human study. We've treated two patients. We have four more to come at Penn. And, and in this study, it's something I've been working towards my entire career. What we don't know is where in the nucleus acus will we identify cells or regions that seem to be involved in this sort of reward seeking behavior. 
+2  
+01:03:02
+I would call it repetitive. It's kind of like appetite, but the word repetitive is, I think a good word to use. What part of the nucleus cu is a is the whole thing repetitive? Probably not. It's huge in my world. It's huge. As a neurosurgeon, you know, I target parts of the brain that are three or four millimeters in size. The nucleus ECUs is almost a centimeter in size. 
+0  
+01:03:22
+Wow. So I didn't realize it was that large. Yeah. This sort of like reminds me of discussions around the amygdala. Everyone thinks amygdala fear. Yeah. But amygdala's got a lot of different subregions Yes. And stimulation of certain areas. And the amygdala makes people feel great. That's right. And other stimulation of other areas makes them feel terribly afraid. 
+2  
+01:03:38
+Exactly. And and that shouldn't surprise us because, you know, when we treat patients with Parkinson's disease for tremor, you know, if we're in one part of the subic nucleus, we'll help their tremor. If we're in another part of the subic nucleus, the neurologist is looking at me like, why isn't this working? And that shouldn't surprise us. We already know that, you know, two or three millimeters deviation or two or three millimeters away from where we want to be. And you might not have the result you want. And that's probably also true for these more limbic structures like the amygdala and the nucleus acus. So, you know, regarding the nucleus acus, we traverse some of the nucleus acus, not all of it, in order to place the electrode that we want to use to detect when cravings are happening, for example, and to try to block the cravings from leading to the behavior related to the, the reward seeking, which is the overeating in this case. 
+2  
+01:04:31
+So what we decided to do, I in the operating room, was to actually try to leverage a tool that we use all the time when we take care of patients with Parkinson's. So with Parkinson's, these, a lot of these patients not all have tremor. And so when we place an electrode into this motor structure to try to improve their movement disorder, we often can hear tremor cells and they sound, we convert their electrical signal to an audible signal so we can actually hear it. And, and it sounds kind of like the tremor looks like the frequency of the signal is the same as the hand shaking. Exactly. 
+0  
+01:05:09
+And so the, the patient with Parkinson's is, is trem trembling. Yep. They're awake and you're poking around. Yep. In a, in a dedicated careful way. Of course 
+2  
+01:05:19
+One poke at a 
+0  
+01:05:20
+Time, one poke at a time. Yeah. With a very fine wire, a set of wires listening to the electrical activity until you, you encounter some cells that are sending out electrical activity That's right. At a similar frequency. Exactly. And then you can stimulate them or quiet them and see if the tremor goes 
+2  
+01:05:37
+Away. So we, we are very confident that when we stimulate that area of, in this case the subic nucleus, we will, we will make that tremor. We will disrupt that tremor circuit and that tremor will dissolve. And it does. That's why Parkinson's is so beautiful and inspiring in from a 
+0  
+01:05:55
+Intractable Yeah, 
+2  
+01:05:56
+Yeah, exactly. But what is the, it makes us feel, we understand the brain, right? At least in that limited way. 
+0  
+01:06:01
+So what is the analog to tremor in terms of appetite and desire 
+2  
+01:06:07
+To binge craving? So craving is a term that, you know, there's probably other terms we could use by the way, but that, that's the term we've chosen to use for a number of reasons. One, because people relate with that term. People that have binge eating disorder or obesity, they, if you ask them if they crave the answer will often be yes. If you ask them if they lose control or binge, they might not know what you mean. Or they might not actually feel out of control even when they are. So, but the word craving is relatable. And so we set out to see if we could identify craving cells in a patient with O C D, which is related. In fact, we target a very similar part of the brain. 
+2  
+01:06:50
+We tried to identify cells related to obsessions. And we believe we did do that. It was a single case study where we tried to optimize where our electrode was placed. So we had some proof of concept that we would be able to elicit a sort of disease specific symptom in the operating room, assuming the patient could tolerate being awake. Not everybody needs to be awake for this procedure, but at least for these first in human trials where we're trying, we're trying to establish where in the brain we need to be. I think this type of approach is really critical. And you know, by the way, none of this has been published, but I think it's so important for people to know this. 
+2  
+01:07:30
+So I, I am willing to share some aspects of what we're trying to do. But, but that's, that's really the first goal of this trial is to identify where in the nucleus succumbs we can detect these craving cells. So we have to provoke food craving in the operating room. That's the first thing. How 
+0  
+01:07:48
+Do you do that? 
+2  
+01:07:50
+Well, there are some somewhat validated ways to do that. So for example, we ask patients to provide pictures of food that they rate very highly as something that they would typically crave. And you know, depending on the patient, it might be something that's very salty. It could be very sweet like a donut. 
+0  
+01:08:10
+Donuts 
+2  
+01:08:10
+Are good, I love donuts, 
+0  
+01:08:12
+Right? Donuts are great. You should, 
+2  
+01:08:13
+You should try the cronut when you're here in New York City. I just 
+0  
+01:08:16
+Might, I try not to eat that sort of thing. For all the reasons they change your brain's 
+2  
+01:08:20
+One bite, just try to stop yourself after that one 
+0  
+01:08:22
+Bite. So if I were one of these patients, given the fact that the binges come on pretty seldom once a day, do you, you, I imagine you have them come to the, the operating room fasted or semi fasted? They're fasted. Yep. Okay. They're fasted, which probably they're probably surgical reasons for wanting that too. 
+2  
+01:08:40
+Yes. They kind of have to be. 
+0  
+01:08:41
+Right. And then you, they've, you've done the craniotomy, you've removed a patch of skull. Yes. You've lowered the wire into the nucleus acus. And then they are viewing pictures of food that they crave and thinking about it, do they have olfactory cues, Smells of cronuts 
+2  
+01:08:56
+And yeah, we'd love to do the olfactory cues. We haven't implemented that, but that is a a great, thank you. And I'll give you full credit when we do. Sure. I 
+0  
+01:09:02
+Didn't review the grant, but I, it sounds I'm so glad this work is funded because I mean, this is when I, I'll make this time. It's not a joke When I refer to you all you neurosurgeons as the astronauts of the brain, you know, this is out on the extreme edge of what we don't know Yeah. About how the brain functions. And this is so far and away different than giving a mouse access to a high, high fat food. Not that, that I'm not being disparaging of the mouse work, but so the person says, Well, I'm the patient in this case, so I might say, you know, I'm hungry. A donut sounds really good right now. Yeah. But craving to me is like, I, you know, I'll cross the street, cross town, be late for my meeting, eat three of these, Yes. 
+0  
+01:09:48
+Maybe even hide that from somebody that cares about me, that doesn't want me doing this, this kind of thing. Yes. Hide it from myself. Yes. This, these kinds of behaviors I'm projecting, I'm fortunate that I, I have cravings for things in life, but donuts are not among the more extreme of them. So, so this is all happening in real time and you're listening to the cells the same way you would listen to and search for tremor cells. 
+2  
+01:10:11
+Exactly. Same exact tools. 
+0  
+01:10:13
+And you're doing that by recording from a, a small population of cells in the 
+2  
+01:10:18
+Area. Yeah, in fact, we do get multi-unit activity, which is multiple cells, but we really try to find one, a single unit to listen to 
+0  
+01:10:27
+One 
+2  
+01:10:27
+Neuron. Yeah. Because it's just much easier to understand what that one neuron is doing versus trying to listen to multiple. And we also measure local field potential recordings. But those are analyzed, which is more of a population response, thousands of cells kind 
+0  
+01:10:42
+Of 
+2  
+01:10:42
+Chorus of cells Exactly. That we measure offline. The device that we use to sort of treat these patients or intervene that we're studying it. It can't do single unit recordings, it's only doing these more population responses. So we correlate what we see in the operating room at the single unit level to the population response. But we do that all offline. And I can explain that in a moment. But yeah, so we, we try to identify these craving cells and because this is a feasibility study and we can't, you know, be in the operating room searching for hours and hours and hours, we do have some sort of, we have guidelines that we've set for ourselves that we've developed with the NIH or the FDA to make sure that what we're doing is feasible and safe as well. 
+2  
+01:11:36
+So we, we will spend a limited time trying to identify these craving cells. But another sort of strategy that we think is really important is the effect of the stimulation. So a lot of patients, and this gets to sort of your question earlier about what kind of what comes first. You know, a lot of people when they, when they binge or they lose control over food or seek drugs, that moment of vulnerability is preceded by what we call a, a moment of sort of pre-me negative affect, which basically means right before they binge, they're feeling down or they feel stressed or anxious and they compensate for that momentary symptom by binging or losing control over food. 
+2  
+01:12:27
+Not everybody meets criteria for a binge. So I, I try to specify that we are, we are looking at loss of control eating specifically just because the criterion of a binge is not as critical for us. So, so what we wanna be able to do is trigger stimulation when this craving is detected by the device, but we trigger it only when the craving is there. And we believe that if we can sort of temporarily elevate their mood ever, So briefly again, this is about five to 10 seconds of stimulation only, that perhaps that elevation in mood could actually sort of disrupt the craving to binge cycle. 
+2  
+01:13:11
+Maybe that's a habit, maybe it's not. But if you crave and then you binge, if we can interrupt that with this moment of feeling good, that might be a really good therapy for a patient. And in fact, when we do deep brain stimulation for obsessive compulsive disorder, we can fairly reliably induce a positive effect. The problem is that it's not sustained. And the reason it's likely not sustained is because with obsessive compulsive disorder, we treat that condition with continuous stimulation. And it's not surprising that over time the effect kind of goes away. So when they're in the clinic and we turn the device on, our patients feel great and we feel like we've solved the problem, but they call us the next day and they're like, you know, my, my depression came back, or my O C D hasn't gotten better and my moods back to where it was. 
+2  
+01:14:02
+Can you, can you get it back to where it was yesterday? Cause that felt great. The 
+0  
+01:14:05
+Brain loves homeostatic 
+2  
+01:14:07
+Regulation. It does, and 
+0  
+01:14:08
+It does not like to shift 
+2  
+01:14:10
+Patterns regression to the north. Right. And I think there's sort of a tolerance effect there that is, is limiting the effect of continuous stimulation. And actually in a mouse, if you do continuous stimulation, the, the sort of block hate of binge eating goes away. So actually in a mouse, we've actually demonstrated, we published this not too long ago in p and a s, that if you deliver stimulation intermittently and only when sort of a craving signal is detected, so to speak, that, that that effect will be the most robust and durable. But if you deliver it continuously, actually the benefit goes away over time. 
+2  
+01:14:50
+So I've always encouraged my colleagues to consider more of an episodic stimulation approach rather than continuous deep brain stimulation. But of course that that's for these more episodic conditions. Whereas these more state disorders, as I oversimplified earlier, they might need more of a continuous therapy. So that's definitely subject for a lot of research in the future. So in any case, the goal in the operating room was to identify a craving cell, deliver stimulation safely, but also to capture a moment of elevated mood. We were able to do that as we, we are in our OCD patients as well. And also to get an intraoperative CAT scan. 
+2  
+01:15:31
+We have devices now in the operating room that allow us to get imaging in real time. They're fabulous tools that we didn't have 10 years ago. So we can confirm accuracy, you 
+0  
+01:15:42
+Know, where the, you can see where the electrode is exactly, 
+2  
+01:15:45
+Precisely exactly. You know, with 0.5 millimeters of error. So super precise or as precise as we think we need to be. And we use connectomics. So there's a tool in brain imaging called tractography where we can actually measure circuit connections. It's, it's a indirect assay, but we believe it's powerful. It has its assumptions, but like anything in science, but we can actually map out where the nucleus acus connects to the prefrontal cortex, sort of the control, inhibitory control pathway and where that pathway intersects with the nucleus acus and we can target that area structurally. 
+2  
+01:16:32
+So those three goals of the surgery we, we aimed to set up to accomplish. And we believed if we achieved two of those three, that we would have a, a successful result in our, in our early trial. 
+0  
+01:16:45
+Amazing. Given that, at least to me, the non-clinician that nexia is the mirror image of binge eating disorder and at least from what I learned, one of the more deadly psychiatric conditions Yeah. But also quite common. 
+2  
+01:17:05
+Yes. 
+0  
+01:17:05
+Is it possible that nucleus succumbs, this so-called reward circuit is also involved in anorexia, but somehow it is the resistance to eating the craving of the fasted state or something like that that's being reinforced? Yeah, and, and I asked this for two reasons. One, because I'm genuinely curious about anorexia. I've observed anorexia in a number of people that I know and it's a striking thing to see somebody just resist food despite all better knowledge of the fact that they're getting quite ill and maybe even at risk of death. But the other reason is that if in fact nucleus acus is the site which can harbor cells to promote craving and craving of fasted states, so to speak, then that I think might tell us something fundamental about how the brain works, which is that structures don't control functions per se. 
+0  
+01:18:03
+Structures control dynamics Yes. Of interactions, sort of like a orchestra conductor has a certain number of operations that they perform, but really their main function is to coordinate the actions of a lot of things, not to make sure that the violins always play in Yes. A certain way alongside the obos. You can tell I'm not a musician here, 
+2  
+01:18:24
+You have an appreciation for the obos. Those usually get left 
+0  
+01:18:27
+Out. What's that? The obos? 
+2  
+01:18:28
+Yeah. They usually get ignored. 
+0  
+01:18:30
+My partner plays the elbow, so, Wow. Yeah. So yeah, 
+2  
+01:18:33
+I think it's a great analogy by the way, you know, I I, I make this statement, it's a little controversial, but I, I actually think people would understand where it's where I'm coming from across all of these sort of subspecialties of medicine. But I, I actually think, especially with obesity, remember it's a phenotype that's reflective often, but not always of a behavior. But if you consider patients that have obesity and they, they exhibit some sort of compulsion towards food so they, they overeat despite the risk of it. I think those kinds of patients are more similar to anorexic than they are different. Anorexia and obesity are both phenotypes that are at least in this specific case of obesity and in anorexia a result of a compulsion to either over or undereat despite the risk. 
+2  
+01:19:20
+These types of compulsions are driven by societal pressures, brain vulnerabilities that are probably more similar than, than they are different. They, they just happen to manifest differently. Why they manifest differently is probably related to each patient's predisposition or perhaps a preference. That's hard to know. Like you, I I have a, a personal connection to these eating disorders, anorexia included and yeah, I, I think it's, it's very scary and it's a condition that often instills fear in psychiatrists because I, I think, you know, not, not everybody by the way, I mean I have some phenomenal psychiatrists that I work with both at Stanford and at Penn. 
+2  
+01:20:07
+They're also involved in my obesity study that take care of these patients. I mean, these are heroes, but there's a lot of psychiatrists that are not in this domain that, that find anorexia is scary for the reason you said it has the highest mortality of all psychiatric conditions. That includes depression. Because not only can these patients die of suicide, but they die of metabolic complications of being underweight. So it's a, it is, it is a scary condition. I, I relate with that. I am trying over time to bridge what I'm doing in obesity and binging disorder. Two anorexia for, for two reasons. One, because I think these problems are more similar than they are different. And two, because of the need. And I, I think we're well positioned to, to sort of tackle anorexia using similar approaches. 
+2  
+01:20:54
+Not identical but, but similar approaches. The nucleus acus has been studied in patients with anorexia in China. Actually my postoc, my first postdoc who I had the honor to train when I was at Stanford as a neurosurgeon in China, when before he came to me, actually was involved in a, in a trial of anorexia that had some benefits. And there's studies in Europe and elsewhere that have examined preliminarily the effects of deep brain stimulation targeting the nucleus succumbs for anorexia colleagues of mine in Canada. Andre Zas, a wonderful neurosurgeon scientist, has been studying the effects of going after area 25, which is directly connected to the nucleus cus by, you know, it's a mono synaptic connection. 
+2  
+01:21:43
+So in a lot of ways, you know, perhaps delivering stimulation there could, could be very similar to delivering stimulation with the nucleus cu that's all part of one critical inhibitory control circuit. He's seen benefits as well. So I, I definitely think there's some evidence that this is an area that we need to be studying, I think are more episodic approach with response to stimulation going after sort of a signal in the nucleus acus that seems to be related to the compulsion to withhold for meeting, I think is what we will be trying to accomplish in our study. It's a right now just being conceived though. Yeah. The, these studies, they move so slowly because you have to get a grant, that grant gets reviewed by the NIH six months after you submit it often gets rejected because it's too innovative and too high risk. 
+2  
+01:22:33
+So then you have to edit it and decrease the risk. So it takes, my obesity study took two years to get funded and I worry about that timeframe because that's a lot of time for patients with anorexic to suffer that I might be able to help at least in a small sample of patients. So, but that, that is the nature of how these things go. You also have to get FDA approval to do these kinds of things. We try to do all of this in parallel. It's an enormous undertaking and in a lot of ways we're starting from scratch, but in some ways we have some preliminary data to, to go after this. So my hope is in about a year we'll have a similar trial for anorexia at Penn. So, so more to come on that. And, and I, and we're not the only lab that's trying to go after because of the, the clear need. 
+2  
+01:23:14
+So 
+0  
+01:23:14
+What is the status of noninvasive brain stimulation, ablation and blocking activity in the brain? Get a lot of questions about transcranial magnetic stimulation. Yeah. I've actually had that done. Oh. As a research subject. Sure. And I was at Berkeley Rich Ivory's lab put a coil in my head. I was tapping my finger in concert to a, a drum beat. And then all of a sudden because of the stimulation, it was impossible for me to keep time. Yes. With the drum beat. That's 
+2  
+01:23:39
+Cool. It's 
+0  
+01:23:40
+A pretty wild experience to not have motor control and then to have motor control returned. Yeah. At the flip of a switch when someone else is controlling the switch is, makes it especially eerie. So my understanding is that transcranial magnetic stimulation is being used to treat depression and a number of other brain syndromes noninvasively. So no, no drilling through the skull. Surgeons don't like that. Surgeons love to cut and drill with purpose, but they do with purpose. Yes. But my understanding is that the s spatial precision isn't that great. Yes. Ultrasound is something I hear a lot about these days and my understanding is that ultrasound can allow researchers and clinicians to stimulate specific brain areas, perhaps with more precision. 
+0  
+01:24:27
+Maybe you could just give us a coverage of what those are being used for. What are your thoughts on, on these forms of noninvasive meaning? No, no. Flipping open of a piece of the skull type brain stimulation and blockade of brain activity. Sure. 
+2  
+01:24:45
+Yeah. I wanted to clarify also these, these surgeries generally don't, by the way, require a a full craniotomy. It's usually just a small opening about the size of a dime in the bone. So just, just to clarify, but 
+0  
+01:24:56
+That is painless too, right? 
+2  
+01:24:58
+Well, usually without pain there's 
+0  
+01:25:00
+A little bit of scalp numbing. We 
+2  
+01:25:01
+Give a scalp block and the patients are getting ivy sedation. So they in general don't feel anything. And if they do, they tell me and we give them more local anesthetic. But that's, they're usually asleep during that part. So it's minimally invasive. But, you know, in a lot of ways there's no such thing as a minimally invasive procedure in the brain. You know, it's a, it's 
+0  
+01:25:18
+Kind of a I'm glad to hear you say that. Oh no, 
+2  
+01:25:20
+I, you know, I, I am not one of those neurosurgeons that you've probably encountered and we have mutual friends that, and you know, these mutual friends are some of my favorite people in neurosurgery. And they probably actually think more like me than, than not. But there are neurosurgeons that you're absolutely right. And, and this is true for all surgeries. They, they really, in a lot of ways, they think what they do is sort of the ground truth or is closer to the ground truth. And I, I get that, you know, probing with purpose. I, I I actually really like that. I'm gonna use that if you don't mind. 
+0  
+01:25:51
+Just, it's just describing what you do. So the Yeah, but 
+2  
+01:25:54
+I, I actually have, have always said this, I've said it publicly. I've said it to my boss, I've said this to my team, We need to embrace noninvasive approaches. Some of them are a little fluffy, fluffy in that we don't understand how they work. We don't necessarily understand how deep brain stimulation works, by the way. So, but because we don't know exactly how they work, they're not as precise as we would like them to be. So we have work to do there. And I actually think that work is doable and actually underway, you know, at Stanford, we have great collaborators that, that I think are doing this. People like Nolan Williams and Connor Liston at Cornell and others. 
+2  
+01:26:36
+So we, I think that tms, transcranial magnetic stimulation, it is FDA approved for depression, by the way. It's also FDA approved for OCD and for nicotine addiction. Where, where do they put the coil for those three or more or less? Yeah. So they put it over was always on the scalp and over the frontal lobe. And there's different parts of the frontal lobe that have been demonstrated to be a little better or a little bit worse. But what the FDA has approved for depression, I believe is similar to what's been approved for O C D. But for addiction, I, I believe it is a different target. But we'd have to ask our, our TMS experts on that. Can they direct the transcranial magnetic stimulation deep below the cortex? 
+2  
+01:27:17
+They try And we're, we're actually studying this in OCD patients. Now I, as a part of our invasive trial, we, we are trying to pool patients from a TMS trial that's in parallel to what we're doing. All funded by the foundation for OCD research where we believe we can use TMS to, to define a circuit that if modulated improves O C D, albeit temporarily. And in those patients, if it's temporary, they would be appropriate for an invasive study. So something we're actively working on. I've always believed that neurosurgeons need to be part of the discussion with these noninvasive approaches. 
+2  
+01:27:58
+We don't need to do them, but I think we can help make them more precise and to probe noninvasively with purpose rather than this more kind of, I don't know, a noninvasive blast effect kind of, you know, I, I just can't imagine how that is gonna be as effective as probing with purpose. But you can do that noninvasively as well. And I, I think we need to do better in that way. I do believe that's possible, and I think people are actively trying to do it. Getting deep in the brain with tms, I think will always be hard. But you can get there indirectly by using connectivity assays and targeting superficial structures that have high connectivity to deep structures. 
+2  
+01:28:43
+So for example, perhaps one day there will be a TMS target for anorexia and obesity. If we are scratching the surface with invasive approaches to these problems, we we're even doing less with the brain stimulation. So we have so much work to do there. Eating disorders and TMS have been so sort of scarcely studied or, or there have been so, such little research done in that, in that space. And so it, it is an area that we need to, to work on for the obvious reason. For example, in a patient with anorexia, just thinking practically, you know, placing a device in a patient who is significantly underweight might not be the best approach. 
+2  
+01:29:25
+You know, wound erosion and issues like that could come up. So developing a noninvasive approach I think is critical. The problem is where do we target? And so the only way to answer that, I think, reliably is to accept that we have to get into the brain before we're out of the brain. And with these kinds of conditions, we're only just starting to get into the brain, you know, So I, I worry that we're a long way away from a noninvasive approach that really works consistently. 
+0  
+01:29:54
+Just sorry to interrupt. Yeah, I, I wanna make sure we touch on ultrasound cause Yeah, sure. No, I love that. But his, historically, it seemed that there was a bit more permission for people to probe around in the human brain. I, I've sometimes refer on the podcast to some of these papers that were done allowing patients to self stimulate in the brain. These are work done in the, in the sixties, and now his name escapes me, Robert. Anyway, there's a couple papers published in science, allowing patients to stimulate a couple different brain areas, asking which ones they preferred. And I was always shocked and slightly intrigued by the fact that the, the brain area that all three of these patients who I don't think had any syndromes, I think they volunteered for these experiments. 
+0  
+01:30:37
+Incredible. I don't think you could do this anymore. Yes. 
+2  
+01:30:40
+Regulatory, 
+0  
+01:30:41
+Yeah. Things 
+2  
+01:30:42
+Was not the same as it is 
+0  
+01:30:43
+Now. Things have changed fortunately, but they all, three of them seem to like some midline structure, which for those listening is just area kind of in the, in the dead center of the brain, more or less. That evoked a sense of kind of frustration and anger, which surprised me because I would've thought, Oh, it's Robert Heath. Yeah. These experiments, rather than patients preferring to stimulate areas that evoke laughter or joy or a feeling of drunkenness or delight. It also explains a lot of what I observe in social media. This sort of, kind of people repeatedly engaging in battles that are kind of trivial. That seems like frustration and anger might have its own reward circuitry. 
+0  
+01:31:23
+Anyway, I don't wanna go too far down that rabbit hole, but it, it, it's a deep one. It's a deep one and, and kind of gets to our nature. Yeah. You know, as humans and what we find interesting or rewarding, but, you know, theil, the inability to probe around the brain in a safe way without the need for somebody to be very sick. Yeah. Would be, I think would be enormously powerful. And at least to my mind, if I were in charge, which I'm not, would offer the opportunity to really come to an understanding about how the human brain works without all these issues of how, how to translate for mouse studies. And again, there's huge value to animal studies as we both agree. 
+0  
+01:32:05
+But so many of the things that we want to know about the human brain involve asking the person, Hey, do you, what do you feel when that set of neurons is stimulated and what don't you feel? Yeah. And a mouse we can ask and ask, but they're not gonna tell us something. They do tell us. They're not gonna tell us in English. So how do we overcome this challenge? But first ultrasound, or if you prefer after ultrasound, what is ultrasound gonna be really useful towards solving these clinical issues and these basic issues. 
+2  
+01:32:31
+Yeah. So I think let's start with ultrasound, then we'll come back to it. So ultrasound right now, transcranial magnetic guide, Magnetic resident guided focus ultrasound. So this, this is an FDA approved method to deliver an ablation to the brain, non-invasively. There are researchers, myself included, that are trying to use transcranial magnetic guided magnetic resonance guided focus ultrasound or MRI guided focus ultrasound to use it in a modulatory way, not just as an ablation, but to drive neural activity or inhibit it perhaps. 
+2  
+01:33:12
+We're still learning how to do that. There are trials that are trying to understand if you can use ultrasound to open the blood brain barrier so you can deliver a medication to that specific area, perhaps for a brain tumor or something like that. So it's a very exciting field and it is FDA approved for tremor right now. And so I actually do it routinely for patients with tremor with Parkinson's or essential tremor. And so I, I love doing it. It's often just kind of a miracle because there's no incision, I don't have to place an electrode into the brain to achieve a, a similar result. 
+0  
+01:33:49
+How early into the pathology of Parkinson's can someone think about approaching this? So for instance, if somebody has a, a parent or, or a sibling and they're developing some resting tremor, Yeah. Obviously they should talk to a neurologist, but a neurosurgeon. But this noninvasive approach could be incredible for them. Yeah. As opposed to just take only taking drugs to increase dopamine levels. 
+2  
+01:34:11
+Yeah. So depending on the reason you have tremor would dictate the kind of medication you would use. It could be Parkinson's, but if it's not, it might be central tremor. By the way, central tremors, 10 times as common as Parkinson's, really essential tremor is the most common neurologic condition in patients over the age of 70. We often aren't aware of that. People with essential tremor feel they have their forgotten disease because there's no Michael J. Fox for essential tremor. I, I sent a letter to Bill is, Sorry, 
+0  
+01:34:36
+Is it essential tremor or, 
+2  
+01:34:38
+Or essential essential tremor, Yeah. E SS E N T I A. You know, I've actually sent a letter to, to Bill Clinton. I, I've observed tremor in him and I think he's actually disclosed that he has it. And I've hoped he'd become a champion for, for patients with essential tremor. Sandra Day O'Connor does as well. She's also also public about it. But I, I was not able to get them eager to become the champion for this condition. But like Michael J. Fox, these patients need a, a champion like that. But unfortunately it's a bit of a forgotten disease. Nevertheless, because of the FDA approval of focus ultrasound for tremor, they're trying to get some attention for sure. 
+2  
+01:35:18
+And it's fabulously effective for these patients. It treats patients on one side, usually their dominant hand or their worst hand. And it, it really speaks to the fact that wow, you can deliver noninvasively an ablation to the brain in a hypothesized zone that we think is related to the problem at hand. And at least with tremor, it works really well. Could this be effective for psychiatric disease, obesity, eating disorders? Well, perhaps, actually that would be the ideal. The problem is we don't know where to do the ablation. There is a trial that we would like to do for O C D where we would deliver an ablation to the same area of the brain that we've been delivering ablations to for years for patients with ocd. 
+2  
+01:36:01
+And it helps a bit. That's called a capsulotomy. But really the outcome is probably gonna be about the same. It's a nice method because it's, it's noninvasive, but we need to find a new target for these, for these conditions. And because of the common denominator of the urge, despite the risk, sort of that compulsion, Yeah, perhaps it could be the same target, I don't know. But I would argue we need to do these modulatory experiments, either with a device or with invasive recordings to better understand where these problems are coming from to define where we should do in ultrasound treatment. So you're right, historically without much regulation, we've, we've probed the brain. 
+2  
+01:36:46
+The problem, we can't learn a lot from those experiments now, well, in this way at least we don't know exactly where those electrodes were. We didn't have MRI scanning or high quality cat scanning to, to know where those electrodes were with certainty. And, and we know two or three millimeters matters. And we also didn't have the tools to place electrodes in a precise way back then. So unfortunately we can't learn a lot from those experiments right now. So we're sort of redesigning them and there is a way to do it. Now, patients with epilepsy benefit from this all the time. There has been a revolution in America, it was in Europe before, it was in America where we would do stereo encephalopathy, which is basically like doing an EEG of patients with epilepsy, but with invasive electrodes. 
+2  
+01:37:32
+And we would place tiny little wires, less than a millimeter in diameter all throughout the brain into parts of the brain that we believe are involved in seizures. And we would admit the patients to the hospital and figure out where the seizures were starting and propagating. And then, you know, we could stimulate those electrodes to see if there was a symptom that was important. And I try to identify a region that we thought we could either remove surgically ablate with a laser or put a, a stimulator in it. Perhaps that's commonplace now for epilepsy. And it works extremely well and it's very safe. Of course, it's still a brain procedure, but the, the complication rate is surprisingly low, quite honestly for the amount of lectures that we place. 
+2  
+01:38:16
+And it's extremely well tolerated. Most of these patients leave the hospital and they don't even feel like they've had surgery. So there's actually a lot of interest in using that procedure to study mental health disorders. We are trying to do it for patients with obsessive comp, compulsive disorder. We're awaiting and FDA decision on that. But actually I credit our colleagues at Baylor and at U C S F for, for studying this already. We have fabulous colleagues at U C S F that have studied depression using this type of approach. A mutual friend of ours, you know, Eddie Chang, who, who's a wonderful friend and colleague, somebody I've emulated for many years as well. 
+2  
+01:38:58
+And, and the, the psychiatry team at U C S F have worked together on this sort of bringing together the epilepsy technique and the psychiatry expertise to study how we could better target electrodes in depression. And I'll tell you, if they have a consistent target, perhaps there, it becomes an ultrasound target. But right now the approach is a bit more reversible cuz you can always shut that electrode off or even remove the electrode if perhaps it's not in the optimal location to treat the depression. But actually after a large volume of cases, perhaps they could pull that data to develop a, a new ultrasound target for depression. 
+2  
+01:39:39
+I think that would be fabulous and probably is their long term goal, not to speak for them, but that would be something that I, I'm sure is on their radar. And a baylor's trying to do the same thing for depression. Their approaches are a little bit different, but a similar tool to try to understand depression. And, you know, we're working with all these types of colleagues. Some of these are our friends to try to, to bring this to OCD as well. And, you know, it makes sense to try to do this for addiction and obesity and anorexia. You might ask, well why aren't you doing this for obesity right now in, in our, in our study. And the reason is that we've developed a target for obesity and binge eating disorder developed out of mice that we believe is relevant for the human state. 
+2  
+01:40:24
+Because you can model this problem in a mouse a bit better than, than you can model depression or ocd. So we feel like we can rely on the preclinical studies more. Whereas with these perhaps more, I don't wanna say more complicated, but more human mental health conditions that are hard to model in a mouse. You really have to study it in the human and you can perhaps start in an epileptic patient, a patient that has electrodes and try to provoke a depressed state or study epileptics like Dr. Chang has done that have comorbid depression, for example. And that can really validate this approach as well. But in the end it's, it's getting into the human brain that we need to do in the disease specifically that will eventually lead to a non-invasive approach. 
+2  
+01:41:09
+Either a lesion or modulatory approach would be like TMS or lesion approach would be with ultrasound. 
+0  
+01:41:17
+I couldn't agree more. Meanwhile, because there are many, many millions of people suffering from depression needing disorders, Parkinson's and essential tremor cetera. Well, first of all, I should say, based on everything you've told me thus far, it's amazing to me that any pharmacologic treatments work because of how systemic they are and impacting serotonin, serotonergic neurons over here and dopaminergic neurons over there and not targeting any specific batch of cells. That makes perfect sense as to why all the side effects exist. But earlier you said something that really grabbed my attention I want to come back to, which is that if people can be made to feel or bank themselves feel just a little bit better, a little less anxious just prior to a craving episode or a binge episode, and maybe even if people can become better at detecting their own internal states and when they're kind of veering toward a binge or veering toward using a drug or maybe veering towards suicidal thinking. 
+0  
+01:42:21
+I based on what you said earlier, that those kind of pre behavioral states on the kind of drift on the, on the steering, those sound like powerful levels of awareness, at least for now until we have specific sites in the brain that we can target noninvasive methods that could be deployed to millions and millions of people. Seems like that awareness seems like maybe among the best tools that people could develop. 
+2  
+01:42:51
+Yes, a hundred percent agree with you. 
+0  
+01:42:52
+You know, so for the person with OCD or who suffers from anorexia or binge eating disorder and to their clinicians, you know, I I I just wanna highlight that you said that, I mean, I, I'm not, again, I'm not a clinician. I always say this, I don't prescribe anything. I profess things and, but awareness of one's thinking seems immensely powerful in this context. Yeah. And after all it is the clinical probe that you use because the, if let's say the patient were to lie to you about their experience of what happens in their mind when you stimulate, you could basically the whole thing, the whole surgery, the whole procedure could go badly wrong. 
+0  
+01:43:34
+So it's, it's up to the patient to be of course, honest with you and their, they're yes, incentivized to do that. But to be honest with themselves about, ah, you know, I've gone all day without a binge. But you know, the, the smell of a donut or the thought of a donut is starting to have a particular allure. That awareness seems like an incredibly powerful thing to own and to, and to build and cultivate. 
+2  
+01:43:57
+Yes, I've always thought that if we could improve awareness, we can improve outcomes. I think that's probably true for many of these patients. The problem I think comes down to the fact that some of these patients are so resistant to treatment and the patients that we see as a surgeon, for example, are the patients that they've tried cognitive behavioral therapy, certainly have tried medications, they've tried behavioral management, They are aware of their problem and they've shown that to us. They can tell us when they're craving. But despite the craving and despite being involved in this invasive brain surgical trial highly, you know, first in human novel study, which I think will have a positive effect, but it's still experimental. 
+2  
+01:44:41
+They still can't stop themselves. So they're sort of as made aware as could possibly be. Did I use grammar there correctly? I think so. They're as aware as they could possibly be and they still lose control. We've had this studied in the lab. So we will bring patients to the laboratory with this implanted device to, to try to provoke this electrographic electrical signal that can be detected by the actual device that will stimulate them when they're at home. But before we actually initiate stimulation, we want to see can this device detect this craving cell signal, which is gonna be different than what we saw in the operating room because that's a single cell. 
+2  
+01:45:22
+But these devices, these electrodes are about a millimeter in diameter instead of like a 10th of a millimeter, which is what we use in the operating room. So they're, they're only hearing or or detecting, I should say, thousands of cells responses. And we actually have a way to provoke binges. It's called a mood provocation. It's very well, well, very well validated. It's a little bit like provoking seizures in the epilepsy monitoring unit. But here in the sort of psychiatric monitoring unit or the, the food monitoring unit, we, we actually have a psychiatrist and eating disorder specialists come and induce a mood that is related to each patient's sort of self described binge episode. 
+0  
+01:46:09
+So the psychiatrist comes in and provokes 
+2  
+01:46:12
+Yes. 
+0  
+01:46:13
+A feeling that can evoke the negative 
+2  
+01:46:17
+Behavior. That's exactly right. So that we can video and synchronize the video to the brain signal recordings. The patients all wear an eye tracker so we can see what they're eating at all times and what they're looking at specifically. And that allows us to have the best temporal resolution possible to understand what is happening right before the bite. And even under video surveillance through a one day, one way mirror in a laboratory setting, when patients are very well aware that they're there to be studied. If they're going to binge, they still do. And we believe they do because they just can't control it as aware as they are of it. 
+2  
+01:47:00
+And it's probably because they're the most severe. So I think if we can improve awareness, not just the societal awareness that I was talking about earlier, but the patient awareness around their problem, I think that could be a powerful way to help so many of these patients. And that's sort of the role of cognitive behavioral therapy. The problem with cognitive behavioral therapy, where I should say the limitation of it, I actually don't have any problem with it. I think it's a wonderful treatment is that if you stop it, many of these patients go back to their old behaviors, I don't wanna say old habits, but they might be a habit, but the old behaviors. And so that's the problem, is it's not necessarily lasting in the absence of continued cognitive behavioral therapy. 
+2  
+01:47:40
+Some people can benefit from it long term, but some can't. But I think in, in, in, in the less severe patients improving awareness key, but in these really refractory patients, this is, this is kind of like, this is the disease despite the awareness, they can't control themselves. And that's what we're trying to restore is that improved ability to control their behavior. 
+0  
+01:48:02
+Do you think there's a role for machines and artificial intelligence here? There are a couple laboratories up at the University of Washington that are using particular signature patterns of within voice to try and help suicidal people who are suicidally depressed know when they're headed towards an episode before they even can consciously know. So this gets right down to your shoes of free will and whether or not machines can smarter than we are. But you know, one could argue that some of the search algorithms on Google and other search engines are actually more aware of our preferences than we are. Basically what these are, these are devices that are listening to people talk all day. 
+0  
+01:48:43
+They're also paying attention to patterns of breathing and how well people slept, etc. Integrating a, a huge number of cues and then signaling somebody with a, you know, a yellow light like, you know, you're headed into a depressive episode and the person might say, I feel fine where I feel pretty good, this is kind of baseline state for me. And they say, ah, this is where you were preceding the last episode that took you down a deep dark trench and it took months to get out of. Yep. I wonder whether or not some of these devices could help with the sorts of things that we're talking about today. Yeah, 
+2  
+01:49:15
+I think so. I've always said we have to get in the brain before we get out of it. And if we get in the brain and understand what these signals look like, we'll know what those noninvasive signals are. I think it's possible that we are scientifically sophisticated enough to use machine learning and sort of this kind of bot technique to anticipate when somebody is going to be highly impulsive. You know, suicide's the most dangerous impulse. It's something that is immensely a focus of the lab is impulsivity. We've talked mostly about compulsion, compulsion being, you know, going after a reward or, or the urge despite the risk impulsivity is, is similar but different. 
+2  
+01:50:01
+It's, it's kind of going after something a little bit. If you, if you model impulsivity in, in a mouse, it's, you know, related to, you know, going after a food reward without the sort of paired tone that you're, the mouse is supposed to wait for, The mouse doesn't wanna wait anymore. They, they just go after the food. I've 
+0  
+01:50:21
+Been that mouse. 
+2  
+01:50:22
+Yeah. We all, we could all relate with this to a certain extent, again, the spectrum. So, so in any case, I non sequitor, but I I, I certainly think that there is a way to use our own bodies' physiology to anticipate when these impulses are coming online, how best to do that. I think we're just scratching the surface, but these are the kinds of solutions we need. These are, some of these problems are of epidemic proportions. Largest public health problems in this country, in this world. Obesity, opiate crisis, depression, that's suicidality. 
+2  
+01:51:03
+I mean that's like a third of our country. Maybe more, probably more when you 
+0  
+01:51:08
+Think about it. And a colleague of ours at Stanford Psychiatry told me something that still just blows my mind, which is that something like 75% of the antidepressant and anti-anxiety medication that exists in the world is consumed in the United States. 
+2  
+01:51:23
+That's amazing. Which 
+0  
+01:51:24
+Is, I mean, that's an outrageous number. Yeah. 
+2  
+01:51:26
+We do have an obsession in this country for pharmacy, you know, and the pharmaceutical industry is very powerful here and probably related some aspect of capitalism. I'm capitalistic and just like everybody else, but I do worry about that a little bit. But, you know, we tend to over prescribe and I think we as patients tend to over one medication. We like quick solutions and sometimes medications provide it, sometimes not, or they're often just a bandaid depends on the problem, of course. So, but, but I, I agree that we need scalable solutions, but, you know, I, I'm a neurosurgeon, I'm only gonna be able to treat the most severe of patients with these problems. 
+2  
+01:52:08
+You know how, you know, we've only done about 200,000 deep brain stimulation surgeries ever. So I mean, the problem we're talking about here is 50 million Americans. There's no possibility that surgeons can address that problem. But we could help inspire an initiative to go after that kind of problem or help make it more rigorous because the last thing we need is a, you know, some sort of wearable fancy tool that, you know, wastes people's money in time. You know, we need real therapies for these things. Not that these devices that we're discussing are not, I think, think actually there's lots of promise and we use machine learning in the lab all the time. 
+2  
+01:52:49
+I'm not a, an electrical engineer or the computational neuroscientist doing this type of work. I, I just help develop the hypotheses around it, but, and help fundraise around it. But I, I definitely think there's a future for it. I just, I, I suspect we're, we're scratching the surface on how best to do it. 
+0  
+01:53:05
+Let's talk about your hands. 
+2  
+01:53:07
+Yeah, sure. 
+0  
+01:53:08
+All the neurosurgeons I know are, you know, very faithfully protect their hands. Let's talk 
+2  
+01:53:14
+About it's insurance is too expensive. That's 
+0  
+01:53:17
+Right. But I'm guessing that you all are not the ones to reach into the garbage disposal, even if your eye is on the switch to make sure that it isn't gonna get turned on. They're just too precious. They are your livelihood. Yeah. And earlier we talked about deadlifts. There are other forms of exercise. There are things like tennis there, there's drawing and painting. A full range of things that one can do with their hands. Use your imagination folks. Sure. Is it true that neurosurgeons don't do any really like heavy grip activity because it can refine the motor p motor circuits in the brain and elsewhere that can throw off their neurosurgery game? 
+2  
+01:53:59
+I would say that many neurosurgeons avoid activities that put their hands at risk. Another one, by the way, you know, there's a, an annual softball tournament that neurosurgeons come to in New York City, in Central Park with 
+0  
+01:54:18
+A very softball, No, I'm just kidding. Well 
+2  
+01:54:20
+Actually it's actually a very, you know, typical hard softball, I don't know why they call it softball. And actually two close colleagues of mine have gotten injured at that tournament. 
+0  
+01:54:31
+Maybe this is a, it's also, I must say, and here I'm poking fun, but for those of you who are going to the medical profession, it's also one of the more, how should I say this? Well, I'm just gonna say it. There's a steep hierarchy of training in neurosurgery. Yes. There's a certain harshness that's been conveyed to me about the training, much like astronaut training to be totally fair. And so maybe this is a tactic to, to weed out either the younger or the, the older generation. 
+2  
+01:54:57
+This is evolution, right? We have to evolve and 
+0  
+01:55:00
+Wing and medical. 
+2  
+01:55:01
+We cut the weak, I guess. Well, I, I could say that one of the individuals that got injured is one of the more senior surgeons that I work with now and is one of the best athletes that I know. And he's definitely not weak, but you can get injured playing these sports. And that being said, I can tell you briefly is I think that, you know, it's funny, my, my mother came to me recently. She is, she has osteopenia and she told me her doctor told her she's not allowed to do deadlifts. And I was like, Okay, that's fine. I'm not telling you you should do deadlifts. I just don't exactly understand the relationship. But I can say that I do think, I'll give you a little story here. The reason why I'm being a little hesitant to, to confirm that I agree with you on the dead lists is I, when I was operating, this was when I was at Stanford University operating and we, as I mentioned earlier, we get an inoperative CAT scan to confirm accuracy for our lectures. 
+2  
+01:55:56
+I do this for all of my surgeries. When I was reviewing that CAT scan, the x-ray technician looked at me and said, whispered into my ear, he's like, Your posture is really bad. It's 
+0  
+01:56:07
+Embarrassing your physical posture while, while doing your surgeries. Yeah. 
+2  
+01:56:11
+And I looked at him and I, and I kind of wanted to say, I won't curse back. Yeah, exactly. I've been doing it intermittently during our conversation cuz he made me realize that I, I really did have bad posture. And we kind of had a little brief aside and I learned he was a personal trainer and his name was Zach. And he, you know, he said to me, You know, your posture is weak because, or your posture is poor because you're weak. You need to strengthen your body and strengthen your core. I was like, how? He's like power lifting. And I'm like, I'm a little hesitant to do this. And I'll tell you, I started very slowly and I can't prescribe power lifting to everybody for the exact reason you said, And I've gotten hurt doing it, by the way. 
+2  
+01:56:52
+But I do think I, I wish I started a little younger and I would argue that with close supervision and very well, if you are, if you have a very experienced trainer, which I would argue if you're a neurosurgeon or an astronaut or, or have a highly specialized profession where you need your, your limbs to, to, to function dentist, things like that. If you're gonna take something on like this, it really needs to be extremely carefully supervised. And I can tell you that, you know, my trainer had a profound impact on my life and my posture and my, my physical health. And so we did deadlift, I'll admit. So when you brought it up, I kind of chuckled to myself. 
+2  
+01:57:34
+But yes, I I have gotten mildly hurt deadlifting, but it was when I was doing it by myself and I was kind of cocky and I wasn't paying attention. But when I was with him and he was all over my technique, it actually was the most efficient way for me to feel stronger and it improved my posture significantly. And I, I miss him since I left California. I, I have a new trainer in Philadelphia who's great, but, and, and I still dead occasionally with him, but I, I, I can say I I am opposed to deadlift callously. But if you're extremely well monitored by an experienced personal trainer or a weightlifter, I think it actually could be a great exercise. 
+0  
+01:58:13
+Great. I I love to be wrong in this case because I'm a huge proponent and on the podcast I go on and on. I mean there's so, there's so much data now pointing the fact that a hundred, 180 to 200 minutes of zone two cardio kind of jogging, cycling, swimming type behavior is very healthy for everybody. And we should all be doing that, at least that 
+2  
+01:58:34
+Yes, I need to as 
+0  
+01:58:34
+Well. And, and that resistance training on the order of, you know, six hard sets per muscle group per week are, is really important just to offset deterioration of muscles. And 
+2  
+01:58:44
+I'm learning as we go here, 
+0  
+01:58:46
+Skeletal function and tendon strength. And that's just to maintain, We're not talking about all outsets to absolute failure, but Ed, as you point out with, with proper forms, so even the neurosurgeons are doing this, which I think is, is wonderful. Yes. As a final question, but one that I think really, or maybe second to final question. Earlier I commented on the remarkable calm, at least perceived calm of neurosurgeons. It could be cause or could be effect of the training. But it's obvious to me why one would want that trait in their neurosurgeon. You I wouldn't want a hyperactive, certainly not an impulsive neurosurgeon given that the margins of error are so, so tiny. 
+0  
+01:59:31
+Yeah. In s spatial scale and probably on the temporal scale too. Yes. And you don't want people doing things in time that are you or being spontaneous at all. Do you think that this branch of medicine that you're in selects for people that at least can know how to control any kind of fluctuations in autonomic routes so they can calm themselves in real time? And here's a specific question. What I've never operated on the human brain, although I've had the privilege of being in the operating room and seeing this with some of our experiments with people in vr. Some remarkable thing. I wish for everybody that would get this experience at some point, not hopefully as a patient unless they have a need, but to observe it. But what was just striking to me is the various stereotype behaviors of the surgeon. 
+0  
+02:00:18
+And when I did surgeries as a graduate student, as a postdoc, in the brains of other types of animals, I would find for instance, if I started to tremble a little bit, if I tapped my left foot, that my hand would stabilize a bit. That there's this kind of need to move the body or one feels the impulse. Maybe that's my, my tourettes like compulsions again. But that one can kind of siphon off some of that energy into another limb so that you could remain precise. So are these sorts of things that I'm talking about are, maybe it's entirely my imagination, but are, are these the sorts of things that one learns as a neurosurgeon, how to still the body and still the mind? Do you have a meditative practice when you go into the operating room? If you had a particularly challenging morning or, or a poor night's sleep? 
+0  
+02:01:01
+Do you have tools that you use to calibrate yourself and get yourself into the zone? I think this would be very interesting for people to get some insight into, even if they don't want to be neurosurgeon. 
+2  
+02:01:12
+Yeah, I, I completely agree and I, I appreciate the earlier reference to neurosurgeons as astronauts. Cuz I've also heard, you know, as compared to cowboys before, and it's a little bit less flattering. I, you know, some of what we do surgically really does require a substantial amount of confidence. And that confidence hopefully comes from years of training and experience. You always worry that the confidence is sort of misplaced and that, that that is problematic. Luckily, I so rarely see that because our training is so rigorous. You know, we have a board of American Board of Neurological Surgeons that sort of allows and, and assesses surgeons to continue practice and holds us to a really high bar. 
+2  
+02:02:05
+I do think it tends to attract a certain personality in my sub-specialty as a, like a deep brain stimulation surgeon. We call it stereotactic and functional neurosurgery. You know, some people have likened us to the neurologist with a scalpel. We, we tend to be a bit more intellectual, maybe, maybe bedside manners a little bit friendlier. And then there's the, the vascular neurosurgeon who doesn't sleep. And so they're not as friendly. There's the spine surgeons who operate the most and so they're, you know, busy, busy, busy. We, there are some of these kind of reputations going around. But I, I agree with you. There's a sort of a common feature of a calmness across neurosurgeons and you know, there's some of my, obviously my favorite people, my closest friends and I, I can relate with them probably because of that sort of a big picture. 
+2  
+02:02:56
+They don't get sort of flustered. They, they tend to are, they tend to be really good at figuring out how to have quality time because we work really hard. Our hours are significant. And so the time with our families are friends is less than we would like it to be. That obviously that's true for people who work hard across any profession, but definitely true for neurosurgeons. And I think that we're very good at figuring out how to make that time high quality. You know, even just texting with some of my friends in that are, that are neurosurgeons, a great friend of mine just became chairman at Duke and just connecting with him by text, which takes seconds, you know, you feel, we feel connected, you know, and I, I think that's a, that that's a trait amongst neurosurgeons. 
+2  
+02:03:44
+We sort of know how to cut to the chase in a way and prioritize our time. It's a skill that we probably have innately, but is also part of the training. You know, when we are interns now, there's a lot of work, our regulations that is probably quite appropriate. By the way. I think our hours before were bordering on, on, on, not necessarily let's, let's just say they were not ideal for mental health and sleep, which we know are very important components. Certainly we had no time for meditation. I definitely did not. I, I wish I did. Now knowing what I know about meditation, my wife's a health coach. I I get it, I see it, I, I, I practice it myself with her. 
+2  
+02:04:28
+I see the value. I wish I had that tool when I was in training because it's stressful. You know, even with the work hour restrictions, we still don't sleep very much. We're still at work a lot about 80 hours, you know, a week 
+0  
+02:04:40
+Throughout the entire career. 
+2  
+02:04:42
+There are times when it's more because after training there's no work hour restrictions. So sometimes I feel like as faculty we get abused and the trainees are a little bit more protected now. It would definitely was the reverse at one point. And that's also a huge problem. Probably more of a problem. And I'm joking a little bit, I don't necessarily think we're abused, but certainly our hours are significant. But you know, they come a bit more here and there, you know, on my or days when I'm operating, those are long days. But on the days that I'm lucky enough to be a researcher, you know, like you, those days tend to be a bit gentler. Unless I'm grant writing those days can be long as, you know. 
+2  
+02:05:22
+So I, so to answer your question, I do think we're, we're sort of self-selected for it, but I also think it's part of the training. You know, we, because of the long hours that we're in the hospital, we're taking care of sick patients and we have sort of a type a mentor approach where our mentors are hard on us. You know, we learn to cope with our stress and be efficient and prioritize things despite the, the stress of it all. And I think, you know, we take from that this sort of calm demeanor and you know, perhaps, perhaps it's just amplifies what we are probably drawn to. Because before we come to neurosurgery, we might rotated neurosurgery. We might spend a month, you know, pretending to be a neurosurgeon, learning from residents and, and, and faculty that are practicing the, the specialty. 
+2  
+02:06:10
+But you know, prior to actually starting your training, you, you never experience anything like being a, a resident in neurosurgery. The stress and the, the volume of patients that you have to take care of and the, the long nights, it can be quite lonely by the way you develop friends in the hospital. But sometimes you're on your own when you're on call and you have backup, you can call your chief resident or your attending, but you really have to learn how to take care of patients yourself. You obviously form teams with nurses and staff and things like that and other residents, but it can be lonely, it can be really challenging. And I think because of those experiences that all neurosurgeons go through, you know, we tend to have this sort of unflappable personality that perhaps we started with a bit compared to the average person. 
+2  
+02:06:59
+But the training definitely amplifies it. 
+0  
+02:07:01
+And do you have tools that you implement if you ever feel that you're getting slightly off center? 
+2  
+02:07:08
+I do now. You know, I, when I was in training, I actually remember in my second year, so most neurosurgery programs, when you're a junior resident, in some ways that's your toughest year. Not in every way. It, it is your toughest year because it's your, you're young and you're inexperienced and you don't know what you don't know. And, and that, that's why it's such a tough year cuz you have to learn a lot very quickly for patient safety reasons for self survival. You know, you just have to learn a lot and you're on call by yourself in the hospital. And it's, it's a real challenge. And I think that, you know, I, you know, personally, I, I gained a lot of weight during that year. 
+2  
+02:07:51
+The only exercise I did consciously was taking the stairs. I refused to take the elevator and I was at Penn at hub where I currently practice now. And I remember I would see patients anywhere from sort of the ground floor where the trauma bay was or the er all the way up to founder's. 12th, 12th floor. And I would never take an elevator. That was my rule for the year. Cause I knew I would not have time to exercise, but I would just take the stairs. And in the beginning of the year I would, I would be a little winded when I got to the 12th floor. But by the end of the year actually, it didn't really phase me. And it became a great habit to have. The problem with that though was I paired that unfortunately with, you know, a lot of sleepless nights or not enough sleep, let's say. 
+2  
+02:08:31
+And I had this terrible habit of drinking coffee late at night and I would put a lot of sugar in it. And it was sort of the only way for me to get a quick, you know, a a quick bout of energy that for some reason I prioritized at that time, obviously knowing that I would crash, which I always did and I always kind of regretted it, but I still did it anyway. And I, I I attribute that to poor decision making inexperience and perhaps being a little vulnerable. Like I think we all are. That's why I, I relate with a lot of the research that I do. And I remember I got married in my third year, the year after my second year. And my wife and I, or my fiance at the time, we started going to the gym together in the morning and my hours were a little better so I would actually be able to exercise before I operated that day. 
+2  
+02:09:17
+And I operated almost every day as a third year resident. So I remember I'd get to the gym really early and I, in three months I lost like 20 pounds and I wasn't trying to lose weight, I just was sleeping better and taking care of myself. And I remember when we got married, I, I, you know, I fit into a tuxedo that I had in college or it would've fit me in college. It actually was a new tuxedo admittedly, but it was the same size as my tuxedo from college. So I, I think that I, I've always related with the problems that our, our, our patients have to a certain extent. And, you know, I, when I've been most vulnerable, which is what I was working the hardest with the least amount of sleep, I, I related with it the most. And yes, exercise for me has always been my tool. 
+2  
+02:09:57
+More recently exercise, some, some, you know, strength training I think is important compared with cardio. I don't do enough of either, but I definitely do some and that helps. Meditation helps me a bit. I do that every night before I go to sleep. You know, I, we, I use an app for it. It's probably not the best way to do meditation, but if it keeps you doing it regularly Exactly, it's the best way to do it. Andrew, I couldn't agree with you more. You know, it's one of those things where I look forward to it every night and you know, sometimes my wife falls asleep and I come to bed a little later and I whisper. I'm like, are you okay if I turn the app on? So, you know, and she does the same to me. Cuz I think we, we both value it. And I, I think that's, that, that's been very helpful and I, I didn't have that tool, probably what I needed at most, but I have it now and, and it's very helpful. 
+0  
+02:10:42
+I really appreciate you sharing those tools. A number of people, I'm guessing out there might wanna become neurosurgeons. I really believe that in hearing today's conversation, that you'll spark an interest in medicine and or neurosurgery. I hope so. Well certainly you need to be a, a, a physician before you can become a neurosurgeon. So end neurosurgery in some cases. And that would be beautiful. And I predict that will be happen. That will happen, Excuse me. As a consequence of what you've shared today. I really appreciate your mentioning of the emphasis and appreciation on, on quality time. I very much see this as quality time. I, I know that our listeners will as well, really wanna thank you for taking time out out of your, not just immensely busy, but very important schedule because again, the work that you're doing is really out there on that cutting. 
+0  
+02:11:31
+I don't wanna say bleeding edge cuz in this context it's not gonna sound right. But on that extreme cutting edge of what we understand about how the human brain works and how it can be repaired, they're doing marvelous work. We'll point people to various places they can find you online and should they need your, the help of your clinic to, to your clinic and your laboratory as well. So on behalf of everybody and and myself as well, thank you so, so very much. 
+2  
+02:11:57
+I'm honored. Thank you so much for having 
+0  
+02:11:58
+Me. Thank you for joining me today for my discussion with Dr. Casey Halburn about the use of deep brain stimulation and novel technologies for the treatment of eating disorders and movement disorders of various kinds. For those of you that are interested in learning more about Dr. Halpern's research, please see the links in our show note captions that include links to his laboratory website and to his clinic, as well as various research publications that are available in complete form as downloadable PDFs. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please subscribe to the podcast on both Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review. 
+0  
+02:12:39
+If you have questions for us or comments or feedback of any kind, please put that in the comment section on YouTube. We do read all the comments. Please also check out the sponsors mentioned at the beginning of today's episode. That's the best way to support this podcast. 
+Momentous (Ad)  
+02:12:52
+Not so much today, but in many previous episodes of the huberman Lab podcast, we talk about supplements. While supplements aren't necessary for everybody, many people deriv tremendous benefit from them for things like enhancing sleep and focus and hormone optimization. The Huberman Lab podcast has partnered with momentous supplements. If you like to see the supplements of the Huberman Lab podcast has partnered with Momentous on, you can go to live momentous spelled o u s, so live momentous.com/huberman. And there you'll see a number of the supplements that we talk about regularly on the podcast. 
+0  
+02:13:19
+I should just mention that that catalog of supplements is constantly being updated. If you haven't already signed up for the Neural Network Newsletter, this is a monthly Huberman Lab podcast newsletter in which you get some brief show note summaries as well as a lot of actionable tools. In summary form, many people find these very useful for distilling out the vast amount of information that we cover on the podcast. So for instance, if you go to huberman lab.com, you can click on the menu, click to Neural Network Newsletter or Simply Newsletter, and you can sign up. Just give us your email. We do not share your email with anybody. And again, it's completely zero cost. We also have examples of previous newsletters that you can download immediately without having to sign up for anything and decide whether or not you wanna sign up. 
+0  
+02:13:59
+Again, that's the Neural Network newsletter@hubermanlab.com. If you're not already following us on social media, we are huberman Lab, on Instagram, on Twitter, on Facebook, and on LinkedIn, and especially on Instagram and on Twitter. I cover many of the tools that are discussed on the huberman Lab podcast, but also a lot of science and science based tools not covered on the Huberman Lab podcast. Again, it's Huberman Lab on all platforms. Once again, thank you for joining me today for my discussion with Dr. Casey Haler. I hope you learned as much as I did and as always, thank you for your interest in science.

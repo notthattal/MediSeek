@@ -1,0 +1,770 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. Elissa Epel: Control Stress for Healthy Eating, Metabolism & Aging
+Published: 4/3/2023
+4/3/2023 - 2h 5m 50s
+ - 
+US
+Downloaded:
+(in RSS feed: 2h 1m 36s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman Lab Podcast where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today my guest is Dr. Alyssa Epel. Dr. Epel is a professor of Psychiatry and Behavioral Sciences at the University of California San Francisco. She's also the director of the Center on Aging, metabolism and Emotions. Dr. Apple's laboratory focuses on stress and the many impacts that it has on our brain and body, both negative and positive. For instance, her laboratory has shown that particular forms of stress change our telomeres, which are component of the genetic machinery of ourselves that impacts how quickly our cells and therefore we age. 
+0  
+00:00:46
+We also discuss exciting work from Dr. E's laboratory, exploring how stress impacts our behavioral choices, in particular, which foods we elect to eat and how we experience those foods. Today, you'll learn how stress and your interpretation of your stress impacts the different aspects of your biology and psychology. You'll also learn about several important stress interventions that Dr. E's laboratory has explored, including meditation and breath work can profoundly influence the way that stress impacts your brain and body, both for better or for worse. She's also explored how specific dietary interventions such as Omega-3 fatty acid intake impacts stress and our response to stress. And a key and important feature I believe of Dr. 
+0  
+00:01:26
+Eel's work is how stress and stress interventions vary in their effectiveness depending on whether or not the subjects in her experiments are male versus female, and their social status. By the end of today's episode, I assure you you will have a much more thorough understanding of what stress is and how it changes our biology and psychology, as well as the specific stress interventions that are going to be most optimal for you in reducing the negative effects of stress on the aging process and on negative behavioral choices, and also how to leverage stress in order to maximize the positive effects that stress can have on cellular metabolism, mental health, physical health, and performance. To learn more about the work from Dr. 
+0  
+00:02:06
+E's laboratory as well as to learn more about her books entitled The Telomere Effect, and now more recently the Stress Prescription, you can find links to those in the show note captions. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. 
+Thesis (Ad)  
+00:02:34
+Our first sponsor is thesis. Thesis makes Custom neutropics, and frankly, I'm not a fan of the word neutropics because it translates to smart drugs. And as a neurobiologist, I can tell you that our brain has neural circuits and chemicals that underlie, for instance, our ability to focus or to task switch or to be creative. There is no one specific circuit or category of chemicals in the brain that allow us to be smart. Thesis understands this and has developed new tropics that are customized to different types of mental operations. What do I mean by that? Well, they have formulas that can put your brain into a state of increased clarity or focus or creativity, or that can give you more overall energy. For things like physical exercise, I often take the thesis clarity formula prior to long bouts of cognitive work, and I'll use their energy formula prior to doing any kind of really intense physical exercise. If you'd like to try your own personalized neutropic starter kit, go online to take thesis.com/huberman. You'll take a brief three minute quiz and thesis will send you four different formulas to try in your first month. Again, that's take thesis.com/huberman, and if you use the code huberman at checkout, you'll get 10% off your order. 
+Eight Sleep (Ad) huberman 
+00:03:44
+Today's episode is also brought to us by eight Sleep. Eight Sleep Makes Smart Mattress covers with cooling, heating and sleep tracking capacity. I've talked many times before on this podcast and on other podcasts about the critical relationship between sleep and body temperature. Put simply. In order to fall asleep and stay asleep deeply throughout the night, your body needs to drop by about one to three degrees in its core body temperature. And conversely, waking up involves one to three degree increases in your core body temperature. So it's very important that you control the temperature of your sleeping environment, which also includes the temperature of your mattress. That's what eight sleep mattress covers allow you to do. So for instance, I tend to run hot during the night, so I have my mattress set to be pretty cool at the beginning of the night, and then to get progressively cooler and then warm toward morning when I want to wake up. And in doing this, it's allowed me to really optimize my sleep, meaning I sleep much more deeply and I get far more rapid eye movement sleep than I ever did prior to using eight sleep. If you'd like to try eight sleep, you can go to eight sleep.com/huberman to save $150 off their Pod three, cover eight Sleep. Currently ships in the USA, Canada, uk Select countries in the EU and Australia. Again, that's eight sleep.com/huberman. 
+Ketone-IQ (Ad)  
+00:04:53
+Today's episode is also brought to us by H V M N Ketones iq. KE IQ is a supplement that increases blood ketones. I think most people out there have heard of the ketogenic diet. However, most people out there, including myself, do not follow a ketogenic diet despite not following a ketogenic diet. I make it a point to increase my blood ketones through the use of KE iq. The reason for that is that ketones are one of the brain's preferred sources of fuel. I find that by taking Ke iq, I have elevated levels of focus for several hours afterwards. It also allows me to do physical training or mental work fasted. And in addition to that, I focus much better when I take Keto IQ as opposed to fasted alone. So many people like me find that whether or not they follow ketogenic diet or a more typical diet supplementing with Ke IQ and thereby increasing their blood ketones allows them to do more focused mental work and physical work even when fasted or when a bit hungry. So if you'd like to try Keto iq, go to hvm n.com and use the code huberman to get 20% off your order. Again, that's h v m n.com and use the code huberman to get get 20% off. 
+Momentous (Ad)  
+00:05:57
+The Huberman Lab podcast is now partnered with momentous supplements. To find the supplements we discuss on the huberman Lab podcast, you can go to live momentus spelled O U s live momentus.com/huberman. And I should just mention that the library of those supplements is constantly expanding. Again, that's live momentus.com/huberman. 
+0  
+00:06:15
+And now for my discussion with Dr. Alyssa Epel, Dr. Epel, welcome. 
+2  
+00:06:19
+Thank you. 
+0  
+00:06:20
+So great to have you here. We have colleagues in common and topics of interest related to our laboratories in common. So I've got a lot of questions today. I'd love to just kick off by you explaining a little bit about the different forms of stress. You know, we hear stress. Stress is bad, stress can kill us, no one likes to feel stressed, et cetera. But as you and I both know, that's not the entire picture. So we'd love for you to just educate us a bit on what stress is and what it isn't, where it can be problematic, and where perhaps it can even be beneficial. 
+2  
+00:06:52
+So as a stress scientist, it is a word I use a lot, but it has to be broken down because it has so many different kind of dimensions and meaning. So there's good and bad stress, there's acute and chronic stress, and you know, technically it just means anytime we feel overwhelmed that we feel like the demands are too much for our resources. So that's kind of a, a very technical way to put it. But really, so much of life is about meeting challenges and we're never going to get rid of different stressful situations in life. If anything, they are increasing. 
+2  
+00:07:32
+And so it really comes down to not the stressors or what's happens to us, but really how we respond, the stress response. So that's a distinction that we're still trying to get the field to talk about stress in a more specific way so that we can think about, well, what situations are in your life. They might be difficult, ongoing situations like caregiving or work stress or worrying about health, your own or someone's, and then there's how are you coping with it? So when something happens, we mount a stress response and we recover and that's beautiful. 
+2  
+00:08:12
+No harm done. We need that. And that's why we are here still alive is that survival response. It's, it's a problem these days of just, we keep it alive in our head. We keep it alive with our thoughts. Our thoughts are the most common form of stress, 
+0  
+00:08:27
+Even though I expected we would get into tools to combat stress a little bit later. Since you have now told us that our thoughts are the biggest sort of propagator of internal stress, what to your knowledge is the best way or what are the best ways for us to manage overthinking and ruminating on stressful topics? Because I certainly experience stress, and when I do, I have tools related to, you know, breath, work, running, exercise, sleep, non-slip deep rest. I'm a huge fan of all these sorts of things, but when we succumb to stress and the thinking patterns take over where the gears are turning and they won't stop turning, what does the science tell us about ways to manage those thoughts? 
+0  
+00:09:15
+Should we work with them in the sense that we try and rationalize or understand the basis of the stress, or should we try and divert our thinking away? Or is there some other tool that I'm aware Yeah, 
+2  
+00:09:28
+Unaware of? Yes, yes, both. And great. So I like to bin it in three, three categories. So one is we, well, I'll just say first of all, we have to have some awareness of how our mind works or we are just like, you know, a subject to thinking our thoughts are real, thinking that it's helpful to keep ruminating and problem solving because that's our tendency is to go toward whatever we think there's threat or risk and to problem solve that. But you could just be stuck there all day in this kind of threat mode or redmine state. And that's just a shame. We don't need to turn on that stress response all the time, but that's where we are as a society. 
+2  
+00:10:12
+So that's why I, I wrote the stress prescription. Take any survey, even pre pandemic, and people feel, the majority of people feel an overwhelming amount of stress. So even this past year, 46% of adults report feeling overwhelmed by stress. And then you break it down, you're like, Ooh, this is really bad for young adults and women and people of color. And so we have these, you know, groups that are targeted for marginalization that are feeling an extremely high amount of stress in most of those subgroups. So bottom, yeah. 
+0  
+00:10:49
+Wouldn't you argue that most, most everyone is feeling more stressed now? Or is it just, or what do the data say? Yeah, 
+2  
+00:10:55
+So I think that, I think that we're, we come with different levels of awareness of our stress. And so when I find someone who really doesn't feel a lot of stress, sometimes I can see right through that and they're just not aware. And sometimes it really is true, they, they're often in a different stage of life and they control their environment a lot. And they've been through a lot. I mean, one of the big patterns in the population levels of stress is that the older people are less stressed, period. If you're over 65, you have been through so much solve so much, you just have a better perspective on life and on stressors. 
+2  
+00:11:41
+And then our adults, our young adults have like four times the level of stress as our older adults. So, so we do, you know, we don't have to wait till we get older, but there certainly is true wisdom and resilience that comes with age for many people. Often we are so used to feeling daily stress from our urban and modern life that we're, we don't notice it. We're just used to it. And so we're going through the day with kind of like clenched hands and just, you know, for listeners, just even just taking a check in now and noticing how you might be holding stress in your body, that's a huge clue. It's a huge place where we accumulate tension. So we might not be aware that we're stressed, but we're crunching our hands. 
+2  
+00:12:24
+And in fact, my taxi driver who drove me here s let me know that he's exactly that point that he doesn't realize he's stressed until he realizes that he's tensing his shoulders and his and his fists. And so great signal, you know, doing a check-in to like notice where in our body we're holding stress is step one to releasing it. 
+0  
+00:12:50
+So going back to this notion of overthinking, what are the tools that are most efficient for dealing with overthinking or ruminating when people just can't seem to let go of the thing that's the stress or thinking about not the stress in their body, but the thing that caused the stress, the difficult conversation, the thing that irked them? Yeah. On social media or in their personal life or professional life, or simply out in the world. 
+2  
+00:13:19
+So I, I wish I had one answer, but I'm gonna say lots of strategies tackle that. And so in those three bins, one are top down strategies of awareness and things that we can say to ourselves since our beliefs and mindsets can really help us release stress, use stress more positively. The second bucket is not that the mind changes the body, but the body changes the mind. And those are the set of strategies that you tend to use the most, right? We're we're, we're working stress outta the body, we're metabolizing it, we're burning it up and we get relief changes our, you know, amygdala activity and moves us to more an experiential state where we're more in our smatter sensory cortex. 
+2  
+00:14:02
+And then the third bucket is change the scene. Just getting away from all the stress triggers that we have in our office or in in the city. And being in an environment that we find calming. It might even be just be a corner of the house, but implanting what I call safety signals. We are just these animals that are conditioned to signals, whether we're aware of it or not. So having, having things like comforting pets, pictures, smells, music, why not? We need those, they help they add up. 
+0  
+00:14:38
+Yeah, I like the idea of having a small physical space, or I suppose it could be a large physical space, but for most people who don't have the resources, some small pre-designated physical space that represents a, a safe zone and creating, or I should say populating that safe zone with things, as you said, as a visual neuroscientist originally, I guess now I study stress, but as a visual neuroscientist, we know that photographs are extremely powerful cues for the memory system, especially actual physical photographs. And I, I believe there is some work on this, that if people keep a photograph of something that draws positive memories, that that photograph actually they keep it with them, that actually can be a positive cue for alleviating stress and just enhancing mood. 
+0  
+00:15:30
+This is probably done less so nowadays because everyone keeps things on their phones and it's just kind of a scroll through. But in any event, you know, when we talk about stress, it's clear that there's short-term, medium-term, long-term stress. You studied all these different forms of stress. If you would be so kind as to just, you know, give us an overview of the different forms of stress, how we can learn to recognize those. And then I'd love to transition from there into talking about some of the work that you've been doing on stress and stress related eating and stress and how it relates to aging in particular. But before we do that, to make sure everyone's on the same page, if you could just pepper our minds with knowledge about stress in all its beautiful and not so beautiful forms. 
+2  
+00:16:19
+So when we think about stress, we usually think feeling stress, you know, reporting stress, and that's important. What are bodies doing is also important, and it's not always related to our minds. So measuring levels of the nervous system and how vigilant we are is another way that we can understand stress. And that's particularly important and interesting because that's how stress gets under the skin. And we might not be aware, we report stress, but we're still holding tension and being much more sympathetically dominated, meaning that we're, our body is vigilant and scanning for cues and we don't feel safe. And so we're mobilizing a lot more energy than we need to. 
+2  
+00:17:04
+And stress is so expensive to the body. The stress response uses a tremendous amount of energy ATP that's made by your mitochondria. And if we have that kind of vigilant stress response on all day, we're just gonna feel exhausted. And we all feel exhausted at this stage of the kind of long shadow of the pandemic. And it's really no mystery because we're not good at turning the stress response off. And that's what we wanna really focus on, is understanding we need to mount a big stress response to cope with things when we need extra energy, but then we can actually let our body relax and we can turn it off. And that's where the rumination comes. 
+2  
+00:17:44
+And we wanna catch ourselves rehearsing and reliving stress or worrying about the next thing, saying, right now I'm safe. And you know, there's the breathing strategies, I'm right with you, where those are the most direct and fast path to reducing stress in the body, period. 
+0  
+00:18:02
+Yeah, our colleague, David Spiegel, our associate chair of psychiatry at Stanford, and also a colleague of yours as well, has, I think said it best, which is that breathing is unique among the functions of the brain. Cuz it really originates as a brain function and then extends of course to the body in that it represents a bridge between the conscious and the unconscious. Because at any given moment we're breathing and of course at any given moment we can take control of our breathing. There are very few brain circuits that impact the body in that way. Like, I can't suddenly just change my rate of digestion because I decide to. But we can do that with breathing. 
+0  
+00:18:42
+We, we will definitely get into some of the work that you've been doing on breath work in particular. I know you have a study that's actually explored the Wim Hoff method quite directly, one of the few studies that I'm aware of that's done that. So we'll get to that a little bit later. So you describe stress as a, a way that the body and mind mobilize energy. 
+2  
+00:19:02
+Yeah, and I didn't quite answer your question. So there's, there's that acute stress response when everything, every hormone and cell in our body is having a stress response. And that is allowing us to reorient, focus, problem, solve. It's really beautiful how much we can increase our capacity to do things during stress. And then if it, you know, lasts minutes or hours, we eventually recover. And that is what happens all day in a small, you know, to small extents with daily stressors. We don't necessarily get so threatened that we release a lot of cortisol, but our nervous system is going up and down all day. 
+2  
+00:19:44
+Then there are, then there's kind of moderate stressful events that maybe take days or months to cope with. And what's important there is that noticing like right now, am I really coping acutely with something or can I restore? So that kind of daily restoration is very important. And then there are chronically stressful situations that go on for years. Many of us, not all of us, but many of us have those in our life. These are situations, I'll just use caregiving as an example, that we can't change. We, we can't change other people, we can't change certain situations or resources and we can be thinking about them chronically problem solving, trying to wish things were different, or we can use acceptance, radical acceptance strategies and other strategies to live well with them. 
+2  
+00:20:40
+And, and so that's a really important strategy for people who feel like they're, their life is going to be stressful forever because of X or y. That that's not true. You have a harder life, you're gonna do more coping, but you can actually be dealing with uncontrollable chronic stress in ways that it's not gonna take that toll on your body. I mean, I study chronic stress and how it accelerates cell aging and I can tell you there's so much variance between people. People are so different. So among caregivers, some of them look as biologically young or younger than error controls, people with no identifiable big tough situation in their life. 
+0  
+00:21:22
+I'd love to hear about the lack of inevitability around aging and stress. I, I, I realize that there's a big landscape of, of discussion around aging and stress for us to cover. But since you brought it up in one of your papers, there's a beautiful graph and since a lot of people are listening, not watching, and we don't use visual diagrams for that reason, I'll try and explain this as best I can. You distinguish between optimal aging, typical aging and accelerated aging. And I think everyone I can imagine would want optimal aging, right? Certainly not accelerated aging. And what's interesting about this graph in your paper is that while of course it appears that toxic stress, chronically unmitigated stress that's makes us feel like we are at the world's mercy or the other people's mercy will accelerate aging. 
+0  
+00:22:18
+Turns out that under exposure to stress leads to more rapid aging than what you describe as ideal amounts of stress. In other words, that no stress is not the answer, rather to have some stress is ideal if you want to have so-called optimal aging. Can you maybe explain a little bit about the mechanisms behind that? Maybe this is a good opportunity also to tell us about your telomere work. So the questions are, how does one measure optimal versus accelerated aging? And why would it be that some stress is better than no stress when it comes to aging ideally? 
+2  
+00:23:03
+So having no stress means we're not really living, like, we're not engaging in the gifts of life, which are inevitably have some challenge and risk. And let me give you an example. One study took elderly people who retired and they, you know, society kind of labels them as you're kind of done with your meaningful work in life and your, you know, you are pretty much not able to contribute to society. I mean there's so many negative stereotypes that people then kind of embody and then live. And this program brought them to work in schools and tutor young at risk students. 
+2  
+00:23:46
+And what happened to them is they went from feeling maybe safe and under stressed to feeling challenged, but generative. They, they were feeling more purpose, they were feeling like they were growing and they were feeling like their day had more meaning, they had more relationships, they had these caring relationships with the students. The students had all sorts of issues and troubles, drugs and, and maybe not having lunch poverty. And so they felt the stress of that, but they also saw how much they could help with their support and their tutoring. And in this study they, they took images of the hippocampus and those who engaged in the program, particularly the men, actually had growth of their hippocampus during this program. 
+2  
+00:24:37
+So at any stage in life, we can be growing and challenging ourselves even in our much later years and growing our brain. And, you know, more than anyone, like what does that hippocampal growth mean for their wellbeing and their cognitive function? 
+0  
+00:24:52
+Yeah, it's interesting that hippocampus, of course, a brain area involved in formation and recall of memories, mostly formation of memories. It's super interesting because it's so plastic, it's so amenable to the addition of new memories. I think the most striking study to me is the one, and I should point out that most of the data say that the addition of new neurons is not the main reason for improvements in memory, but it is one of them. But Rusty Gage down the Sulk Institute did a study in the, I think the early two thousands where they took terminally ill people and these people agreed to have their bodies injected with a dye that would label new neurons. 
+0  
+00:25:32
+And then after they died, their brains were processed and they didn't die from the dye injection. By the way, folks that died from other causes, they were terminally ill. And what they discovered was that even in terminally ill or or, and some of these people were quite old, those people were still generating new neurons, especially in the context of still trying to learn and, and acquire new information. So wow, amazing course they're dead so they can't apply that information after that. But of course none of us can. Right, none of the information that, 
+2  
+00:26:03
+But why not up to when you die, right? Absolutely. Yeah, absolutely. So one other example of this, my colleague Dave Alma, he measures, you know, daily stressful events in huge national populations and a small percentage of people report no stressors. And so you wonder like what's happening? Are they not engaging in life? Are they really not having stressors? It it looks like they are, it's not just that they're not getting stressed by things, they're not, they're not really going out and doing much. And what he found is that their level of kind of memory and cognition, their cognitive health was significantly lower. So you can imagine the hippocampal, you know, the lack of those neuro progenitor cells, they're just not being stimulated. 
+0  
+00:26:46
+It's super interesting. I wasn't aware of that result, so I appreciate you sharing it. I almost have to wonder if it's like exercise where you know so many people, I think now everybody hopefully understands that exercise is gonna lower blood pressure, reduce resting heart rate and prove musculoskeletal function and bone density, all that stuff. But that if you took a snapshot of the bodily response during exercise, blood pressure is way, way up. Heart rate is way, way up. Stress hormones are way up. Cortisol is through the roof during a hard workout and immediately afterwards and yet that sets in motion a series of adaptation that brings you to a better place most of the time. I almost wonder if stress is the same. Is there any evidence that short bouts of stress provided that they're managed well? 
+0  
+00:27:31
+Meaning that we don't spend the next 24 or 48 hours ruminating on the stressor, but that we're able to move through the stressor and resolve it in some way that that's actually beneficial for us because of the mobilization of energy stores and maybe, maybe even changing our threshold for reacting to stressors in the future? 
+2  
+00:27:50
+It's a great question and it's one that I have been chewing on for a while because we, we know, as you said, that physical stressors, when they're short and repeated, like high intensity interval training, they are promoting not just aerobic fitness, but stress fitness people feel less rumination, less depression, less anxiety. So they're kind of tuning up the nervous system. What about psychological stressors? And we, we, we know two things. So one is I do think that there is a level of engagement with moderate stressors that when we are used to them, we get fit and our stress resilience builds meaning we're less threatened by them. 
+2  
+00:28:32
+So let me go deep into that. We can, two people can approach the exact same stressor and one person is having a pretty overreactive stress response where they basically are feeling their survival is threatened. So it's high cortisol, high vasoconstriction, and blood pressure goes up equally in both. But the person who's feeling super threatened, either their survival or their social survival of their ego, their blood pressure went up because of the vasoconstriction. The other person who is viewing the same stressor as I can do this, this is a great challenge and opportunity, I have what it takes. Those types of thoughts generate a different hemodynamic response, which is actually more cardiac output. 
+2  
+00:29:18
+So blood pressure is going up, but in this healthier way, more oxygenation to the brain, better problem solving, they're able to maintain this positive outlook. So we've measured this threat challenge response in many lab studies and we know lots of things. So if you're having more of the challenge response at the end of it, you're less inflamed. So just in the lab within an hour or two we see that they're, they didn't trigger all that pro-inflammatory response and their telomeres tend to be longer, which is a measure we can talk more about. But basically it looks like they have a slower speed of aging 
+0  
+00:29:53
+That is super interesting. You call this a, a stress challenge response. 
+2  
+00:29:58
+So we could call this kind of a two to be really simplistic, two types of psychological stress response, feeling threatened, like you're gonna fail, you're embarrassed. You know, that social pain response we know, well that feels terrible, but that also that huge stress response when we, you know, we feel it in our stomach, our heart is pounding, it's just an over exaggerated response. That response biologically is different and the thoughts that go with it are different and we recover a lot slower. And then there's the challenge response, which is this, it's more of that kind of activated excited response. 
+2  
+00:30:41
+And the beauty is that there are lots of studies out there done by emotions and social psychologists that tilt people toward the challenge response. We can actually promote that challenge response. And so when you asked about like, is it good to have a repeated stress response? Yes, if it's, if it's manageable right, then we're kind of building the muscle of stress resilience. 
+AG1 (Ad) drinkag1.com/huberman 
+00:31:04
+I'd like to take a quick break and acknowledge one of our sponsors Athletic Greens, athletic Greens now called Ag One is a vitamin mineral probiotic drink that covers all of your foundational nutritional needs. I've been taking Athletic Greens since 2012, so I'm delighted that they're sponsoring the podcast. The reason I started taking Athletic Greens, and the reason I still take Athletic Greens once or usually twice a day, is that it gets me the probiotics that I need for gut health. Our gut is very important. It's populated by gut microbiota that communicate with the brain, the immune system, and basically all the biological systems of our body to strongly impact our immediate and long-term health. And those probiotics and athletic greens are optimal and vital for microbiotic health. In addition, athletic Greens contains a number of adaptogens, vitamins and minerals that make sure that all of my foundational nutritional needs are met and it tastes great. If you'd like to try Athletic Greens, you can go to athletic greens.com/huberman and they'll give you five free travel packs that make it really easy to mix up athletic greens while you're on the road, in the car, on the plane, et cetera. And they'll give you a year supply of vitamin D three K two, again that's athletic greens.com/huberman to get the five free travel packs and the year supply of vitamin D three K two. 
+2  
+00:32:18
+What are the sorts of things that people I can do in order, including me, I should say can do in order to wage that challenge response? 
+0  
+00:32:30
+Is this purely based on mindset? Like instead of saying why me, why this, why now I can't believe this is happening. Is it a mental pivot to, okay, this is a great opportunity for growth, I don't know how I'm gonna manage this, but I'll manage this, you know, you wanna stop me, you gotta kill me. Type of type of mindset. Yeah. Is that, is that the, the switch that then the body follows? Yeah, because this is an interesting instance where the most, all the stress mitigation work that my lab does is focus on using the body to control the mind. But here we're talking about the mind controlling the body first and then the body following suit, which I find equally fascinating. 
+0  
+00:33:11
+So are there some specific mental scripts that people follow and are we all able to follow those, those scripts? 
+2  
+00:33:20
+Yes, to some extent. We control the script, we can use that script to prepare ourselves going into a stressful situation. And we can use it at any point during the stressor. So some of us are just wired to have a big threat response period. Maybe it's, you know, it's epigenetics we've inherited, maybe it's tr early trauma that has shaped us to be ex have this exaggerated emotional response. And yes, we and others have found that trauma sensitizes our emotional stress response so that we are feeling more threatened. But that's okay because that's the part we can't control and we just have to have a lot of self-compassion and awareness that, okay, this is what I do, my body reacts like this, but what happens next? 
+2  
+00:34:05
+That's when we can start to use those statements. Self comforting, self-compassion distancing. There's all sorts of statements that allow us to then recover more quickly. 
+0  
+00:34:17
+So when we want to shift from a threatened response to a kind of challenge response, are there any data that dictate whether or not we should keep those statements in our head? Write them down, say them out loud. I guess what I'm trying to do here is trying to get to a little bit more of the, the meat of the, the actionable. Yeah. Since, since a lot of our listeners, so I think we'll be, as I am very excited about the idea that a mere shift in our mentality about stress can give us the opposite outcome. I mean, before you were talking about vasoconstriction and inflammation and all these bad things to put it lightly. And then in the challenge response to stress getting the exact opposite, more vasodilation, more resources used and more positive effects on the brain and body. 
+0  
+00:35:06
+Yeah. So what, what are some, if, if you can recall from the papers, if not, that's fine. No, no, I can, but I'm just curious what, what those specific tools might be. 
+2  
+00:35:14
+Every statement you said Andrew is good. It's a good one. The whole trick here is that people need to find the, the strength statements, the stress shields I call them, that fit them, that that feels right and that they believe. And so they're, you know, I list a bunch of options in chapter three, which is called be the lion instead of the gazelle. So they're the lion and gazelle are both, you know, high blood pressure, high stress, and the lion's chasing the gazelle. But the gal's, the gazelle's having this total threat vasoconstriction response, cuz she might die, lion might get dinner, right? So it's needing to mount the stress response because it's so excited to get the tasty dinner for, you know, the next few days. 
+2  
+00:35:57
+And so the lion is having that challenge response. And so we can remind ourselves be the lion. We, it's, it's not that we're always lion or gazelle, we get to shape that. And so some of those statements are, well let's say right when, when we're going into it, list your resources. Why have you ever dealt with any situation like this? Remind yourself of past successes. Remind yourself of someone you can call or text or feel supported by. Remind yourself that this outcome is not gonna affect your life in 10 years or five years. That's a distancing kind of perspective taking. So there's all these strategies in in, you gotta use what works for you telling yourself, I got this, I can do it, I can get through it, I have what it takes. 
+2  
+00:36:42
+Those are all good shields. And another set is, you know, we've, some of us feel really stressed out by stress. Like once we get feel our heart racing that leads to, oh no, you know, this is bad for me. And so rather than, than getting stressed by stress, we actually want to remind ourselves that this stress response is empowering. This is going to help me cope, my body's excited, my body is doing just what it should right now. So that reframing in studies by Wendy Mendes and others, my, my colleagues who do this reappraisal research, they have basically trained people to view stress as positive during the stressful situations in the lab. 
+2  
+00:37:27
+People do better, they perform better, they feel more positive emotion, they problem solve better, they recover more quickly. So pretty powerful stuff. 
+0  
+00:37:36
+Yeah, that is powerful stuff. I'm wondering if we can talk about the relationship between stress and eating. And I think that's also a great opportunity for us to talk about the opioid system. A lot of people are familiar with the so-called opioid epidemic and opioid crisis. You know, sadly, you know, far too many people are dying of fentanyl overdoses and we all know about the oxy contin epidemic and all, all these people addicted to opioids. And that's not really what this is about. What we're about to talk about is the fact that we have an opioid system within us that is neurons and other cell types that can reduce, excuse me, can release substances into our brain and body that make us feel less pain and make us feel sedated, but at a healthy level. 
+0  
+00:38:24
+Right? And yet there are a lot of things besides drugs that can activate this opioid system. I think sex op activates the endogenous opioid system as far as, as I I last read there was a paper out recently. But also food can do it and again to healthy levels provided the context is healthy of course. What is the relationship between stress and eating and eating and the opioid system? 
+2  
+00:38:51
+Stress and eating is an interesting one. So most people when they feel stressed or you know, I'm just gonna ask you, do you eat more or less when you're stressed? 
+0  
+00:39:01
+Less? Definitely. I feel like I can go two, three days without food when I'm, when I'm really stressed. But I came up in a profession where sadly for me, all nighters were part of the regular until pretty recently, a couple years ago when I just called an end to that. And no, it wasn't just because of procrastination, it was just work overload. Yep. But I can go a long period of time without eating, although I love to eat. So I do point out that I do 
+2  
+00:39:30
+Love to eat. And what does the body feel like when you're in that stress state? When you're not even hungry, you're kind of shut down in your digestion 
+0  
+00:39:36
+That I have enough energy from my neural resources, from adrenaline. And generally those periods of time when I'm not hungry coincide with a hyper focus on the stressor, the deadline, whatever it is in life that that needs tending too. And food just doesn't appeal to me as much. It doesn't taste as good and it's not as enticing. 
+2  
+00:39:59
+Yeah. So we think that your type of body temperament is high sympathetic. And so when you have a big stress response, your digestion is, is pretty much shut down. Like it's, it would be the opposite. Eating would be the opposite of what your body's telling you to 
+0  
+00:40:16
+Do. I should, I'm just gonna, yeah. Forgive me for interrupting. For those of you hearing sympathetic we're, we're not talking about sympathy. We're talking about the a the sympathetic arm of the autonomic nervous system, which is the so-called fight or flight arm as opposed to the parasympathetic in any event, sorry to interrupt, but wanna make sure that sometimes people hear sympathy and then they think emotional sympathy. I like to think I have that too, but okay, so I, so I tend to lean more towards the sympathetic meaning more alertness, arousal, yeah. On the seesaw of the autonomic nervous 
+2  
+00:40:46
+System. Right. And I, I'm a high sympathetic reactor. I lose weight when I go through like writing my dissertation. I look like a skeleton at the end. But that's not what most people complain about. It's not weight loss. Most people complain about overeating or binge eating when they're emotional, when they're stressed. And so that's the more common pattern and what that, that looks different both in the brain and biologically. And so what it looks like is that the stress response is driving cravings a and also let's say high insulin or an an insulin resistant state. And what goes along with that is tending to be overweight or have obesity. 
+2  
+00:41:28
+And so just by whe whether it's through conditioning or genetics, having that kind of larger body with a big stress eating temperament, that is a challenge in life. And I've been, you know, I've worked with people with different eating conditions, eating disorders, binge eating. And it is a, what's hard about it is, number one, it's very common in normative to just feel like you can't feel satiated. So it's this compulsive eating tendency that stress brings you to. And so the, so what it mean, we measure this, it's very easy to measure. It means that people feel like they can't control their eating, they don't get full, they think about food a lot. 
+2  
+00:42:15
+And so stress kind of exacerbates that tendency. And that is a, you know, it's a, it's a common phenotype. Like we've studied it and maybe 50% of people with obesity have that do lean people have that some, not many, like less than 20%. But what they also have is this tremendous kind of diet, what we call dietary strain or control over their eating. So they're, they are able to, to not overeat even though they're thinking about food a lot. So that's, that is, you know, that explains that unusual body of someone who's really more, has still has those compulsive traits. So why does this matter? 
+2  
+00:42:56
+This makes it really hard to eat Well cuz when you're stressed, you're dr you're craving the comfort food, the high fat, high sugar, high salt, depending on your temperament. And that is, that means with repeated bouts of stress, you're just gonna be gaining weight. And particularly in the intraabdominal area, that's what we've seen. We've seen it cross-sectionally, we've seen it in rat studies and mice studies and now we've seen it in people in many stu for about 10 years I study this. And the question was, is what's happening in people? The same thing that's happening in mice. If you stress them out and you give them Oreos, the mice develop binge eating, they get really compulsive and they get this, you know, terrible metabolic health profile, metabolic syndrome where their, their round, you know, their, their belly fat basically expands like a cushion. 
+2  
+00:43:45
+And that's cuz that's this really good immediate source of energy during stress. So like, we're really well wired to, if our body thinks we're under chronic stress, we're gonna store stress fat or abdominal fat. So that we can just mobilize that in a second. And then the second question we've asked is, can you reverse that with different interventions? Can you, can you block the compulsive eating so I can, I can tell you what we found there, but the opioid system that you mentioned is certainly involved and in studies with people, lean people and people with obesity, my colleague Regita Sinha, Yale, it's basically found that when you stress them out, people with obesity are having a different reward response. 
+2  
+00:44:29
+And they're having, they're, the more insulin resistant they are, the more their reward center lights up during stress. 
+0  
+00:44:36
+Hmm. And what's causal there? Like what's the chicken, what's the egg? Yeah. So because I can imagine these were people that at one time were not obese who got stressed, the opioid system reacted in a particularly potent way to food and they were able to clamp their stress. And so then they become sort of binge eaters in the context of Yeah. Stress. Yeah. And that leads to insulin, right? Insensitivity. 
+2  
+00:45:04
+Exactly. 
+0  
+00:45:05
+I could also imagine that they were insulin insensitive, therefore they need to eat more in order to feel kind of an increase in satiety because we know this now ba based on brain and body mechanisms and then that set off a cascade of things leading to obesity. Yeah. Not that it necessarily matters, but what's causal do we know if, 
+2  
+00:45:27
+Oh, I think it really does matter. I think there's been a, you know, a mistake of kind of confounding all obesity with food addiction and, and metabolic disease and it's completely heterogeneous. So I I think it's the developmental path that you're describing, which is that there's a tendency toward having a bigger reward response and hunger during stress. So it becomes a way of coping a lifestyle. And, and that is a pathway toward obesity. And so some obese people have a dysregulated stress response, but I, but not all of them. I mean, it really is a certain type of person. So that's why we target people with cravings and all of our intervention studies. 
+2  
+00:46:10
+Now we wanna know who has more of the compulsive eating type because they need a different set of skills to cope with stress and to lose weight if that's their goal. 
+0  
+00:46:23
+There's a drug, I'm sure you're familiar with naltrexone, which it can block the opioid receptor. It's used to block the opioid receptor in the context of different types of addiction. Have people tried to use naltrexone in the context of binge eating and does it help people lose weight because it presumably reduces some of the rewarding properties of, of food. 
+2  
+00:46:44
+That's one of the very few drug combinations that has been used for binge eating. So it was a combination of naltrexone and Wellbutrin and I'm not sure at this moment how much that's favored for binge eating, but certainly the early trials showed that it, it really does damp down on the compulsive eating. 
+0  
+00:47:01
+Interesting. So is that a commonly prescribed kit of drugs now for, for obesity? I know there's a lot of excitement nowadays about these semaglutide Yeah. Analogs because they do seem very effective in blocking hunger, especially in type two diabetics. I don't know if you're familiar with, but Right. They're sort of all the rage. Mostly because people saw the before and after photos of Elon, he had his shirt off on a boat and there were some not so nice comments made about him. And then sometime later he was quite a bit lighter and he announced that he had been taking one of these semaglutide Mm agonists. Yeah. 
+2  
+00:47:32
+Yeah. I really hope that we come up with safe and effective drugs. And one thing to think about is that the, the challenge that we all have, particularly for prone to obesity is the toxic food environment and particularly the refined sugar. And regardless of what we're on metformin or one of these drugs, we override it with our diet. And, and really the improved nutrition is the only way to solve it as a public health problem. I mean, the drug companies are saying everyone should be, you know, everyone with a certain BMI should be on one of these new drugs and it's just rubbish and it's not going to lead to long-term health. 
+0  
+00:48:09
+Well I know you have a colleague there at U C S F, Dr. Robert Lustig, who's been talking about sugars and hidden sugars for years and the problems with that. And, and we don't want to demonize sugar as the only cause of the obesity epidemic, but it's certainly one of them. At least that, that's my belief according to the data. 
+2  
+00:48:27
+Yes. And, and Rob is the biggest proponent of, you know, of helping people understand the big problem and the root is in the processed food and the sugar and that the drugs don't touch that. We just, we override effects of any drugs with our diet. And, and so it's, it's been a, a losing battle really because of the force of big food and big pharma. So let me go back to the, the, the compulsive eating. So we've, we've, we've, there's some clues about how to break that cycle. So one is in our weight loss trials or our healthy mindful eating trials, we find that such mindful eating is not gonna cause a lot of weight loss period. 
+2  
+00:49:13
+But the people who benefit most from learning this kind of calm self-regulation where you check in with your hunger, you slow down, you increase your awareness of your body. So in interceptive awareness, that type of skill is really critical for people with compulsive eating. And so in our trials we find that if they, people with compulsive eating, if they get that, if they get randomized to the mindful eating, they do better in terms of their insulin resistance and their glucose and their long-term weight loss. So that's one good clue. Another is the positive stress pathway looks important for breaking the compulsive eating cycle. 
+2  
+00:49:55
+So exer high intensity to interval training or you know, maybe some of these other ways that we've been been talking about, to increase the bodily stress in these short-term ways to metabolize stress in our body can help with the cravings. 
+0  
+00:50:10
+So what would that look like in the context of, let's say somebody has the opposite phenotype to me, they get stressed and they find themselves reaching for snack food or that they simply can't reach satiety, they just want to eat and eat and eat. What are some of the, aside from Naltrexone and Wellbutrin and some of these prescription approaches? Cause I always say while I value, certainly value prescription drugs in certain contexts, I always feel like behaviors should come first, dos and don'ts, then nutrition, then supplementation, and then if and only if it's still needed, prescription drugs. But that's just my bias based on my observations. Pretty reasonable. I like to think. So. It also is a, it starts at a zero cost endeavor. 
+0  
+00:50:51
+I mean, behaviors require time, but it certainly includes everybody, not just those that have insurance or that live in a particular region of the US or the world. So anyway, that's my bias and at least for the time being, I'm sticking with it. It's the basis of a lot of what we talk about on this podcast. But nonetheless, if somebody is finding themselves in that category of, of binge eating or heading towards binge eating or using food to comfort or alleviate stress, how should they intervene in their own thoughts and behavior? 
+2  
+00:51:25
+We talked about the, the bins top down strategies, changing the body, changing the scene. We need all of those. I mean the, the compulsive drive to eat is one of our, you know, strongest impulses if we've developed that pathway. And so the, we train people, for example, in mindful awareness of separating out emotions from hunger so they get really wrapped up together. So just labeling how you're feeling, labeling your hunger, hunger from one to 10 and figuring out is it, am I really hungry? Or as a boredom that helps people. And if you do that check-in right before you eat, that helps the most. So that's the top down mindful check-in. 
+2  
+00:52:04
+The other thing we help people do is like ride the craving, surf the urge. So we deal a lot with soda drinkers and it is addictive and there is nothing worse than drinking sugar soda for our body. So we help people by help having them watch their craving pass and, and knowing that it's a matter of time that they can surf the urge without jumping to consuming. And so that practice helps some people, especially with practice, the pushups, the taking a walk, the changing the scene, getting a away from food is always gonna be a huge strong strategy if you can get yourself away from it. 
+2  
+00:52:49
+The, the problem is, as you know, is that the cravings get you to the buffet, they drive you to the, the soda, et cetera. And so just, you know, creating safe environments both at home and in the workplace where you don't have soda is really important. So we tried that at U C S F, my colleagues and I, including Rob Lustig, the anti-sugar doctor. We just saw the absurdity of being a medical center. People come with these chronic diseases and what are they served in the cafeteria or even at their bedside? Sugared coke 
+0  
+00:53:22
+In the hospital. 
+2  
+00:53:23
+In the hospital, yeah. And so my colleague Laura Schmidt, who's partly responsible for the soda tax, she rallied the, all the, we went top down to administration but bottom 'em up to vendors, got rid of all the soda in all of our hospitals and campuses. And we found two things. Number one, people who were heavy drinkers lost weight in the most important place. They're 
+0  
+00:53:50
+Waist heavy soda drinkers. 
+2  
+00:53:53
+So when we took it outta the workplace, they actually, their health improved. And number two, those with compulsive eating, they score high on our, our little scale for reward-based drive. It didn't help them. So then we randomized half of them to get some extra boost, we call it motivational interviewing, where we're really supporting them more and helping them, you know, think of goals like being with our grandchildren, not getting diabetes. And, and that little bit of support helped them tremendously. And so now we are trying to roll that out in, you know, a big controlled trial. But at least a hundred hospitals have adopted the stop selling sugary drinks because people don't wanna be sick. 
+2  
+00:54:40
+But they can't help it if they have the reward drive and if they have the complicity and it's right there at work. We're just working against health. 
+0  
+00:54:48
+That's super interesting. I I think that for most of us, we think about soda as the kind of thing that maybe we have every once in a while or that we drank more when we were kids. I seem to have lost my appetite for soda some point. I 
+2  
+00:55:02
+Don't know, you just know too much. Teen 
+0  
+00:55:03
+Years may maybe or just at some point Yeah, I, I started to feel like there were better alternatives and you know, like 
+2  
+00:55:11
+What 
+0  
+00:55:11
+Well, okay 
+2  
+00:55:12
+Well people want ideas. 
+0  
+00:55:13
+Yeah, well full confession. I mean Okay. Most of my non-water beverage consumption is going to be either coffee, usually black coffee or nowadays I sometimes will throw some ketones in there. Not cuz I'm on a ketogenic diet, but for I do feel like it makes my level of focus and cognitive what 
+2  
+00:55:31
+You pouring in this morning. 
+0  
+00:55:32
+Yeah, I do use it before podcasts and we're prepping for podcasts. Cool. It, it, there are good data showing that we can all utilize ketones as a, as a brain fuel, even if we're not in ketogenic diet. That's clear to me based on my experience and the, the data as I see them and understand them. Or yerba tea, which is just a caffeinated tea from South America, which I like very much. However, I am a guilty of drinking the occasional diet. So every once in a while and I know that, you know, some of my audience will just gasp how could I do that? But we're talking about the occasional diet coke, diet 
+2  
+00:56:09
+Soda. 
+0  
+00:56:09
+Yeah. The occasional diet Coke. Yeah. Mostly cuz I, I don't like the taste of sugary soda and I actually really like the taste of diet soda as peram is a particularly rewarding taste for me. And as a consequence I try and avoid drinking, drinking it more than I might have a can of diet coke once a month maximum, usually on a plane or something like that. So that's the extent of it. But if I have the choice between a really great coffee and a soda, it's gonna be coffee or yoba a soda. It's gonna be yoba or food and soda I'm going to eat instead. And so that's me. But I do recall, you know, as a teenager, soda was kind of a default. You would just kind of like go to the soda fountain and fill the drink. 
+0  
+00:56:50
+It felt like such a rewarding thing. And I think the reason we're drilling into this more deeply is it sounds to me, based on what you said earlier and my rita, the literature also brings me the idea that that drinking sugar in the form of liquid is one of the worst things that we can do in terms of our bodily regulation of insulin and glucose. It's, I don't want to use the words empty calories because that's kind of a loaded phrase, but it is essentially empty calories. It doesn't arrive 
+2  
+00:57:16
+Well, it's harmful calories. They're not 
+0  
+00:57:17
+Empty. Yeah. I mean there are no amino acids and there there are no essential fatty acids. Yes. And there aren't many carbohydrates that you can really utilize for long-term bouts of mental or physical work. So do you view soda as one of the, the worst, certainly not the best, but one of the worst culprits out there. I mean, it is really prominent, especially nowadays. Also, we should include energy drinks. A lot of kids. Yes. Especially males by the way. It's, it's almost, this is crazy. It's almost 95% of energy drink consumption is males. 
+2  
+00:57:50
+Interesting. 
+0  
+00:57:50
+And I don't know what, why that is. Maybe it's the packaging or who, how the marketing has been pitched. But by the way, as soon as I say that, someone will be in the YouTube comments telling me that that's completely false. But we can point you to the data. So what are your thoughts on sugary drinks and what that's doing? How it's, do you think this is a reaction to how much stress people, people are experiencing? Is this like people's attempt to, to inoculate their stress? Or is it simply that it tastes good and it's easy to consume and it's relatively inexpensive? 
+2  
+00:58:17
+People have not, and we have not really studied the sugary drinks in the same way we have studied the comfort food and the binge eating. And so my guess is that it is part of a stress response. But even more than that, it's part of the hedonic cycle. So when you get the sugar, especially if it's packed with caffeine, that's gonna be a more addictive drink. You get this, you know, really feel good response right away. And then you get the low and it's the hedonic withdrawal. So, which is this, you actually feel bad when it's been a while since you've had it. 
+2  
+00:58:58
+And so then it drives the compulsivity. You want it again because you wanna not, cuz you wanna feel good, you wanna get rid of feeling bad. So that's what happens with both food addiction. And we think that happens with sugary drinks. Now let me tell you that when you asked is, is a sugary drink one of the worst things we can do for our health? Yes. Because sugary food doesn't go to our brain as quickly as a liquid sh liquid sugar, a sugary drink. So think about cocaine and crack, crack goes to the brain immediately and it's that much more addictive. That's how we think of liquid sugar. 
+0  
+00:59:34
+The view on sugar I, I think is starting to change. And I think in the years to come, provided folks like you and Dr. Lustig continue to be vocal about it, which I hope you will, I think it's gonna shift things quite a bit. I look at it a little bit like trans fats, you know, when I was growing up, people ate margarine and now like trans fats are banned in many cities. Yeah. It's kind of incredible how these things have, have changed over time. And it requires an effort not just on social media, but podcasts. And I think also lobbying, lobbying our politicians, really getting them to understand just how pernicious this stuff is. 
+2  
+01:00:13
+There's a lot of social norms that go into like, what's good for, for all of us as a, as a group or community. And what's personal choice? It's very fiery. You know, I just, I've heard a colleague talking about how bringing junk food or soda to work is like passive smoking. You're like, you're bringing something in that's gonna pollute other people's health and you shouldn't do it. So that's, that's much more edgy and people will fight them on that. But the, the, the basic reality is yeah, we're gonna eat the donuts if they're in front of us. And so in it is much more considerate to bring a bowl of fruit. 
+0  
+01:00:46
+I do love a good donut, 
+2  
+01:00:47
+Everyone. Oh, so that's, yeah, that's my 
+0  
+01:00:49
+Weakness that a certain circuit in my brain. I'm glad you brought up smoking. I don't wanna take us off topic, but as long as we're venturing into these general, or I should say more general and yet really important themes around public health and food. You know, I learned something interesting about smoking and why so few people now smoke. I always thought that the campaigns around smoking and how terrible it is for us, showing pictures of lungs that are, you know, caked with all this tar and like you, you know, cancer and all this stuff was the effective message. But what I learned was that one of the most effective messaging systems in the, in the, the battle against smoking was to get young people to stop smoking. 
+0  
+01:01:31
+Not by telling them it was bad for them, but by showing them videos of these rich men sitting around tables cackling about the fact that they're making so much money on the health problems of other people because of smoking. In other words, what they did is they made being a non-smoker, anti-establishment. And so I find it very interesting anytime there's something like soda or highly processed foods that are so woven into the establishment, it seems like though you can, we can tell people until, you know, we're blue in the face about all the health concerns with, with these things. You know, sugar is bad and this is bad, highly processed food is bad. Some people might change their behavior. 
+0  
+01:02:11
+But it seems like for the younger generation, the thing that's most effective is to activate their sense of rebellion. This has been true for probably hundreds of thousands of years, but it's certainly true in the last hundred years. And let them see that there is a very strong big food, sometimes big pharma, but certainly big food system that is working against them. And that it, in order to take control of their health, actually we want to activate their sense of rebellion. Yeah. So that they're like, no, I'm gonna take excellent care of myself. I'm not gonna fall victim to this monetary scheme. And here I'm not pointing to any conspiracy. I mean this has been seen with smoking, this has been seen with a number of different pharmaceuticals. Again, not all pharmaceuticals are bad. This is true of, of a number of different aspects of, of kind of big marketing. 
+2  
+01:02:53
+Absolutely. It's like pull the blinders off, let people know that we're vulnerable to all the marketing. And that there's, there really are suppression of data behind a lot of it. So it ha it's happening with, with eating disorders too. Eric STIs who's at at Stanford with you, has been using this method, we call it dissonance, showing people with eating disorders. How the food industry has been manipulative and has tried to design food for addiction for the highest bang for the buck with dopamine, et cetera. And so that has helped reduce eating disorders in these studies and it has even helped reduce reward drive that. 
+2  
+01:03:34
+Isn't that amazing that the dissonance could do that? 
+0  
+01:03:37
+So interesting. Yeah. I think what it's telling us is that few things are as strong as the No, I won't, I refuse to your response in terms of changing behavior, especially when there's something to push against. So it's not just a battle with ourselves, I want the soda but I'm not gonna drink it. Yeah. And it becomes a, well I want it, but I want it because you are making me think I want it. I don't actually want that. So I don't know, maybe this is getting me back into my teenage mindset, but I think a sense of rebellion provided it's in the direction of health one's own health and the health of others of course can be a positive thing. Yeah. 
+2  
+01:04:11
+So, well we do that with the mindful eating. We really, we have them bring in the junkiest processed food they can think of like a twinki and eat that really slowly and mindfully. And few people finish it and they're like, Ooh, that actually wasn't nearly as good as the picture of it and the idea of it. And so it's like that reward, predictive error that you've talked about where they, they think the brain is driving them to have it because of the advertising and their expectation that they'll feel good. But if they're really paying attention, it's that it's a very disappointing experience. Versus we also have people savor a piece of good chocolate, whichever they like, milk or dark. And that experience teaches them to eat slowly and really enjoy small amounts of rewarding food so that they're not, they don't need to feel full and binge. 
+0  
+01:05:01
+Oh, so interesting. Darker milk chocolate dark. Yeah, likewise. I actually like the a hundred percent chocolate. There's one brand of Venezuelan chocolate that's 100% which sound, it might sound awful, but it's actually quite good as it's, I think that was the first time time I could actually taste the, the real elements of chocolate. 
+2  
+01:05:20
+Interesting. Yeah. Yeah. That is not rewarding. It's way too bitter for me. I need the mouth feel, you know, gimme some fat in it. 
+0  
+01:05:26
+Oh my. Well yeah, it's hard to find, but it's out there. 
+Inside Tracker (Ad)  
+01:05:29
+I'd like to just take a brief moment and thank one of our podcast sponsors, which is Inside Tracker. Inside Tracker is a personalized nutrition platform that analyzes data from your blood and DNA to help you better understand your body and help you reach your health goals. I've long been a believer in getting regular blood work done for the simple reason that blood work is the only way that you can monitor the markers such as hormone markers, lipids, metabolic factors, et cetera. The impact your immediate and long-term health. One major challenge with blood work, however, is that most of the time it does not come back with any information about what to do in order to move the values for hormones, metabolic factors, lipids, et cetera, into the ranges that you want with inside Tracker. Changing those values becomes very straightforward because it has a personalized dashboard that you can use to address the nutrition-based, behavior-based, supplement based approaches that you can use in order to move those values into the ranges that are optimal for you. Your vitality and your longevity inside Tracker now includes a measurement of apo lipoprotein B, so-called apo B in their ultimate plan. Apo B is a key marker of cardiovascular health and therefore there's extreme value to knowing your apo B levels. If you'd like to try inside tracker, you can go to inside tracker.com/huberman to get 20% off any of inside tracker's plans. Again, that's inside tracker.com/huberman to get 20% off. 
+2  
+01:06:47
+So while we're talking about stress eating obesity and here we've also broadened the discussion to include different generations. 
+0  
+01:06:56
+We're talking about teens and adults. I'd love for you to share with us your findings around this study that you did of pregnant women and how stress and pregnancy and different patterns of eating and physiological changes that people experienced during pregnancy. Could you share with us what those findings were? Because I think those are relevant not just to people who are pregnant or planning to become pregnant, but to everybody. Cuz I think they shed light on how we manage stress and sometimes how we fail to manage stress. 
+2  
+01:07:26
+Yeah. So with overweight and obesity, we know we can't just change calories, it's just not gonna work. The next stressful event's gonna come along and people will, you know, go back to what their brain is driving them to do is to, you know, binge on comfort food. And so we've done these interventions with men and women that show that we can help them regulate using some of these mindful eating strategies, checking in. We wanted to do this with pregnant women because when you have excess weight and you're pregnant, you're really vulnerable to gaining excessive weight during pregnancy, which is not healthy for the mom or the, the, the offspring. So we, we did this study, it took us probably 10 years total to, you know, get the grant and recruit groups of 10 women who are pregnant in the same stage and give them this training in mindful eating, mindful nutrition, stress reduction. 
+2  
+01:08:23
+And then my colleague Nikki book Bush has been following the babies for, I think it's been almost 10 years since then. And here's what we found. First of all, we couldn't stop excess weight gain. The women in the control group gained about, about 60% of them gained excess weight during pregnancy. And same with our mindful group. So maybe it's end of story, you'd stop there and say, fails, don't do it. There have been so many beautiful developments in the women who got the training that we just keep are, you know, being shocked by how impactful this stress reduction training was. It was just two months of their life. But, but pregnancy is a very critical period when these women were changing their habits and they're very motivated to help their baby. 
+2  
+01:09:11
+So here's what we found within that first month of the intervention, they all got this oral glucose tolerance test. So they all got a, they got a blood test to see how well their body was metabolizing food sugar. And so it's like a prebi diabetes test. And what we found was that twice as many women in the no treatment control group had impaired glucose tolerance during pregnancy. It's a, it's a common high risk. And half that many women had this in the mindfulness group. So by reducing stress, they improved their insulin sensitivity during pregnancy. So imagine what that's doing to the baby too. 
+2  
+01:09:50
+Then the, the babies have come out with less obesity, less illnesses in their first year of life and more of this kind of healthy stress response when they've been stressed out in, in the lab study. And so then eight years later we looked at the mental health of the moms. So right after the intervention, eight weeks later, everyone in our mindfulness stress record group felt great. They felt less depressed. They had less stress and less anxiety. That's what you'd expect, right? I mean, they'd just gone to a weekly class, they got all the support, but eight years later they still showed improved mental health. Every year that we measured them, they still looked better. 
+2  
+01:10:31
+So it's probably one of the longest studies looking at long-term effects of a mindfulness training. And I don't think it was a coincidence that was during pregnancy. I think this is a very important time to have these skills and being in a group adds that social support piece that we know is powerful. 
+0  
+01:10:48
+That's an incredible result. Could you share with us what the mindfulness intervention was and when it was initiated? When it was stopped? So we're talking about 10 minutes a day of meditation. As many details as you can possibly give us, because I know, even though I don't think I'll ever be pregnant, I don't plan on it and 
+2  
+01:11:05
+You never know. 
+0  
+01:11:06
+Well, yeah, un high zero minus one probability in my mind. But anyway, maybe other people have other ideas for me, but zero minus one probability in my mind. And yet I'm very interested in this mindfulness intervention because it sounds like a very potent one. So much so that it's multi having a multi-generational impact. So how many minutes a day, how many days per week? Yeah, 
+2  
+01:11:33
+We had them, they met once a week. We, they had little reminder cards. I mean we need all the reminders we can, you know, post-its on the fridge timers in our phone to do this mindful check-in. And so they were during the week doing this check-in and it was simply a mindful check in closing their eyes and feeling their body, feeling their labeling, their emotions. So it was mindful breathing and then it was some movement and we taught them prenatal yoga. But really any mind body movement, people like different things. There's chiang, there's, there's even just slow walking would've worked. 
+2  
+01:12:15
+So it was mindful check in, breathe, move my body. That's what the reminder ca card said. So close your eyes and look inside, do slow breathing. They also put their hands on their belly and so they felt that they were taking care of their baby and then more movement. So they, they did increase their walking. And the mindful check-ins are, as we were talking about at the very beginning, I would say necessary but not sufficient. We've gotta stop during the day and check in and look inside. If we're not aware of where our mind is, we are just subject to the, you know, believing the stressful thoughts, thinking that we need to keep ruminating their sticky thoughts. 
+2  
+01:13:02
+So the mindful check-in is really important. And then I think the breathing, as we've talked about is, is probably the more direct way that they're influencing the prenatal environment, the uterine environment to reduce the stress in that the baby's being exposed to. And the movement refocuses us from our mind and our ruminated thoughts to the experiences to what we feel in the body. There's even been a study that showed that overweight people with a lot of cravings, if they do the body scan that's simply focusing on the body from the head to the toe. You know, we're just reminding ourselves to focus on each part of the body, breathe into it, release tension. 
+2  
+01:13:45
+It's very basic and simple. The body scan re significantly reduced cravings. I mean to me that's, it's really hard to reduce cravings. So like just that refocusing on the body took away stress anxieties, self-referential thoughts, that kind of our favorite topic. Thinking about ourself thinking negative thoughts about ourself to relaxing, feeling, ease, feeling wellbeing. 
+0  
+01:14:11
+I can't help but ask about what that body skin might have been doing at a little bit more of a me mechanistic level. Some of the listeners might be familiar with these terms, but some won't. So I'll just briefly define them. We can perceive things in terms of interception or basically paying attention to and focusing on things beyond the confines of our skin or interoception. I, I realize you know all this, but for their sake 
+2  
+01:14:34
+No one really understands interoception. Go for it. 
+0  
+01:14:37
+So in interoception, essentially the sensory, the sensory innovation of the, of the internal organs of our own skin, that includes proprioception and which is our knowledge or our sense of where our limbs are, where we are relative to gravity, all that stuff. And you know, it raises the, this body scan result. The, that is the fact that brief body scan can reduce cravings. Raises this question in my mind, which is, is craving a heightened sense of interception or heightened sense of extra interception? So I could think of one form of craving where for instance the donut, again, donuts for me Yeah. Is in front of me and I'm thinking that I want that. And so I'm almost in complete extra interception, but I'm tethered to it. Like my internal world is tethered to the donut. 
+0  
+01:15:20
+It's almost like the donut is in control of me briefly. Yeah. And then I eat it. But 
+2  
+01:15:26
+It's hijacked your prefrontal cortex. 
+0  
+01:15:28
+It's, it's hijacked everything. Yeah. Yeah. And then if I do a body scan, so I'm putting myself in this experiment, in this kind of hypothetical scenario, I'm putting myself into this experiment. I do a body scan, which without question is shifting me more towards interoception, right? I'm focusing on my skin, my heart rate, all these things interoception. So I could see how that would draw my attention off of the external stimulus and reduce craving. And that makes me wonder whether or not craving is a form of extra interception where our interception is just exquisitely locked to extra interception. And if so, you know, cuz I do think this is a remarkable result. 
+0  
+01:16:10
+It is very hard to stop cravings. I mean we had a guest on here, a former colleague of mine at at Stanford is now the chair of neurosurgery at UPenn School of Medicine, which is Casey Halper. I mean they do, they literally drill down through the skull of people who have binge eating disorder and start stimulating different brain areas because these people are so out of control in terms of their binge eating. I mean that's the kind of intervention that is considered necessary for a lot of folks who binging. So here you're telling me a body scan in some individuals can reduce that and I have to wonder whether or not it's somehow breaking that interceptive, extra deceptive tether. Anyway, I'm speculating here, but I'd love your thoughts on, on bingeing on craving and binging and breaking bing. 
+0  
+01:16:52
+Do you think that there are behavioral interventions that could be layered on top of body scans? Should we all be doing body scans routinely? 
+2  
+01:17:01
+Yes. Why not? You know, and, and some people aren't gonna like that lying down is maybe not comfortable. And so any mind body activity is gonna do the same. It's gonna be, you know, I think breaking that link that you talked about 
+0  
+01:17:14
+Yeah, I, I find this whole interceptive interceptive balance thing. Yeah. One of the more interesting conversations these days in neuroscience cuz we're starting, finally starting to understand what some of the, the circuitries are and they do link to these reward pathways. In any event, getting back to the relationship between stress and food, and maybe even just weaving back a little bit to the opioid system, have there been any long-term studies of stress intervention? You know, in the studies that we do in our laboratory, we get people for a month, they do one intervention, we swap them to another intervention a month. We analyze data, takes a couple years to do all that, but we write papers and we move on. Sounds like your laboratory has been involved in doing a lot of studies where you're examining people over a very long period of time, even their children. 
+0  
+01:18:01
+What can we learn about the long-term outcomes of things like body scans, meditation, and then we'll get into breath work? 
+2  
+01:18:08
+There haven't been that many long-term studies of stress interventions now that you mention it. I think the meditation studies are probably the best example. There are some studies that have either followed people who have taken up meditation or just these cross-sectional studies where you compare a long-term meditator to someone who's never meditated and they, they are interesting. I mean, let's talk about the cross-sectional studies. You are already, you know, studying someone who's eats like kale chips instead of potato chips. There's a lot of differences in who decides to be a meditator. We, in terms of the health and biology, we have found that there is slower biological aging. 
+2  
+01:18:53
+And other people have found that in these meditation interventions we do the short term ones, the inflammatory pathways of gene expression are dampened way down and cross-sectionally other people like Elizabeth Hoi have found longer telomeres and the meditators versus the controls. So we, we haven't really found telomere lengthening in our short-term meditation studies, but we do find boosts in tase activity, which is this enzyme that protects our cell aging, slows our cell aging, rebuilds the telomeres. So those are, those are, those are studies that suggest if someone works to continue meditating, they might keep up that slower rate of aging. 
+2  
+01:19:39
+So there's one study we did, which I think was particularly fun. We went to retreat center where Deepak Chopra leads this one week transcendental meditation retreat. So people got a mantra and they were focusing for probably eight hours a day on different yoga, meditation and reflective exercises. And then we had half the group just walk around the resort, take walks, hear some boring health talks. So that was our control group. And what we found from that study was that in the short run run a week later, everyone felt fantastic after the week, right? 
+2  
+01:20:20
+They weren't allowed to bring their laptop and work and they ate this great anti-inflammatory diet, an Ayurvedic diet. And then the gene expression pathways were like night and day from day one to the last day. And our model of machine learning model was able to identify people over 90%. It could say whether they were on day one or day seven. And the difference really emerged over the long run. We went and we followed them about 10 months later and we found that not everyone felt great. 10 months later, the group who learned meditation still had lower depression, but the control group bounced right back up. And then we looked a little bit further and we saw that people with early adversity benefited the most from the meditation condition. 
+0  
+01:21:05
+Oh, what was the meditation condition? How long per 
+2  
+01:21:10
+Day? Yeah, it, well, so they did, they learned transcendental me sound primordial sound meditation, which is similar to TM where you have a, your focused attention on your, on a word over and over. But there's also more awareness of the, the body. And that was, you know, I I couldn't say how many minutes a day, but it was on and off during the day. 
+0  
+01:21:34
+Okay. So repeatedly, but for a fairly short period of time. Yeah. One week. Yeah. Right. Yeah. I've never done one of these extended meditation retreats. 
+2  
+01:21:42
+Yeah. Are you interested? Well, 
+0  
+01:21:43
+Various people in my life have told me that I needed to go do a, a silent meditation, but they probably were emphasizing the silent part, the 
+2  
+01:21:50
+Still I recommend them. Yeah. I think they're amazing ways to get to know the mind and to really calm the body in ways like a, a, you know, a quantum shift in our level of stress that we don't get. It's very hard to get in short belts. Hmm. 
+0  
+01:22:05
+I do a daily meditation practice, but it's a relatively brief meditation practice. I do tend to focus more on things like deliberate cold exposure and breath work and yes, exercise and sunlight and all, all the things I talk about on the podcast, but I'm certainly not averse to doing a longer meditation. Are all of these TM meditations, are they silent meditations? Yeah. And they range from, what, two days to a week? Is that? 
+2  
+01:22:31
+Well, the re retreats, you can always find a retreat that's, you know, half a day, one day a week, two weeks. So you don't go right into a two week, you work up to it. So the longest I've ever done is a two week silent meditation retreat. And that was after, you know, 10 years of doing yearly shorter retreats. And then when you, you know, I think it would be too hard and stressful if you haven't been able to, I mean, meditation would be stressful if it, you know, you think that you're failing at it. And so you, so you need to have kind of developed the skill a little bit before you go on the the, and so lots of classes can do that in online, but I think the short bouts every day are, that is what is the most important message for people for, for managing daily stress. 
+2  
+01:23:14
+And that's the, in the stress prescription, it's very much about how we can do short daily nudges to reduce our stress arousal. So breathing is one of the best body-based examples of getting right there. But there are other ways. So being in nature, that's a really strong stimulus, an environment that sends all sorts of safety signals to us. 
+0  
+01:23:37
+Yeah, certainly it's not an either or, but it seems like nowadays a lot of the discussion that used to be had around meditation and its ability to evoke neuroplasticity and things of that sort has shifted over to a, an increased focus on psychedelics is a common theme on this podcast. But it just seems like in, you know, taking the pulse of social media and the landscape out there, there's so much excitement about psilocybin both in microdose and microdose and M D M A and some of the other trials that are out there that many people are starting to forget the incredibly rich and vast literature supporting the use of even brief meditation practices for reshaping the mind. So I'm glad that we're talking about 
+2  
+01:24:17
+Meditation. Yes. But I mean, even going into plant medicine experiences is enhanced. If you have a little bit of training in how to, in metacognition how to view the mind and thoughts, you can observe the whole experience with that much more kind of calmness skill and wisdom knowing this is just the mind doing these cool things. So it's not, they're not separate. And then I think the, the psilocybin experiences enhance daily meditation so they really go well together. 
+0  
+01:24:47
+Yeah. And anoth, just as a little editorial on psychedelics, what's interesting I think about the clinical data is that, you know, we think of the, the psychedelic journey as the time in which all the changes occur because it has all these properties of hallucinations and altered thinking and et cetera, that access kind of a gravitational pull around our, our ideas about what psychedelics do. But it's actually in the window after the psychedelic journey that the actual rewiring in the brain takes place. So when people talk about integration afterwards, they're not just talking about the few hours where they're, you know, parachuting back down to, to typical consciousness, let's call it that. But that there's this long, perhaps even weeks or month long tail of plasticity. 
+0  
+01:25:30
+And that's actually when most of the rewiring is happening, which I find really interesting, which is not unlike meditation where sure, in one bout of meditation you might see a adjustment or rewiring of the brain, but at least from the book, altered Traits, which I'm a big fan of, talked about these daily repeated short meditations or these longer TM retreats as they're sometimes called an inducing this big time rain plasticity. All right, well I'm, now I'm gonna have to do it and I'll report back to everybody what my experience was, although I might do it silently. I'd love to talk a little bit about some of the other health metrics that you've explored, not just in the context of mindfulness, but I'm particularly intrigued by a graph here. 
+0  
+01:26:12
+I'm showing my really nerdy side. There's a graph in one of your papers, it's the Picard paper 2018. We will provide a link to, to this in the show note captions that people wanna take a look. But it essentially describes the relationship between mitochondrial health and mood in the context of people who have different type of mood tendencies. If you, if you would be willing to just kind of describe the top contour of that study and some of the, the points that it, that you find most interesting. I think it's a fascinating study and, and I I'm so glad you did it, but I'll let you tell us about it. 
+2  
+01:26:44
+Yeah, we've, we've done these in-depth studies where we are looking at people under a lot of daily demand caregivers. And then we look under, look at, you know, normal people, parents of neurotypical children who still have a lot of stress. But we, that we then ask, you know, does, do people under chronic stress have accelerated aging? So we look at telomeres, epigenetics, mitochondrial health, and then what explains those who look really good, who look resilient and don't look vulnerable. And so then we can find out like what's the magic sauce in the day that protects them from chronic stress. So Martin Bakar, my colleague, who has been obsessed with mitochondrial health as a pathway to understanding both stress and really health and disease, he has developed a way to measure mitochondrial health in humans. 
+2  
+01:27:33
+So we can measure a bunch of enzymes and then we can adjust it for how many mitochondrial we have. So we have this really nice index we can get from the blood. And in this study of young mothers who were, who had either typical children or children with autism, we found that the caregiving moms had significantly lower or dampened mitochondrial activity. What that means is they can't produce as much energy. So if they're feeling more exhausted from the chronic stress, we know why. I mean, it's, it really is a, it was quite dramatic. 
+2  
+01:28:13
+Martin commented some of those low levels even looked like people with some genetic reasons to have low mitochondrial activity. But here's the beauty of that study, we then get to look within their day at their mood and ask, well what about the caregivers who have really great mitochondrial enzymes and, and thus should be making a lot of atp. They had more positive emotions both waking up and in the evening, but especially in the evening. And what's so interesting that is all of these daily diary studies of stress and mood, one of the things we know that matters for long-term health is how positive you feel at night. 
+2  
+01:28:55
+So especially on a stressful day. So at the end of a stressful day, can you muster some feelings of, of content, ease, confidence, joy, do you have any of that or has it just wiped out your positivity? And so for people who feel either low, lower, negative or higher positive, they tend to have better health trajectories. So like a decade later, less depression, less heart disease, less early death. So what, so that's why we care so much about daily moods and in, in our study it looks like the daily mood was really quite correlated with the mitochondrial levels that same day. And we measured mood like, you know, days away from that and it was much less correlated. 
+2  
+01:29:37
+So that, it's just our first studying on this, but it really leads us to think that our mitochondria are sensitive to our thoughts and our feelings probably on a daily basis. 
+0  
+01:29:49
+Incredible. So for those of us that find ourselves in a, in a state of chronic stress, and here I'm talking about the kind of stress that you mentioned before, which is, you know, there is unlikely to be a simple solution. Like we're just gonna be grappling with this thing. And you mentioned the words radical acceptance, which I'd like to drill into a little bit too, cuz this is a, a theme in the self-help literature and it's a, a theme in the, now I think in the formal psychology literature actually was talking to a dialectical tra dialectical psychology expert recently. I think that's the, the, the correct 
+2  
+01:30:27
+Title. Yes. Dialectical behavioral therapy. Correct. Yeah, thank you. That's a common great one. Yeah, 
+0  
+01:30:33
+You you're correct. I I was, I was grasping and that's correct. And they were talking about some of the misconceptions about radical acceptance because I think a lot of people hear the words radical acceptance at least is what they, they told me and think, oh, that means that you have to just accept what is and deal with it. There's another form of radical acceptance, which is I radically accept the fact that I'm not gonna deal with this, right. I'm gonna walk away from it. But what you're talking about is chronic stress of the sort that really, the stress or the fact that a very close relative or family member is dealing with a lifelong condition or the fact that we can't extract ourselves from a situation that we are not in full agency to remove the stress or that radical acceptance of that fact then can ratchet into an understanding of, okay, and yet there are tools that we can use to not just offset the negative health effects but maybe even thrive in the context of this. 
+0  
+01:31:34
+Essentially turning what initially was thought of as a curse into a blessing, at least biologically speaking, what are the data around the practices that can help make that conversion possible. I realize there's a lot of psychological work that needs to be done ongoing. People need coping mechanisms, support groups, always better to have more social support than less of course. But are we again talking about a daily mindfulness practice or is it daily mindfulness of a certain type? What do we know about best practices for mitigating these essentially non-negotiable stressors? 
+2  
+01:32:16
+It's, it's a great question and it's not a quick answer. I think it is partly how we view life and our, our purpose in our own life. What's this game that, you know, we were born into? And even just the idea that bad things shouldn't happen sets us up for vulnerability to feel victimized, to feel like we can't, you know, accept bad things that have happened. So, so just stepping back and asking everyone listening, do you have a situation in your life that is unwanted and you can't change? 
+2  
+01:32:58
+It could be small, it could be huge. How much time do you spend thinking about this? The more we spend time trying to problem solve or worry or just wishing things were different the more we are creating a chronic stress state. And so just even taking that first kind of step back to get perspective on what are the situations in my life that stress me out and and which of these can I circle those that I can't change, they're still, they're on my list. So they're, they're on my mind. 
+2  
+01:33:38
+They're still upsetting. They haven't receded and the background, they haven't gone away. Just that recognition of this isn't gonna go away is incredibly powerful because we can, as I say, put the baggage down and give ourselves some relief and some freedom from, from the big space it holds in our mind and in our body. And this is not a one time thing, it's a practice. Radical acceptance is something we practice over and over to help us loosen our grip on unwanted situations, on letting them control our wellbeing and taking up, you know, this mental real estate that's so precious, our attention. 
+2  
+01:34:23
+So I would, there are statements that we can say that help us and it's, I have, you know, there are a few metaphors. So I'm an expert at this because I have, I'm a caregiver and I often need to refocus from wishing things were different, trying to solve things to really radical acceptance of this is how things are right now, this is the reality. And by just reminding ourselves that there is freedom within that, that there are things that you can do, you can actually live better, live well with these situations. 
+2  
+01:35:09
+So let me tell you what we found from our caregivers. We measure where their mind is at night. We, we, we ping them and we say, in the last five minutes, how much have you been wishing things were different? How much have you been engaged and focused and what you're doing right, right before we pinged you and just those two questions tell us so much about that person's wellbeing. So people, and actually yes, the caregivers are doing more of what I'll call suffering, wishing things were different, not being present for their lives. But regardless of that difference, whether people are a caregiver or not, this negative mind wandering state of not being present for your evening, wishing things were different instead of being engaged predicts more unhappiness, it predicts shorter telomeres. 
+2  
+01:36:05
+So it, it suggests that it's a pattern that has gone on for days, months and years that has been wearing on them. And so some of the metaphors that I think are helpful for this are thinking of yourself, think of this unwanted situation and think of how you're, you're pulling a rope that's attached to a brick wall and you're doing that because you care. You want things to be better for yourself or this person and or a group. I mean, it's, it's something you're passionate about. And so you're pulling and pulling and every day you're pulling and, and you can't move that brick wall. 
+2  
+01:36:47
+So the only thing that's happening is that you're chaffing your hands. That tension, that chronic tension. What if you just drop the rope? I say that to myself, drop the rope. When I start getting, you know, getting, going on trying to solve unsolvable problems, the brick wall's still there, it's never gonna move yet my hands are free. And so I can be freed up to live in the ways that I do have control over to do things that help around the edges. So I was just talking with someone who is just so concerned about their aging parents and you know, them not getting the care they need, not taking care of themselves, you know, things aren't going well, but there was so little that they could do to help their parents. 
+2  
+01:37:35
+And so by dropping the rope for them meant realizing there were things they could do, being present, being loving, doing the little bit of care that they could from a distance was all they could do. And that's enough. That's that loving presence is like a gift that we don't realize that we, we always have that to give. 
+0  
+01:37:58
+Where do you think the tendency for us to try and pull on brick walls comes from? I mean, it's so non-adaptive and I've also heard it stated that people do this in the reverse direction too, meaning in time trying to control the past through current behaviors as well as trying to control the future at Sky. 
+2  
+01:38:21
+So gimme an example of 
+0  
+01:38:23
+That. Yeah, this is something I learned from a guest we had on here. Dr. Paul Conti is a psychiatrist who extremely skilled psychiatrist, who wrote a book on trauma, which I think is the best book on trauma frankly. And he talked about how the limbic system that engages these fight or flight responses has no sense of time. And that's why developmental scripts get reactivated in particular parent-child or caretaker child neural circuits that were engaged in those relationships when we were really young get reactivated in adult relationships. I mean, in some sense it doesn't make any, any sense. Like why wouldn't the human mind have separate circuits for adult, like romantic attachment versus child parent attachment? 
+0  
+01:39:04
+This is all sounding very Freudian. And yet when you look at the, the neuro imaging, it's like you get one set of circuits for understanding of relationship. Of course you adjust according to context and they get repurposed. You don't just set that aside, say that was for childhood. But what he said was that the limbic system and the stress system wh when it's activated distorts our perception of time and that this is what he was saying leads to the what's sometimes called the repetition compulsion. People try and will repeat the same place themselves into mildly to severely traumatic circumstances over and over again despite the presence of a, of a trauma doesn't have to be childhood trauma. 
+0  
+01:39:46
+You think, well that doesn't make any sense. It's like the most illogical thing in the world. Like you get burned on the stove and you keep going back to the stove. And the idea is that these circuits, when they get activated, really engage entire like cognitive scripts that make it very hard to escape. It's like it pulls you into a story that is exquisitely hard to to, to get away from it. And so that this repetition compulsion is an attempt to try and rewrite the story. And this is, this is a theory not just a Freudian psychology, but kind of modern trauma and neuroscience informed trauma therapies. In any event, as you described the this pulling on a brick wall, I find it a very compelling image and one that makes total sense to try and drop the rope as you describe it, because of the incredibly high energetic demand that pulling on that rope represents, as you said, it's, it's sort of a way of diverting resources towards something that has no conclusion, right? 
+0  
+01:40:43
+And in dropping the rope you can divert those resources towards other things. Right. So I was just curious, again, I wasn't consulted the design phase and I'm assuming you weren't either, but you know what, I wonder what, what in us as scientists, I'm just kind of doing the g Duncan experiment here. Like I wonder what in us as human beings compels us to try and change what we, the unchangeable. 
+2  
+01:41:07
+We really, really, really love control and we want to control the future. Not just because it makes us feel powerful and happy, but because then we can relax if we know what's gonna happen next, if it's predictable, we are that much happier. We're not vigilant and looking ahead and being prepared for what might happen. So let me ask you that. So I have two whole chapters in the stress prescription. One is on uncertainty and one is on control. And these drive us crazy until we can somewhat master and understand how little control we have and how much uncertainty there is and will always be. 
+2  
+01:41:53
+So let me ask you this, if you couldn't plan your day tomorrow and you wanted to know with certainty what your plans were, what was gonna happen, how much ease and relaxation would you feel at the not knowing what's gonna happen tomorrow? 
+0  
+01:42:12
+Very little. 
+2  
+01:42:13
+So like on a one through 10 scale, how much would that drive you? Crazy. Tomorrow. 
+0  
+01:42:18
+Tomorrow real. Tomorrow, Saturday. So I'm a little more 
+2  
+01:42:21
+Flexible. Oh, and Monday, 
+0  
+01:42:23
+Oh no, Mondays I, Mondays are mine. I own Monday. No, I'm kidding. I'm just kidding. I love Mondays. It's always been my favorite day of the week. Even when I was in school. Yeah, that would be on it. That would be a six. Yeah, six out of 10. 
+2  
+01:42:39
+And that's not unusual. And we have a scale to measure how comfortable people are with certainty. And what we already knew was that being comfortable with uncertainty is a beautiful but rare resilience factor. People who tolerate uncertainty have much less anxiety and depression. And when stressful things happen, they get over it more quickly. So we measured this during the pandemic and what we found was that intolerance of uncertainty pretty strongly predicted pandemic anxiety, P T S D, depression and distress about the fires, the climate, the climate situation in, in California. 
+2  
+01:43:21
+So this is interesting. I mean, is this like a fixed personality and we're just stuck with our rigidity around wanting certainty? Or is this something that we, like a muscle that we can build? So I think it's the latter and I think there are practices we can do that help us feel ease with the uncertain future. Some of these mindful check-ins, noticing that we are carrying around uncertainty, stress is one way, and then reframing uncertainty as the beauty of the mystery of life and the freedom that we can feel when we realize we don't control tomorrow. 
+2  
+01:44:06
+We just go with it and we, you know, we do our best. And what delight there is in just viewing things with curiosity and just seeing what emerges. So even just our posture, well here's an exercise for dealing with uncertainty instead of like kind of that alert posture when we're like trying to take it all in and, and predict the next second and like just lean back and take some slow breaths. We know that's gonna help orient us and realize that we can actually FaceTime in that way by letting it come to us and receiving what happens. And that's a completely different body stance than our usual go mode during the day. 
+2  
+01:44:50
+And that's just a way of saying, I am in a, you know, receptive mode and I'm going to just be curious about what arises. And so I actually learned that on a meditation retreat because I tend to be type A and I leave a retreat going from like very relaxed to like that leaning forward tense of like, where's the to-do list? And so carrying with me that posture of like just see let time unfold as it will without trying to control things. 
+0  
+01:45:25
+It's really interesting. It gets right to the heart of something that I spend a lot of time thinking about in the context of stress management and also just general thriving, which is that I think that about half of the messages that we get relate to stress and mind body interventions relate to adopting this forward center of mass. You know, interesting. This idea of, okay, stress can give us early dementia, stress can limit our sleep, stress can impair our cognition or stress can make us more resilient. Stress can activate all sorts of positive anti-inflammatory pathways as well that the mindset matters. And here I'm, I'm doing a terrible job of it, but I'm trying to scrape off and capture the top contour of the beautiful work of my colleague Dr. 
+0  
+01:46:14
+Aaliyah Crumb, who's yes, 
+2  
+01:46:16
+You know, love 
+0  
+01:46:16
+Her work, be on this podcast and is a, I'm a huge fan of her work as well. And that mindset matters because it shapes physiology for sure. It, her data point to that. So there, there are these kind of forward center of mass type approaches and these are abundant on social media, you know, different people come to mind. Different archetypes really have emerged, you know, millions and millions of followers that are the archetypes of when challenge arises, you smash into it, you go through it, right? And then on the other hand there are these stress mitigation techniques, both mental and physical, body-oriented, mi mind-oriented, et cetera, that are more of the sort that you described that are, they're not being back on your heels so to speak, like letting things bulldoze you but are more of this receptive mode and of more of an awareness mode. 
+2  
+01:47:11
+Exactly. 
+0  
+01:47:11
+And, and I think that since here we are at the table to researchers who focus on these issues a lot, do you think it's fair for us to adopt a sort of a general framework and model that, that perhaps people can adopt for themselves if they like that, that of course it's not an either or, but that having both of these in one's kit of tools could be valuable because one is less energetically demanding, but of course offers less opportunity for agency or at least apparently. So that's the leaning back. And then the, the other is certainly gives an opportunity for agency, but we know from a hundred years or more of psychology and psychiatric literature and from the emerging literature on stress mitigation that it's work. 
+0  
+01:47:59
+It's not something that is without a cost, it can get you far better results than it were you to just let stress bulldoze you. Yeah. But that it's work. And so we have to emphasize that work in very deliberate ways. 
+2  
+01:48:14
+Exactly. I couldn't agree more. It's work when we know it's productive, we should work. And when we know there's a brick wall we should let go. So I think of it, I like this forward mass idea. I think of it as you muscle it and or you release it and we need both. And so that letting go is a really important wise, you know, discerning way to mitigate stress in the right situations, in the right time. And you know, we can't muscle through everything. Right? So another way I like to think about it is just the waves of life. Like, I mean, we are in an ocean and we have small waves, we have big waves. Some of these tidal waves are gonna hit all of us, the global stressors, the the climate disasters that will come. 
+2  
+01:49:00
+And so when we're not in the middle of a wave, which is when we need to muscle it, we're between waves. How much control do we have to fight the tide there? Some, it's not black or white. We, we are, we, we can't fight a rip tide. We need to go the direction of the tide, but we can have some control in our direction. And it kind of goes back to our colleague Robert Sapolsky's, very biologically based idea of us having, you know, he's a little bit extreme with a no free will. We are, we are influenced by all of these things around us as well as all of our biological, you know, I'll say brilliant evolutionary animal instincts. 
+2  
+01:49:50
+So given all of that, we have some deterministic forces on us and within that we get to ease up between the waves when we can, we get to change our direction, but we're always gonna be hit by the next wave. And so it's this skillful surfing or navigating that we can do better when we realize, when we control things, when we can't, when we can truly feel safe and have ease versus when we need to kind of gently paddle. 
+0  
+01:50:24
+What do you think is the value of journaling and, and placing one's own narrative on stressful circumstances, especially these non-negotiable circumstances? Again, I'm, I'm fascinated by these because I think it's a category of stress that's not often talked about and yet is so prominent. So people will say, okay, you know, dealing with short-term stress. Okay, well my lab would say like, use physiological size or raise your stress threshold. And we'll get back to that in a little bit as it relates to the work you're doing with breath work. But so many stressors are gonna take a year, five years, we don't know. You know, that the uncertainty that you mentioned earlier or the, the certainty that this is gonna go on forever. 
+0  
+01:51:05
+And so, you know, what is the, you know, for, for people that are listening to this and that and want to start to adopt practices, do you think that spending some time creating a written or a spoken narrative is helpful? I mean, we hear this, but are there any data that support the use of journaling as a, as a tool? I seem to recall that there, there are a few studies out there, but I can't, I can't remember exactly. 
+2  
+01:51:32
+Yeah, definitely creating a coherent na narrative is critical to our ability to make sense, find meaning, find resolution, have a social identity around our lived experience, what happens to us. So narrative is kind of everything, right? In stress research. It's, it's not what happens to us, it's how we're interpreting it and how we're, how we're responding to it. And I've, I've heard you say the exact same thing when you've talked about what is stress. It's, it's really what narrative we're creating around it. So I think a narrative of purpose fill in the blank about what you are, what's meaningful to you. But that is why we're different than just the, the, the rats that we study or the monkeys like they have these amazing stress responses that are, we have them too and we can't control that. 
+2  
+01:52:25
+But we have the ability to do this projection to the future to ask what is our purpose in life to see and know that we are going to die and we can have some control over how we live and maybe even how we die and how we wanna be remembered. That is so beautiful. That helps, helps us rise above this being monkeys and clothes. 
+0  
+01:52:49
+I'd love before we wrap, for us to return to this question about breath work and the study that you're doing. One, one of the, I've known about your work for a very long time, admired it for a very long time. And one of the things that excited me about being able to sit down with you today is that our laboratory studied breath work, your laboratory studying breath work. And, and I know that you've been doing a study on the so-called whim H method. Yeah. Which of, I'll let you familiarize our listeners to. Some of them are familiar with the whim Hoff method, others are not, I think a lot of people think of whim in terms of his role as the iceman cuz of cold exposure, but of course he has breath work practices that mirror things like tumor breathing and other things. 
+0  
+01:53:31
+But maybe you could tell us a little bit about what you're doing there and what you're interested in discovering. I realize it's too early to give us the results, but hopefully they'll come back and do that at another time. But what is the study? What motivated the study? And, and maybe I can convince you to give us a little teaser of what you're discovering. 
+2  
+01:53:48
+So for i I, for many years, I mean, I think my first paper when I was a graduate student with Bruce McEwen was about this idea of positive physiological stress. And so I've always been wanting to really understand what's positive stress, how can we induce it? And instead, for many, many too many years I've been studying the dark side toxic stress trauma caregiving and how that is can take a toll on the body without the right resilience and resources. And now I'm very excited about the, the opportunity to just focus on different ways that we can stress out our body and mind in short-term bursts that might promote stress resilience. 
+2  
+01:54:40
+And the body-based strategies are concrete, they're quick, they're, they're also my favorite strategies. I I probably have internalized a lot of the mindsets and the, you know, the things that I've learned from meditation and what I feel the biggest bang for the buck is, you know, if I'm waking up like super jittery with a, a big stress response because of X or y it is actually something like a, a hit type workout or taking the dogs for like a really brisk walk or like burning up that energy in my body is a very big effect size for me personally. Everyone has their, you know, different ways that they can see the biggest shifts in daily stress. 
+2  
+01:55:25
+So I've been looking for ways to create positive stress besides exercise. We all know about exercise and I met Wim h at a a meeting where we talked kind of back to back and so we hadn't I had kind of heard something about, you know, crazy iceman climbing up the Himalayas. I really had, 
+0  
+01:55:44
+I think he has 27 or more world records Yeah. For that sort of thing. 
+2  
+01:55:49
+Yeah. So he, so I got to hear, I got to do the breathing with him during this conference, and I just felt like elation afterward. I was like, what was that? And then he heard about telomeres and he was like, I need to know if my method is affecting cell aging. He loves research. And so we, he helped us design a study that we've been working on at U C S F with my colleagues, Wendy Mendez and Eric Prather. It's been many years. And it's funded by the John W Brick Foundation, which is very focused on what are non-drug way ways that we can help mental health. So it was a very good fit for all of us to come together, design the study, and we have been basically comparing low arousal, relaxation methods, mindfulness, slow breathing to positive stress exercise and whim half method. 
+2  
+01:56:43
+And one of the things that we've learned in a big way is that regardless of whether we're creating deep states of ease or hormetic stress in the body, that short-term burst of either aerobic activity or the extreme breathing people feel better, period. So three weeks later, after this experiment of doing their practice, every day, they were either randomly assigned to the high arousal or the low arousal. The level of stress, anxiety, and depression fell dramatically in everyone. So many paths to changes in stress. There are probably very different physiological pathways. And, and we can talk about that more when we get to really look in depth at our physiological data as well as our blood-based data. 
+2  
+01:57:32
+But what we do know is that the Wim H method did create daily positive emotion that increased over time, just like your study on sighing. And so even though there are different mechanisms, they were selectively boosting feelings of positivity. I love that. You know, that's very unusual to get a very selective positive effect. 
+0  
+01:57:56
+Super interesting. I can't wait to hear more about the data. So I, I gather, and by the way, no is a perfectly fine answer. I gather that you're not gonna tell us about the, whether or not there are telomere changes yet, or maybe that's not possible to detect in this kind of short term study. 
+2  
+01:58:13
+So what we're going to look at, we don't really think that telomeres can change very quickly and tase may. So we're gonna look at mitochondrial enzymes, telomerase and gene expression patterns. And as you know, we can look at many different mechanisms and pathways with gene expression patterns, especially with these new kind of assays where you can look at, you know, 7,000 different proteins like the SomaLogic. And so we'll get to see, well, what's the pat, you know, did we really change patterns of acute stress with these different types of stress resilience interventions? And in terms of the physiological reactivity, there are ways that we can examine both the stress response system, parasympathetic sympathetic nervous system and the parasympathetic response system. 
+2  
+01:59:08
+And I will tell you that while we're still preparing the results, there were very different profiles from the different interventions that make us think that there's a lot of specificity. Even though everyone feels better, the the way that they got there is very different. The ways that it were impacting both the nervous system and the brain. 
+0  
+01:59:29
+Incredible. And I have to say, when I heard that you were studying Wim Hoff method, I was positively delighted because I, I find that there are so few serious researchers in the realm of, of modern science that are both explorers. And then take what they've, you know, gleaned from those explorations, and then take it to the laboratory and, and put rigor on those and really try and parse mechanism with, with, of course, all the open-mindedness to whatever the outcome happens to be. Right? I mean, good science involves necessarily asking questions alone, but raising hypotheses and being comfortable for those hypothe hypotheses to be correct or not correct. 
+0  
+02:00:12
+And I find your work to be just so incredibly creative and brave in that way. And I love the way that you've meshed different aspects of your own personal journey into these different practices. I don't know what came first, the science of the practices, but I, I, I have, I have my guesses, but I must say it's, it's very refreshing and I think it's exactly, exactly what the world needs right now in terms of tools for mental health and physical health, because far too many studies try and isolate variables without understanding a larger context of like, what are the different types of stressors? And clearly you're addressing that, or, you know, there's this thing breathwork that some people might think, oh, you know, the iceman whim Hoff, it's really esoteric and, you know, kind of crazy. 
+0  
+02:00:58
+I'm certainly not saying that. But you say, well, what are the critical elements from that that we might be able to extract, understand this positive tress phenomenon? So I just, for, I wanna first of all just say thank you for doing the incredibly important work you do, 
+2  
+02:01:12
+And thank you. I mean, we were so delighted to see the paper you did with David Spiegel and to know that you're pursuing this path, and it's very reassuring with your rigor and your, you know, depth of background. I, I agree with you. This, these are the types of studies we need. Releasing the inherent power of rejuvenation that's in our body is untapped. It's relatively untapped in these rigorous controlled studies. And we just can't reduce inflammation with a drug. We can't reduce stress with a drug. We desperately need to learn how to use, you know, the whole range of the nervous system, from the acute stress to the deep relaxation to heal and to promote these healthy resilient states. 
+0  
+02:01:59
+I couldn't agree more. And U C S F is very, very fortunate to have you, and should they ever forget that, please come to Stanford instead. Maybe we can recruit you away from U C S F and I'm here, I'm being friendly to my colleagues at U C S F, but they bear treat you. Right? Or else we're, we're coming for you. And I also just wanna thank you for taking the time today to share this information. Also, you've written wonderful books. We will provide a link to the newest one and I'll of course cue people to that because it sounds like a, a very rich source of information and actionable tools that people can take in terms of mitigating stress. And I, I love the idea that there's this discussion about certainty and control two elements that are very prominent in, in my life, for better or for worse. 
+2  
+02:02:45
+And all of us. All of us, 
+0  
+02:02:47
+Yeah. And so really thank you for the work you're doing. Thank you for taking the time to share that work through books and through podcasts, and especially today on this one. I, I, I know I speak on behalf of many, many people and I just really want to extend my 
+2  
+02:03:00
+Gratitude. Thank you so much, and thank you for, for your podcast. 
+0  
+02:03:04
+Well, it's a labor of love and it's days like today and discussions like this that make it worthwhile. So 
+2  
+02:03:09
+Thank you. Thanks, Andrew. 
+0  
+02:03:11
+Thank you for joining me for today's discussion all about stress, aging, and metabolism with Dr. Alyssa Apple. Hope you enjoyed the conversation as much as I did. If you'd like to learn more about Dr. Apple's laboratory's work, or if you'd like to learn about her books such as the Telomere Effect and the Stress Prescription, please see the links in the show Note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please subscribe to the podcast on Spotify and Apple. And in addition on both Spotify and Apple, you can leave us up to a five star review. If you have questions for me or topics you'd like me to cover on the Huberman Lab podcast or guests that you'd like me to consider inviting on the huberman Lab podcast, please put that in the comments on YouTube. 
+0  
+02:03:54
+I do read all the comments. In addition, please check out the sponsors mentioned that beginning and throughout today's episode. That's the best way to support this podcast. 
+Momentous (Ad)  
+02:04:02
+Not so much on today's episode, but on various previous episodes of the huberman Lab podcast, we discuss supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them for things like enhancing sleep focus and hormone support. The Huberman Lab podcast is proud to have partnered with Momentous supplements. If you'd like to hear more about the supplements discussed on the huberman Lab podcast, please go to live momentus spelled O U s.com/huberman. Again, that's live momentus.com/huberman. 
+0  
+02:04:28
+If you're not already following the huberman Lab podcast on social media, we are huberman Lab on Instagram, Twitter, Facebook, and LinkedIn. And on all those places, I focus on material that somewhat overlaps with content from the huberman Lab podcast, but often is distinct from the content covered on the huberman Lab podcast. So again, it's Huberman Lab on all social media channels. For those of you that haven't already subscribe to our so-called Neural Network newsletter, this is a completely zero cost monthly newsletter that has summaries of podcast episodes and so-called toolkits. Toolkits are lists of about a page to two pages long that give the critical tools, for instance, for optimizing sleep or for neuroplasticity or deliberate cold exposure or deliberate heat exposure, optimizing dopamine. 
+0  
+02:05:10
+Again, all available to you at zero cost. You simply go to huberman lab.com, go to the menu tab in the corner, scroll down a newsletter, you provide us your email. We do not share your email with anybody. And in addition to that, there are samples of toolkits on the huberman lab.com website, again, under newsletter, and you don't even have to sign up to access those, but I think most people do end up signing up for the newsletter because it's rich with useful information. And again, completely zero cost. Thank you again for joining me for today's discussion with Dr. Alyssa Epel, all about stress, aging and metabolism. And last but certainly not least, thank you for your interest in science.

@@ -1,0 +1,1252 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. Ethan Kross: How to Control Your Inner Voice & Increase Your Resilience
+Published: 11/25/2024
+2/20/2025 - 3h 9m 2s
+ - 
+IE
+Downloaded:
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman Lab Podcast, where we discuss science and science based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. And I'm wearing these red lens wind down Roca glasses because we are recording this late at night, which is unusual for us. And bright light in particular, short wavelength, bright light in the blue and green part of the spectrum, Quas melatonin, and it makes it hard to sleep. And I wanna sleep tonight. These red lens glasses filter out the green and blue short wavelengths that would otherwise disrupt my sleep. My guest today is Dr. Ethan Cross. 
+0  
+00:00:41
+Dr. Ethan Cross is a professor of psychology at the University of Michigan and the director of the Emotion and Self-Control Laboratory. He's also the author of the bestselling book, Chatter, the Voice in our Head, and How to Harness It. Today's discussion is a really special one because we discuss something that each and all of us have, which is a voice in our head that is our voice. And that voice can range from encouraging to discouraging. It can be repetitive in ways that can be very intrusive, and it has a profound effect on our emotional state, our confidence, our levels of anxiety, and indeed what we are capable of achieving in life. Dr. Ethan Cross's laboratory has done groundbreaking research to understand what is the origin of this voice in our heads and can and should we control it? 
+0  
+00:01:28
+And indeed the answer is yes. Today's discussion gets into many things that people struggle with and many things that you can do to improve your life, such as how to regulate the Chatter in your head, how to overcome ruminations and intrusive thoughts. And we also discuss what to do with your actual voice. For instance, data pointing to the fact that Venting your Negative Emotions to others is actually bad. It tends to amplify bad emotions. We talk about that research. We also talk about other forms of outward speech and inward speech, that Inner Voice that you can partake in in order to improve your emotional state and shift your emotional state. So today's discussion really centers around common questions and common scenarios and common challenges that everybody grapples with. 
+0  
+00:02:14
+And of course, we all have a voice in our head today. You're gonna learn to listen to it, to regulate it, and indeed to steer it in the direction of mental health, physical health, and performance. I'm also excited to tell you that Dr. Ethan Cross soon has another book coming out entitled Shift Managing Your Emotions, so They Don't Manage You. And I tremendously enjoyed Chatter, his first book, and I very much look forward to Reading Shift when it comes out. We provide links to the work in Dr. Ethan Cross's laboratory, as well as links to his previous and forthcoming book in the show note captions. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. 
+0  
+00:02:58
+In keeping with that theme, I'd like to thank the Sponsors of today's podcast. 
+ExpressVPN (Ad) huberman 
+00:03:02
+Our first Sponsor is Express VPN Express. VPN is a virtual private network that keeps your data secure and private. It does that by routing your internet activity through their servers and encrypting it so that no one can see or sell your data. Now, I'm personally familiar with the effects of not securing my data well enough. Several years ago, I had one of my bank accounts hacked, and it was a terrible amount of work to try and have that reversed and the account secured. So after that happened, I talked to my friends in the tech community and they told me that even though you may think your internet connection is secure, oftentimes it is not, especially if you're using wifi networks such as those on planes and hotels, at coffee shops and other public areas. In fact, even when you're on the internet at home, your data may not be as secure as you think. The great thing about Express VPN is that I don't even notice that it's running since the connection it provides is so fast. I have it on my computer and on my phone, and I just keep it on whenever I'm connected to the internet. If you wanna start protecting your internet activity using ExpressVPN, you can go to ExpressVPN dot com slash huberman and you can get an extra three months free. Again, that's E-X-P-R-E-S-S vpn.com/huberman to get an extra three months free. 
+Eight Sleep (Ad) huberman 
+00:04:13
+Today's episode is also brought to us by Eight Sleep. Eight Sleep Makes Smart Mattress covers with cooling, heating and sleep tracking capacity. One of the best ways to ensure that you get a great night's sleep every single night is to control the temperature of your sleeping environment. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep makes it easy to control the temperature of your sleeping environment by allowing you to program the temperature of your mattress cover at the beginning, middle, and end of the night. I've been sleeping on an Eight Sleep mattress cover for nearly four years now, and it has completely improved the quality of my Sleep. Eight Sleep has now launched their newest Generation pod cover, the POD four Ultra. The POD four Ultra has improved cooling and heating capacity, higher fidelity sleep tracking technology, and even has snoring detection that will automatically lift your head a few degrees to improve your airflow and stop your snoring. If you'd like to try an Eight Sleep mattress cover, go to Eight Sleep dot com slash huberman to access their Black Friday offer. Right now with this Black Friday discount, you can save up to $600 off on their Pod four Ultra. This is eight sleep's biggest sale of the year. Eight. Sleep currently ships to the USA Canada, the UK select countries in the EU and Australia. Again, that's Eight Sleep dot com slash huberman. 
+0  
+00:05:34
+And now for my discussion with Dr. Ethan Cross, Dr. Ethan Cross, welcome. Great to be here. Right before we went, hot mics, as they say, we were talking about interrupting one another and the fact that you're from New York, I'm gonna try not to interrupt you because the audience doesn't like that. However, I am very interested in what you're gonna tell us about emotion regulation, but especially this thing that you call Chatter, the voice in our heads. And prior to learning about your work, I always thought that Chatter and the voice in our heads was, you know, overwhelmingly negative. That's what we hear. How do you combat that negative voice in one's head? 
+0  
+00:06:15
+But you have some very interesting ideas about the utility of Chatter, like maybe how it even arose and what it's for. So maybe we start there. 
+2  
+00:06:22
+Yeah. So I think this is a a great question because the Inner Voice is something that we carry with us wherever we go, but we don't tend to learn what it is, right? And actually sometimes I, I get up there and speak to people and they often wonder like, what is a purported serious scientist doing? Talking about a squishy topic like the voice inside our heads. And it turns out that this is a remarkable tool of the human mind. So when I use the term Inner Voice, what I'm talking about is our ability to silently use language to reflect on things in our lives. And it turns out that's a, a type of Swiss army knife that we possess. 
+2  
+00:07:02
+It lets us do many different things. So just from the outset, let me distinguish Chatter from other Inner Voice operations. I think of Chatter as a dark side of the Inner Voice, and we'll get to that in a little bit. But having the ability to silently use language that is a boon to the human condition. So I'll give you a couple of benefits to that. It serves what's your favorite sports team? 
+0  
+00:07:30
+The Harlem Globe Trotters, because they're undefeated as I understand. Oh yeah. Best record in in any sport. I I don't think they've ever lost a game. 
+2  
+00:07:37
+Do they ever play against other teams? 
+0  
+00:07:39
+The, the Washington Generals. 
+2  
+00:07:41
+Okay, sorry for the Washington Generals. So if you were to go to a game and root for them, what would you say? 
+0  
+00:07:50
+Go Globetrotters. 
+2  
+00:07:51
+Go Globetrotters. Okay. Can you repeat that phrase silently three times in your head right now? 
+0  
+00:07:59
+Yes. 
+2  
+00:08:00
+Done. Okay. You, you've just used your Inner Voice. So your Inner Voice is part of what we call our verbal working memory system. Basic system of the human mind that lets us do something that I think is both extraordinary, but totally ordinary. Also, your verbal working memory system, it's a mouthful, lets you keep information active for short periods of time. So before we had cell phones, how did you memorize phone numbers? Like what would you do? Repeat it in your head. 
+0  
+00:08:30
+Yeah, and it had sort of a song to it. Yeah, right. I can remember my childhood phone number still, even though that number is long since Gone Long 
+2  
+00:08:39
+Since gone, yeah. Even 
+0  
+00:08:40
+The whole area code's gone, in fact, really? Well, the, it, the number is probably still there, but under a different area code. I know. 'cause I tried calling it every 
+2  
+00:08:46
+Once in a while. Interesting. Yeah. Well, it's funny, when I, when I go through this content, I give talks or workshops, I often say 2 0 9 0 5 0 1. Repeat that in your head three times. That's my childhood phone number. I'm like, go give it a shot, give them a call. So for all I know, that person may be getting lots of phone calls. It's not, it's not my phone number, but that's your verbal working memory system. You go to the grocery store and you try to remember what you were supposed to get. Most people don't do that out loud, like, oh crap, what was I supposed to get? Milk, cheese, eggs. You repeat that silently in your head. So that's one thing your Inner Voice allows you to do. Keep information active, verbal information. 
+2  
+00:09:26
+Your Inner Voice also helps you simulate and plan. So before presentations or interviews, a lot of people report going over what they're going to say before that event. Do you ever, ever do this? 
+0  
+00:09:41
+Yeah, I mean, my mode of preparation for things like solo podcasts and talks is, it's not scripted out line by line in advance. But I have a structure in my mind and it's more like remembering the first line of each paragraph in my head and then the rest just kind of falls out. 
+2  
+00:10:01
+Yeah, we have a very similar, similar style. I will, I will bullet out what the key ideas are, and as long as I could bullet that out, I am good to go. But I will also rehearse those bullets in my head. A, B, C, D. So that's you using your Inner Voice as well. Now, before a big presentation, like a live event, I will go over the opening to my presentation and sometimes just carry that dialogue through. When I'm going for a walk around the hotel before the event, 
+0  
+00:10:33
+May I ask about the walk when I prepare for live events or solo podcasts, and long before I was involved in either of those activities for lectures of any kind or classroom discussions where I had to stand up in front of the class, I would find that walking and listening to a song would maybe simultaneously, maybe separately would dramatically shape the kind of cadence and energy of the delivery of the the talk. 
+2  
+00:11:02
+Yeah, I, I love the fact that you brought up songs there. So if you wanna take a little detour here. So in in, in my new book shift, we talk about, or I talk about how the different Shifters that exist to push your emotions around and sensation sensory experiences are one powerful, and I would argue often overlooked modality for shifting our emotions. So if you ask people, why do you listen to music? What do you think most people say? 
+0  
+00:11:29
+It makes me feel good, 
+2  
+00:11:30
+Feel right? It's about emotions feel good. So one study, the, the number was around like 95, 90 6% of participants who were asked said exactly gave the answer that you just gave. But then if you look at in other studies, Hey, the last time you felt anxious or angry or sad, what did you do to push your emotions around? The number of people who report using music to modulate their experience drops way down 10 to 30%. Music is a really powerful tool for modulating our emotions. I actually, an unintentional parenting victory for me was when my youngest daughter was around five or six and I was coaching soccer. 
+2  
+00:12:14
+I lived for these soccer games on the weekend. I wasn't one of these overbearing coaches who would, you know, go crazy on the sidelines. It was just such joy to just watch these, these kids play. And typically my daughter was really excited to go to the game, but one morning she was just like not into it at all. She was bummed, like she was bummed out. It was bumming me out. I was, you know, catching her emotions. We can talk about Emotional Contagion later and got into the car and it just so happened that my, my cell phone was connected and the next song on the playlist happened to be Journeys Don't Stop Believing. 
+2  
+00:12:56
+So you know, the song I presume, don't judge me for having this on my playlist, please. The song comes on and, you know, I start jamming out to it and I was singing out loud, like an embarrassing dad. And then I look in the backseat and I find her bopping her head, and then the chorus comes, we get really excited, and then I pull up to the soccer field and she just bursts out of the car and is like invigorated. That is the power of music to impact us. So I will often also have songs on prior to big talks that I'm, I'm getting ready to, you know, get in that mental frame of mind. 
+2  
+00:13:37
+And I don't think it's a coincidence that many athletes do this as well. They've stumbled onto this tool that is quite powerful for pointing our emotional experience or our emotional trajectory in the direction we wanted to, to point. So 
+0  
+00:13:54
+It's interesting, I I was thinking about music in reference to shifting emotion as you just gave an example of Yeah. You know, feeling like a motivated and then your daughter's motivated by the Yeah, don't stop. Right? Yeah. Okay, I'm not gonna sing it. Keep going. 
+2  
+00:14:08
+No, no, no, we'll do it together. We'll 
+0  
+00:14:10
+Not do that. Then we'll listen, someone will, will cut the clip onell ever listen, and then they'll run it out. They'll pull it out. And then no, I have a truly terrible singing voice, but I wonder, has the study ever been done? Or something similar to this where people who are feeling pretty good or very good are exposed to sadder music and, and vice versa, people are feeling sad exposed to, to sort of ecstatic music or, or positive lyrics. Because I've often wondered whether or not humans like or dislike when things or people try and shift their state. You know, I know in myself when I'm like feeling upset about something, I don't want to feel upset. 
+0  
+00:14:52
+I don't think anyone wants to feel upset. But if I hear a song, there's like, that's positive. There's, there's a moment where I'm like, I can feel it kind of pulling on me. And you sort of know, like, I could follow that trajectory and probably get out of this. And sometimes one does and sometimes one doesn't. You know, where, and this gets to I think a more fundamental issue, which is why I am asking, which is, are we supposed to feel our emotions as a way to, you know, sort of dissolve them when we don't want them kind of the cathartic approach or would listening to sad music when we're sad, just amplify the sadness. 
+2  
+00:15:24
+These are great questions and I have a couple of, they touch on a couple of amazingly important issues that we need to get into. So let's just do them serially. So number one, has the, the study been done when you expose people to different kinds of emotion music, sad versus arousing, you know, happy music. Do you see that push people's emotions around? Yes. In fact, sensory tools like music or visual images are one of the most powerful tools that we have in our arsenal for pushing people's emotions around in the context of experiments. So we wanna induce a particular kind of state. We can place certain kinds of music or show people images that are designed to elicit positive or negative emotional experiences. 
+2  
+00:16:12
+So images being another sensory modality vision. So, so that's number one. Number two, there's this very interesting phenomenon where when we are in a particular emotional state, let's say we're feeling sad, we often don't reflexively seek out the happy music. We don't go to a journey. Instead we go to Adele, right? We're going to Chicago. I'm giving you my age bracket here, right? Like the music that has sad associations for me. So there's this mood congruency. If I'm feeling a certain way, I'm gonna go deeper into that state and have the music facilitate me. Why on earth would we do that? 
+2  
+00:16:52
+Are we all masochistic? Do we just want to feel even worse? This gets at, I think, a critically important point that is not always talked about, which is all emotions are functional when they're experiencing the right proportions, not too intensely and not too long. So sadness as an example, is an emotion we experience when we've experienced some loss that we can't, we can't rectify right away, right? Something has happened and you, and you can't fix that. So you've lost someone. And so what does this emotion do? Well, it it, it hijacks the way we are thinking, feeling, and our bodies are responding. 
+2  
+00:17:34
+So it motivates us to introspect, to turn our attention inward, to reflect on this situation to now try to make sense of it. Right? Something really important in my life has happened. I now have to change the way I'm thinking about my life so I can find meaning and move on. My physiology is slowing down so I can engage in that slow introspection. But what's also really interesting about sadness is it's also impacting my facial display. Giving a sign to all of the people in my environment to say, Hey, maybe we should check up on that person, that guy. 'cause he looks like he's on his own in a corner, right? 
+2  
+00:18:15
+So can you detect when someone is sad? If you see like a sad facial expression? 
+0  
+00:18:20
+Yes. When I used to teach the summer courses at Cold Spring Harbor in the North shore of Long Island that students would come in from all over the world. And 
+2  
+00:18:27
+I've been there. 
+0  
+00:18:28
+It's a great place. Yeah, it's awesome summer camp for scientists, although their laboratories all year. And my, I eventually was director of a course there and my co-director and I used to have this debrief at the end of the first day or two where we would talk to one another and we would, you know, go over the list of names and we'd say, and she was remarkably good at this, just extraordinary, like a superpower at saying, you know, I think everyone's settling in well, but I noticed that so and so was kinda like, might not be adjusted to the jet lag or might not be acclimating so well, it's a very tight-knit group and the course is quite long for a course like that, but it's important that everybody kinda feel engaged early on. 
+0  
+00:19:10
+Yeah. And people have a tendency to dominate in those intellectually, you know, competitive environments and, and she could just pinpoint who it was that was feeling a little bit outside the group. We knew how to ameliorate that really quickly. And from her I learned a bit of how to recognize the signs and it was rarely just facial expression. Yeah. Included that and some other cues that she just seemed to have a unconscious or conscious genius around. So for me, I learned some of that from her. I like to think I got better at it, but I think some people are, are just extraordinarily good at that detection 
+2  
+00:19:44
+And it enhances social interactions. And so some people are really good at detecting it. Others are really good at displaying it. I'm gonna go back to my, my, my daughter. So, you know, if something happens where she feels sad, she exhibits this exaggerated response, like she'll stick out her lower lip. And even if I'm kind of upset at her, like it is amazing the power that that has on me. I melted over, melted it. It is so, so beautifully manipulative, manipulative, you know, no man manipulative. And it, it, it's a testament to the power that these displays can have on us. 
+2  
+00:20:25
+So I wanna go back to one other question you raised in your last comment, and we'll go back to the Inner Voice and its functionality you raised the question about being shifted by others, other people, and perhaps either just our surroundings music or spaces. Sometimes you don't want to have your emotions be shifted and in fact when other people try to do that, it can elicit what we call reactants. Like you get defensive because I don't want you pushing me in the particular direction. I think that's a really important point that we need to be aware of as people living and working in these social environments where we're often well-intentioned, but sometimes our well-intentioned behaviors can backfire. 
+2  
+00:21:13
+And so there's this this beautiful research which shows that if you see someone suffering and you volunteer to help them and they haven't asked you to help them, that can blow up in your face because that what it does is it often communicates to people that you are thinking that they're not capable of handling their own circumstances. And most of us, like we're motivated to think that we're capable of handling ourselves. And so there are still ways you can help people in those circumstances. It's called providing Invisible Support, which involves providing support to the person who can genuinely benefit from it, but not shining a spotlight on the fact that that is what you are doing. 
+2  
+00:21:58
+So how might this transpire? There's some really simple things you could do. So let's say my wife is really overwhelmed with stuff and she hasn't asked me for help, but I know she is at her wit's end work and kids and other kinds of stuff that are on her plate. I can, I can proactively do things to lessen her burden. If it's her turn to pick up the dry cleaning and the groceries, I'm doing that voluntarily. I'm doing that. And I'm not coming home and saying, Hey sweetie, look what I did today. I did all these things, you know, can I have a pat on my back? That's not what we're talking about. It's about your group. 
+2  
+00:22:39
+Your your, your lab is working under a deadline, right? To submit a grant application and they don't have time to eat and you proactively have pizza delivered to the lab. It's those little things that can help. Give you two more examples. Let's say that someone on your team is really struggling with their, their ability to translate their work for, for popular audiences. And that's something they're motivated to do. Really important skill for scientists to be able to translate what they do for others to consume before you pull them aside and say, Hey, you know, I noticed that you're stumbling on a few different issues and here are a couple things I think you can do better before you do that direct intervention. 
+2  
+00:23:24
+You might have a team meeting where you share out best practices. Hey, what are the two things that I've learned that really have benefited my ability to communicate with different audiences? What you're doing there is you're getting people the the resources they can benefit from, but you're not shining a spotlight on the fact that you are directing it to them. So it's kind of a back doorway of, of helping or of shifting. The last, the last tool I'll mention brings it back to sensation. One of the most powerful ways we can shift other people is, is through touch tactile sensation. You know, what's the first thing that you do with a child to soothe them when they are born? 
+0  
+00:24:10
+Hold 
+2  
+00:24:10
+Them, hold them skin to skin contact. I remember both times my, my kids were born, it was like, you know, I wanna get in on that. Like, you know, 'cause my wife got first, first dibs with, with both of our daughters. Like, I want some of that, you know, skin to skin contact that doesn't end after we leave the womb. The, the comfort that we experience the release of stress fighting chemicals that occurs when affectionate embraces are registered, that continues throughout the lifespan. So if my daughters who don't particularly like dad to volunteer advice to them on most things nowadays, if I know they're having a bad day, like I'll go over and, you know, I'll rub their back in a totally reep way. 
+2  
+00:24:53
+That is an important caveat we should give to everyone who's listening. What we're talking about here is affectionate but not creepy or unwanted touch. It is touch that is mutually desired. And there is some research which shows actually that when it is not desired, you don't get these benefits. And in fact you get the opposite plus usually like lawsuits as well. 
+0  
+00:25:17
+Yeah, sure. No, I, I, I definitely believe that as a primate species, which we are, we are old, old world primates, I think they call it allopathic grooming. Like you'll see these images of these Yeah. Monkeys and lots of different species of, of primates, you know, just sitting nearby one another where one just has, its even just, its its hand. Yeah. It's paw paw it's hand. Yeah. Oh, it's paw on the, on the one next to it. And they'll just sit like that for long periods of time. Yeah. And then sometimes they're doing like an active grooming of, of removing Yeah. You know, parasite, this is very important in, in the primate world as we know. 
+0  
+00:25:59
+But, you know, grooming and, and, and, you know, picking in these kinds of things, you see it in couples, it's actually can be kind of endearing I suppose at its extremes. It's kind of gross. But you know, it's, it's rather endearing to see somebody kind of like remove a piece of lint off somebody. Yeah. Somebody, you know, their partner's jacket or, you know, just, or even just touch that is, it's not, doesn't look like it's geared towards any specific outcome. Yeah. Right. It's, and it doesn't necessarily appear romantic or that it's grooming. So maybe the lint example isn't the best one, but where you just see people that are just like, actually on the flight down this morning, so I had to fly in early. It was, I was sitting on the aisle seat in the middle, was a, a boy, he was probably 14, 15, and his mom was at the window seat and I went up to, to use the restroom, came back and he had fallen asleep on his mom's shoulder. 
+0  
+00:26:54
+And I, I took a look, it was a very endearing moment. And then when we landed I said, you know, the ability to sleep anywhere as a superpower. And he said, I, I learned it from my dad. And he said, and it was a moment where I just thought it was just a very pleasant thing to see them Yeah. In this touch on, on the plane. He clearly felt comfortable enough to do that. I remember thinking like, yeah, humans were a lot like the, we're a lot like the other primates. 
+2  
+00:27:14
+Yeah. There's, there's a beauty to it and you know, it is, it is a tool, it is one kind of shifter that has to be obviously used in the appropriate context. All of our sensory modalities are powerful tools for, I would argue relatively effortlessly shifting our emotions. And I think that's really important because people often think that regulating our emotions is hard work to the extent that they believe you can regulate your emotions at all. We'll talk about that in a little bit too, I'm sure. But, but it all, you know, self-control, emotion regulation, like, let me like roll up my sleeves and really kind of get in there. Yes, it can at times be extraordinarily difficult to manage our emotions and some of the tools that we have are effortful. 
+2  
+00:28:01
+One example would be Expressive Writing this wonderful tool for working through problematic experiences. You sit down, just let yourself go for 15 to 20 minutes a day for one to three days. This 
+0  
+00:28:12
+Is the Penna baker. This 
+2  
+00:28:13
+Is the Penny Baker writing effect. This is, this is a, a, a, just a remarkably wonderful side effect free, you could argue intervention for helping you deal with curve balls that life throws at 
+0  
+00:28:25
+You. You have vast amounts of data supporting the practice. 
+2  
+00:28:28
+Vast amounts of data Penny 
+0  
+00:28:29
+Baker really deserves, in my opinion, a if not a, the psychology equivalent of a Nobel Prize. I don't know what that is, but it deserves real deep praise for developing that method because it's essentially zero cost takes a little bit of time and there's just what hundreds of studies now, hundreds of studies 
+2  
+00:28:49
+Showing 
+0  
+00:28:49
+That these 15, 10 to 15 minute cathartic writing just free associate writing, usually with, as I understand with a, with a writing utensil is probably better. We did an episode where I, I talked about this and, and received a note from, from him and was grateful that we didn't get anything badly wrong. In fact, he was pleased with it. I think that he deserves a lot of credit. 
+2  
+00:29:14
+Well, we a powerful 
+0  
+00:29:15
+Tool for self-healing. 
+2  
+00:29:16
+We, we actually just re restarted a, a prestigious speaker series at Michigan, the Katz Newcomb Speaker series, which is designed to honor luminaries in the field. And we actually kicked it off with Jamie coming to speak about his extraordinary work because this is really a gift, I think, not just to the field but humanity. And the but though here is that it's an effortful tool. It takes 15 minutes to use. There is nothing wrong with that. Lots of things that we do in life are effortful, but we also know that we don't like exerting effort as a species. We like to conserve our resources as much as possible. 
+2  
+00:29:59
+So if there are easy things you could do as well, it's good to know about what those are. And these Sensory Shifters music, you know, looking at images, right? These are modality, taste, touch, these are ways of pushing your emotions around pretty effectively for short periods of time that in a pinch, like when your, your daughter's not in a great mood or when you wanna get pumped up before an important event can be quite useful. And we often just go through our lives not recognizing how we can strategically harness them. So that's my plug for for since for Sensory Shifters, 
+AG1 (Ad) huberman 
+00:30:41
+I'd like to take a quick break and acknowledge our Sponsor. AG one. AG one is a vitamin mineral probiotic drink that includes prebiotics and adaptogens. I've been drinking AG one since 2012, and I started doing it at a time when my budget was really limited. In fact, I only had enough money to purchase one supplement and I'm so glad that I made that supplement AG G one. The reason for that is, even though I strive to eat whole foods and unprocessed foods, it's very difficult to get enough vitamins and minerals micronutrients and adaptogens from diet alone in order to make sure that I'm at my best, meaning have enough energy for all the activities I participate in from morning until night, sleeping well at night and keeping my immune system strong. When I take AG one daily, I find that all aspects of my health, my physical health, my mental health, my performance recovery from exercise, all of those improve. And I know that because I've had lapses when I didn't take my AG one and I certainly felt the difference. I also notice, and this makes perfect sense given the relationship between the gut microbiome and the brain, that when I regularly take AG one that I have more mental clarity and more mental energy. If you'd like to try AG one, you can go to drink AG one.com/huberman to claim a special offer for this month only. November, 2024, AG one is giving away a free one month supply of Omega-3 fatty acids from fish oil in addition to their usual welcome kit of five free travel packs and a year supply of vitamin D three K two. As I've discussed many times before on this podcast, Omega-3 fatty acids are critical for brain health, mood, cognition and more. Again, go to drink AG one.com/huberman to claim this special offer. 
+Joovv (Ad) huberman 
+00:32:14
+Today's episode is also brought to us by Joovv. Joovv makes medical grade red light therapy devices. Now, if there's one thing that I've consistently emphasized on this podcast is the incredible impact that light can have on our biology. Now, in addition to sunlight, red light and near infrared light have been shown to have positive effects on improving numerous aspects of cellular and organ health, including faster muscle recovery, improve skin health and wound healing, improvements in acne, reduced pain and inflammation, improved mitochondrial function, and even improving vision itself. Now, what sets Joovv Lights apart and why they're my preferred red light therapy devices is that they use clinically proven wavelengths, meaning they use specific wavelengths of red light and near infrared light in combination to trigger the optimal cellular adaptations. Personally, I use the Joovv whole body panel about three to four times a week, and I use the Joovv handheld light both at home and when I travel. If you'd like to try Joovv, you can go to Joovv spelled JOOV v.com/huberman. Joovv is offering Black Friday discounts of up to $1,300 now through December 2nd, 2024. Again, that's Joovv, JOO vv.com/huberman to get up to $1,300 off select Joovv products. 
+2  
+00:33:27
+Let's go back to just close the loop on the Inner Voice and the benefits that it provides. So we talked about two verbal working memory, right? Keeping in verbal information, active for short periods of time. And we talked about simulating and planning things like going over what you're going to say before an interview or an important presentation. Let's turn to self-control and motivation. So you exercise because you've talked about exercising. No, 
+0  
+00:34:02
+I try, I try to exercise six days a week. Although some are short workouts, some are longer. 
+2  
+00:34:07
+Yeah. You ever talk to yourself when you exercise? 
+0  
+00:34:09
+Oh, all the time. 
+2  
+00:34:10
+So let's hear it. The world wants to know. Andrew, what do you say to yourself on your exercise? 
+0  
+00:34:16
+Depends on how well rested I am, how motivated I am. I'll give two examples at the opposite poles of the motivational scale. I was traveling two weeks ago and I was doing some exercise for the, there's a muscle on the back of the shoulder of the rear deltoid. It's, I don't think anyone's favorite muscle to train, but it's a very important one for 
+2  
+00:34:38
+That's, that's when you do this one, 
+0  
+00:34:39
+You're right for shoulder posture and stability and God train. That was that muscle group because otherwise people tend to get this inward rotating, like, you know, thumbs pointing toward belly button and shoulders rolling forward thing. And there are a number of reasons why. Sure. It's important. It's, you gotta do the rear dealt thing. And I sat down to do the first work set after a couple warmups. And I remember thinking like, I love training, I love training. I have since I started training when I was 16 and I thought to myself, for some reason, I don't wanna do this this morning. And then I thought, okay, David Goggins would probably start swearing at himself in his head. So I started that a little bit and that didn't really work for me. Sorry David. And then I thought, I'm gonna go through every possible Inner Voice I can think of. 
+0  
+00:35:22
+So I heard Jocko Wills voice, I'm friends with Jocko and heard just saying like, yeah, whatever, you're just weak, you know, or just like do it anyway kind of mentality. And I just started cycling through all, all of them. And I made a deal with myself that when I ran out of voices to use, that's when I would stop the set. And I probably tripled the number of repetitions that I would normally get with that weight. Amazing. So it was, it was like one part motivation, one part Distraction, one part frustration. And I was just pulling from the catalog of possible voices of kind of coach like voices. Yeah. And worked out pretty well. Yeah. And then at the other extreme, I can recall many times, because I put effort into it where I'm well rested, I'm hydrated, I get appropriate amounts of caffeine in my system, which I love and sit down and train. 
+0  
+00:36:13
+And I absolutely love to train under those conditions. The sun is shining, music's playing. And I just remember this was during a set, this was a leg day, always the hardest day set of heavy hack squats and just thinking, I love this. But I have this Inner Voice where every time I, I start a repetition, I go through thing where I brace my midsection so I don't hurt my back. And I always look directly at the ceiling and I think about my bulldog Costello. Hmm. And I think I'm gonna do this one for you. I'm gonna do this one for you. And I know at those moments my Inner Voice goes to, he would probably just be sitting there like, why are you working this hard? Because bulldogs don't like to work. So I, I'm not really in a complete sentence generation Inner Voice kind of thing. 
+2  
+00:36:53
+So, but you have a very rich inner world, right? You, you are, you're, you're, you know, verbal, working memory stream is filled with, with words when you were working out. 
+0  
+00:37:04
+Yeah. And I'll tell you this, I was gonna ask you this later in the episode, but maybe it's relevant now. I think it is. When I was a kid after my parents would tuck me in to go to sleep at night, I used to lie in bed and rehearse voices that I had heard throughout the day. Hmm. And I felt like I could hear them in their tone of voice and then I'd make them say different things just for my own entertainment. So I could have them say whatever I wanted, but in a particular voice. And my friends sometimes tease me that I'll give people voices. Like I'll give someone like a Marge Simpson voice or something, I'll just, they're like, she doesn't sound like that at all, but I'll just sort of create a narrative in my mind. Yeah. So yeah, lot of, lot of Chatter in there. A lot of, lot of voices. 
+0  
+00:37:44
+Yeah. I, but not super organized. It's not like I'm constructing a play. It's kind of, you know, it, it feels like things guys are up. I, you know, I toy with them maybe and then, but it's kind of a mishmash. It's not super regimented. These aren't complete sentences. 
+2  
+00:37:59
+Well, you know, one of the reasons why the Penny Baker effect is believed to be so useful is because it imposes a structure on the stream going through our head, which is oftentimes not organized. And when you find that inner verbal stream going in the negative direction, so negative self-talk, so the Chatter, right? You're an idiot, such an idiot. Or you're looping on over a problem without making any progress. Putting those words in, you know, actually taking that inner she and making a story out of it is essentially what the Penny baker writing cues you to do. Because we are taught, when we write, we write in sentences. 
+2  
+00:38:42
+There's a structure to our writing that we impose on our thinking up here in our minds. It's a free for all. It can go in all sorts of directions. And that chaos is in part what can make Chatter so aversive, 
+0  
+00:38:57
+I'm so glad you're bringing this up. Our very first guest ever on this podcast was a guy named Carl Deser Roth. He's a bioengineer, he's a practicing psychiatrist. He's one of the luminaries of neuroscience. He developed these light sensitive channels to be able to manipulate neurons in animal models, but also now in human clinical work as well. And one thing that he shared was that after he puts his kids to sleep, I think now they're grown. But in the evening he'll sit deliberately sit still completely bodily, still close his eyes and force himself to think in complete sentences for maybe an hour or so, maybe more. And I thought to myself, wow, like that, that's a very disciplined practice. 
+0  
+00:39:40
+It also speaks to what you're saying, which is that typically thinking in complete sentences is not the default that's right. Of the mind. So I don't know what his specific reason for doing that is. He shared a few of them on that podcast episode, but I'm sure there are others as well. But I tried it, it's very difficult to, especially with eyes closed, to not drift into multiple narratives. Kind of the, the stream sort of split into you tributaries and then, you know, it sort of, you dissolve into Yeah. Sleep or 
+2  
+00:40:11
+Meditation 
+0  
+00:40:11
+Experience. Yeah. It's almost dream like state where you're, you know, these liminal states. Yeah. 
+2  
+00:40:16
+Well that's I think where the writing provides a tool to structure your thinking. Talking is a, is a, has a similar modality. So when we talk to people, there is a structure to the way we converse where we're not, if I were to just talk to you the way I pinball in my mind, you wouldn't be able to understand me and you would think I'm out of my bleeping mind. Right. Because I would be unable to have a, a meaningful conversation with you. So there's some research which shows that if you get people to think of, to recall a, a Chatter provoking experience. So think about something negative that's happened to you, and then you randomly assign them to just think about it and work it through in their mind versus write about it. 
+2  
+00:41:00
+So IEA penny baker writing like condition or talk about it to someone else. The talking and the writing both do better in terms of how they feel when they're done as compared to the just thinking because there's no guardrails to the way we think that we are taught. I should add, because we're gonna give people guardrails later In this episode. 
+0  
+00:41:22
+So in addition to using the Penny Baker approach, and by, by the way, we'll provide a link to some resources for the Penny Baker Journaling. 'cause there's some free online resources that I think are really powerful for people to use if they wanna use that as a template for cathartic reasons or just, you know, get one's mind around a problem or something. I'm very familiar with waking up and just feeling like everything is kind of not a storm in there, but a a bit too disorganized to, to get my head right. Yeah. You know, and so I need things to get my head right. Sometimes it's music, sometimes it's writing. I, it sounds like Journaling is just a really useful practice overall. 
+2  
+00:41:59
+It's a, it's a useful practice and it's an underutilized practice. So we did two pretty large studies during covid to look at how people, how are people regulating their emotions on a daily basis to deal with the anxiety surrounding covid. And we gave them a series of tools that they could check off if they use the tools that day. And we learned a couple of really interesting things. Number one, there are no one size fits all solutions for folks. So remarkable variability characterized the tools that work for person A versus person B. Number two, it was seldom the case that people used one tool in general. 
+2  
+00:42:39
+People used on average three or four tools each day. Which I think is another really important take home. Because I am often asked as, for example, what is my favorite tool for managing emotions? I don't have a favorite tool because I'm typically using multiple tools and most people are doing exactly the same. So it's, it's kind of like what we're learning about emotion regulation is, in some ways it's, it's similar to physical exercise. You, you're not only going to work out your rear deltoids with the same exercise every day. You would have like funky looking shoulders if you did. Right. And you'd probably be pretty weak in lots of other parts of your body. You're doing multiple things and the multiple things that you do to exercise, I'm guessing are different from the multiple things that I do to exercise. 
+2  
+00:43:28
+Yet we, we may well be equally fit. Well you may be a little bit more f fit than me, but I doubt it. You get, you get the drift. So there's this beautiful variability to how we manage our inner our worlds. To bring it back to Expressive Writing, we found that Expressive Writing when people used it, was really, really useful. It moved the needle on their covid anxiety, but it was an underutilized tool. People didn't do it very much. And I think that's in part because it is somewhat effortful. 
+0  
+00:44:01
+Ask another question about movement that falls on the other end of the spectrum to what we're talking about now, which is structuring one's thoughts in the form of writing in order to parse an idea or work through an emotional state. In 2015. I, by the way, I use these anecdotes, not because I wanna focus on me, but just as, as generalizable anecdotes. Okay. The specifics here don't matter. But I think probably most people are familiar with having an important decision where they have to weigh, you know, path A versus path B. Oh yeah. And I was in that place. I was, I was actually choosing between a job at one, one institution and another institution, each of which had tremendous advantages. Neither had any, you know, like striking disadvantages, but it was a really hard decision. 
+0  
+00:44:44
+And those close to me at that time will tell you that it was just brutal. I've been there. Yeah. I made everybody around me suffer tremendously to the point where people were just like, flip a coin. Now I'm not an indecisive person. I think, you know, it's one of these things where big decisions I think deserve a time and attention and, and it was a time constraint thing. So I was pouring over this pro cons list. I was watching YouTube videos, trying to figure out best ways for Decision Making. I was trying to, I actually isn't 
+2  
+00:45:13
+Isn't it amazing by the way, when we're in those situations, and I know exactly what you're talking about because I was pretty sure I was in exactly the same position. The things you do in those circumstances to get some insight are, are wacky. Like I'm sure you were googling things that you had no business googling these kinds of decision trees and Oh yeah. I mean it's, it's 
+0  
+00:45:32
+Wild. It turns Well, they, they're mathematical models. Yeah. That like, there's the, the the, actually my colleague at NYU, Tony Mashin, I forget the name of the model, but there's a mile about how many towns you should evaluate is an old, old kind of old example of towns you should evaluate in terms of where to start a business. Like is it two, is it three? And and there's an optimal strategy there. In any event, most of it wasn't helping. And I do believe that at some point you don't want too many committee members. 'cause it just gets absolutely confusing. So the, the two best pieces of, of information came from the following practices. One was a colleague said, forget all the superficial pro con stuff. 
+0  
+00:46:12
+And I actually think this is proved to be very useful in all domains of life for me. He said, take yourself through a typical weekday in one place versus the other. Wake up, where are you gonna go? How are you gonna travel? Take yourself through the practicals of the day because everything else falls away. Once you're at a place or you're in a type of relationship, take yourself through a given day. Sure. Don't think about the relationship or the institution that you're gonna work for. The school you're gonna go to. That's important, but take yourself through the entire day. So I did that and then he said also do it on a weekend because, you know, well in our profession we tend to work all the time, but occasionally you take a day off. And so that was very useful. 
+0  
+00:46:53
+The other thing that was very useful, which was completely surprising to me, was at that time I was training in a boxing gym and I was doing some speed bag work and decent at it. You know, you get into a rhythm and, and what's so great about speed bag work is that you get into a rhythm where you forget that you're trying to do the movement in a particular way. Yeah. These central pattern generators, as we call them in neuroscience, take over. And you're just gonna, you know, turning your hands over in a way. And you're, you're like, every once in a while you can think, okay, you need to put a little more hip swivel into this or a little more head movement and practice my slips or something. But it's largely unconscious after a certain point. And I was doing that and all of a sudden, boom, a thought just geyser to the surface and I made my decision and that was my final decision. 
+0  
+00:47:41
+Yeah. And I never went back from that decision. And so it was in the act of not trying to parse things Yeah. Through words that words sprung up from my whatever, unconscious somewhere in my brain, cortical or some cortical, I don't know. And it was like, that's it. And, and I, I, I was overwhelmed by that. And again, I don't share all that because I, I think it's speed bags or it's the example I gave before that's gonna solve it for everybody. But that, that these answers to hard problems seem to come from very diametrically opposed approaches. Verbal construction of complete sentences with paper or deliberately like Deser Roth does. And then also like not trying to get an answer at all. Boom. The answer shows that what in the world is 
+2  
+00:48:22
+That? So it speaks to this idea that first of all, there are no one size fits all solutions to addressing many of the big kinds of problems and decisions we have to face. So there are different modalities to self-discovery and insight. And yes, you can think very rationally and work it through and write about it and have conversations with other people. And then you can also allow your unconscious problem solving machinery to, to do its thing. We don't understand completely how this works, but we do know that your experience is not infrequent. Many people report having moments of insight when they're, when they are not otherwise engaged. 
+2  
+00:49:07
+And, and you know, one line of thinking is that we are doing problem solving behind the scenes that we're not aware of. And the, and the solutions are bubbling up to awareness. So I actually, this may be the wrong usage of terms, but I weaponize this process for myself. So before I exercise, before I get on the treadmill or row or do whatever I'm gonna do, I will load up the particular issue that I'm trying to find a solution for. Sometimes it's how to word a a paragraph. It might be if I'm working on a book, how to find the right kind of story. If it's a, an interpersonal issue that I've gotta smooth over, I load that up and then I just get on the device. 
+2  
+00:49:51
+It's usually an aerobic exercise that I'm doing and I just, I just, I don't really hard think about it in any fixed way. But inevitably the ideas, the potential solutions bubble up into awareness. That is a real valuable tool that I possess that I think allows me to, to have success in various areas of my life. It also identifies one of the reasons why Chatter can be so unbelievably pernicious. So we didn't get to all the benefits of the, there's one more benefit of the Inner, the Inner Voice that I want to get to, but I'm gonna take a detour here for a second. 'cause I think this is really important. 
+2  
+00:50:31
+If we think of Chatter as the dark side of your Inner Voice, you're basically continuing to loop over the same problem in your head without making any progress. What if this happens? Why did this happen? I'm such a buil, you're just continually going over that negative phenomenon or experience. You're not making any, any headway. One of the things that that does is it consumes our attentional resources. It acts like a sponge that soaks up those limited resources. And so what that means is when I get on the treadmill or rowing machine, and that's typically the time that I spend innovating, right? 
+2  
+00:51:11
+Coming up with solutions that allow me to progress personally and professionally. I don't have my mind's not working to solve those problems. Instead it is stuck dealing with this other muck where I'm not getting anywhere. And, and so we actually see, if you go look at the literature, that one of the ways that Chatter undermines people is it interferes with their ability to, to focus and solve problems. And that's a, that's just one way it undermines people. But that is a huge, huge liability. 
+0  
+00:51:43
+Is there an association between trauma and elevated levels of internal Chatter? 
+2  
+00:51:50
+I would say even more than an association. So we often think of Chatter as what we call it as a, a trans diagnostic mechanism. So it's a mouthful that predicts various kinds of mood disorders. So what that means is Chatter refers to a process, a process of looping, turning the same material over and over in your head. The content of that looping can take many different forms. You could inject some sad cognitions in there. I'm a shit, such a shit. Is it okay to say shit? Should I say that? 
+0  
+00:52:24
+Yeah, sure. People, I mean, David Goggins was on this podcast. 
+2  
+00:52:27
+Okay. So yeah. 
+0  
+00:52:28
+You know, I mean, pretty much anything goes, typically we don't swear at each other, but Okay. I'm 
+2  
+00:52:31
+Pretty well, I should hope not. 
+0  
+00:52:32
+I'm pretty thick skinned. If you need to, you know, I've been called way worse than anything. You can come, you've been 
+2  
+00:52:36
+Box boxing. I, I actually boxed in high school, so 
+0  
+00:52:38
+I don't recommend people box, box unless they're, you know, they're professional. And even then, I mean, I must say as a neuroscientist, it's a lot of 
+2  
+00:52:45
+Fun. 
+0  
+00:52:46
+Yeah. And on we, Wednesday nights I spar a little bit, but I will say this, it's, there are other sports where you can go level 10 out of 10. Yeah. More safely. Much more safely for the brain, like Brazilian jiujitsu and things like that. You know, where 
+2  
+00:53:01
+You typically don't want to insult the brain. 
+0  
+00:53:03
+Yeah. I, I, as a neuroscientist, I can't encourage people to box. I, 
+2  
+00:53:07
+IIII would agree. In any case, I promise not to leap across the table if you do the same. Fair enough. Feel, fair deal. So basically, Chatter refers to this, this process of looping over and over. If you inject some sad cognitions in there, I'm an imbecile. I'm, I'm I, how can I, you know, I'm never gonna live up to, to my potential. I don't belong here. Like, so then you get, if you take that to an extreme high intensity and you perseverate over time, then you're getting towards depression. If you inject anxiety provoking cognitions, oh my God, what if this happens? And what if that happens and you go down that path of uncertainty and, and fear? 
+2  
+00:53:49
+Well, that le leads you to more of the anxious route. And if you are, are filling that loop with traumatic memories and reminders of really painful experiences, you can get pushed towards trauma too. So it is a, it is a process that cuts across many different really serious conditions that we grapple with in society. But I also, I wanna also be clear to, to folks who are listening, that if you experience Chatter, that does not mean you have any of those disorders. If you experience Chatter, welcome to the human condition, my friends, because most of us do at times. And so we often don't experience it as intensely or for long stretches of time, which tends to characterize some of those clinical groups. 
+Function Health (Ad) huberman 
+00:54:37
+I'd like to take a quick break and thank one of our Sponsors function. I recently became a function member after searching for the most comprehensive approach to lab testing. While I've long been a fan of blood testing, I really wanted to find a more in-depth program for analyzing blood, urine, and saliva to get a full picture of my heart health, my hormone status, my immune system regulation, my metabolic function, my vitamin and mineral status, and other critical areas of my overall health and vitality function, not only provides testing of over a hundred biomarkers key to physical and mental health, but it also analyzes these results and provides insights from top doctors on your results. For example, in one of my first tests with function, I learned that I had two high levels of mercury in my blood. This was totally surprising to me. I had no idea. Prior to taking the test function, not only helped me detect this, but offered medical doctor informed insights on how to best reduce those mercury levels, which included limiting my tuna consumption because I had been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC n-acetylcysteine, both of which can support glutathione production and detoxification, and work to reduce my mercury levels. Comprehensive lab testing like this is so important for health, and while I've been doing it for years, I've always found it to be overly complicated and expensive. I've been so impressed by function, both at the level of ease of use that is getting the test done, as well as how comprehensive and how actionable the tests are that I recently joined their advisory board, and I'm thrilled that they're sponsoring the podcast. If you'd like to try function, go to function health.com/huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman Lab listeners. Again, that's function health.com/huberman to get early access to function. 
+0  
+00:56:25
+If you had to highlight for now, and we'll get back to others in a moment, the best, maybe one or two ways to combat Chatter. Yeah. What would those be? 
+2  
+00:56:38
+Well, that's, let me tell you about a couple of things that I do personally, because like, so like as we, we try to regulate lots of different emotional experiences, different tools, work for different people in different situations. There are, you know, upwards of two dozen or more science-based tools that, that I, that I covered when I wrote Chatter, when I got into shift, the broader train of regulating your emotions or even more tools out there. So I don't wanna presume that the tools that work for me are gonna work for everyone. My, my first line of defense when it comes to Chatter are two distancing tools. So when I'm using the term distancing, when I'm talking about is not Avoidance per se, we should talk about Avoidance later. 
+2  
+00:57:24
+But what I'm talking about when I say distancing is the ability to step back and view myself from a, a slightly more objective perspective. And it turns out there are many different tactics that exist for doing this. One tactic that I find very powerful is, is language. So I can manipulate the words I use to refer to myself. So I'll often use my name and the second person pronoun you to try to think through a problem. Ethan, how are you gonna manage this situation? If you think about when we use words like you, they are the verbal equivalent of pointing a finger at someone else. 
+2  
+00:58:03
+And what, when you use your name and you to work through a problem, it's automatically switching your perspective. It's getting you to relate to yourself like, like you're giving advice to someone else. And it turns out that's a really powerful tool because one of the things we know about human beings is we are much better at giving advice to others than we are taking that advice ourselves. Have you ever experienced this, Andrew? 
+0  
+00:58:28
+Gosh, no. Yes, of course. Absolutely. I mean, our, our optics are just much clearer when we're in observation than when we're internally, unless I find that I dedicate some real minutes or hours, basically a sort of meditation, not unlike the complete sentence construction exploration that we're talking about before, of just going inward and really saying, okay, let's have, let's have a conversation about this. Yeah, true. And having a conversation with myself in there. And that always leads to an obvious truth. Yeah. Or sometimes a decision node that isn't clear to me yet, but it leads someplace that feels like forward. 
+2  
+00:59:10
+Yeah. But you're taking special steps to be able to, to, to align yourself with the advice that you would give to someone else, like reflexively, sometimes we stumble, right? 
+0  
+00:59:24
+Oh, absolutely. I mean, I, and, and the number of different ways that we can distract ourselves. This is what I was gonna ask in a few moments, but I'll take the opportunity now. I, I am wondering, as we're talking about this today, if one of the more powerful hooks of Social Media is the scroll aspect, that with essentially zero effort, we can pick up a device and scroll through images and movies and it, it will update us according to update the, the imagery and topics, of course, according to what it senses as our dwell times on certain pages. And all of a sudden we don't have to think about what's in our head. Yeah. My dad used to refer to surfing the internet. 
+0  
+01:00:06
+'cause at that time it was that, and scrolling Social Media as kind of a, a cognitive chewing gum. Yeah. It keeps us busy, but it doesn't provide any real nutrition. 
+2  
+01:00:15
+Well, you know, it's interesting. If you go back to when Facebook first came on the scene, one of the early prompts that it would use to get people to contribute textual information to, do you remember what this was? What is on your mind? Oh, no, really. So you would be queued to share what is on your mind. And you know, it, in, in some ways you could think of various forms of Social Media as providing people with a giant megaphone for their Inner Voice. Right. It is literally asking you, or it did What is on your mind right now? So 
+0  
+01:00:51
+That's in terms of posting, posting, like what's on your mind Yeah. But in terms of consuming information Yeah. Which I think most people on Social Media seem to be consumers more than creators. Absolutely. I mean, it's remarkable to me how I can, you know, pick up the phone and I have a specific phone with Instagram and X on it, and it's, those apps are not on any other phones. Mm. So that it's segregated from Yeah. Smart. So if somebody sends me a tweet or sends me an Instagram post on, I'm not gonna, I'm not gonna open it. I can't open it on those phones. Right. And that's helped 
+2  
+01:01:21
+A lot. We should come back to that. Yeah. Because that's also modifying your, your spaces, which is another tool that I think is underutilized. So you should talk about that too. We'll 
+0  
+01:01:32
+Definitely touch on that. What I find is I'll say, okay, I'm gonna take six minutes. It's six minutes till the hour. Take six minutes. Yeah. This, and what's incredible is how fast six minutes seems to go by. Oh, that's what's so striking. 
+2  
+01:01:44
+It's, it's remarkable and not always bad. So we often talk about Social Media, like it is a defacto harm to society. There are negative features of Social Media that are well documented. There are also some, I would argue, redemptive qualities to it. I'll give you one of my, my personal ones, which is, you know, sometimes like to unwind before bed, I'm thinking all day. I wanna just watch some ridiculously funny short reels. 
+0  
+01:02:16
+Yeah. Raccoon videos. Yeah. They, 
+2  
+01:02:18
+I mean, you know, my wife looks over at me and she's like, what are you laughing at? And then I, sometimes I show her and she goes, why are you laughing at that? Right. So, but, but you know, the algorithm has learned the specific kinds of funny videos that I like and know I'm not gonna tell you what they are. And it, it, it, it just lightens the load. And so that's a way that I'm using Social Media very strategically to shift my emotions in a direction. I want them to be shifted at a certain time. I think when we talk about Social Media and our, our emotional lives, the real challenge we face is how to learn how to navigate these new digital environments in ways that serve us, rather than serve against us and undermine our goals. 
+2  
+01:03:06
+We, we, we basically got thrown into Social Media without any rule book. 
+0  
+01:03:10
+Yeah. We're the experiment. 
+2  
+01:03:11
+We're the experiment. And, but if you think about, it's a it new environment. We were born into this physical world, and our, our parents, our caretakers from the time we're able to understand things and probably before they're teaching us, they're socializing us how to navigate this space profitably. They don't just like Lord of the Flies, throw us into the world and let us, let us kind of figure it out. Outcomes wouldn't be likely as good as they are for us if we didn't have the kind of instruction that we receive. And we're only now developing that knowledge base to understand, hey, here are the healthy versus harmful versus benign ways of navigating Social Media. 
+2  
+01:03:52
+And I'm talking about Social Media now. Like it's this unitary environment. Different Social Media applications, of course, have their own norms and rules of the games. You could think of them as like little different countries. They have their own little microcultures that you wanna learn how to navigate. And scientists are really busy trying to understand how they function. But it's tricky. And it's tricky because creators can change how these applications govern by oppressive a button. Right. You could change the way the algorithm works, and then you've gotta start over. To some extent. 
+0  
+01:04:30
+I've been told that by people in my life that one of the main reasons they get onto their phone in the middle of the night if they happen to wake up, is that it allows a very soothing Distraction compared to trying to wrestle with the, you know, fire hose of thoughts in their head. Yeah. And that, yeah, it's kind of like the way you describe these funny videos that you won't disclose to us, that sounds like, you know, 
+2  
+01:04:58
+They typically involve pranks. 
+0  
+01:05:00
+Oh, okay. Noted. We used to hear that people, you know, would have a drink after work to just kind of like, you know, take the edge off or something like that. Yeah. I feel like Social Media is doing that for a lot of people. Yeah. The way you describe it fits with that idea. And that I, I certainly believe that from everything we know about the circadian health literature that you want to avoid looking at your phone between the hours of 11:00 PM and 4:00 AM most nights. Sure. And nobody's perfect, but that if you wake up in the middle of the night, one of the worst things you can do is get on your phone and start scrolling Social Media. But I'm guessing people do it because it feels even worse to just sit there with your thoughts in the dark. 
+2  
+01:05:37
+It's a shifter. But this is a perfect segue back to, you know, you asked me about the tools that you recommend for fighting Chatter, and I'm telling you about the ones I use. So there's a second tool that I will use automatically when I, I detect the Chatter brewing, and I call it my two AM Chatter Strategy. And I call it my two AM Chatter Strategy, because every I'd, seemingly like four to six weeks, I will go to bed happy and content, and then I'll wake up at 2:00 AM and like it is all going to hell really fast. What 
+0  
+01:06:11
+Time do you typically go to sleep? 
+2  
+01:06:13
+Usually around 11, 11 30. 
+0  
+01:06:16
+Interesting. Yeah. This is a common problem for a lot of people. And there are some tools like long exhale breathing Yeah. And things that, that clearly work. I, I, long ago made a decision. I refuse to believe any thought that occurs between the hours of 2:00 AM and 5:00 AM I just refuse. I don't believe it. It's, it's as if somebody's lying to me in my head. Yeah. And one could argue, well, maybe that's where the truth is coming out, because your for brain is not so good at suppressing these, you know, unconscious thoughts and Sure. All good. But as you point out, they are rarely the kind of thoughts that one can work with positive or negative. 
+2  
+01:06:51
+So the tool that I use actually implicitly activates an idea like the one you are describing. So at 2:00 AM when the Chatter strikes, and by the way, you say like, this is common, this is more than common. When I present to audiences and, you know, thousands and thousands of people over, over the years, and I ask, Hey, you ever, you ever get 2:00 AM Chatter, maybe 2:30 AM all the hands go up. This is a, I don't wanna say universal affliction, but it is an incredibly common problem that people struggle with, like the Chatter at night. So what I do is I use something called Mental Time Travel, Mental Time Travel into the future. 
+2  
+01:07:31
+And what I do is I, I ask myself, and I typically use my own name to do it. So I'm blending another distancing tool, distant self-talk. I say, Ethan, how are you gonna feel about this tomorrow morning? No matter how bad the Chatter ever is at 2:00 AM to your point, when I wake up the next morning and my, my brain is fully, fully awake and I have access to my, my prefrontal cortex, and I could think constructively about things, it is never as bad that next morning as it is in the middle of the night. We of course have learned that over time, because how many, how many mornings have we woken up in our lives? 
+2  
+01:08:13
+We could do the math, if I was more sophisticated, I'd do it on the fly. I can't. Right. But like many, many mornings, we have experienced this like Chatter at 2:00 AM at 7:00 AM not so bad. So when you jump into this Mental Time Travel machine and you ask yourself, how am I gonna feel about this tomorrow morning, next week, next year, 10 years from now? What that does is it activates this understanding that what you are going through, as bad as it may seem, it is temporary. It will eventually subside. And that does something very powerful for a mind that is consumed with Chad, or it turns the volume down on it, which for me is often all I have to do to get back to bed. So the official name for this tool is not Mental Time Travel. 
+2  
+01:08:54
+It is called temporal distancing. And it's a flexible tool. You can, you can ask yourself if you're struggling with a problem, how are you gonna feel about it tomorrow, next week, 10 years from now? And it's another way of, of broadening your perspective. It's another kind of distancing tool that has a lot of science behind it. So those are the, those are two, the two of the cognitive things that I do on my own. And that nips a significant chunk of the Chatter that I experience in the bud when it happens. And I should add that because I know about what Chatter is, and I know about how these tools work. I am exceptionally strategic in utilizing those tools the moment I detect the Chatter brewing. 
+2  
+01:09:40
+So people will often ask, Hey, do you ever, do you ever experience Chatter? Like, yeah, of course pinch me. I'm a living, breathing human being. I do at times, but I'm really good at detecting it and then implementing tools in an almost automatic manner. If this happens, if the Chatter strikes, then I'm gonna coach myself through the problem using my own name in you. And I'm gonna jump into the Mental Time Travel machine and ask myself, how am I gonna feel about this in the future? If that's not sufficient, then I'll go to like the level two response, which consists of, if weather permits, I'll go for a walk in a, in a safe, natural setting. I always feel the, the, the need to give the caveat about safe and natural. 
+2  
+01:10:20
+Because where I grew up grew up in Brooklyn, like the, the natural settings or the place you got mugged. So they were not safe. But, you know, a park, I, I find restorative and there's a ton of work highlighting the restorative features of green spaces. But then what I'll also do is I will, I'll, I'll, I'll dial up the, the Chatter advisory board. So I have a couple of people that I have carefully thought about what these people do for me when I have a problem. And they importantly don't just let me vent my emotions or, or affect to use that term before, just, I don't just get it out. 
+2  
+01:11:01
+A lot of people think that the key to feeling better is to invent your emotions. There's research on this. Venting is good for strengthening bonds between people. It's good to know that, you know, we're buddies now. I could call you up if I'm struggling, you're gonna listen to me and empathize with me. That's great for our relationship. But if all you do is just validate what I'm going through and you don't take the next step to additionally help me look at that bigger picture and problem solve, I leave the conversation feeling really good about my relationship with you. But the problem is still there. So just Venting ends up leading to what we call co rumination, which can be pretty harmful. The people on my Chatter advisory board, they know to first validate, empathize with me, learn about what I'm going through. 
+2  
+01:11:48
+They've got my back. They communicate that powerfully. But then once they do that, they start working with me to broaden the perspective, to try to think through that problem, which I'm having difficulty doing sometimes when the Chatter is really, really loud. And, you know, typically when I get to that stage, I'm in pretty good shape. 
+0  
+01:12:09
+I love your examples of how you deal with Chatter, your example of going to sleep. And the reason I asked when you go to sleep at about 11:00 PM and waking up at two or three, and that being a very common issue is, as far as I understand, reflective of the fact that early in the night, our sleep is dominated by slow wave deep sleep with less rapid eye movement sleep. And then somewhere right about that transition time, it's not necessarily two or 3:00 AM per se, but given that you were asleep for about three, four hours after about three four hours of sleep, the proportion of our sleep that is rapid eye movement sleep relative to deep slow wave sleep shifts dramatically. The intensity of our dreams shifts dramatically. 
+0  
+01:12:51
+They become more emotionally laden. And that whole process of having those rapid eye movement sleep associated dreams is strongly associated with the removal of an emotional load in the morning when we wake, we know this because of you selectively deprive people of early night night versus late night sleep and so on. The reason I mention this is that one tool that I certainly have found useful is that, well, two tools really, if people just understand that one of the reasons they'll wake up suddenly at two or 3:00 AM is that they're undergoing this transition from a one kind of one form of sleep to another. It's almost like a different beast altogether. And that heart racing, emotionally laden thoughts is characteristic of where they're supposed to be in the sleep architecture cycle. 
+0  
+01:13:37
+Yeah. And so for me, so that's, that's number one. The other is that the tool that you provided of, of getting into this Mental Time Travel, I, I'd like to just double click on this notion of time perception in sleep and dreaming. I mean, time is very fluid. You can be in one environment than another. It seems compressed a lot happens in a short amount of time. When we are in Chatter in the daytime, to what extent does it alter our perception of time? And I have a very specific reason for asking this because I believe that one of the main of features among the tools for dealing with depression, anxiety, et cetera, when I survey the research is almost all of them Journaling, meditation, even some of the medications for that matter involve taking people into a different sort of time perception mode. 
+0  
+01:14:27
+And it's a kind of an abstract idea. But I I think this may, this may resonate with some of the issues Yeah. Related to Chatter that when we're in a mental frame, that's not healthy for where we wanna be at that moment, awake when we need to sleep, you know, anxious when we wanna be calm and so forth. That ch changing our time perception seems to be the most useful thing that we can do. Or at least among the most useful. So what's the relationship between Chatter and time perception 
+2  
+01:14:52
+And tell, tell me more about what you mean by time perception. 
+0  
+01:14:56
+How broadly or finally, we are binning time. So we know that as autonomic arousal, let's call it stress, but wakefulness and autonomic arousal goes up, we're fine slicing time. I see. In fact, the pupils get bigger. We actually see, you know, depth of field changes. Yeah. We get a higher resolution image of much less. Yeah. This is, it makes every bit of evolutionary sense, you know, we can deal with fewer things better. Yeah. And typically it's the thing that we're fixated or ruminating on. Yeah. When we're relaxed, think about like sitting back on a beach and you're watching the clouds go by. It's almost like your frame rate Yeah. Is slower. So you're, you know, higher frame rate is like slow motion. This is why people who experience trauma often feel like things are, or a car crash, like see it in slow motion. 
+0  
+01:15:36
+It's not in slow motion. You're fine slicing time. Yeah. It's kinda a remarkable thing. Right? Yeah. This is also how athletes learn to play with their levels of autonomic arousal. Fighters can see punches coming in and it's almost like slow motion, but they can react with full speed. Likewise with tennis players will describe this. So what we're talking about is dynamically changing the frame rate of one's experience. Yeah. 
+2  
+01:15:56
+It's a very interesting question and there's not much data that I'm aware of directly linking Chatter with these, with time perception, the way you're describing it. But what does come to mind are, are experiences of flow, which in many ways you might, you might consider the opposite of Chatter flow being this state where, you know, you're just in the moment and, and, and time is effortlessly passing your, the demands of the situation completely match the skills that you bring to bear. It almost seems like the antithesis of what you're describing. When I think about time and Chatter, what, what I becomes most successful for me is this tendency that we have to really zoom in very narrowly on the object of the Chatter on the thing that is causing that distress. 
+2  
+01:16:44
+And we focus, you know, so narrowly on it, which of course makes a great deal of sense because what are we taught to do from the time we're little kids when we have a problem? 
+0  
+01:16:56
+Think about it. Share it. Yeah. 
+2  
+01:16:57
+Yeah, there you go. Yeah, you got it on. Try number one, zoom in, focus on the problem, roll up your sleeves and get to the bottom of it. And so that's that kind of really you're getting in there and fine grained detail. And you know, some that does work for us a lot of the time, but it turns out when you inject a lot of emotion into the equation, that can get really troubling. And that's where this zooming out, taking this broader view, whether you do that through visual modalities, imagination, modalities, like Mental Time Travel, you could time travel into the future like I've just described. You could also go back in time, like, I do this quite a bit. When I'm struggling with some kind of adversity, I will go back in time and think of another experience in my life or someone else's life that I, I know of when times were even worse and they got through it and oh, if I got through that, well sure as heck I can get through this. 
+2  
+01:17:51
+And so that's expanding our perception of time or, or, or looking at that bigger picture to work through something in the present moment. 
+0  
+01:18:01
+How often do you think people, and I do believe this is related to Chatter, but if it's not, we can set this aside for another day, how often do you think people are in kind of negative or positive fantasy? Like as they move through their day, I'm sure a study's been done asking people what they're thinking about. I mean, how often is it actually tied to what they're doing or they're supposed to be doing? Or are they thinking about like what they're gonna do this weekend or maybe even constructing entire narratives of things that are like non-existent that they would like to exist or, you know, occasionally we'll see this person, I think we've all seen this person kind of mumbling to themselves and it doesn't look like they're mumbling, pleasant things. Yeah. 
+2  
+01:18:41
+And that's because they've just been rejected by a journal editor, their article, 
+0  
+01:18:45
+The experience of every scientist, and it's of course always reviewer number two's fault, didn't the paper carefully enough. Of course. And none of us have ever been reviewer number two. Never. I be sarcastic by the way. We've all been reviewer number two. Well, academic inside, inside ball humor there, you know, you'll see somebody mumbling to themselves and it, and it doesn't, it doesn't look like they're mumbling, pleasant things. Yeah. We don't know what they're saying to themselves. Yeah. But I'm guessing if we tapped 'em and said, Hey, what were you mumbling? I, I would guess that more than 50% of the time it was kind of frustration with stuff. You kinda see this like the frustrated person. It's, it's a hard thing to observe actually. 
+2  
+01:19:22
+Yeah. So, so people have looked at this and my memory of this wonderful paper, I think it was published in science, I, I think the title was A Wandering Mind Is An Unhappy Mind. And basically the takeover from the article was that people spend between, well if you look at this paper and lots of others like it, what what we can deduce is that people spend between one half and one third of their waking hours not focused on the present. So between one half and one third of the time, we're drifting away and we're thinking about other things. And this one particular paper linked that process with thinking about things that cause you to feel worse. I think there's huge levels of variability there, though. 
+2  
+01:20:04
+I think like, being lost in thought can be a wonderful experience. I love, love, love, love, mind wandering. I think it's one of my strengths. It is the source of idea generation for me. It is also the source of emotion regulation. I will, one of, you know, my sleeping pill, metaphorically speaking is Mental Time Travel. It's getting away from the present. It is fantasizing about the future, right? Thinking about the good things that could happen, the potentialities or going into the past and savoring some of the, the positive things that happen. I'm thinking about, you know, the, the, the, the soccer game where my kids scored goals or something good happened to someone I know, or to me. 
+2  
+01:20:48
+And, and, and that to me is a wonderful way of going to bed. That is Mental Time Travel. It is not being in the moment, which actually raises another I really important point that I want to get in there. And I'd love to get your take on this because in popular culture we often hear that it's really important to be in the moment this is emerged as a, a type of cultural maxim, like be in the now. And, and this idea is often conveyed so strongly that if you're not in the moment, we sometimes think there's something wrong with us. Like, oh, we gotta train our attention to bring it back to the present. Being in the present can be very useful in many contexts. 
+2  
+01:21:32
+And certainly when we experience Chatter, we start worrying about the future or ruminating about the past, refocusing on the present, our breath a mantra, yes, lots of data support the utility of that, but I always like to remind people that the human mind evolved to be able to travel in time and lots of amazing things accompany that process. If I can't go into the past, not only am I not savoring positive experiences which add joy and vitality to my life, I'm also not learning from my screw ups, which sadly happened to me on a somewhat regular basis. Right. I'm learning from my mistakes by revisiting the past. And if I'm not going into the future, then I'm not, I'm not planning, I'm not simulating, I'm not fantasizing. 
+2  
+01:22:18
+So we wanna be, we don't wanna shut down Mental Time Travel. I think what we wanna learn how to do is how to travel in time in our minds more effectively without that time travel machine breaking down in the past, which is what happens when we get stuck on an experience or in the future when we just find ourselves fixating on something that we're anxious about. So, so being in the moment can be good, but it is not the endpoint I think we always want to strive for. 
+0  
+01:22:49
+To what extent do you think that texting and smartphones, but namely texting has interfered with sort of time tested meaning over hundreds of thousands of years, time tested mechanisms for us to process our emotions and our thoughts to arrive at better ways of thinking, feeling, being, you know, nowadays if you get on a train or a plane or you're in an Uber or you're walking to your car and you have a, like a thought about something, oh, that grant, that idea, it's so easy to just get into a mode of texting. Yeah. Passive, passive participation maybe through Social Media. 
+0  
+01:23:29
+Scrolling again, not universally bad, but you can go to passive kind of Sure. Almost semi dissociative state. Like they're not really in the parking lot anymore. You're half in your phone and half in the parking lot and texting, polling people around you as opposed to, you know, quote unquote in the old days where you had to actually grapple through this stuff as you describe your, the tools that you use to deal with Chatter and to process information and to, you know, work with your thinking Yeah. And your emotions. You strike me as somebody who has a rich jungle gym of things to play with in there. Yeah. And a toolkit and, and an emergency switch if you need it and all that stuff. Whereas most people, I think just they have their phone. 
+0  
+01:24:12
+Yeah. Like, who are you gonna call? Who are you gonna text? What, what site are you gonna Google the Google search to? I mean, how it can't be good. 
+2  
+01:24:23
+Well, it often isn't, but it, it, it can be harnessed. And, and here's what the way I think about texting and really how Social Media and the opportunities it gives us to communicate with others whenever we want. How this has thrown a curve ball into the way we manage our own emotions and sometimes inadvertently affect the emotions of not just other people, but groups of people and societies. So when we experience emotions, we are often intensely motivated to share those experiences with others. There's this wonderful research program by a Belgium psychologist by the name of Bernard Reme, who spent his whole life looking at what do you do when you experience emotions. 
+2  
+01:25:07
+And, and he found over many decades of work that you're motivated to verbalize it, to get it out. And there are a couple of reasons for that. We wanna relate to other people, get their support, but we also want to usually process it bef in the pre-social media era, two things had to happen typically to share our emotions. First you had to find someone to share them with. And typically in the process of looking for someone, either to find someone face to face or, or via phone, time would pass. Now what we know about time is that as time proceeds, our emotions in general tend to fade. 
+2  
+01:25:49
+So there's this wonderful work on the duration of emotional experiences and our emotional experiences all follow a common trajectory. So something happens in the world or in our mind, we imagine something that is provoking in some way, our motions get triggered and then as time goes on, they eventually peter out. And depending on who the person is and what they're dealing with, you know, some people may peak more intensely than others and fade more quickly. Some maybe have shallower peaks and take longer to subside, but they all follow that basic trajectory over time. So let's go back to the pre-social media era, right? So you gotta find someone to talk to. 
+2  
+01:26:30
+And while you're trying to find someone to talk to, time is passing, that's acting to temper our emotions. Now, once you find someone to talk to, either face to face or via phone, the moment you start talking, you are now awash in all of this feedback, this emotional feedback, whether it's coming from your face, like you're giving me all sorts of information right now, I would benefit from smiling if you could. There we go. Thank you. I'm just joking for those who are listening, but I'm getting information from you. And if I'm talking to someone on the phone, likewise I'm getting their vocal tone is expressing to me how they feel. That is also working to constrain how we communicate with others. 
+2  
+01:27:11
+And it's typically keeping our emotions, I would argue in check and balance and proportion. We're stripping away time with Social Media and we're also stripping away that kind of emotional feedback. This enables us to release our emotions in a much more unfiltered way. And I think this is why you often have situations that people are saying things via text or online that they would never say to another person's face or over the phone. And I think this is one of the factors that can promote some pretty negative forces in society. So cyber bullying and, you know, the spread of moral outrage surrounding certain issues that might take a more constructive form if they were done in a different context. 
+2  
+01:28:02
+Now that is not to say that Social Media isn't useful for spreading certain kinds of, of messages that require attention and are deserving of collective distress. It can be a amazingly useful tool that brings about needed change. But I think we do need to be conscious of how interacting with this technology has really fundamentally altered the way we communicate emotional information. 
+0  
+01:28:31
+When I think about the different ways to parse a, a problem, a real or imagined problem, and I think about the role of web searches, it immediately takes me to either Social Media or to, I know it could be Reddit, could be some article that was written in, posted online in 2019. You know, the least will resurface. They repurpose these things all the time. Yeah, it's, I don't know why they do that, but it's, 
+2  
+01:28:55
+I just got emailed this morning about an interview to fact check that I did in 2019. Yeah, go figure. 
+0  
+01:29:02
+I mean, it's cool that there's, I guess that there's archival material on the internet. Yeah. That not everything is fleeting, certainly in the podcast space. You know, we like to think that the information on this podcast will evergreen archival and we can update it over time. And, and that actually brings me to the, the, the very specific question, which is about ai. It, you know, with ai, web searches are now changing fundamentally, they're, you're no longer being brought to a site that is just a designated site. You're getting information back. That's the, you know, the, the amalgam of a lot of information funneled through presumably that large language models are changing all the time, but funneled through kind of your search behavior, your preferences, et cetera. 
+0  
+01:29:45
+So web searches are no longer just site destination journeys. They are, you know, recipes of information that are filtered and combined and given back to us, which makes me think that maybe AI can provide a, a kind of pseudo self that is wiser than ourselves in any moment or potentially wiser than we are in any moment. Because they can access information that is not dependent on like bodily state shifts. Like, like at two 30 in the morning, three 30 in the morning. A a small problem can seem huge and a huge problem can seem absolutely overwhelming just crushing us at 7:00 AM It's different when we search on the web now, like how to, you know, how to get through bankruptcy. 
+0  
+01:30:29
+Let's say somebody's dealing with bankruptcy, they're gonna, there's information to go to, but with ai, it can give you the information in the form and in the, and from the sources that are most meaningful to you. And it doesn't, even if it's two 30 in the morning for you, the AI is fresh, it doesn't need to sleep. Right. That seems to me like a distinct advantage over our own minds. And I know AI is controversial. Is it gonna get smarter than us? Is it gonna tell us to go do bad things? This kind of thing. Okay. That's a whole different discussion. But it seems to me that AI could be pretty good, maybe even terrific at helping us resolve problems because it doesn't have these state shifts and it's really tailored to us. 
+2  
+01:31:05
+Well, it, it can be, and I think, you know, ai I think of it as a, as a new tool that is has, you know, amazing potential. And I actually think it has the potential to help us advance on a problem where psychologists like myself currently find ourself fixed. So if I, if I look back at the last 20, 30 years of research on emotion regulation, I'm talking here not just about managing Chatter, but managing the whole suite of unwanted emotional states that we might encounter in our lives. What I can do is I can point to several individual tools that are empirically supported science-based tools and scientists have do done a really good job profiling how these individual tools work. 
+2  
+01:31:52
+Mechanistically, they've often gone down to the, to the brain level. They've looked at them in intervention context and everything in between. So we have a pretty good sense of how individual tools work, but what we are now learning is individual tools are not the name of the game because we are often doing multiple things to manage our emotions and the combinations of tools we use within people. They often vary across situations in ways that we don't completely understand. And there's variability between people as well. So the, the blends or cocktails of tools that are most beneficial to us remain to be illuminated. So if someone comes to me with a problem, I can go through all the tools in the toolbox. 
+2  
+01:32:34
+What I can't do is I can't prescribe combinations of tools and say, Hey, for the kinds of problems that you are experiencing and the kind of person that you are, here are the four things that you should do. But that person over there, they should do these six things. I think AI has the potential with the right inputs to help us learn about those patterns that explain how to optimize emotion regulation on an individual basis. And that is a remarkably tantalizing possibility for that technology. 
+0  
+01:33:07
+You mentioned you have kids. Yeah. When my sister, who's three years older than I am, was a kid, my dad tells this story that she had an Imaginary Friend Larry. Larry was a girl, lived in a purple house, you know, this Imaginary Friend Larry had all the, the, the components of a child's mind that was unrestricted by all the barriers of naming and things like that, you know. And my dad said that my sister used to play with Larry in her room for hours just talking to Larry and like, you know, with her dollhouses and her toys and her things and doing. And then one day my dad, he loves this story. 
+0  
+01:33:47
+I don't know why he loves this story in particular, but he, he was standing outside her door and she was playing with Larry, her Imaginary Friend, talking to Larry. And then she stopped and turned around and he said, how's Larry? And she said, Larry's dead. And he, she never talked about Larry again. Like it was this sort of collision between fantasy life and real world. Yeah. This is how I interpret it. And that was it. Yeah. Larry was done. Yeah. Poor Larry, you know, poor Larry. Well, maybe it was time. Yeah. You know, I mean, she was maybe gonna be seven soon and maybe, maybe it served her well. So I've always wanted to ask somebody this question. I think you are the person to ask this question. Our imaginary friends, common in children and our imaginary friends, the primordial form of our internal dialogue with ourself just fascinated by and and yeah, it's a are there some adults who maintain imaginary friends? 
+0  
+01:34:39
+And the re the, and I'll set an additional context, which which will be especially relevant to the listeners of this podcast, which was in the very seat that you're sitting about this time last year, David Goggins was here and he was talking about, you know, how he pushes himself through tremendously hard things. And during that discussion it became very clear that David has a, an array of different voices that are all him, but that serve different roles. Yeah. And it was a remarkable thing to hear him articulate that because to those of us on the outside, we observe it as like one person, but he's constructed in an elaborate inner world to be able to equip himself to do the things he does. And I just have to wonder whether or not this whole thing of imaginary friends provided it doesn't take us into the realm of psychosis and delusion could actually be 
+2  
+01:35:22
+Useful. Yeah. Isn't it remarkable that this is, this is such a common human experience and for most people, they never talk about this with anyone else because this is such a private experience. So I often start, start presentations with a quote from Raphael Nadal, the tennis great. Him answering a question about what's the hardest thing that he struggles with? And he says it's, it's managing the voices plural in my head. And then I, and I go to the audience and I say, Hey, what do you do if someone comes up to, to you at a party and says they're struggling with the voices inside their head, right? Like, that is typically warning sign, right? That maybe something is awry here and someone needs support. 
+2  
+01:36:04
+Yet this is a very common feature of the human experience that we just never really touch on. So to answer your question, is a common to, for kids to have imaginary friends and maybe talk to themselves? Yes. I believe this is called the study of pretense. According to one famous Soviet psychologist named Lev Vygotsky, one of the ways self-control is first learned is actually through self-talk. And so what happens is, you, you, you as a child will hear your parents telling you to do things. Andrew, you should do this or don't do that and sit this way and not that way. And then what children will often do is go off on their own and they will repeat those kinds of messages out loud to themselves. 
+2  
+01:36:50
+And so if you've ever been around young kids, you've probably seen them talking out loud to themselves or playing with dolls. No, Jimmy shouldn't do this, Jimmy should do that. Some kids do it in the form not of with an actual toy, but they have an Imaginary Friend in their mind that they are engaging with these different interactions. And what the kids are doing in those contexts, according to this idea, is they're, they're practicing self-control. They are, they are repeating the things, the messages that their caretakers have told to them. Right. They are reinforcing it in those ways. And then as time goes on and your sister demonstrated this, that outer voice becomes our Inner Voice. 
+2  
+01:37:32
+And we have the capacity to recruit that Inner Voice then throughout our lives. But it is interesting that during moments of extreme stress, many people sometimes report actually talking to themselves out loud. Right. And there's very little research on this, and a lot of this is anecdotal, but I have, when speaking to a lot of individuals, they say, yeah, sometimes I will actually just start talking to myself out loud and I thought something was wrong with me. And it's always when I'm struggling with like a major stressor. So if we go back to reviewer number two, right? In the academic world, I remember once I wrote this invited article and a reviewer did not say very nice things to me in this, in this response. 
+2  
+01:38:16
+And I remember just walking, I was, I was, it was so offensive. I remember walking around the neighborhood and I, I was, why don't you say that to my face? You know, and I was just repeating what they said and I was rehearsing it. I was getting more and more upset and then ultimately working through it. But it almost seems like in real moments of stress, we revert back to this very primordial way of regulating ourselves that we first exercise when we were kids, which is this self-talk. And so, so David has become exceptionally skilled at harnessing different voices according to you, to manage his challenges that he's facing. 
+2  
+01:38:56
+I've heard David talk on a number of occasions, and I think there is another important point to, to bring up here, which is I'm pretty sure that when David is activating different voices, they're not always a very gentle voice that is encouraging him to take it easy and be kind opposite to opposite. Quite the opposite, opposite. Sometimes yes. And sometimes this is important because negative self-talk is often equated with harmful outcomes. Negative Emotions are functional when they're activated in the right proportions. Sometimes being firm with yourself can be quite effective. So if I go to how, when I'm exercising and I'm doing classes sometimes where coaches are telling me to do really painful things, like sometimes I'm pretty tough on my myself, I'm channeling my high school wrestling coach who is really hard on me, right? 
+2  
+01:39:49
+You know, you, you, you, you better like shape up. You know, you can't, you know, wimp out here. That serves an a motivating function for me there. So if we're recruiting some negative voices, that isn't bad per se. What is bad is if we start looping that is the what we really wanna equate with Chatter. It's getting stuck in those thought loops. That's when things get, get harmful, when those Negative Emotions are tweaked too intensely or for too long. 
+0  
+01:40:20
+A couple of times we've talked about the relationship between physical activities and mental activities in particular taking a walk going into green spaces. And I was delighted to hear when you said that there's a vast literature supporting the use of green spaces Yeah. For calming ourselves. Is that essentially what the data show? Well, 
+2  
+01:40:41
+It goes a little bit beyond even just calming. So yes, there is data linking going for a walk in a, in a beautiful setting with feeling better. But, but, but scientists have actually gone even deeper to understand the, the various mechanisms through which interacting with green spaces and other kinds of environments can help us. And so there are two major pathways that I often talk about. One is interacting with a green space can be cognitively restorative. So as we talked about earlier, when people get stuck experiencing Chatter or other kinds of big emotions, our attention often fixates on, on the problem at hand. 
+2  
+01:41:22
+We focus really hard in trying to work through the problem. And that can drain us of our precious attentional resources. Well, when you go for a a, a walk in a safe natural setting, you're surrounded by interesting cues that capture your attention in a very gentle way. So I'm talking about the flowers and the, the, the, the, the trees, the sense, the sounds. Our tension often drifts onto those features of our environment. Now, most of us are not doing the equivalent of carrying a magnifying glass and studying this, the geometric structure of the leaves and the flowers, right? We're just kind of taking it in. 
+2  
+01:42:02
+But the surroundings are, are sufficiently intriguing to capture, to grasp our attention. And that gives us this opportunity to restore that precious commodity. So there's work, there's a lot of work showing that going for a walk in a safe, natural setting can be cognitively restorative. That's another feature that, or another mechanism through which nature exposure can help us. The other pathway that I just find, so it's, this is so, so cool from a research point of view, going for walks in, in, in natural settings often elicit the emotion of Awe, which is an emotion we experience when we're in the presence of, of something vast and indescribable. 
+2  
+01:42:45
+Something that just feels bigger than ourselves. So in, in the arboretum near my house, there are these trees that have been there for hundreds of years and you look up at these trees and you think, my god, like you've been there way longer than me and my parents and my grandparents, and you probably will be there longer than all of my progeny. Like, wow, that just broadens my perspective. Or an amazing sunset. You can also experience this emotion through feats of, of innovation. So I'm a, I'm a science geek, I guess you could say. And for me the, the, the two biggest Awe triggers are number one, the images of the galaxy that the latest telescope produces. 
+2  
+01:43:28
+Which if you follow this, we summed physicists have someti somehow figured out engineers how to take pictures of what the, the universe looked like billions of years ago. Somehow I don't understand the physics, we can see what it looked like, this, you know, vast amounts of time ago. And we also of course have the equivalent of an SUV currently roaming on Mars, sending us back footage of that planet. So when I think of that, like we've actually landed a vehicle on another planet, this vastly expands like I'm filled with Awe. So when we are experiencing something vast and indescribable like that, this is the ultimate perspective broadener. 
+2  
+01:44:13
+So it leads to what we call shrinking of the self. We feel smaller when we're contemplating something vast and indescribable. And when we feel smaller, guess what else feels smaller 
+0  
+01:44:23
+Problems. 
+2  
+01:44:24
+Our problems. So this is a, an easy way of utilizing the world around you to powerfully manage your emotions. And so what I love about that work is it highlights the fact that there are tools that are just hidden in plain sight. They're waiting to be harnessed. And if you know where to look, you can often find them. And the nature, by the way, isn't the only set of environmental tools that exist. There are lots of ways that you can interact with your environment strategically to help you feel better. We often develop attachments to places, for example. So have you, you're probably familiar with the concept of attachment figures. 
+2  
+01:45:04
+So there are these figures from our childhood that we often though not always securely attached to, they're a source of safety and comfort and they serve a powerful regulatory role in our lives and our partners, if we're in positive relationships as I am, love you as to my wife, she is an attachment figure for me. While we also develop these associations with places. And so sometimes places can be the source of safety and comfort. Going back to those places during times of distress can be really rejuvenating. I know, I know one person who discovered that, you know, his, there was infidelity in his relationship and what really helped him get a grip on the situation was going back to his childhood home and sleeping in his bedroom at home. 
+2  
+01:46:02
+That was the, the turning point that allowed him to reroute his ability to navigate his life. That's an example of, of the power of places to affect us. So, so how many times do we think about, hey, what are the places that are my emotional oasis, if you will, that I can go to when I need it? We can also structure our environments. Like you and I are both talking right now across the table from one another. We don't have our cell phones out on the table. 
+0  
+01:46:33
+No, not from me. Not even in the room. 
+2  
+01:46:35
+Not in the room from me either. If we did and we had it facing up, we would be distracted, would we not without question 
+0  
+01:46:42
+Even facing down. I think there's some literature on this, right? Still 
+2  
+01:46:45
+A cue. Yeah, it's still an emotional cue. 
+0  
+01:46:47
+There's a cognitive tether. Like we're sort of, I mean, because of the thing signals a particular reward, a particular reward and a, and a particular set of behaviors. Right? Just like a pen. There are only a few things you get. I mean there are probably many things you could do with a pen, but typically one, this 
+2  
+01:47:03
+Is not John Wick here. Exactly. So there's one thing that we're talking about. 
+0  
+01:47:06
+We're not, we're not getting, yeah, we're not getting innovative here with, with these objects. But Ray, when the pen, excuse me, when the phone is present, even if it's face down, it cues the, the opportunity to make a call, receive a text, look on Social Media. 
+2  
+01:47:21
+That's right. All the 
+0  
+01:47:22
+Internet. And so find out what's 
+2  
+01:47:24
+Happened today. And so by leaving our phones outside of this space, we are, we are managing our emotions in a very blunt and effective way. When laptop Screens are open in my seminars, I know that I've already lost the battle because I know the, the, the, the object, the stimulus is so tempting. Even if I'm the most captivating professor in the world, which I am not, I aspire to be captivating, but I know that I'm always going to lose compared to the screen, the email, do you ask them to close the laptop? I asked them to, yeah. No laptops in my, in my class that, wow. 
+0  
+01:47:57
+How is that received? 
+2  
+01:47:59
+So far so good. You know, I, I explained to them, I actually explain to them the science behind this. I explain why I am doing this and I say that, Hey, if I have my laptop open and I'm in your shoes, I, this is a divided attention task. I'm not able to focus as well as if I don't have it open. And in the courses that I teach, it's more about discussion and thinking through things. So they don't really have a need to, you know, type notes for exams, which I think makes it easier for me. But, but modifying our space is really strategically, like this is another valuable tool in, in our toolbox. Like when we have people over for football, watching parties, let's say it's pretty common. 
+2  
+01:48:41
+Where I come from in Ann Arbor and I, my favorite food in the world is, is pizza. And we have this wonderful New York City style pizza place in Ann Arbor. Now I will order vast amounts of it, much more than we need. And when the, the, the game is over, I will insist that everyone take it with them. Because I know if, if it is in the refrigerator and I open the refrigerator later that night to just get some water, if I see the pizza box, the queue, it will elicit a emotional response. This desire, this petitive response to consume the pizza, which is not the goal that I have from either in a fitness or a motion re regulatory point of view. 
+2  
+01:49:23
+So I'm structuring my spaces strategically all the time to give me the best chance of being successful at, at meeting my regulatory goals. 
+0  
+01:49:33
+I'm so glad you brought up pizza and New York pizza and the fact that you're from New York. Here's why. And again, I give a personal example only as a template for people to think about themselves. Sure. Either where it matches or doesn't match what I'm about to ask. I love being in nature. I love being up in Yosemite and rural areas and at the coast. I mean, there's love, love being in nature and the quiet of nature. I find my, my mind slows and my thoughts and my emotions enter a, a, a pace that just is very soothing. I also love being in New York City. I was first in New York City when I was about five or six years old. 
+0  
+01:50:14
+And I remember telling my dad, who's from another big city, Buenos Aires, I remember telling him like, I can't, I can't believe this exists. Like, can we come back here? And I, I swore that I would go back as many times as I possibly could. And I, I love going to New York City despite it, having many problems. It's still a wonderful city. When I'm in New York, there's tons of activity. There's tons of stimuli. Yeah. And I also find that my mind achieves that slowed pace. Another parallel construction here. And then I'll, I'll wage the, the specific question. I've worked with professors, my postdoc advisor for instance, and my graduate advisor, worked extremely effectively. These are hyper-focused. 
+0  
+01:50:54
+Unfortunately, both of them have passed, but hyper-focused, brilliant people, truly brilliant. And their offices were a complete disaster. Mm. And we'd say, Ben, you need to clean your office. And he would say, no, no. Don't move anything. Like, I, otherwise I won't know where anything is. And I'm like, how can you know where anything is? Like this, this, it, look, it looks like an earthquake hit yesterday. And he goes, don't touch anything. And he, and he could find things in this like dizzyingly messy environment. Yeah. And something, you know, he was the, the stereotype of the professor sitting hunched over at his keyboard at two in the morning. 'cause at that time, I worked really late. You'd go into Ben's office, he'd be like, Hey, you know, and he organized thinking amidst chaos. 
+0  
+01:51:34
+Yeah. And the New York example would be the parallel. And at the other extreme nature also seems to bring this about. So two specific questions. Is there a continuum of, let's say daytime, let's forget about middle of the night of daytime kind of default levels of Chatter. I think of this as kind of RPM in a car. Like, like how is the car idling? Like you turn on the car, you just sit there. Like if the transmission's working well and everything's working well, it's like, yeah. Hums at a ice. It's not red lining. Yeah. Some people seem to be red lining all the time. Yeah. And they calm down in 10 in cluttered environments. So how much is, do we have a kind of a set point, a Chatter set point, assuming everything else equal well rested, et cetera, et cetera. 
+0  
+01:52:20
+And then why is it that external environment matching our internal Chatter somehow, like can adjust that internal set point? It seems, I realize this is very abstract, but for me it's very useful to think about where my mind goes into its most pleasant and effective states. Yeah. 
+2  
+01:52:40
+Your example of your advisors resonates so strongly with myself. Is your office a mess? Well, it, it entirely depends on my mental state. And prior to really getting involved in this space, I had no insight into why sometimes my office was a total mess. And sometimes it is spic and span, unbelievably organized and clean. And so let me share with you some of the research in this space, because I think it'll bear on this question you're asking. A lot of people find that when they are experiencing Chatter, they reflexively start organizing their spaces. So I, I'm a great example of this. 
+2  
+01:53:21
+I, my entire life, if we called my mother up right now, please, let's not do it. But if we did, she could attest to the fact that there would always be a trail of, of towels and clothing from the bathroom to my bedroom and all over the place. And my office is similar piles of papers and books. And that's when life is good. I'm kind of free flowing. I'm getting in there, I'm being creative, I'm generating ideas, and I'm not really worried about everything around me. In fact, I'm really good at typically like tuning out my surroundings to, to focus in on the task at hand. I could work in a coffee shop, I could work almost anywhere. 
+2  
+01:54:01
+And I, I love it when I'm experiencing Chatter though, and this is true from the time I was little, I would always start putting things away. I would always start organizing things, making them nice and tidy. My office is always spotless. Sometimes I even take it further. Presently when I'm experiencing Chatter, I clean up my office, then I go into the kitchen and I make sure that's nice and tidy. And if it's really bad, like I'll clean up my kids' rooms and things like that. This is a very common experience when you're experiencing Chatter. You don't feel like you are in control. You're not in the driver's seat. The thoughts and feelings are taking over, and they're pushing you in directions and into places that you don't want to be. 
+2  
+01:54:45
+It's an aversive state and it's chronically activated for a lot of people. Human beings in general. We crave control. We like to know that the world is orderly and predictable. There's survival value that that communicates to us, right? If we know things are certain. And the, and, you know, proceeding in a, in a predictable way, creating order around us compensates for the lack of order and control, we feel inside. It's called Compensatory Control. And this is the explanation that is often provided for why so many of us augment our spaces to counteract, in this case our emotional state. 
+2  
+01:55:29
+And so I, I don't know if that perfectly answers your question, but it, it for me highlights the way that we are tightly tethered to our surroundings in some circumstances when I'm not experiencing Chatter, it really doesn't matter if the place is nice and tidy versus not like, no big deal. But when I'm motivated to think, feel, and behave in a particular way, then my circumstances are becoming more important. 
+0  
+01:55:59
+I mean, the, the military is a very salient example where people, it's a great example, have their, their their kit in order Yeah. In order to essentially be able to proceed with the job. Right. And, and people can say what they will about the military, but the, the structure and the hierarchy of the military is provided structure and in order for people to essentially harness a a take go from a chaotic life to a structured life. That's right. You know, and it's an extreme example, but having everything squared away is, is one of those things. I, I got certified as scuba dive a few years ago. 
+0  
+01:56:41
+And you know, it, it occurred to me early on in the first dives that, you know, if if your kit isn't squared away and you don't have everything worked out, things can go badly wrong. And the, the severity of the, of the potential consequences or the potential severity of the consequences, I suppose is the right way to say it, is a good reminder. Like to have everything in check. This isn't the kind of thing where you can afford to forget a piece of gear or to not check a valve or you know, it, it's potentially life or death. And that serves a a, an adaptive role. It's, it's kind of nice to have a, an activity actually where, where that's, that's the case. 
+0  
+01:57:20
+Whereas we get into our cars and we might pull outta the driveway and then go down the street and now you see people texting and driving all the time. Yeah. Or hopefully less as time goes on. And you know, you see then they, you might put on your seatbelt, you know, like a, you know, a quarter mile down the road. Yeah. You might put on first. Right? I always put mine on first when, you know, when I remember, I'm sure now someone will catch me with my seatbelt off, but I drive with a seatbelt and so on and so on. The physical steps that we take to organize ourselves and the environment and our relationship to the environment really do seem to, to change our brain into a, a different brain than were we to not do those things. The 
+2  
+01:57:56
+Way I carve up the emotion regulation space is there are multiple Shifters that exist. Some of those Shifters are inside us. So there are these Sensory Shifters we talked about. There are tensional Shifters. We haven't gotten into that yet. But, you know, we can shine our mental spotlight on or away from things that are causing emotions. And we can be strategic in how we do that. There are perspective Shifters way we, the way we think about our circumstances, reframing, distancing, those are all on the inside. But then there are also Shifters that exist outside of us in our relationships. How other people can push our emotions in different directions. 
+2  
+01:58:35
+Sometimes other people can be amazing assets, sometimes tremendous liabilities. There are physical Shifters, like in our spaces and we just talked about those. You can then go a layer out even further and talk about culture as a shifter. People talk about culture as the air we breathe, right? We are, we are in different cultures throughout our lives, and sometimes we move from one culture to another within the day. So, you know, if you're going to your, your lab or you're on campus at Stanford, that's one very specific culture with certain values and norms and, and, and weird practices. Maybe that's, no offense to Stanford by the way. 
+2  
+01:59:16
+That's more academics, academia, some weird practices. If you then go to your podcast community, right? The, the team in the studio that we're sitting here, there are different, there's a different culture that characterizes the way you function here. And those cultures that we are a part of, they powerfully shape our emotional lives. They indicate they, they, they influence what kinds of emotional experiences we value. So what kinds of emotional experience are we motivated to have? They give us practices, rituals to meet those emotion regulatory goals that we have as well. So that's another kind of influence that I don't think we often think about, but that is really quite powerful. 
+0  
+02:00:02
+It brings me back again to the, the smartphone. You know, the smartphone carries an infinite number of contexts into the different environments with us. So we're on the train, but we could be paying attention to something overseas. And I was on the plane this morning and I, I just marveled at the number of Screens Mm. On this, frankly very densely packed plane. It was like probably fourth grade when a kid brought in a little mini tv. And I remember thinking, oh my goodness, that's like a mini tv. It looked kind of like a walkie talkie. And the resolution was terrible. And of course it was all black and white. They had colored TVs, by the way, when I was, when I was young, it just hadn't made it to the mini tv. 
+0  
+02:00:44
+And we were basically walking around with little mini TVs all day. Yeah. With near infinite number of channels combined with texting, sharing. I mean, it's wild. 
+2  
+02:00:54
+Remarkable. It's science, it's science fiction. If we were to turn back the clock to when we were kids, to think about what we have in our pockets right now, or on our wrists, or some people, the glasses that they are wearing, we probably wouldn't have believed that this was possible when we were kids. 
+0  
+02:01:12
+I agree. I agree. And I, I'm just struck by the fact that our brains can adapt to this. But I do think that most people probably wonder about, you know, like, what's the optimal way to live? And, and the word optimal gets people a little, you know, a little triggered sometimes, believe it or not. I'm not talking about what puts people into their best performance mode or this or that. I'm not talking about biohacking. I'm referring to, you know, there's an age old question. You know, what, what is a good life? And, and that's a completely different podcast that we should probably do at some point. But it probably involves being able to pay attention to things and be present, but also let one's mind drift and be socially present and have relationships and on and on. 
+0  
+02:01:54
+Do you think that we are in fact more challenged nowadays in the default mode of so many contexts arriving with us in our pocket when we arrive in a situation, like you said, come to the studio, I'm, as long as I'm my phone's face down or away from me, I'm in the studio. Otherwise I brought the whole world with me. 
+2  
+02:02:15
+Yeah. This is a, a question that comes up quite a bit and it's a really hard one to answer because we haven't of course been tracking people's Chatter and emotion dysregulation levels over the centuries. I think it's absolutely true that we now have new forms of technology that are perennially now presenting us with challenges that we need to figure out how to overcome. But they're also providing us with opportunities. So to be clear, I think Social Media and technology can and does do a lot of harm. And I think it can and does do a lot of good for us as well. 
+2  
+02:02:58
+And the real challenge we face right now is figuring out how to navigate those, those digital technological landscapes. And I think we probably jumped into them without a user guide too quickly, and we're only learning now 15 years later or whatever the number is, that that was the case. But, but I don't know that I would, I don't know that, well, I'll speak for myself. I think net positive, there's a lot of good that has come from these technologies. If we think back centuries ago, it's not clear to me that the world wasn't a, a challenging place either. 
+2  
+02:03:40
+I mean, you know, we used to to get into fights and pull swords and there was huge, you know, people would invade readily if you go back further. And we, there was the threat of illness and, you know, we weren't living nearly as long. And so I think it's easy to also forget just how far we have come as a species. But, and this is I think a really important, but, and I think about this often, the issues that we are talking about today on this podcast, this question of how we manage our emotional lives. This is a question that we have been struggling with likely for as long as we have been roaming the planet in our current form. 
+0  
+02:04:22
+Because humans have constantly been evolving new technologies. 
+2  
+02:04:26
+We've always been challenged by circumstances. And those circumstances are constantly invol, evolving, providing new, new threats to us that now we need to learn how to manage. When, you know, when I was digging deep into the history of motion regulation for, for, for, for shift, I couldn't believe it that when I, when I, when I look back at the first surgical tool ever developed, you know what that is, 
+0  
+02:04:54
+Tre 
+2  
+02:04:55
+Ting. So Tre nation tell everyone who's listening, what that involved 
+0  
+02:04:59
+Ting is where you bore a hole through the skull in order to let out some volume of fluid, 
+2  
+02:05:09
+Some volume of fluid or, 
+0  
+02:05:10
+Or remove brain or 
+2  
+02:05:12
+Brain. Or if we go back eight to 10,000 years ago when this technology was first cutting edge, right? Like the new iPhone of the times, Tre nation 
+0  
+02:05:24
+For spirits, 
+2  
+02:05:25
+For maybe spirits, right? So one of the reasons it was believed to be used was to allow the evil spirits to escape that or ma maybe causing tremendous emotion dysregulation. So that was a cutting edge tool at one moment in time that we used to manage our emotions. Then let's, let's jump into the Mental Time Travel machine or just the time travel machine and go to the late 1940s where there was another major spike on the emotion regulation innovation timeline. You know where I'm going with this? I'm 
+0  
+02:05:54
+Pun intended. I'm guessing you're you're talking about the lobotomy. 
+2  
+02:05:57
+That's right. 
+0  
+02:05:58
+The frontal 
+2  
+02:05:59
+Lobotomy. A Portuguese physician develops the lobotomy, I think it was initially called the dichotomy, essentially making some holes in your frontal cortex 
+0  
+02:06:08
+Through going up through the orbit of the eye, through the eye, sweeping it back and forth. This was an, an not just an outpatient surgery, but a mobile surgery. That's right. They arrive to people's homes. I think, I could be wrong, but I think a Nobel prize was given for the lobotomy. 
+2  
+02:06:23
+Well, there you go. That's the 
+0  
+02:06:24
+Relieved anxiety. Unfortunately it relieved a lot of, 
+2  
+02:06:27
+Relieved many other things as well 
+0  
+02:06:28
+Relieve people's interest in pursuing lots of things. 
+2  
+02:06:31
+It caused major, major, major dysfunction. And to be clear, this is not an advocated emotion regulation intervention, it hasn't been for a while. Well, 
+0  
+02:06:42
+That's why I said don't box, you know, prefrontal cortical damage is, is a common feature of people with getting 
+2  
+02:06:48
+Over and over 
+0  
+02:06:49
+Or even, I don't know if this is true, someone needs to check, but I I do hear that some, sadly, some soccer players who head the ball a lot Yeah. Deal with some frontal, you know, frontal, cortical related dementia type stuff. I'm guessing that's probably related to some genetic susceptibility because at least to me, the soccer ball is not very hard. It's not like they're, they're it, you know, it's, but, and then again, there are of course people who play a, a whole career of football. Yeah. Or box less seldom boxing people get hit a lot in the head, often have problems. Yeah. They, they develop problems. 
+2  
+02:07:25
+Yeah. Generally not a good thing. Right. But, but you know, just to go back to the lobotomy, what's amazing to me is like that was perceived to be such an advance that it won the Nobel Prize, like the Nobel Prize because 
+0  
+02:07:39
+It calmed people 
+2  
+02:07:40
+Down, calm people down. Right. And, and we, so, so I raised these issues to, to just point that like we've been struggling to identify tools to manage our emotions effectively for a really long time. And now fast forward to the present, we have not solved the puzzle of emotion regulation yet. But I would argue that we have made major advances in identifying non-invasive science-based tools that can be leveraged to help people lead more productive emotional lives. And so, you know, you raised this question earlier about what is a productive life? What is a good life? And I think answering that question is in part relevant to how I think about how do you like, define self-control in many ways, or emotion regulation or, or let me not, not just how you define it, but what are the component parts? 
+2  
+02:08:35
+So we've been talking about tools throughout this conversation, all like these different tools that exist, these different Shifters are pushing our emotions or Chatter around. That's one core part of regulating effectively. But another core part is our motivation or our goals. And you need both motivation and tools. So I can know about all the tools on the planet that scientists have discovered. If I'm not motivated to manage my emotions, I'm not gonna use those tools. If on the other hand, I am highly motivated to regulate my emotions, but I don't know what the tools are, I'm not gonna be that effective and I may in fact do some bad things, right. 
+2  
+02:09:20
+I may, I may, you know, use unhealthy tools, substances that really can very powerfully map, you know, substance abuse I'm talking about that can modulate my emotions, but has some negative consequences. So it's about what are my goals for me, for my emotional life, and do I possess the tools that allow me to accomplish those goals? I think that is a formula for the good life. Hey, here are the goals that I have and if these are healthy, productive goals and I have the means to achieve them, that should bring me a sense of satisfaction. Sometimes our goals, of course, aren't optimal and we're use that maybe controversial world word, but we do change our goals throughout our life. 
+2  
+02:10:02
+But it's about finding the right set of goals for us as individuals and then identifying the tools that we can use to bring those goals to fruition. 
+0  
+02:10:11
+Yeah. In keeping with this historical arc of the tools that humans have used to try and regulate emotion. You mentioned tre, frontal lobotomy, I think about a barbaric appearing procedure, but one that actually is pretty effective in the right hands and that is still commonly used today. Electric shock therapy, which at a mechanistic level, you know, we 
+2  
+02:10:34
+Don't understand. Yeah. 
+0  
+02:10:34
+So we don't really understand, but it, it seems to lead to a kind of massive dump of a bunch of neuromodulators, dopamine, serotonin, but like, you know, almost willy-nilly, like just Yeah. 
+2  
+02:10:43
+It's like a 
+0  
+02:10:44
+And then nowadays there's a lot of at least interest if not enthusiasm, more work is needed on the various psychedelics. Yeah. In particular psilocybin and MDMA for depression and PTSD more specifically. And while those are more in the serotonergic pathway, the, my read of the data is that, you know, they're creating, you know, more brain wide connectivity at resting state. I mean, there's still fairly crude tools Yeah. In terms of you, you're massively changing the levels of given neuromodulators. You people are undergoing variable experiences. It's not like directed in any, any, any way. Nolan Williams at Stanford is combining those things with transcranial magnetic stimulations. 
+0  
+02:11:27
+You're try and essentially highlight the activity of particular circuits during the psychedelic journeys and, and after things of that sort. So it's getting more specific. But I would say even today, we, we don't really have great pharmacologic or surgical tools for emotion. Now there's terrific neurosurgery going on, mind you, but when it comes to behavioral tools for emotion regulation, I feel like the psychologists, you all, you and your colleagues have done a tremendous job as have the people from, you know, for lack of a better name, the sort of ancient traditions and from the wellness c com community, you know, things like long exhale, breathing, physiological size meditation, Wendy Suzuki's lab at at NYU showing, you know, 13 minutes a day of meditation improves focus, emotion, re emotional state. 
+0  
+02:12:19
+So it seems to me that like the behavioral tools are getting way out ahead of the surgical and even pharmacologic tools in terms of their specificity, their safety, and maybe even their potency. Would you care to reflect on, on what you see as the most valuable tools for emotion regulation? You've touched on some of them today, but already, but I mean, taking a walk, green spaces time, you know, Mental Time Travel fantasy. I, I listed a few more of these off. I mean, these might seem kind of more modal, you know, you know, top level contour things, but they work, right? I mean the data, say they work Yeah. Journaling. 
+2  
+02:12:57
+Yeah. They, I mean, and they're, they're mechanistically. We, you know, we understand the mechanisms that, that are underlying the benefits of these tools. They're easy to implement and in, not always, but for a lot of them they're easy. And I think that's in part where their power resides. We are still trying to understand how the brain functions, as you well know, you've contributed to this. I've worked on this a little bit myself too. The brain is a remarkably complicated organ. And, and we still have a lot to learn. I'm a big fan of trying to understand how phenomena like emotion play out at different levels of analysis at the psychological level of thinking and feeling, but also at the biological level in terms of patterns of neural activity and hormones and so forth and so on. 
+2  
+02:13:49
+And so I think there's great hope that we will be able to eventually down the road, try to help people manage their emotions through multiple different sources of intervention through the pharmacological level, through the behavioral level, through the interpersonal level. But it's a messy, messy space right now. And I think one of the big problems is, and this is in part gets to bigger questions about science and how science is done, It can be hard to cross levels of analysis. And there are multiple practical constraints that become active here. So having the, you know, large enough samples and the right collaborators to look at how different kinds of interventions interact with one another work in different populations. 
+2  
+02:14:38
+And so we tend not to do those more complicated designs 'cause they're a lot harder to do. They take a ton more money, a ton more time and effort. And oftentimes scientists are on timelines and their incentive structures that guide the kind of work that they do. But big picture down the road, I think the, the, the big questions are about how do these different kinds of interventions interact with one another? The good news is though, that for any person who is watching or listening who's motivated to manage their emotions right now, there are many things you can do to start. And it begins step one, learning about what these tools are and then starting this process of experimenting with the tools, I don't use that word, experimenting lightly. 
+2  
+02:15:27
+I wouldn't advocate experimenting with, with agents that have serious side effects of the sort. Some of the biological interventions you articulated earlier do those kinds of tools, I think should be used in the context of, of medical supervision. But a lot of these other tools that we're talking about, small changes in how you think and behave and interact with your environments, those are things people can start doing right now. 
+0  
+02:15:52
+One of the most common questions I've received over the years is on YouTube in particular, is how to Stop Intrusive voices. And occasionally when people ask these questions, they'll highlight that some parent or an ex or something will, will kind of a judge voice in there. And they don't know if it's their voice or the other person's voice, but it's in their head and it's very unpleasant. Presumably this circles back to childhood traumas or other forms of traumas, but irrespective of the origins, are there any tools specifically to deal with intrusive thoughts and pa and thought patterns? 
+0  
+02:16:33
+Maybe even ooc d like thought 
+2  
+02:16:35
+Patterns? So a couple of of responses to that. So first of all, I think step one is recognizing that if you are hearing another voice, like if you can hear your, your dad's voice in your head, it's not your dad who is in your head. That is a simulation that you are engaging in, that your brain is capable of producing. And so that I think can be informative for, for people who are curious about these inner worlds. Like I can hear, 
+0  
+02:17:02
+Yeah, I'm not referring to auditory hallucinations. Yeah. Okay. I'm referring to, you know, I, the language of somebody, maybe not in their, that person's voice, but they're hearing like, maybe not you're a bad person, but like, you're, you're never good, you're not good enough. Like, it's not enough or, or, or just feeling like so, you know, like they can't enjoy what the, the good things in life because of these intrusive, negative voices. 
+2  
+02:17:25
+Yeah. Here's something that I hope listeners and viewers will find exceptionally liberating, as I have found liberating from just knowing the science. So actually I talk about these intrusive thoughts in, in shift, they're incredibly normative. And so there's research which looks at like, how frequently have you experienced an intrusive thought over the past week or month or two months? The proportion of people who experience these dark thoughts is exceptionally high. I don't remember the exact percentage, but it is in my book and it is like near ceiling. I will do an exercise with my, my classes, my undergraduate classes, where I will ask them to anonymously describe the, whether they've experienced like a dark thought over the past week. 
+2  
+02:18:12
+Almost all of them are capable of generating 'em. And some of this, these thoughts are really, really dark. I, I will often experience a very dark, intrusive thought when I'm exercising at the gym. You're looking at me with curiosity and a bit of concern right now. 
+0  
+02:18:28
+No, no, not concern. I'm just fascinated. I, you know, I have ideas about what, why this may be, but I'm just, yeah, I'm just fascinated. I don't know that I've had dark thoughts in the gym, but I, it's interesting. Here's 
+2  
+02:18:37
+My dark thought. Watch out if you see me in the gym from here on. So if I'm carrying like a, a, a heavy dumbbell from a bench to a rack, I will sometimes have a thought of dropping it on the face of another person on a mat. Oh 
+0  
+02:18:54
+My goodness. It's 
+2  
+02:18:55
+Terribly dark. Terrible, terrible. It's a terrible, terrible thought. So why, why am I experiencing that? It's most likely the brain's simulating worst case scenarios to prevent me from doing it. Of course, I don't want to drop a dumbbell on someone I never have. And so that's one explanation for why this is so normative. It's, it's your brain's way of constantly we're, there's a theory that we're constantly simulating all sorts of possibilities for what could happen. And most of these simulations, the probability of them coming to fruition are exceptionally low, infinitesimally small, but on occasion some of the wacky ones do escape into awareness. 
+2  
+02:19:35
+And that's when we get the dark thought about harming someone or doing something illegal in a pretty aggressive, you know, egregious way. Or in my case, dropping the dumbbell on, you know, the person stretching on their face. And so here's what I find liberating me understanding that this is just how my brain works. Well that doesn't mean now that I'm, I'm something wrong with me as a human being, right. That I'm morally corrupt in any way. My brain's gonna sometimes produce these kinds of dark thoughts. I'm not gonna act on them. And as long as I'm not acting on them, it's all good. It's almost like when people learn about the physiological response to anxiety before they know what is happening, that can often be an incredibly distressing experience. 
+2  
+02:20:26
+Like all of a sudden your stomach is churning, your, your palms are sweating. But in research, which shows like, if you, if you communicate to people, Hey, this is just your body preparing yourselves to adaptively respond to this uncertain circumstance you face, all of a sudden you are totally flipping the frame. And now this is, I'm a Lamborghini, right? I am rising to the occasion. My body's doing what it should be doing to allow me to excel here. That's the kind of flip that I think understanding the frequency and origins of intrusive thoughts can have for folks. So step one is just recognizing if you experience intrusive thoughts at times, again, welcome to the human condition. 
+2  
+02:21:10
+It's, it's a little blip in how our brain operates, but a lot of these tools have also been shown to be useful for nipping repetitive thinking in the bud. So when you're curter, you're curtailing Chatter, you are also curtailing the likelihood of perseverating. The reason why we often perseverate on, on problems we're experiencing is we are, we're highly motivated to make sense of these circumstances so we can move on with our lives and our brain. This wonderful problem solving organ that we possess, it just keeps churning until we solve that problem. And that's surfacing all sorts of related thoughts here and there until you, until you get there. And so when you solve the problem, those thoughts tend to subside to, 
+0  
+02:21:55
+I have two, two points, both of which are essentially questions. I think it's relatively common for people when they go to a bridge or a dam or something. A very yeah. Like something very high with the potential for, you know, essentially a fatal fall where they, to jump off to, to have the thought, you know, what keeps me from jumping off Yeah. When in fact they absolutely don't want to jump off. Absolutely. And, and it seems like it's another example of like, it's registering the danger and the severity of the, the consequences. It also, I realize, helps us understand the level of risk. That's right. You know, I, I think Alex Honnold, who you know famously free, free did free soloed El Cap, a remarkable movie by the way, just along the lines of what we're talking about you, the way the movie is constructed. 
+0  
+02:22:41
+And I think Jimmy Chin and, and colleagues who made that movie just such an incredible job, not just with the cinematography, but you know, he survives Yeah. From the very beginning of the movie. And yet it's terrifying to watch terrify the whole thing. Terrifying. And it's kind of a, a hour 45 minute expedition of exactly what we're talking about in that movie. As I recall, Alex spells out the, the assessment of risk and Consequence. Right. You know, level of risk, level of Consequence and, and how that's a, those are key parameters to evaluate. And, and he's obviously done that for himself and he succeeded. And I hope he never does it again, only because he seems like a really delightful person when it'd be nice to keep him around and he's doing other important work now. 
+0  
+02:23:22
+But the point being that I think it's a, it's a very natural thing to evaluate risk and Consequence in a way that quote unquote feels dark. Yeah. But it's actually highly adaptive Absolutely. Through the lens that we're talking about it. So, so that's one point. 
+2  
+02:23:38
+Well, just, just to that point, if I can interject, so just to, to normalize this further for folks. So my family is very special to me as it is to most people. When my first daughter was born, we used to live in this house that had this, on the second floor, there was a, I dunno if you describe it as an overpass, but it was open to the floor beneath. And I remember having these intrusive thoughts of at night when we'd have to bring my daughter into the bedroom to feed her or change her diaper or whatever, I would have these thoughts of carrying her and then dropping her over into the, you know, and splat like not pleasant thoughts to experience in the middle of the night. 
+2  
+02:24:20
+It speaks to this point that you are raising, that was likely my mind's way of homing in on a really, really important issue in my life that I wanna make sure never, ever, ever happens. It is not an indication that I'm morally corrupt or incredibly dark person. It's, it's how my brain is operating. So 
+0  
+02:24:40
+Yeah, you're Assessing Risk and Consequence Yeah. In an adaptive way. It, yeah. It's, it's, it's fascinating to think about. The second comment slash question I'd love your thoughts on is, you know, I had this bulldog, I talk about him all the time, this bulldog mastiff and, and he had one default behavior that if he couldn't engage in it would create anxiety in him. And that was, he liked to chew, right? He, he liked to gna things as a puppy. He actually would teeth on bricks in the backyard. Mm. I was like, oh my goodness, it looks so painful to me. Ouch. Sometimes even 
+2  
+02:25:15
+Sharpening 
+0  
+02:25:16
+His teeth bite through a lip, you know, the, the bulldog part of their phenotype is that a lot of the pain receptors have been bred out of their face. And so they, and I just think, oh my goodness, I go out there and I, you know, I was like distraught at how much pain he must be causing himself. It was obviously less than I I perceived, but nonetheless, this gnawing behavior was what was so you could just see it, it gave him such pleasure. Hmm. Right. You give him something ahan and just, you could just see the anxiety like dissolve out of him. I've known a number of people that are fairly high intensity in terms of they speak fast, they, you know, high density of thought information, et cetera. At least outwardly who claim that they have got sort of a high RPM internally. And I, I, I vary and depending on time of day and time of year on this, but I place myself more or less into that category engaging in an activity that harnesses my full attention. 
+0  
+02:26:07
+Perhaps we could call it flow, but nonetheless engaging in an activity that harnesses my full attention feels to me. So unbelievably satisfying. Yeah. So unbelievably satisfying. I think it's for two reasons. One is the, the benefits of doing those activities, studying, learning, podcasting, doing research, you know, connecting with someone in a really directed way, like getting into that tunnel with them as we're doing now. There's a positive feature and then there's the, also the removal of a negative like that those RPM are not humming in the back in the background. Yeah. And I think for a lot of people, you know, like ultra runners and you know, I, I know a lot of former addicts that start running marathons and get sober and stay sober. 
+0  
+02:26:51
+Yeah. It, it's remarkable how physical activity or cognitive activity can kind of take us into that plane of focus that both makes us productive, makes us fitter, but also relieves this Inner Voice. It kind of let, like, lets the tension out the same way that I observed Costello, letting the tension out through gnawing on these bricks or raw hides or whatever the, whatever it was. Does that, and so my question is, is, is there, as I'm assuming a, a relationship between the physical and the mental, do we basically have a certain amount of energy in us and it varies between people and we need to harness and or adjust that level of energy and to do that in ways that hopefully make us a living or, you know, bring our social relationships more closely together? 
+2  
+02:27:35
+Well, it certainly plays out in physical context as you're describing, but it also, as you alluded to, plays out in cognitive context when there is this match, this sweet spot between the, the, the demands. Like you're in a situation that is actually challenging either physically or cognitively. And the, the resources that you bring to that situation perfectly match the demands. So it's a taxing situation, but you are able to engage with it completely. That is the formula for getting stuck is the wrong word for getting immersed in these kinds of flow states, which are for many people the, the goal that they have in their lives, both recreationally and professionally. 
+2  
+02:28:21
+And so you as someone who is ideally getting into these flow states with your guests, I would hope and imagine, and that's always the aspiration, like that must feel really good. I mean, you talk for a long time with people. Does it feel like a long time when you're having those conversations? 
+0  
+02:28:38
+No. Time perception completely changes. And when I do this for two or three hours a week, and then when we do a solo episode, sometimes the recordings longest ever yet is 11 hours, you know, edited down. But those can be anywhere from, you know, 90 minutes to four hours and or a live event. And I couldn't tell you, it just seems like time just passes. Just time dissolves away. 
+2  
+02:29:01
+And when you know that is because you are so absorbed in the moment and meeting the, the challenges of that situation that all of your attention is commanded to that, that point in time, that moment. And that doesn't leave a whole lot of room for all of the, the Chatter to percolate in, in the background. And so, you know, one, often you might think like an ultra marathon or what's the correct term? Is that it ultra, 
+0  
+02:29:28
+It's called an ultra. I think we have some triathletes here in the room. Our producer Rob Moore sitting to my left, we've never done this before, but how long is it an ultra anything longer than a marathon? Is that right? He's giving a nod. He's gonna remain silent. Anything longer than a marathon is considered an ultra. 
+2  
+02:29:46
+And so that's a lot of time on the one hand to be alone with your thoughts. Right. And you might think that might just be grounds for experiencing Chatter, but it's also a particularly challenging kind of physical feat that you have to devote a lot of resources to meeting those physical demands and Right. So that can propel you into a state of flow and then you get some runner's high to boots and like chemical boost to enhance your mood. And all of a sudden now you have people running, you know, 130 miles. I'm exaggerating. How long is 
+0  
+02:30:18
+It? Oh people, I mean, people have done 200 mile ultras, 150 mile ultras. People have, we have a friend, you know, again, my producer Rob Moore, and I have a friend Ken ride out who does these sorts of races in the Goby desert. Hmm. He did it without any prior training in the desert then won. I mean there, but you know, these Ken in particular I'm thinking about right now, he's a very high energy guy. I would be concerned about Ken and his family, not their safety, but their sanity if Ken didn't run that much Hmm. Because he's just, 
+2  
+02:30:50
+He's, he needs to burn it off. He 
+0  
+02:30:52
+Just has that much energy. Yeah. And the whole concept of energy is something that I'm getting more and more interested in. Yeah. You know, as we age, we tend to have less energy. What is that? Is it mitochondrial density and function? Probably. But what we're talking about here is a sort of Cognitive Velocity. You know, it's not unofficial term, but it's one that I'm using more and more nowadays. I let you Yeah, that's a good one. You know, that this people should try this. I am curious, have you've ever done this? You sit down to read a, a page of a book trying to remember the information. Maybe it's technical, maybe it's not. And then you flip the page and you try and read a page of the very same book a little bit faster than you're comfortable while trying to retain the information. Mm. And I find that there's this like sweet spot for reading where kinda like, there's a sweet spot for running where going a little faster sometimes actually feels like it requires less effort. 
+0  
+02:31:36
+Yeah. You 
+2  
+02:31:37
+Know, well it's, it's, it's interesting that you say that because I actually engage in that exercise quite frequently. So, you know, I'm, I'm constantly reading for my job, right? If I'm not reading journal articles, I'm reading books for, you know, research that I'm doing writing books. And the way I do it is often through an audio form and I will put the speed rate up to two x. I'll often go as high as I can go on the app and I can retain a huge amount of information going that fast. But it does require that I'm very vigilant. I'm really carefully attending to that audio book when I'm moving at that speed. 
+2  
+02:32:18
+And so it's, it's a, it's not what I would do on vacation when I'm trying to consume a book or information for fun. You know, there, I just want to kind of just gently go let the, let the power graphs, you know, kind of pass my gaze and, and take it in slowly and almost even savor, savor the words on the page. But, but in other contexts, I do channel up the velocity and it can be incredibly engaging. It can also be depleting. So when you have conversations that really you find immensely rewarding and, you know, cognitive philosophy, and I love that term is, is is, you know, a 10 outta 10 when you're done. 
+2  
+02:33:00
+Do you ever find it a little tiring? 
+0  
+02:33:02
+Not immediately, but my personal challenge in life is I don't Transition States very well. Yeah. So it takes me a little while to drop into a state, but then I stay there. So I'll come outta here still thinking about and talking about this to myself or with others for, for a fair amount of time. Yeah. Maybe, maybe on the order of, you know, half an hour to hours. Yeah. I've learned this about myself over the years. It's, it's very effective for science and for certain things less effective for other areas of life. Sure. I've learned ways to transition Yeah. Faster. But then I will notice if I do, you know, record a solo and a guest episode and some intros and stuff in the same week that Yeah. On, on Saturday, I'm, I'm kinda like, my mind feels like it's like white noise. 
+0  
+02:33:47
+Yeah. 
+2  
+02:33:47
+Yeah. 
+0  
+02:33:48
+And I, I've long thought that having, I used to call them low cortisol days, you know, just a day where I'm just kind of like veg 
+2  
+02:33:57
+And you're more tired probably on those days, huh? 
+0  
+02:33:59
+Yeah. Just let myself reset. Yeah. It was actually in my list of questions to ask you about Resetting, going into kind of a state of worklessness and just letting things just spool out for an hour. Like not, I love not trying to control anything. Not trying to control anything in the universe. Yeah. Except, you know, basic functions, right? 
+2  
+02:34:18
+Yeah. Cook, cook, cooking shows, prank reels, 
+0  
+02:34:23
+These are yours. 
+2  
+02:34:23
+These are, these are mine. And like I am, you know, we often take for granted too that the, the TV in front of us is a, is another emotion regulation device. Right. And actually people who are creating programs are deliberately trying to push your emotions in particular directions from the score that accompanies movies and news and the news. So I don't want my emotions being shifted in a direction that is contrary to my goals Right. Before I go to bed, I am at a typically high velocity level throughout the day, starting with physical stuff and exercise to the cognitive stuff and the, the politicking and the science talks and all that stuff. 
+2  
+02:35:05
+When I'm finally done going through my email at night, I want like a good hour of just total mindless vegetation and it puts me in a wonderfully serene state to then slide into bed, jump into that Mental Time Travel machine, like do the fantasizing or savoring and then puts me to sleep. And so, you know, I really value technology there for, for helping me do that. And I think that is the counterpoint to having this high velocity kind of experience. I will often, when I teach, like sometimes I'll teach for like three hours and so it's, you know, equivalent to what we're doing right now. It is so unbelievably engaging and rewarding and like, this is why I got into this business. 
+2  
+02:35:48
+You are, you're, you know, you're having great conversations and you're hopefully like changing the way people think about things. Getting them to discover interests, all that good stuff. Couple hours later when I come home, first of all, I need a little refractory period to switch out of work life into home life, which can often be challenging on the personal front. 'cause like my kids are just waiting there. Well, my youngest kid is waiting there. My oldest kid is now in her room doing her own thing, but they wanna play right away. And I, I need some time just to decompress, but then once I do, I've gotta lean further into that state. And so that's, that is shifting and understanding how to shift. 
+2  
+02:36:28
+That's a different kind of shift. But it is all about shifting our states to meet our goals and trying to understand how to do that well. And I think that is the subtext to everything that we are talking about here. 
+0  
+02:36:43
+Yeah. It's such an important aspect of life. And I do think that everyone would do well to ev evaluate for themselves how quickly, well, not, well, you know, we're not trying to place a grade on it, but how quickly or slowly one transitions into and out of state. Yeah. How much are, how much of your thoughts and emotions and experience you're carrying forward from one context to the next. I think about that a lot. And, and I, it's something that I, I try and work with a lot, especially, you know, arriving home and there's people at home and you, you wanna engage in a particular 
+2  
+02:37:14
+Way, you know, and there there's actually a framework to help people do this. That, that I really like. And it's interesting because you mentioned the military earlier and there's a, a wonderful corollary, and it's, I haven't experienced this too often in, in my life where I see something in science that scaffolds onto an a, a practice that another organization, in this case the military implements to help people, number one, identify what are their, in the context of what we're talking about, what are their emotion regulation goals? What are their shifting goals? And how do you go from having those goals to bringing them to fruition? 
+2  
+02:37:55
+And so, so in the military, like special forces, before they have complex, complicated operations, they will often first think about, okay, what, what's our goal? What's the outcome we hope to achieve? Then what are the obstacles that we can anticipate that might undermine our ability to achieve that goal? And they'll go around the room and, you know, the, the person in charge will like cold call Socratic style on folks. Like what is the, the potential obstacle. And then for every obstacle that they identify, they come up with a very specific, if this happens, then we will do this. And they have multiple if then plans for each of those different obstacles. 
+2  
+02:38:37
+So if we go back to the research landscape, there's a technique called whoop, have you ever ever heard of this? Okay. So it's, whoops, an acronym, and I promise you I wouldn't use any acronyms, but this is a useful one to rem it's a mnemonic to remember something. So how do you go from knowing to doing Whoop is designed to help you do that. Because what is explicitly designed to do is target each of the, the places where Goal Pursuit often breaks down. Step one, what's your wish? What's the thing you hope to accomplish? Let's be really clear about what that goal is. We often don't start to even think about what our specific concrete goals are. 
+2  
+02:39:20
+Okay. Now that we have that, that goal, let's, let's give ourselves some opportunity to energize. What is the outcome we hope to achieve if we fulfill that goal. And what that's doing is like giving us this motivation now really energizing us to pursue it even further. Okay, we've got the outcome, but now let's get, let's get realistic. What are the obstacles? What are the internal obstacles that might prevent me from achieving those goals? Right? So that's something my wish is to, to to be more present with my family after work. The outcome that I hope to achieve is to, is to be a better father, a better husband to have a, a, a richer social life in those regards. 
+2  
+02:40:02
+Now what are the obstacles? Okay, internal obstacles. I got plenty, right? Like the temptation to check my email and get to inbox zero before the night is done, or I love my science and I also want to do some of that work. Or maybe I'm gonna get distracted by friends who call. All of those things are obstacles that might get in the way of me achieving the goal of being more present with my family. Now, the final step, let me come up with an if then plan. If I'm tempted to check my email after seven or eight, then I'm gonna remind myself about how important it is to, to be a dad. 
+2  
+02:40:42
+So I'll do a little reframing. If, if someone calls after 9:00 PM and I'm engaging in activity with, with my kids, then I'm gonna politely decline. And you can imagine coming up with all sorts of plans for different levels of sophistication. What those, if then plans do is they, they, they try to make a motion regulation automatic because they identify a specific trigger. If that's the, if, if this happens and then they pair that trigger with a response. If then, if then you rehearse that and this way when the trigger occurs, boom, you don't have to stop and think, what should I do? How should I behave? You've got the plan and you implement it. 
+2  
+02:41:23
+I've got, if then plans for Chatter, if the Chatter strikes, then I do distant self-talk and Mental Time Travel. If the Chatter is too overwhelming and those two tools don't work, then I go to nature and I go to my Chatter advisors. And so I have these if then plans that are linked up with my goals. And that's a, an important technology that I think we can, we can invite people to try to exercise in their own lives to make it more likely that they will achieve their regulatory goals. 
+0  
+02:41:55
+I love it. So whoop spelled WOOP, the W if I have this correct is what's the goal? What's 
+2  
+02:42:03
+Your wish? 
+0  
+02:42:04
+What's your wish? The first O is the opportunity to energize yourself around achieving that wish. AKA motivation. 
+2  
+02:42:13
+That's right. What's the outcome you hope to achieve? Yep. Great. 
+0  
+02:42:16
+Okay. Even better. 'cause of what you said was shorter, the, the first O is what's the outcome you hope to achieve? The second, oh, what are the obstacles you can anticipate? 
+2  
+02:42:26
+That's right. And in the research space, it's mostly been personal obstacles, but you can generalize out as you know, the Navy seals do as an example. That's the branch of the military I was referring to that essentially uses a similar kind of framework to, now you have me self-conscious about using the word optimize to optimize the way they respond to missions and challenges. This is what they, so they're not only dealing with internal obstacles obviously, but also ones from the world around them. Don't 
+0  
+02:42:58
+Worry about using the word optimize. You did it optimally and we'll soon squelch any pejorative around optimize during this episode. And then the P in whoop is the plan an if then plan. That's right. So it's not a vague plan, it's a very specific plan so that you know exactly which strategies and steps to implement should A occur, B occur, C occur. 
+2  
+02:43:20
+That's right. And so it's a general, general framework, which is in part is I think why it has so, so much value. And there's research behind this showing it can help people achieve various kinds of goals. Now there of course will be many situations that you have not developed, whoops for. And that's okay because you're gonna have all of these other tools in your toolbox to manage those situations on the fly when they occur. But then once you encounter new situations and you discover what tools are effective, then you learn, you create your whoop. And then you could become more strategic, automatic and effortless with how you engage them down the road. 
+0  
+02:43:59
+Earlier you mentioned attentional spotlights, and I'm fascinated by this. I know that most people hear that we can't multitask, but primates again, of which we are old wor old world primates in particular can do covert attention. If I were not completely focused on you, I could focus an attentional spotlight on you and your voice and pay attention to you. But I could also monitor components of the room. Yeah. I can merge those spotlights. I can divorce those spotlights. That's right. But it's very hard to generate three kind of compatible attentional spotlights at once. It seems like we kinda have two. Yeah, maybe some people can manage three, but I'm betting most people can't manage more than three. 
+2  
+02:44:40
+Well, and I think it becomes especially difficult to manage even one when you're experiencing an emotional episode that is essentially hijacking your attention. And attention's really important to talk about for a few reasons. So number one, as a species we have the most sophisticated attention deploy deployment system on the planet, right? We have the ability to strategically deploy our attention so we can, we can woefully place it on the things we want or yank it away from the things we don't want. Or we can go, we can secco our attention back and forth. When it comes to emotion, though, we are often taught certain maxims about how to deploy our attention. 
+2  
+02:45:24
+That I think can sometimes be problematic because they fall into the category of prescriptive advice about magic pills. So often we hear, for example, that when it comes to Chatter or really big emotions, things that you're anxious about or fearful, you should not avoid the problem, you should focus on it. And there's been a lot of research on this. And what we have learned is, on the one hand, chronically avoiding things is not good. It's associated with all sorts of negative outcomes for our emotional lives and beyond our physical lives too, our health. But oftentimes the, the signature for adaptively coping with emotional curve balls is being able to focus on the problem at hand, deploy your attention elsewhere, take a break, and then come back to it. 
+2  
+02:46:17
+And so this was a question actually I learned from my grandmother. Inadvertently. My grandmother was this very interesting woman who grew up in, in Poland during World War ii, had her entire family slaughtered during the war. One of these kind of devastating experiences, lived in the forest for years, back and forth, all this terrible stuff. Family massacred and so forth. And growing up, she made it out of the war, moved to the states. I remember being just so exceptionally curious about what she experienced and how she was able to overcome it. And whenever I would ask her questions about this she would als she would always say, you know, don't ask me why or what happened. 
+2  
+02:47:00
+Why is a crooked letter? That was a phrase she would use, which was really interesting. 'cause she didn't speak English very well at all, heavily accented language. But she had mastered this curious id idiom, right? Like, why is a crooked letter? In other words, nothing good comes from dredging up the past or really trying to understand things. Your life is awesome. You're in a safe place. You have a loving family, just enjoy life. So she's trying to shelter me. So she, for most of the, the time that I would know her during the year, she would never focus on this horrific event that she experienced, except one day a year there would be this, this remembrance day. 
+2  
+02:47:42
+And we'd all pile into a, a synagogue and we'd talk about, or I would listen to them talk about their experiences and the emotions would, would come, come out. So she would dose her exposure to, to the emotional information. Turns out what she was doing is she was being strategic and how she deployed her attention, she was focusing on the emotional issue at times when it was productive for her. But at other times when it didn't serve her well, she occupied her attention with other kinds of thoughts and experiences. And a large literature is now beginning to emerge, which shows that this capacity to be flexible in how we wield our attention when it comes to sources of emotional struggles can be a really, really useful asset. 
+2  
+02:48:30
+And so I think it's important to remind folks that these blunt prescriptions to like always approach a thing, a problem, or always avoid it, they aren't always true. And that often the, the magic that surrounds emotion regulation, I mean the magic not supernaturally, but the beauty surrounding it is in being really facile in how we can deploy our attention. 
+0  
+02:48:53
+Really appreciate you sharing that personal anecdote. I've long struggled with the fact that so many of the sayings that were fed, like, you know, absence makes the heart grow fonder. Well, yeah. Well, I also heard out of sight out of mind, so which one is it? That's right. You know, and, and that's why eventually I became a scientist. That's right. Because, you know, it's both right. And you know, and you can see this in the fields of nutrition and exercise. I mean, there are certain core truths and I think the goal is always to get to those core truths. Yeah. And then there's some flexibility around those truths. Yeah. There's margins of error. I, I love what she shared, you know, why is a, is a, is a crooked letter. It reminds me of the, the Bob Dylan. 
+0  
+02:49:34
+Like, don't look back. Yeah. I mean it's an, these are profound questions. Yeah. Right? Like, how much of our consciousness should we use to enforce that? We don't spend time thinking about the past and, and therefore miss out on the present and creating a, a best possible future. Yeah. And yet we don't want elements from the past to kind of, you know, ferret into our psyche and then show up in ways that are destructive. Yeah. So it's, it's a, it's a complicated dance. Oh, 
+2  
+02:49:59
+It's, I mean, our emotional lives are anything but straightforward. But we, we do have guideposts to steer us in how we deploy our attention. And so, so a couple of common heuristics that I, that I I like to use and describe to folks is, so let's say something bad happens and you divert your attention away, you distract with a positive Distraction, not a harmful Distraction. And then the problem doesn't resurface keep going. Like you don't have to go back in time. There's actually, I experienced some friction sometimes with my dad around in this issue. So my parents were divorced and, you know, I dealt with the baggage surrounding that experience earlier in my life. 
+2  
+02:50:45
+And when I think about it now, I don't get upset. Like, I understand why it happened. I love both of my parents. I've moved on, I'm well adjusted, but my dad likes to talk about this a lot whenever we speak. And he, you know, will often bring it up. And when he does, I'm like, well, we don't have to talk about, I'm actually totally fine. This isn't a source of ongoing distress. Sometimes we're able to make sense of what has happened to us and move on with our lives. And when that happens, you know, that's our, our, our cognitive machinery operating really, really well. We don't have to go back and revisit every single thing. If on the other hand, we are trying to get a mental break, we're distracting and we find thoughts about these experiences continually intruding into our awareness and being distracting, that is then a cue. 
+2  
+02:51:36
+Okay, well let's focus in on it. And then once you focus in on it, of course there are multiple ways you can engage with that experience. Sometimes just bathing yourself in the emotional pain can be useful for facilitating a kind of what we would call habitation. So getting used to the discomfort and realizing it's not so bad to be in the presence of those negative thoughts. Maybe you wanna reframe how you think about the circumstance. And we have wonderful cognitive apparatus to help us reframe things. We can look at it from different perspectives. We can focus on the silver lining, we can contextualize it. So you have lots of tools to engage with things once you refocus, but you don't always need to refocus on the problem. 
+2  
+02:52:19
+So you want to be flexible. Flexibility in how you deploy your attention is really the mantra that, that I personally live by, based on what I know of how all of this works. There are a couple of caveats I want to throw out there when I'm talking about Distraction and, and avoid, I'm talking about healthy distractions, healthy Avoidance. There are unhealthier forms of Avoidance that we know definitively are, are, are not productive, like substance abuse. We also know that if you adopt a blunt rule of always just chronically avoiding not good, so you want to be balanced, 
+0  
+02:52:59
+Could we add to the list of tools for Avoidance that tend to be unhealthy? And this isn't one that I default to, but I know someone that told me that she used to default into overconsumption of, of story, like of of, of audio books. Not that audio books are bad, but you know, of fiction audio books and just kind of when, when there was a problem rather than dealing with the problem, you know, overindulgence in, in narratives that would just kind of consume the mind. I guess any behavior where we're not dealing with the, the kind of itch that we probably need to scratch at least for a short while Yeah. Is probably gonna be maladaptive in the long run. 
+2  
+02:53:37
+Yeah. I mean, if the problem keeps, like you wanna be, you wanna listen to what your mind and body are, are telling you. And so if you find that the problem keeps resurfacing, that's a cue you need to engage and deal with it. But a lot of the, the experiences we have on a daily basis, which may not be positive, negative experiences as time moves on, sometimes that's all we need to keep going with our lives. And we do see in the literature that when you impose a particular view on folks, like you have to do it this way, that tends not to work out very well. 
+0  
+02:54:15
+Most of what we've been discussing today is one's emotional life and experience and Chatter and inner narratives with oneself and their environment, technology, nature, and to some extent relationships. But one powerful aspect of emotions that I think a lot of people wonder about and frankly participate in is this notion of Emotional Contagion. Yeah. Both positive and negative. I think of like us you mentioned football, football's being in Michigan, right? Oh yeah. I remember from the movie The Big Chill. They like actually go out and play like that. I think they were all alum of, of University of Michigan. So it's, it's 
+2  
+02:54:51
+It's a religion in, in the city that I live in. That's right. 
+0  
+02:54:54
+Is it? Right. Yeah. Okay. And how many people go to one of these games? 
+2  
+02:54:59
+So we actually, it's called the big house, actually the largest football stadium in, in the country. So close to 110,000. Whoa. 
+0  
+02:55:06
+Yeah. That's 
+2  
+02:55:07
+A lot of people. It's, it's a lot of people. And we sing in unison and it's actually, I I never really was into football before moving Ann Arbor. And now I embrace it. It helps when you're the national championships, which we were champions, which you were last year. 
+0  
+02:55:23
+Congratulations. 
+2  
+02:55:24
+We're working, we're working on it this year. 
+0  
+02:55:26
+Cool. Maybe sometime I'll go to a game. Yeah. I'm, I'm not a, I don't dislike football. I like football. I, I've, I don't think I've ever been to a, to a professional football game. 
+2  
+02:55:34
+You should, we should definitely have you out there. It is a load of fun. Okay, 
+0  
+02:55:38
+I'll, I'll skip one game of the globe trotter season to, to go to Michigan, A Michigan game. Emotional Contagion occurs in football stadiums, it occurs in digesting news. We just had an election, so a lot of Emotional Contagion and essentially opposite directions post election. Yeah. And on and on. What do we know about Emotional Contagion? It makes sense to me why we, we would be so prone to it, but where are the, the, the sort of rumble strips, so to speak, and the ditch on Emotional Contagion. Yeah, that's a driving analogy. The rumble strips are the go, go, go, go, go. 
+0  
+02:56:19
+That when you start to drift towards the ditch. Yeah. You know, obviously the ditch is losing control in the negative direction, maladaptive direction, but like, how can we start to identify the, the rumble strips in, in Emotional Contagion? 
+2  
+02:56:31
+Yeah. So Emotional Contagion is a very powerful phenomenon. Emotions can spread within seconds. They tend to, we tend to catch emotions more quickly when we're not sure of how we should be thinking or feeling in a particular situation. So we often are referencing other people in those instances as a source of information. The people around us, of course, are a rich source of information. This is also why we compare ourselves to other people so frequently. Right. We're trying to learn something about how to respond. And we know it can have these cascading effects both in everyday life, in both a positive and the negative direction. 
+2  
+02:57:13
+But also, you know, in, in, in, in the digital world, we see these emotions that can spread really fast too. So it's a, it's a very powerful phenomenon. It's what I'm often very attentive to when I come into the classroom. Like you're trying to, you tend to not want to have a negative mood spread through an audience when you are teaching to them. And so you're sensitive to that kind of certain kinds of displays or tones that might convey that kind of emotional response. And I think it's something that we need to be increasingly aware of, especially when we're working in, in any kind of group context. 
+2  
+02:57:52
+Like when you're working on a team, it is really important to keep the team at the level of emotional tone that you feel if you're the leader or even a a just a member of this team that is committed to it, you wanna keep that tone at the most productive level because if it dips below or above that can sabotage how, how well you perform. And there's a lot of research on that, 
+0  
+02:58:20
+Both from directing my laboratory for a good number of years, and from teaching and from certainly the podcast, which is a small team of seven of us. I'm familiar with what you just described. And also from being a camp counselor, that's probably where I learned it being a summer camp counselor when I was in college. Yeah. That if you get two or three kids that are like really pissed off about what you have to do over the next couple of hours, oh, it can send everything south 
+2  
+02:58:48
+And you have to nip that in the bud right away. Yeah. You have to repair that immediate, and I'm, I'm very, very attentive to this when I am in group context, especially when I'm leading those groups, those teams, those labs, like really making sure that that kind of negative mojo does not, does not spread. 
+0  
+02:59:06
+Do you think nowadays on university campuses there's a more of a tendency for students to raise their hands and say like, let's spark an issue. And I'll just preface this by saying a, a guy that I worked for as an undergraduate, a physiologist, he told me that when he was teaching during the Vietnam War era, he would be in the middle of a lecture about cold thermogenesis, physiology, his area of expertise. And someone would just stand up and say, what about the war in Vietnam? And I remember him telling me that story. I thought, that's outrageous. Like really? He said, oh yeah. All the time. And you would have to stop. Yeah. And have to acknowledge it and let them have their expression. I thought, well that's wild. 
+0  
+02:59:47
+Now we are, we're living in times when Yeah. That's not all that unusual in the university classroom and on campuses, so, and online. Yeah. So, you know, it was interesting that that previous example from the 1960s s it's 
+2  
+03:00:01
+Now 
+0  
+03:00:01
+Relevant now very relevant again. So do we let people emote or, you know, as a summer camp counselor, someone pulled me aside and said, you know, these kids have a lot of energy. My only advice is be a channel, not a dam. Yeah. Something that I never forgot. Yeah. It's very useful in other areas of life too. Yeah. Be a channel, not a dam. Yeah. So how do you be a channel, not a dam, when people are having, really having the need to externalize negative stuff and it holds the potential for, for Emotional Contagion? 
+2  
+03:00:34
+Well, you know, I, I haven't experience firsthand the phenomenon that you're describing in the classroom, but obviously a lot of my colleagues have, and we see this playing out on lots of universities. These are very turbulent times. Turbulence activates emotion. And we know, going back to an earlier part of our conversation, when people experience strong emotions, are often motivated to share those emotions with other people. That often takes the form of vocalizing them. And that can elicit contagion throughout. And so now we're beginning to actually understand how the emotional processes are, are making their way through people, groups and societies. What should you do in those circumstances? 
+2  
+03:01:16
+Well, I think it depends a lot on, on the context and, and what the nature of the emotional response is. And are there, you know, is the emotion becoming really counterproductive or harmful? And, you know, there are differing views about when you should intervene and how to do it. I think in general though, you bring the, the playbook of always wanting to kind of validate, like your emotional experience is a genuine response that you are having to the situation. In, in most cases, yes, we can try to purposefully experience an emotion in a duplicitous way, but I think in a lot of cases the kinds of phenomenon we're talking about, like these are just honest emotional reactions. 
+2  
+03:02:04
+These are really difficult times. And I think trying to understand where those emotions are coming from is often a really great first step. I mentioned to you before we started talking that I, I had a, this wonderful conflict mediator come to one of my classes recently to talk about how do you not just engage with emotional groups, but how do you engage with emotional groups at the same time that are having emotions because of one another? And the approach that she has found to be, be very successful in her career as a mediator is to ask folks to train them, not to enter conversations, to try to change each other's minds, but to enter those conversations with a, a state of humility and curiosity and genuine interest. 
+2  
+03:02:54
+And in first and foremost, trying to just understand the other group's position. I haven't done that myself, but it, it, it strikes me as a, as a pretty viable approach to a first step to having conversations about difficult issues. And, you know, it, it makes me think about how in the lab we often define wisdom. So wisdom is this concept of, it indexes how well you are able to deal with social situations involving uncertainty. Like we don't know how these social situations are gonna play out and wise individuals are skillful in navigating those circumstances. 
+2  
+03:03:36
+How do you define wisdom? What are its features? Well, a few of its core features are humility, recognizing that I don't know everything. A commitment to perspective taking, putting myself in the other person's shoes, dialectic, recognizing that the world is constantly in flux and circumstances are changing and we need to be aware of that. And then also a general orientation towards the social good, like doing good in the world. And it strikes me that entering these difficult situations with that kind of mindset is potentially productive for, for bridging divides. 
+0  
+03:04:15
+I love that. And what an appropriate area for us to round up in. I think that right now, clearly things are, are tense, but what you've talked about today, and at least from what I understand of how the human mind works and in and around emotions our own and observing others and potentially contagion, is that these tools can really help us do better. That they're not just research papers, they are implementable chunks of knowledge. And in some cases, such as what you've discussed today, real gems. So for that reason and for taking the time out of your research schedule, I mean, you're, you're a researcher, a teacher, your dad, you're husband, you do many things. 
+0  
+03:04:58
+You make it to football games somehow also into the gym where you don't drop dumbbells on people's faces intentionally. I do not because you realize the dire consequences. You, you're just doing a ton of amazing work in the world. I'd heard about and read Chatter some time ago and yeah, I just think it's, it's incredible what you, what you brought to people's attention that has always, no pun intended, been on and in their minds. Yeah. You know, I, and I am sure there are others in your field, but I want to specifically thank you on behalf of myself and everyone listening and watching for paying so much careful research, attention and public education, attention to this thing that we call Chatter and the Inner Voice and emotion regulation, because this is really what makes up our lives. 
+0  
+03:05:43
+It's as important in my mind, certainly as cardiovascular health or any other aspect of mental or physical health. So on behalf of myself and everyone listening and watching, thank you so much. Please come back again because your research is evolving. We'd love to hear about the next steps. We'll definitely provide links to your work and to the upcoming book, which comes out in February of 2025. Do you wanna tell us the title of the book? 
+2  
+03:06:06
+That's right. It's called Shift Managing Your Emotions So They Don't Manage You. 
+0  
+03:06:11
+Great. And it presumably it's available for presale now or soon? Yeah. 
+2  
+03:06:14
+Okay. Yeah. It's, it's available and it is, it is essentially designed, it is written to, to kind of just open the, open the book on what emotions are, what we often get wrong about them, and what are the tools that we have to reign them in. And you know, my hope is that it addresses this big problem that I think we've been facing for a while. Just how to wrangle these emotions that sometimes get the best of us. 
+0  
+03:06:40
+Great. Well, I am personally gonna order us a copy by presale. I insist on that. I don't take free copies. I, I, I buy books because I'm a believer in books. So thank you for writing shift and come back and talk to us again. 
+2  
+03:06:53
+Well, thanks for having me. It was an incredible conversation, so I appreciate it. 
+0  
+03:06:56
+I feel the same way. Thank you so much. Thank you. Thank you for joining me for today's discussion with Dr. Ethan Cross. I hope you found it to be as informative and as actionable as I did to learn more about Dr. Cross's work and to find links to his previous book Chatter, as well as his forthcoming book shift, managing Your Emotions, so they do not manage You. Please see the show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. Please also click the follow button for the Huberman Lab podcast on both Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review. Please also check out the Sponsors mentioned at the beginning and throughout today's episode. 
+0  
+03:07:37
+That's the best way to support this podcast. And if you have questions for me or comments about the podcast or you have topics or guests you'd like me to consider for the Huberman Lab podcast, please put those in the comments section on YouTube. I do read all the comments, and if you're not already following me on Social Media, I'm Huberman Lab on all Social Media platforms, so that's Instagram X, formerly known as Twitter, Facebook, LinkedIn, and Threads. And on all those platforms, I discuss science and science related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content on the Huberman Lab podcast. Again, that's Huberman Lab on all Social Media platforms. And if you haven't already subscribed to our Neural Network Newsletter, the Neural Network Newsletter is a zero cost monthly newsletter that includes everything from podcast summaries to Protocols in the form of brief one to three page PDFs. 
+0  
+03:08:26
+So these are Protocols that describe the essential steps to take, for instance, to optimize your sleep, to improve your dopamine regulation for deliberate cold exposure, deliberate heat exposure, all of which is available completely zero cost. You simply go to Huberman Lab dot com, go to the menu tab in the corner, scroll down to newsletter, and provide your email. And I should point out that we do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Ethan Cross. And last, but certainly not least, thank you for your interest in science.

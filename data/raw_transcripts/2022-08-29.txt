@@ -1,0 +1,740 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. Erich Jarvis: The Neuroscience of Speech, Language & Music
+Published: 8/29/2022
+9/10/2022 - 1h 54m 20s
+ - 
+US
+Downloaded:
+(in RSS feed: 1h 51m 35s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman lab podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford school of medicine. Today. My guest is Dr. Eric Jarvis. Dr. Jarvis is a professor at the Rockefeller university in New York city and his laboratory studies, the neurobiology of vocal learning language, speech disorders, and remarkably the relationship between language, music and movement in particular dance. His work spans from genomics. So the very genes that make up our genome and the genomes of other species that speak and have language such as songbirds and parrots all the way up to neural circuits. 
+0  
+00:00:48
+That is the connections in the brain and body that govern our ability to learn and generate specific sounds and movements coordinated with those sounds, including hand movements and all the way up to cognition. That is our ability to think in specific ways, based on what we are saying and the way that we comprehend, what other people are saying, singing and doing. As you'll soon. See, I was immediately transfixed and absolutely enchanted by Dr. Jarvis's description of his work and the ways that it impacts all the various aspects of our lives. For instance, I learned from Dr. Jarvis that as we read, we are generating very low levels of motor activity in our throat. 
+0  
+00:01:31
+That is, we are speaking the words that we are reading at a level below the perception of sound or our own perception of those words. But if one were to put an amplifier or to measure the firing of those muscles in our vocal chords, we'd find that as we're reading information, we are actually speaking that information. And as I learned, and you'll soon learn, there's a direct link between those species in the world that have song and movement, which many of us would associate with dance and our ability to learn and generate complex language. So for people with speech disorders like stutter, or for people who are interested in multiple language, learning, bilingual trilingual, et cetera, and frankly for anyone who is interested in how we communicate through words written or spoken, I'm certain today's episode is going to be an especially interesting and important one for you. 
+0  
+00:02:22
+Dr. Jarvis's work is so pioneering that he has been awarded truly countless awards. I'm not gonna take our time to list off all the various important awards that he's received, but I should point out that in addition to being a decorated professor at the Rockefeller university, he is also an investigator with the Howard Hughes medical Institute, the so called H H I, and for those of you that don't know, H H M I investigators are selected on an extremely competitive basis that they have to re-up that is they have to recompete every five years. They actually receive a grade every five years that dictates whether or not they are no longer a Howard Hughes investigator or whether or not they can advance to another five years of funding for their important research. 
+0  
+00:03:05
+And indeed Howard Hughes investigators are selected not just for the rigor of their work, but for their pioneering spirit and their ability to take on high risk, high benefit work, which is exactly the kind of work that Dr. Jarvis has been providing for decades. Now, again, I think today's episode is one of the more unique and special episodes that we've had on the Huberman lab podcast. I single it out because it really spans from the basic to the applied and Dr. Jarvis's story is an especially unique one in terms of how he arrived at becoming a neurobiologist. So for those of you that are interested in personal journey and personal story, Dr. Jarvis's is truly a special and important one. 
+Momentous (Ad)  
+00:03:42
+I'm pleased to announce that the Huberman lab podcast is now partnered with momenta supplements. We partnered with momenta for several important reasons. First of all, they ship internationally because we know that many of you are located outside of the United States. Second of all, and perhaps most important, the quality of their supplements is second to none, both in terms of purity and precision of the amounts of the ingredients. Third we've really emphasized supplements that are single ingredient supplements, and that are supplied in dosages that allow you to build a supplementation protocol. That's optimized for cost that's optimized for effectiveness, and that you can add things and remove things from your protocol in a way that's really systematic and scientific. If you'd like to see the supplements that we've partnered with momentous on, you can go to live momentous.com/huberman there, you'll see those supplements. And just keep in mind that we are constantly expanding the library of supplements available through momentous on a regular basis. Again, that's live momentous.com/huberman. 
+0  
+00:04:36
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public in keeping with that theme, I'd like to thank the sponsors of today's podcast. 
+Inside Tracker (Ad)  
+00:04:52
+Our first sponsor is inside tracker. Inside tracker is a personalized nutrition platform that analyzes data from your blood and DNA to help you better meet your immediate and long-term health goals. I've long been a believer in getting regular blood work done for the simple reason that many of the factors that impact your immediate and long-term health can only be it analyzed from a quality blood test. And nowadays with the advent and modern DNA test, you can also get insight into, for example, what your biological age is and compare that to your chronological age, the problem with a lot of DNA tests and blood tests, however, is you get information back about metabolic factors, lipids, and hormones, and so forth, but you don't know what to do with, or about that information inside tracker solves that problem with a simple platform that allows you to click on any specific factor, learn more about it and what it does in your brain and body, and also the various nutritional supplementation and other types of interventions. You can take to bring the levels of that factor into the ranges that are optimal for you and your health. If you'd like to try inside tracker, you can go to inside tracker.com/huberman to get 20% off any of inside tracker's plans. That's inside tracker.com/huberman to get 20% off 
+ROKA (Ad)  
+00:05:59
+today's episode is also brought to us by Roka. Roka makes eyeglasses and sunglasses that are the absolute highest quality. They also have some really unique features that make them especially attractive from the standpoint of aesthetics and performance, the company was founded by two, all American swimmers from Stanford and everything about their eyeglasses and sunglasses were designed with performance in mind. Initially, the eyeglasses and sunglasses were designed for sport that is for running and for cycling, et cetera. And indeed still their eyeglasses and sunglasses are very lightweight and they won't slip off your face if you get sweaty, but they also have a terrific aesthetic. You can wear them to work. You can wear them out to eat. I wear readers at night when I work, or if I drive and I wear sunglasses sometimes during the middle of the day, if it's too bright and I need sunglasses in order to see if you'd like to try Roka, eyeglasses, or sunglasses, you can go to Roka that's R k.com and enter the code Huberman to save 20% off your first order. 
+LMNT (Ad)  
+00:06:51
+Again, that's R O k.com and enter the code Huberman at checkout today's episode is also brought to us by element element is an electrolyte drink that has everything you need and nothing you don't meaning no sugar, but plenty of the correct ratios of sodium magnesium and potassium, and those three electrolytes sodium, magnesium, and potassium are critical for your neuron, your nerve cell function, and for the function of all the cells in your brain and body. I've mentioned this before on the podcast, but I'm a fan of salt, not taking too much salt, but certainly not getting too little salt element has 1000 milligrams. That is one gram of salt, which might sound like a lot of salt. But for many people, especially people who are following low carbohydrate diets or who are exercising or sweating a lot, or both that level of salt can actually help you in many circumstances, getting the appropriate level of salt, and certainly the appropriate levels of electrolytes will improve your cognitive function and will improve your physical performance. If you'd like to try element, you can go to drink element that's L M N t.com/huberman, and you'll get a free sample pack with your order. That's drink L M nt.com/huberman. 
+0  
+00:07:58
+And now for my discussion with Dr. Eric Jarvis, Eric, it's so great to have you here. 
+2  
+00:08:03
+Thank you. Yeah. 
+0  
+00:08:05
+Very interested in learning from you about speech and language. And even as I ask the question, I realize that a lot of people, including myself, probably don't fully appreciate the distinction between speech and language, right? Speech. I think of as the motor patterns, the, the production of sound that has meaning hopefully, and language of course comes in various languages and varieties of, of ways of communicating, but in terms of the study of speech and language, and thinking about how the brain organizes speech and language, what are the similarities? What are the differences? How should we think about speech and language? 
+2  
+00:08:43
+Yeah. Well, I'm glad you, you know, inviting me here. And I'm also glad to get that first question, which I couldn't consider a provocative one. The reason why I've been, been struggling, what is the difference with speech and language for many years and realize why am I struggling? Is because there are behavioral terms, let's call 'em psychologically psychology developed kind of terms that don't actually align exactly with brain function, right? And the question is there a distinction between speech and language. And when I look at the brain of work that other people have done work, we have done also comparative with animal models, like those who can imitate sounds like parrots and songbirds. 
+2  
+00:09:25
+I start to see there really, isn't such a sharp distinction. So, so to get at what I think is going on, let me tell you how some people think of it. Now that there's a separate language module in the brain that has all the algorithms and computations that influence the speech pathway on how to produce sound and the auditory pathway on how to perceive and interpret it for speech or for, you know, sound that we call speech. And it turns out, I don't think there is any good evidence for a separate language module. Instead, there is a speech production pathway that's controlling our larynx, controlling our jaw muscles that has built within it all the complex algorithms for spoken language. 
+2  
+00:10:16
+And there's the auditory pathway that has built within it, all the complex algorithms for understanding speech, not separate from a language module. And this speech production pathway is specialized to humans and parrots and songbirds. Whereas this auditory perception pathway is more ubiquitous amongst the animal kingdom. And this is why dogs can understand, sit, siente say, come here, ball boy, get the ball. And so forth. Dogs can understand several hundred human speech words, great aids. You can teach them for several thousand, but they can't say a word 
+0  
+00:10:53
+Fascinating because you've raised a number of animal species early on here. And because I have a, basically an obsession with animals since the time I was very small, I have to ask which animals have language, which animals have modes of communication that are sort of like language. Yeah. You know, I've heard whale songs. I don't know what they're saying. They sound very beautiful, but they could be insulting each other for all I know. Yeah. And they very well maybe dolphins, birds. I mean, they, what do we understand about modes of communication that are like language, but might not be what would classically be called 
+2  
+00:11:36
+Language? Yes. Right. So, so modes of communication that people would define as language more, very, in a very narrow definition, they would say production of sound. So speech, but what about the HNS de gesturing with the hands? What about a bird who is doing aerial displays in the air, communicating information through body language? Right. Well, I'm gonna go back to the brain. So what I think is going on is for spoken language, we're using the speech pathway in all the complex algorithms there next to the brain regions that are controlling, spoken language are the brain regions for gesturing with the hands. 
+2  
+00:12:19
+And that hand parallel pathway has also complex algorithms that we can utilize. And some species are more advanced in these circuits, whether it's sound or gesturing with hands and some or less advanced. Now we humans. And a few others are the most advanced for the speech sounds or the, or the spoken language, but a non-human primate can produce gesturing in a more advanced form than they could produce sound. I'm not sure I got that across clearly, just to say that humans are the most advanced at spoken language, but not necessarily as big a difference at gestural language compared to some of the species, 
+0  
+00:13:03
+Very clear and very interesting. And, and immediately prompts the question. Have there been brain imaging or other sorts of studies evaluating neural activity in the context of, you know, cultures and languages, at least that I associate with a lot of hand movement like Italian versus, I don't know, maybe you could give us some examples of cultures where language is not associated with, with as much overt hand movement. Yes. 
+2  
+00:13:30
+So as you and I are talking here today and people who are listening, but can't see us were actually gesturing with our hands as we talk without knowing it or doing it unconsciously. And if we were talking on a telephone, I would have one hand here and I'd be gesturing with the other hand without even you seeing me. Right. And so why is that some have argued and I would agree, but based upon what we've seen is that there's an evolutionary relationship between the brain pathways that control speech production and gesturing and, and the brain regions I mentioned are directly adjacent to each other. And why is that? I think that the brain pathways that control speech evolved outta the brain pathways that control body movement. 
+2  
+00:14:15
+All right. And that when you talk about Italian, French, English, and so forth, each one of those languages come with a learned set of gestures that you can communicate with now, how is that related to other animals? Well, cocoa or gorilla who is raised with humans for 39 years or more learned how to do gesture, communication learned how to sign language, so to speak, right? But Coco couldn't produce those sounds cocoa could understand them as well by SI by seeing somebody sign or hearing somebody produce speech, but cocoa couldn't produce it with her voice. 
+2  
+00:14:58
+And so what's going on there is that a number of species, not all of them, a number of species have motor pathways in the brain where you can do learn gesturing, rudimentary language. If you wanna say with your lens, even if it's not as advanced as humans, but they don't have this extra brain pathway for the sound. So they can't gesture with their voice in the way that they gesture with their hands. 
+0  
+00:15:23
+I see one thing that I've wondered about for a very long time is whether or not primitive emotions and primitive sounds are the early substrate of language and whether or not there's a bridge that we can draw between those in terms of just the basic respiration systems associated with different extreme feelings here. Here's the way I'm imagining this might work. When I smell something delicious, I typically inhale more and I might say, mm, or something like that. Whereas if I smell somethingr, I typically turn away, I wi and I will exhale. 
+0  
+00:16:05
+You know, so kind of like turn away, trying, not ingest those molecules or inhale those molecules. I could imagine that these are the basic dark and light contrasts of the, of the language system. And as I say that, I'm saying that from the orientation of a vision scientist who thinks of all visual images built up in a BA very basic way of a hierarchical map model of the ability to see dark and light. So I could imagine this kind of primitive to more sophisticated pyramid of, of sound to language. Is this a crazy idea? Do we have any, do we have any evidence? This is the way it works. 
+2  
+00:16:45
+No, it's not a crazy idea. And in fact, you hit upon one of the key distinctions in the field of research that I started out in, which is vocal learning research. So for vocal communication, you have most vertebrate species vocalize, but most of them are producing. Innate sounds that they're born with producing that is babies crying, for example, or dogs barking, and only a few species have learned vocal communication, the ability to imitate sounds. And that is what makes spoken language special. When people think of what's special about language, it's the learned vocalizations. 
+2  
+00:17:28
+It's the, what that is what's rare. And so this distinction between innateness and learned is more of a bigger dichotomy when it comes to vocalizations than for other behaviors in the animal kingdom. And when you go in the brain, you see it there as well. And so all the things you talked about, the breathing, the grunting and so forth, a lot of that is handled by the brain stem circuits, you know, right around the level of your neck and below like a reflex kind of thing. So, or, or even some emotional aspects of your behavior and the hypothalamus and so forth, but for a learned behavior, learning how to speak, learning how to play the piano, teaching a dog, to learn how to do tricks is using the four brain circuits. 
+2  
+00:18:18
+And what has happened is that there's a lot of four brain circuits that are controlling learning how to move body parts in these species, but not for the vocalizations, but in humans and impairs some other species. Somehow we acquired circuits where the four brain has taken over the brain stem and now using that brain stem, not only to produce the innate behaviors or vocal behaviors, but the learned ones as well, 
+0  
+00:18:43
+Do we have any sense of when modern or sophisticated language evolved? You know, thinking back to the species that we evolved from, and even within homo sapiens, have, has there been an evolution of language? Has there been a, a evolution of language? Yeah, 
+2  
+00:19:03
+Yeah, yeah. I, I would say, and, and to be able to answer that question, it does come with the caveat that I think we humans overrate ourselves when it compared to other species. And so it makes even scientists go astray in, in trying to hypothesize when you especially don't find fossil evidence of language that easily in, out there in terms of what happened in the past, we PRI PRI amongst the primates, which we humans belong to, we are the only ones that have this advanced vocal learning ability. Now, when you, it was assumed that it was only homo sapiens, then you can go back in time now based upon genomic data, not only of us living humans, but of the fossils that have been found for homo sapiens of Neanderthals of Dennis O individuals and discover that our ancestor, our human ancestors, supposedly hybridized with these other homage species. 
+2  
+00:20:10
+And it was assumed that these other homage species don't learn how to imitate sounds. I don't know of any species today. That's a vocal learner that can have children with a non-vocal learning species. I, I don't see it doesn't mean it didn't exist. And when we look at the genetic data from these ancestral homage that, you know, when we can look at genes that are involved in learn V communication, they have the same sequence as we humans do for genes that function in speech circuits. So I think Neanderthals had spoken language. I'm not gonna say it's as advanced as what it is in humans. I don't know, but I think it's been there for at least between 500,000 to a million years that our ancestors had this ability and that we've been coming more and more advanced with it culturally and pro possibly genetically. 
+2  
+00:21:04
+But I think it's evolved sometime in the last 500,000 to a million years. 
+0  
+00:21:07
+Incredible. Yeah. Maybe we could talk a little bit more about the overlap between brain circuits, that control language and speech and humans and other animals. Yeah. I was weaned in the, in the neuroscience era where bird song and the, the ability of birds to learn their tutor song was a, was, and still is a prominent field in subfield of neuroscience. And then of course, neuroimaging of humans speaking and learning, et cetera, and this notion of a critical period, a time in which languages learned more easily than it is later in life. And the names of the different brain areas were quite different. 
+0  
+00:21:50
+If one opens the textbooks, we hear Vergie and brokers for the humans. And you look at the birds of it. I remember, you know, 
+2  
+00:21:57
+H HPC, 
+0  
+00:21:58
+Robust arch stratum area that's X 
+2  
+00:22:00
+That's, right? 
+0  
+00:22:01
+Yes. Cetera. But for most of our listeners, that those names won't mean a whole lot, but, but in terms of homologies between areas in terms of function, what do we know and how similar or different are the brains brain areas, controlling speech and language in say a songbird and a, and a young child human child. 
+2  
+00:22:22
+Yeah. So, so going back to the 1950s or, and even a little earlier, and Peter Muller and others who got involved in neurotology the study of neurobiology of behavior in a natural way, right. You know, they start to find that behaviorally, there are these species of birds, like somber and parents. And now we also know hummingbirds, just three of them out of the 40 something bird groups out there on the planet orders that they can imitate sounds like we do. And so that was a similarity. In other words, they had this kind of behavior. That's more similar to us than chimpanzees have with us or than chickens have with them, right. They're closer relatives. 
+2  
+00:23:03
+And then they discovered even more similarities, these critical periods that if you remove a child, you know, this unfortunately happens where a child is feral and is not raised with human and goes through their puberty phase of growth, becomes hard for them to learn a language as an adult. So there's this critical period where you learn best. And even later on, when you're in regular society, it's hard to learn while the same birds undergo these same thing. And then it was discovered that if they become deaf, we humans become deaf. Our speech starts to deteriorate without any kind of therapy, if a non-human primate or, you know, or let's say a chicken becomes deaf, their vocalizations, don't deteriorate very little, at least while this happens in the vocal learning birds. 
+2  
+00:23:52
+So there were all these behavioral parallels that came along with a package, and then people looked into the brain, Fernando Nama, my former PhD advisor, and began to discover the area X, you talked about the robust nucleus of the AUM and, and these brain pathways were not found in the species who couldn't imitate. So there was a parallel here and then jumping many years later, you know, I started to dig down into these brain circuits to discover that these brain circuits have parallel functions with the brain circuits for humans, even though they're by a different name, like bros and Loren motor cortex. And most recently we discovered not only the actual circuitry and the connectivity are similar, but the underlying genes that are expressed in these brain regions in a specialized way, different from the rest of the brain are also similar between humans and songbirds and parrots. 
+2  
+00:24:46
+So all the way down to the genes. And now we're finding the specific mutations are also similar, not always identical, but similar, which indicates remarkable convergence for a so-called complex behavior in species separated by 300 million years from a common ancestor. And not only that, we are discovering that mutations in these genes that cause speech deficits in humans, like in Fox P two, if you put those same mutations or similar type of deficits in these vocal learning birds, you get similar deficits. So convergence of the behavior is associated with similar genetic disorders of the behavior. 
+0  
+00:25:25
+Incredible. I have to ask, do hummingbird sing, or do they hum, 
+2  
+00:25:30
+Hummingbirds hum with their wings and sing with their ceilings 
+0  
+00:25:34
+In a coordinated way, 
+2  
+00:25:36
+In a coordinated way. There's some species of hummingbirds that actually will Doug OAL showed this that will flap their wings and create a slapping sound with their wings. That's in unison with their song and on, and you would not know it, but it sounds like a particular syllable in their songs, even though it's their wings and their voice at the same time, 
+0  
+00:26:01
+Hummingbirds are clapping to their song, 
+2  
+00:26:04
+Clapping with their they're snapping their wings together in unison with a song to, to make it like, if I'm going, you know, and I banged on the table except they make it almost sound like their voice with their wings. 
+0  
+00:26:19
+Incredible. Yes, I I'm. 
+2  
+00:26:22
+And they got some of the smaller 
+0  
+00:26:23
+Would say mind blown, right? Yes. Yes. Incredible. Yes. Incredible. I love hummingbirds. And I always feel like it's such a, a special thing to get in a moment to see one because they move around so fast and they fly away so fast in these ballistic trajectories. Yep. That when you get to see one stationary for a moment, or even just hovering there, it's you feel like you're extracting so much from their low, low microcosm of life. But now I realize they're, they're playing music essentially. 
+2  
+00:26:49
+Right? Exactly. And what's amazing about hummingbirds and I we're gonna say vocal learning species in general is that for whatever reason, they seem to evolve multiple complex traits, you know, this idea that the evolving language spoken language in particular comes along with a set of specializations. 
+0  
+00:27:09
+Incredible. Yeah. When I was coming up in neuroscience, I learned that I think it was the work of Peter Marler that young birds learned songbirds learned their tutor song and learn it quite, quite well, but that they could learn the song of another tutor. In other words, they could learn a different, and for the listeners, I'm doing air quotes here, a different language, a different bird song different than their own species song. Yeah. But never as well as they could learn their own natural genetically linked song. Yes. Genetically linked, meaning that they would be like me being raised in a different culture. 
+0  
+00:27:48
+And that I would learn that the other language, but not as well as I would have learned English. This, this is the idea. Yes. Is that true? 
+2  
+00:27:57
+That is true. Yes. And that's, and that's what I learned growing up as well. And, and talk to Peter Mueller himself about before he passed. Yeah. This, he used to call it the innate predisposition to learn. All right. So which would be kind of the equivalent in the linguistic community of universal grammar. There is something genetically in influencing our vocal communication on top of what we learned culturally. And so there's this balance between the genetic control of speech or a song in these birds and the learned cultural control. And so, so yes, if you were to take, you know, I mean, in this case, we, we actually tried this at Rockefeller later on take a zebra Finch and raise it with a Canary. 
+2  
+00:28:46
+It would sing a song that was sort of like a hybrid in between. We call it a can inch, right. And vice versa for the Canary, because there's something different about their vocal musculature or the, or the circuitry in the brain and with a zebra Finch, even with a closely related species, if you would take a zebra fi young animal and in one cage next to it, place its own species, adult male, right. And in the other cage place a Bengalese Finch next to it, it would preferably learn the song from its own species neighbor. But if you remove its neighbor, it would learn that Bengalese Finch very well. 
+0  
+00:29:24
+Fantastic. 
+2  
+00:29:25
+So there's, it, it has something to do with also the social bonding with your own species. 
+0  
+00:29:29
+Incredible. That raises a question that I, based on something I also heard, but I don't have any scientific peer reviewed publication to point to, which is this, this idea of pigeon, not the bird, but this idea of when multiple cultures and languages converge in a given geographic area, that the children of all the different native languages will come up with their own language. I think this was in island culture, maybe in Hawaii called pigeon, which is sort of a hybrid of the various languages that their parents speak at home and that they themselves speak. And that somehow pigeon again, not the bird, but a language called pigeon for reasons. I don't know, harbors certain basic elements of all language. 
+0  
+00:30:14
+Is that true? Is that not true? 
+2  
+00:30:16
+I, I, I would, I haven't studied enough myself in, in terms of pigeon specifically, but in terms of cultural evolution of language and hybridization between different cultures and so forth, even amongst birds with different dialects and you bring them together, you know, what is going on here is cultural evolution, remarkably tracks, genetic evolution. So if you bring people from two separate populations together that have been in their separate populations, evolutionarily, at least for hundreds of generations. So someone's speaking Chinese, someone's speaking English and that child then's learning from both of them. 
+2  
+00:30:58
+Yes. That child's gonna be able to pick up and merge PHIMS and words together in a way that an adult wouldn't because why they're experiencing both languages at the same time during their critical period years, in a way that adults would not be able to experience. And so you get a hybrid and the lowest common denominator is gonna be what they share. And so the phone aims that they've retained in each of their languages is what's gonna be, I imagine used the most interesting. 
+0  
+00:31:35
+So we've got brain circuits in songbirds and in humans that in many ways are similar, perhaps not in their exact wiring, but in their basic contour of wiring and genes that are expressed in both sets of neural circuits in very distinct species that are responsible for these, these phenomenon, we're calling speech and language. What sorts of things are those genes controlling? What's I could imagine they were controlling the wiring of connections between brain areas. You know, essentially a map of, you know, of a circuit, basically like an engineer would design a circuit for speech and language nature, design this for speech and language, but presumably other things too, like the ability to connect motor patterns within the throat of muscles within the throat, when the control of the tongue, I mean, what are, what are these genes doing? 
+2  
+00:32:27
+You're pretty good. Yeah. You've made some very good guesses there. That makes sense. So, so yes, one of the things that differ in the speech pathways of us and these saw pathways of birds is some of the connections are fundamentally different than the surrounding circuits, like a, a direct cortical connection from the areas that control vocalizations in the cortex or the motor neurons that control the larynx in humans or the seas and birds. And so we actually made a prediction that since some of these connections differ, we're gonna find genes that, that control neuro connectivity and that specialize in that function that differ. And that's exactly what we found genes that control what we call axon guidance and form connections. 
+2  
+00:33:12
+And what was interesting. It was sort of in the opposite direction that we expected that is some of these genes, actually a number of then natural control neuro connectivity were turned off in the speech circuit. All right. And it didn't make sense to us at first. And so we started to realize the function of these genes are to repelled connections from forming. So repulsive molecules. And so when you turned them off, they allow certain connections to form that normally would have not formed. So it's, so by turning it off, you gotta gain a function for speech, right? Other genes that surprised us were genes involved in calcium buffering. 
+2  
+00:33:52
+Neuroprotection like Parva or heat shock proteins. So when your brain gets hot, these proteins turn on and we couldn't figure out for a long time, why is that the case? And then the idea popped to me one day and said, ah, when I heard the larynx is the fastest firing muscles in the body, all right. In order to vibrate sound and, and modulate sound in the way we do, you have to control, you have to move those muscles, you know, three to four to five times faster than just regular walking or running. And so when you stick electrodes in, in the brain areas that control learn vocalizations in these birds. 
+2  
+00:34:32
+And I think in humans as well of those neurons are firing at a higher rate to control these muscles. And so what is that gonna do? You're gonna have lots of toxicity in those neurons, unless you upregulate molecules that take out the extra load that is needed to control the larynx. And then finally, a third set of genes that are specialized in these speed circuit are involved in neuroplasticity neuroplasticity, meaning allowing the brain circuits to be more flexible so you can learn better. And why is that? I think learning how to produce speech is a more complex learning ability than say learning how to walk or, or learning how to do tricks and jumps and so forth that dogs do. 
+0  
+00:35:19
+Yeah. It's interesting as you say that, because I, I realize that many aspects of speech are sort of reflexive. I'm not thinking about each word, I'm gonna say, I, they just sort of roll outta my mouth. Hopefully with some forethought, we both know people that seem to speak think less, fewer synapses between their brain and their mouth than others. Right? A lot of examples out there, and some people are very deliberate in their speech, but nonetheless, that much of speech is, has to be precise. And some of it less precise in terms of plasticity of speech and the ability to learn multiple languages, but even just one language what's going on in the critical period. The so-called critical period. Yeah. 
+0  
+00:35:59
+Why is it that? So my niece speaks Spanish. She's Guatemala and speaks Spanish and English incredibly well. She's 14 years old. I've struggled with Spanish my whole life. My father is bilingual. My mother is not, I've tried to learn Spanish as, as an adult. It's really challenging. I'm told that had I learned it when I was eight, I would be better off that's right. Or it would be installed within me. So the first question is, is it easier to learn multiple languages without an accent early in life? And if so, why? And then the second question is if one can already speak more than one language as a consequence of childhood learning, is it easier to acquire new languages later on? 
+2  
+00:36:40
+So, so the answer to both of those questions is yes in that. But I, but I, but to, to explain this, I need to let you know, actually the entire brain is undergoing a critical period development, not just the speech pathways. And so it's easier to learn how to play a piano. It's easier to learn how to ride a bike for the first time and so forth as a young child than it is later in life. What I mean easier in terms of when you start from you start from first principles of learning something. So the very first time, if you're gonna learn Chinese as a child versus the very first time you learn Chinese as an adult or learning play PA piano as a child versus an adult, but the speech pathways, or let's say speech behavior, I think has a stronger, critical period, change to it than other circuits. 
+2  
+00:37:34
+And why what's going on there in general, if you, why do you need a critical period to make you more stable, to make you more stubborn? So to speak? The reason I believe is that the brain is not for brain can only hold so much information. And if you are undergoing rapid learning to learn, to acquire new knowledge, you also have to, you know, dumb stuff put, put in memory or information in the trash, like in a computer, you, you only have so many gigabases of memory. And so therefore, plus also for survival, you don't wanna keep forgetting things. 
+2  
+00:38:19
+And so, so the brain is designed, I believe to undergo this critical period and solidify the circuits with what you learned as a child. And you use that for the rest of your life. And we humans stay even more plastic in our brain functions controlled by a gene called Sr gap two. We have an extra copy of it that leads our speech circuit in other brain regions in a more immature state throughout life compared to other animals. So we're, we're more immature. We're still juvenile life compared to other animals. 
+0  
+00:38:49
+I knew it, 
+2  
+00:38:50
+But we, but we still go through the critical periods like they all do. And now the question you asked about, if you learn more languages as a child, can you, is it easier to learn as an adult? And that's a common finding out there in the literature, there's some that argue against it, but for those that support it, the idea there is you, you are born with a set of innate sounds. You can produce of phon S and you narrow that down because not all languages use all of them. And so you narrow down the ones you use to string the pH S together, in words that you learn and you maintain those pH S as an adult, and here comes along another language that's using those phon S or in, in different combinations. 
+2  
+00:39:34
+You're not used to. And therefore you it's like starting from first principles, but if you already have them in multiple languages that you're using, then it makes it easier to use them in another third or fourth language. 
+0  
+00:39:47
+I, I see incredible. 
+2  
+00:39:49
+So, so it's not like your brain has under, has maintained greater plasticity is your ma your brain has maintained greater ability to produce different sounds that then allows you to learn another language faster. 
+0  
+00:40:02
+Got it. Are the hand gestures associated with sounds or with meanings of words? 
+2  
+00:40:10
+I think the hand gestures associated with both the sounds and the meaning of when I say sound like if you are really angry, right? And you are making a loud screaming noise, right? You may make hand gestures that are, look like you're gonna beat the wall, right? Because you're making loud sounds and loud gestures. Right. But if you wanna explain something like, come over here, what I just do now to you for those who can't see me, I swung my hand towards you and swung it here to me that has a meaning to it, to come here. So just like with the voice, this, the hand gestures are producing both, you know, both, both qualities of sound 
+0  
+00:40:52
+And for people that speak multiple languages, especially those that learn those multiple languages early in development, do they switch their patterns of motor movements? According to let's say, going from Italian to Arabic or from Arabic to French in a way that matches the, the precision of language that they're speaking, 
+2  
+00:41:13
+You know, what you just asked me a question. I don't know the answer to, I would imagine that would make sense because of, of, of switching in terms of sometimes people might call this code switching even different dialects of the same language. Could you do that with your gestures? I imagine so, but I really don't know if that's true or not. 
+0  
+00:41:33
+Well, I certainly don't know from my own experience because I only speak one language Before we continue with today's discussion. I'd like to just briefly acknowledge our sponsor athletic greens now called a G one athletic greens, AKA a G one is an all-in-one vitamin mineral probiotic drink that also has adaptogens and digestive enzymes. I've been taking athletic greens since way back in 2012. So I'm delighted that they're sponsoring the podcast. The reason I started taking athletic greens and the reason I still drink athletic greens twice a day is that it supplies total foundational coverage of my vitamin mineral needs. And it supplies important nutrients that I need to support my gut microbiome, the gut microbiome, as many of you know, supports the immune system. 
+0  
+00:42:16
+It also supports the so-called gut brain access, which is vital for mood, for energy levels, for regulating focus and many other features of our mental health and physical health that impact our daily performance and high performance. In any endeavors we might be involved in. If you'd like to try athletic greens, you can go to athletic greens.com/huberman and claim a special offer. They're giving away five free travel packs, plus like year supply of vitamin D three K2 with every order. And of course, vitamin D three K2 or vital for all sorts of things like hormone health and metabolic health and K2 for cardiovascular health and calcium regulation. Again, you can go to athletic greens.com/huberman to claim that special offer to go a little bit into the abstract, but not too far. 
+0  
+00:42:57
+What about modes of speech and language that seem to have a depth of emotionality and meaning, but for which it departs from structured language, here's what I mean, poetry, I think of musicians like there's some Bob Dylan songs that, to me, I understand the individual words. I like to think there's an emotion associated with it. At least I experience some sort of emotion and I have a guess about what he was experiencing, but if I were to just read it linearly without the music and without him singing it, or somebody singing it like him, it wouldn't hold any meaning. So in other words, words that seem to have meaning, but not associated with language, but somehow tap into an emotionality. 
+0  
+00:43:41
+Yeah. 
+2  
+00:43:43
+Yep, absolutely. So, so we call this difference, semantic communication, communication with meaning and effective communication communication that has more of an emotional feeling content to it, you know, but not with, you know, the semantics and the two can be mixed up, like with singing words that have meaning, but also have this effect of emotional. You just love the sound of the singer that you're hearing. And initially, you know, psychologist, scientists in general thought that these were gonna be controlled by different brain circuits. 
+2  
+00:44:22
+And, and it is the case. There are emotional brain centers and a hypothalamus in the singlet cortex and so forth that do give tone to the sounds. But I believe, you know, based upon imaging work and work, we see in birds when, when birds are communicating semantic information in their sounds, which is not too often, but it happens versus effective communication sing because I'm trying to attract the mate my courtship song or defend my territory. It's the same brain circuits. It's the same speech like, or song circuits are being used in different ways. 
+0  
+00:45:00
+A friend of mine, who's also a therapist said to me, you know, it's possible to say, I love you with intense hatred. And to say, I hate you with intense love, right. And reminding me that it's possible to hear both of those statements in either way. So I guess it's not just limited to song or poetry. It also, there's something about the intention and the emotional context in which something spoken that it can heavily shape the way that we interpret what we hear 
+2  
+00:45:31
+That's right. And, and, and I consider all of that actually, meaning, even though I defined it as, as people commonly do semantic and effective communication, effective communication to say, I hate you, but meant love, right. Is, does have emotional meaning to it. You know? And so, you know, one's more like an object kind of meaning or an abstract kind of meaning there there's similar the points here. I think it's important for, for the, those listening out there to hear is that when I say also this effective and semantic communication being used by similar brain circuits, it also matters side of the brain in birds. 
+2  
+00:46:12
+And in humans, there's, there's left right. Dominance for learned communication learned, sound communication. So the left in us humans is more dominant for speech, but the right has a more balance for singing or processing musical sounds as opposed to processing speech, both get used for both reasons. And so when people say your right brain is your artistic brain and your left brain is your thinking brain, this is what they're referring to. And so that's another distinction. A second thing that's useful to know is that all vocal learning species use their learned sounds for this emotional effective kind of communication, but only a few of them like humans and some parrots and dolphins use it for the semantic kind of communication. 
+2  
+00:47:05
+We calling speech. And, and that has led a number of people to hypothesize that the evolution of spoken language of speech evolved first for singing for this more like emotional kind of made attraction like the Jennifer Lopez, the Ricky Martin kind of songs and so forth. And then later on, it became used for abstract communication like we're doing now. 
+0  
+00:47:30
+Oh, interesting. Well, that's a perfect segue for me to be able to ask you about your background and motor control, not only of the hands but of the body. So you have a number of important distinctions to your name, but one of them is that you were a member of the Alvin, a dance school, school 
+2  
+00:47:52
+Of dance. That's right. That's right. 
+0  
+00:47:54
+So you're, you're an accomplished or, and quite able dancer. Right? Tell us a little bit about your background in the, the world of dance and as how it informs your interest in neuroscience, excuse me. And perhaps even how it relates specifically to your work on speech and language. Yes. 
+2  
+00:48:12
+Well, it's, it's interesting. And then this kind of history even goes before my time. So in my family, my mother and father's side, they both went to the high school of music and art here in New York city. And particularly in my mother's family, going back multiple generations, there were singers. And I even did my family genealogy and found out not only, you know, we have some relationships to some well known singers, distant relationships like felonious monk, but going back to the plantations in North Carolina and so forth, my ancestors were singers in the church for the, you know, the towns and so forth. And this somehow got passed on multiple generations to my family. And I thought I was gonna grow up and be a famous singer. 
+2  
+00:48:54
+Right. And my me and my brothers and sister formed a band when we were kids and, and so forth. And, but it turned out that I didn't inherit the singing talents of some of my other family members, even though, you know, it was, you know, okay. You know, but not like my brother, not like my mother or my aunts and my cousin PFE, who's now a talented native American singer. And so, so what, that then influenced me to do other things. And I started, you know, competing in dance contests, you know, actually this is around the time of Saturday night fever. And I was as a teenager and I started win winning dance contests. 
+2  
+00:49:38
+And I thought, oh, I can dance. And I auditioned for the high school performing arts. And I got in here in New York city and got into ballet dance and got in. Right. And, and thought, if I learned ballet, I can learn everything else. It was that idea. If you learn something classical, it can teach you for everything else. And I was, yeah. At Alvin alley dance school, Gere ballet dance school. And at the end of my senior concert, I was had this opportunity to audition for the Alvin Ali dance company. And I had an opportunity to go to college. And I also fell in love with another passion that my father had, which was science. And so I liked science in high school. 
+2  
+00:50:18
+And I found an overlap also between the arts and sciences, you know, both required creativity, hard work, discipline, you know, new discovery, both weren't boring to me. And the one decision I made at that at that senior dance concert was, you know, when talking to the Al recruiter and thinking about it, I have to make a decision. And I thought something, my mother taught me cuz she was grown up in the 1960s, cultural revolution, do something that has a positive impact on society. And I thought I could do that better as a dancer than a scientist. So now jump, I get into college undergraduate school. I major in molecular biology and mathematics. 
+2  
+00:51:00
+I decide I wanna be a biologist, got into graduate school, wanted to study the, the brain at, you know, at the Rockefeller university. So I went from hunter college to Rockfell university. And so now I got to the brain and I, and why did I choose the brain is because it controls dancing, but I didn't there wasn't anybody studying, dancing. And I wanted study the brain. Something that it does. That's really interesting and complex. And I thought, ah, language is what it does. You couldn't study that in mice, you couldn't study in non-human primates, but these birds do this wonderful thing that Fernando NABA was studying at Rockefeller. And so that's what got me into the birds. 
+2  
+00:51:37
+And, and then jumping now 15 years later, you know? Yeah, that's right. Even after I'm into now having my own lab, studying vocal, learning in these birds as a model for language and humans, it turns out that, you know, an Patel and you know, others have discovered that only vocal learning species can learn how to dance. 
+0  
+00:52:04
+Is that 
+2  
+00:52:04
+Right? That's right. Yes. 
+0  
+00:52:06
+That, so I've seen these just scrolling through the, the files here in my, in my mind, I think about every once in a while someone will, I loved parrots. Yes. Every once in a while someone will send me one of these little Instagram or Twitter videos of a parrot doing what looks to me like dance. Typically it's a cockatoo that's right, right. That's right. Even foot stomping to the sound and famous 
+2  
+00:52:27
+One called snowball out there. But there are, there are many snowballs out there. 
+0  
+00:52:31
+They're all, all the dancing birds are named snowball. That's interesting tactic. So only animals with language dance. Yeah. 
+2  
+00:52:40
+Vocal learning in particular, the ability to imitate sounds. Yes. 
+0  
+00:52:44
+Incredible. 
+2  
+00:52:45
+Yes. And this now is bringing my life full circle. Right. And I, and, and so when that was discovered in 2009, at that same time in my lab at duke, we had discovered that vocal learning brain pathways in songbirds, as well as in humans and impairs, right? Like snowball are embedded within circuits that control learning how to move. And that led us to a theory called the brain pathway or motor theory of vocal learning origin, where the brain pathways for vocal learning and speech evolved by a whole duplication of the surrounding motor circuits involving learning how to move now, how does that explain dance? 
+2  
+00:53:29
+Right. Well, when, when snowball, the cockatoos are dancing, they're using the brain regions around their speech, like circuits to, to do this dancing behavior. And so what's going on there? What we, what we hypothesize and now like to test is that when this, when, when speech evolved in humans and the equivalent behavior in parrots and songbirds, it required a very tight integration in the brain regions that can hear sound with the brain regions that control your muscles from moving your larynx and Tong and so forth for producing sound and that tight auditory motor integration, we argue then contaminated the surrounding brain regions. 
+2  
+00:54:16
+And that contamination of the surrounding brain regions now allows us humans a particular in parrots to coordinate our muscle movements of the rest of the body would sound in the same way we do for speech sounds 
+0  
+00:54:30
+Well. 
+2  
+00:54:31
+So we're speaking with our bodies when we dance. 
+0  
+00:54:33
+Incredible. And, and I have to say that as poor as I am at speaking multiple languages, I'm even worse at dancing. So, but 
+2  
+00:54:41
+I guarantee you're better than a monkey, 
+0  
+00:54:44
+But not snowball to cock too. 
+2  
+00:54:45
+Maybe not snowball on YouTube. We have a video where there's some scientists dancing with snowball and you'll see snowballs doing better than some of the scientists. Okay. 
+0  
+00:54:54
+Well, as long as I'm not the worst of all scientists at dancing, there's always a real plasticity. May it save me someday? You said something incredible that I've, I, I completely believe even though I have minimum to, let's just say minimum dancing ability. Okay. I can get by at a party or wedding without complete embarrassment, but I don't have any structured training. So the body clearly can communicate with movement as a trained dancer and knowing other trained dancers. I always think of dance and bodily movement and communication through bodily movement as a form of worklessness like a state of worklessness. 
+0  
+00:55:40
+In fact, the, the few times when I think that maybe I'm actually dancing modestly well for the context that I'm in, where I see other people dancing and they seem to just be very much in the movement. It's almost like a state of non-language non-spoken language. And, and yet what you're telling me is that there's a, a direct bridge at some level between the, the movement of the body and, and language. So is there a language of the body that is distinct from the language of speech? And if so, or if not, how do those map onto one another? What does that Venn diagram look 
+2  
+00:56:17
+Like? Yeah, yeah. So, so, so let me define first dance. In this context of learning species, this is the kind of dancing that we are specialized in doing and other, and the vocal learning species are specialized in doing is synchronizing body movements of muscles to the rhythmic beats of music. And for some reason, we like doing that. We like synchronizing to sound and doing it together as a group of people. And that kind of communication amongst ourselves is more like the effective kind of communication. I mentioned earlier, unlike the semantic kind. So we, humans are using our voices more for the semantic, abstract communication, but reusing learn dance for the effective emotional bonding kind of communication. 
+2  
+00:57:09
+It doesn't mean we can't communicate semantic information in dance, and we do it, but it's not as popular, you know, like a ballet that, you know, in the Nutcracker, it is popular, you know, where they are communicating, you know, the Arabian guy comes out, which I was the Arabian guy in the ballet, not cracker. That's how I remember. Yeah, yeah. For the Westchester ballet company, when I was a teenager, you know, we're, we're trying to communicate meaning and our ballet dancing. It can go on with a whole story and so forth. And, but people don't interpret that as clearly as speech, you know, they're seeing the ballet with semantic communication, with a lot of emotional content, whereas you go out to a club, you know? 
+2  
+00:57:50
+Yeah. You're, you're not coming communicating. He okay, how you're feeling today. Tell me about your day and so forth. You're trying to synchronize with other people in an effective way. And I think that's because the, the dance brain circuit inherited the more ancient part of the speech circuit, which was for singing. 
+0  
+00:58:12
+I always had the feeling that with certain forms of music in particular opera, but any kind of music where there are some long notes sung that at some level there was a, a literal resonance created between the singer and the listener that, or I think of like the deep voice of a, of a Johnny Cash or where at some level you can almost feel the voice in your own body. And in theory, that could be the, the vibration of the, the, or the firing of the phrenic nerve, controlling the diaphragm for all I know. Is there any evidence that there's a coordination between performer and audience at the, at the level of mind and body 
+2  
+00:59:00
+I'm gonna say possibly yes. And the reason why is because I just came back from a conference on the neurobiology of dance that clearly 
+0  
+00:59:10
+I'm going to the 
+2  
+00:59:11
+Wrong meetings. Yeah. The colleague, 
+0  
+00:59:12
+You know, vision science meeting 
+2  
+00:59:13
+Might be so boring. Yes. Well, one of my colleagues to come to Fitch and Jonathan Fritz, they, or organized well particular section on, on this conference in Virginia. And this is the first time I was in the room with so many neuroscientists studying the neurobiology of dance. It's a new field now in the last five years. And there was one lab where they were putting EEG electrodes on the dancers on two different dancers, partnering with each other, as well as the audience, you know, seeing the dance and, and some, you know, argued okay. If you're listening to the music as well, how you're responding. Cause you're, you're asking a question about music and I'm giving you an answer about dance. 
+2  
+00:59:57
+And what they found is that, you know, the dancers, when they resonated with each other, during the dance or the audience, listening to the dancers and the music, there's some resonance going on there that they've scores higher resonance, their brain activity with these wireless EEG signals are showing something different. And so that's why I say possibly yet it needs to, it needs more rigorous study. And you know, this is some stuff they publish, but it's not prime time yet, but they're trying to figure this out, 
+0  
+01:00:29
+Love it. So at least if I can't dance, well, maybe I can hear and feel what it is to dance in a certain way 
+2  
+01:00:36
+That that's right. And, and, and this will be, some people will think that they even songs that they hear and they can almost sing to themselves in their own head and they know what they want it to sound like. And, you know, when it really sounds good, what it sounds like, but they can't get their voice to do it. 
+0  
+01:00:55
+I'm raising for those listening. I'm raising my hand. No, no musical ability. Others in my household have tremendous musical ability with instruments and with voice, but not me. 
+2  
+01:01:06
+Yeah. Well, and, and so this is one of my, one of my selfish goals of trying to find the genetics of why can some people sing really well and some not, is there some genetic predisposition to that? And then can I modify my own muscles or brain circuits to sing better? 
+0  
+01:01:24
+You're still after the, the sing, I guess this is what happens when siblings are very in, in proficiency is that, that competitiveness amongst brothers and sisters never goes 
+2  
+01:01:34
+Away. I've been trying to breathe as good as my brother, mark and Victor, you know, for the, the, my entire life, 
+0  
+01:01:40
+Like watch out mark and Victor, he's coming for you with neuroscience to back him earlier. You said that you discovered that you could dance. That that caught my ear. It sounds like you didn't actually have to, I'm not suggesting you didn't work hard at it. Yeah. But that at the moment where you discovered it, it just sort of was a, a skill that you had that up until that point, you didn't target a, a life in, in the world of dance, but the fact that you discovered that you could dance really well and then went to this incredible school of dance and, and did well tells me that perhaps there is a, an ability that was built up in childhood and or that perhaps we do all have different genetic leanings for, for different motor functions. 
+0  
+01:02:24
+Yeah. 
+2  
+01:02:25
+Well, there for me, there could be both explanations could be possible for the first. Yeah. I grew up in its family, listening to Motown songs, you know, dancing, you know, at parties and so forth family parties and, you know, an African American family basically. And so, so I grew up dancing from a young child, but this, this discovery, you know, maybe dancing even more so in terms of a talent, it could the genetic component, if it really exists, I don't know, you know, with my 23 and me results, you know, it says I have the genetic substitutions that are associated with, you know, high intensity athletes and fast switch muscles. 
+2  
+01:03:12
+And who knows maybe that could have something to do with me being able to synchronize my body to rhythmic sounds maybe maybe better than some others. It turns out that my genetics also show that I have a genetic substitute that doesn't, that makes it hard for me to sing on pitch. And so that does correlate with my, you know, even though I can sing on this pitch, especially if I hear a piano or, you know, kind of playing it, but, you know, maybe that's why my siblings, you know, who didn't have that genetic predisposition in his 23, me results, you know, could go along with the genetic component as well. 
+0  
+01:03:52
+I'm imagining family gatherings with 23 NME data and, and intense arguments about it. Innate and learned ability. Yes. Fun love to be an attendant. I'm not inviting myself to your Thanksgiving dinner by the way, but I suppose I am. 
+2  
+01:04:06
+You're welcome. Welcome to thank 
+0  
+01:04:08
+You. I'll bring my 23 and me data. I'd love to chat a moment about facial expression because that's a form of motor pattern that, you know, I think for most people out there just think about smiling and frowning, but there are of course, you know, thousands, if not millions of microexpressions and things of that sort many of which are subconscious and we're, we are all familiar with the fact that when, what somebody says, doesn't match some specific feature of their facial expression that it can call, you know, that mismatch can cue our attention. Yeah. Especially among people that know each other very well. Yeah. 
+0  
+01:04:47
+Like you, somebody will say, well, you said that, but you, your right eye Twitch to the, you know, a little bit in a way that tells me that you didn't really mean that this, these kinds of things, or when in the opposite example, when the emotionality and the content of our speech is matched to a facial expression, there's something that's just so wonderful about that, because it seems like everything's aligned. Yeah. So how does the motor circuitry that controls facial expression map onto the, the brain circuits that control language, speech, and even bodily and hand movements? Yeah. 
+2  
+01:05:24
+You, you, you ask a great question because we both know some colleagues like wick FAL, that Rockefeller university who study facial expression and the neurology behind it. And now we both share some students that were co-mentoring and talk about this same question that you brought up and what I'm learning a lot is that non-human primates have a lot of diversity in their facial expression like we humans do. And what we know about the neurobiology of brain regions controlling those muscles of the face is that these non-human primates and some other species that don't learn how to imitate vocalizations. They have strong connections from the cortical regions to the motor neurons that control facial expressions, but absent connections or weak connections to the motor neurons that control the voice. 
+2  
+01:06:14
+So I think our diverse facial expression, even though it's more diverse in these non-human primates, there was already a preexisting diversity of communication, whether it's intentional or unconscious through facial expression in our ancestors. And on top of that, we humans now add the voice along with those facial expressions. 
+0  
+01:06:38
+I see the, and in terms of language learning when we're kids, I mean, I don't children fortunately are not told to fake their expressions or to smile when they say I'm happy. So at some point, everybody learns for better or for worse, how to untangle these different components of hand movement, Bo body posture, speech, and facial expression. Yes. But in, in their best form, I would say assuming that the best form is always, I guess there are instances where, you know, for safety reasons, one might need to faint some of these, some of these aspects of language, but in most cases, when those are aligned, it seems like that could reflect that all the different circuitries are operating in parallel, but that the, the ability to misalign these is also a powerful aspect to our maturation. 
+0  
+01:07:29
+I, I didn't think of theater for instance, where deliberate disentangling of, of these areas is important. But also we know when an actor, when it feels real. Yep. And when it looks like when bad acting is oftentimes when the facial expression or body posture just doesn't quite match what we're hearing. Yeah. So are these skills that, that people that learn and acquire according to adaptability and profession, or do you think that all children and all adults eventually learn how to couple and UN uncouple these circuits a little bit? Yeah. 
+2  
+01:08:02
+Yeah. I, I think it's, it's this similar argument I mentioned earlier about the innate and learned for the vocalizations. And by the way, when I say we humans have facial expressions associated with our vocalizations in a different way than primates non-human primates, it's the learn vocalizations I'm talking about. So there is a common view out there that facial expressions and non-human species like non-human primates, or you can have them in birds too, are innate. All right. And so they're, they're reflexive controlled. I don't believe that. I think there's some learned component to it. And I think we have more learning component to it as well, but we also have an innate component. 
+2  
+01:08:44
+And so if you try to put your hands behind your back and hold your fist, or even just not, and try to speak and try to communicate, it's actually harder to do you have to force yourself or put it by, by your side. This comes naturally. Facial expressions comes naturally because there's an innate component. And yes, you have to learn how to dissociate the two, communicate something angry with your hands, with your face, but, you know, politely with your voice. It's very hard to dis to separate at this too, because there is that innate component that brings them together. So it's like an email too. You're you're emailing. And someone says something by email, someone can interpret that angrily or, or gently, and it, it becomes ambiguous. 
+2  
+01:09:32
+The facial expressions get rid of that ambiguity. 
+0  
+01:09:36
+So glad you brought that out because my next question was, and is about written language. The first question I'll ask is when you write either type or write things out by hand, do you hear the content of what you want to write in your head? You just, you personally. 
+2  
+01:09:54
+Yes, I do. Yeah. I, I, I, and I know that I do, because I was trying to figure out a debate about this issue and trying to resolve the debate with my own self experimentation on me. 
+0  
+01:10:09
+I asked that because a quite well known colleague of ours, Carl der off at Stanford, who's been on this podcast and, you know, optogenetics fame and psychiatry, fame, et cetera. Yeah. 
+2  
+01:10:19
+And I, I know him. Yeah. 
+0  
+01:10:20
+He sends, we are yeah. Told me that his practice for writing and for thinking involves a, a quite painful process of forcing himself to sit completely still and think in complete sentences to force thinking in complete sentences. And when he told me that I decided to try this exercise and it's quite difficult. First of all, it's difficult for the reason that you mentioned, which is that with many thoughts, I want to look around and I start to gesticulate with my hands, right? So there it is, again, the connection between language and hand movement, even if one isn't speaking. The, and the other part is that I that's challenging is I realize that while we write in complete sentences, most of the time we'll talk about how that's changing now and right. 
+0  
+01:11:08
+Texting, et cetera, that we don't often think in complete sentences. And specifically in simple declarative sentences, that a lot of our thoughts would be if we're, if they were written out onto a page would look pretty much like passive language that a good copy editor or a good editor would say, Ugh, like we need to cross this out, make this simple and declarative. So what I'm getting at here is what is the process of going from a thought to language, to written word? And I also wanted to touch on handwritten versus typed, but thought to language, to written word what's going on there. 
+0  
+01:11:50
+What do we know about the neuro circuitry? And I was gonna ask, why is it so hard? But now I want to ask why is this even possible? It seems like a very challenging neuro computational problem. 
+2  
+01:12:02
+Yeah. Yeah. And, and from coming from the linguistic world, and even just the regular neurobiology world, going back to something I said before is about a separate language module in the brain. You know, there was this thought or hypothesis that this language module has all these complex algorithms to them. And they're signaling to the speech circuit, how to produce the sounds, the hand circuit, how to write them or gesture the visual pathway on how to interpret them from reading and the auditory pathway for listening. I don't think that's the case. All right. And you know that this thinking where, where there's this internal speech going on, what I think is going on is to explain what you're asking is about that. 
+2  
+01:12:49
+I'm gonna take it from the perspective, reading something, you read something on a paper, the signal from the paper goes through your eyes. It goes to the back of your brain, to your visual cortical regions eventually. And then you now got to interpret that signal in your visual pathway of what you're reading. How are you gonna undo that in turn speech, that visual signal then goes to your speech pathway in the motor cortex in front here and brokers area. And you silently speak what you read in your brain without moving your muscles. And sometimes actually, if you put electrodes E EEG, EMG electrodes on your Loreal muscles, even on birds, you can do this, you'll see activity there while reading or, or, or trying to speak silently, even though no sound's coming out. 
+2  
+01:13:38
+And so your speech pathway is now speaking what you're reading now to finish it off, that signal is sent to your auditory pathway. So you can hear what you're speaking in your own head. 
+0  
+01:13:52
+That's incredible. 
+2  
+01:13:54
+And this is why it's complicated because you are using like three different pathways, the visual, the speaking motor one, and the auditory to read. Oh, and then you gotta write, right? Okay. Here comes the fourth one. Now the hand areas next to your speech pathway has gotta take that auditory signal or even the adjacent motor signals for speaking and translate it into a visual signal on paper. So, so you're using at least four brain circuits, which includes the speech production in the speech perception, pathways to write 
+0  
+01:14:27
+Incredible. And finally explained to me why, when I, so I was weaned teaching undergraduates, graduate students and medical students. And I've observed that when I'm teaching, I have to stop speaking. If I'm going to write something on the board, I just have to stop all speaking completely, right? Turns out this is an advantage to catch because it allows me to catch my voice. It allows me to slow down a bit, you know, breathe and inhale some oxygen and so on because I tend to speak quickly if I'm not writing something out. So I there's a break in the circuitry for me, or at least they are distinct enough that I have to stop and then write something out. 
+2  
+01:15:06
+Yes. That, that, that, that does imply competing brain circuits for your conscious attention. 
+0  
+01:15:13
+We have colleagues up at Columbia med who are known at least in our circles for dicta voice dictating their papers, not writing them out, but just speaking into a voice recorder, I've written papers that way. It doesn't feel quite as natural for me as writing things out. Yeah. But not because I can go quickly from thought to language, to typing. I type reasonably fast. I can touch type. Now. I don't think I ever taught my, I, I think I taught myself. I never took a touch typing. Of course. Yeah. But just sort of happened. Now, my motor system seems to know where the keys are with enough, enough accuracy, that it works, that this is remarkable to me that any of us can do this. 
+0  
+01:15:56
+But when it comes to writing, what I've found is that if my rate of thought and my rate of writing are aligned, nicely things go well. However, if I'm thinking much faster than I can write, that's a problem. And certainly if I'm thinking more slowly than I want to write, that's also a problem. And the solution for me has been to write with a pen I'm in love with these. And I have no relationship to the company, at least not now, although if they want to come, you know, if they want to work with us, I love these pilot V five V seven S because not necessarily because of the ink or the, the feel, although I like that as well. But because of the rate that it allows me to write, they write very well slowly, and they write very well quickly. 
+0  
+01:16:40
+And so I have this theory supported only by my own an data, no peer reviewed study that H writing by hand is fundamentally different than typing out information. Is there any evidence that this motor pathway for writing is better or somehow different than the motor pathway for, for typing? 
+2  
+01:17:06
+Yeah, that that's interesting. And I don't know of any studies. I have my own personal experience as well, but trying to put this into the context, if I had to, you know, design an experiment to test the hypothesis here that, you know, to explain your experience in mind is that writing by hand I'm, I would argue requires a different set of less skills with the fingers than typing. So you have, you have to coordinate your fingers more in opposite directions and so forth, but typing, but also writing by hand requires more arm movement. And so therefore I would argue that the, the, the difficulty there could be in the types of muscles and the fine motor control you need of those muscles along with speaking in your brain at the same time. 
+0  
+01:18:02
+So basically I'm cos I'm a brute. So it makes sense that I put more primitive writing device would work that's 
+2  
+01:18:08
+Right. Yes. But, but let me, let me add to this in terms of the I, in my own personal experience, right. What I find is I can write, I can write something faster by hand for a short period of time compared to typing. And that is because I think I, I run out of the energy in my arm movements faster than I run out of muscle energy in my finger movements. And I think it takes longer time for us to write words without fingers, because, and in terms of the speech. So I think you're writing whether it's by hand or typing and your speech, they only will align very well. 
+2  
+01:18:51
+If you can type as fast as you can speak or write as fast as you can speak in your head, 
+0  
+01:18:56
+I love it. So what you've done, if I understand correctly is created a bridge between thought and writing, and that bridge is speech. 
+2  
+01:19:04
+That bridge is speech. That's right. That's right. When you're writing something out, you're speaking it to yourself. And if you're speaking faster than you can type, you got a problem. 
+0  
+01:19:15
+Interesting. I, I do a number of podcast episodes that are not with guests, but solo episodes. And as listeners know, these are very long episodes, often two or more hours. And we joke around the podcast studio that I, I will get locked into a mode of speech where some of it is more elaborative and anecdotal and then I'll, and then I'll punch out simple declarative sentences. I find it very hard to switch from one module to the next, the thing that I have done in order to make that transition more fluid and prep for those podcast episodes is actually to read the lyrics of songs and to sing them in my head as a way of warming up my vocal chords. 
+0  
+01:19:57
+But luckily for those around me, when I do that, I'm not actually singing out loud. And so this, what you're telling me supports this idea that even when we are imagining singing or writing in our mind, we are exercising our vocal chords. 
+2  
+01:20:16
+You're, you're actually getting a little low potentials of electrical currents reaching your muscles there, which also means you're exercising your speech, brain circuits too, without actually, you know, going with the flow activity in the muscles. Incredible. Yeah. And this, this idea of singing helps you as well, even with Parkinson's patients and so forth. When they wanna say something singing or listening to music helps them move better. And the idea there is that the brain circuits for singing, or let's say the function of the brain circuits for speech being used for singing first is the more ancestral trait. And that's why it's easier to do things with singing sometimes than it is with speaking. 
+0  
+01:20:56
+I love it. Stutter is a particularly interesting case and, and one that every once in a while, I I'll get questions about this from our audience. Stutter is, is complicated in, in a number of ways, but culturally, and my understanding from these emails that I receive is that stutter can often cause people to hide and speak less because it can be embarrassing. And we're, we are often not patient with, with stutter. We also have the assumption that if somebody's stuttering, that they're thinking is slow, but it turns out there are many examples, historically of people who could not speak well, but who were brilliant thinkers. 
+0  
+01:21:36
+I don't know how well they could write, but they found other modes of communication. I realize that you're not a, a speech pathologist or therapist, but what is the current neuro biological under of stutter and our what's being developed in terms of treatments for stutter? 
+2  
+01:21:53
+Yeah, so we actually accidentally came across stuttering in songbirds, and we've published several papers on this to try to figure out the neuro biological basis. The first study we had was a brain area called the basal ganglia or the what's, the, the strain and part of the basal ganglia involved in coordinating movements, learning how to make movements when it was damaged in these, in this, in a speech like pathway in these birds, what we found is that they started to stutter as the brain region recovered. And unlike humans, they actually recovered after three or four months. 
+2  
+01:22:33
+And why is that the case? Because bird brains undergoes new neurogenesis in a way that human or mammal brains don't. And it was the new neurons that were coming in into the circuit, but not quite, you know, with the right proper activity was resulting in this stuttering, in these birds. And after it was repaired, not exactly the old song came back as a, after the repair, but still it recovered a lot better. And it's now known. They called this Neurogen Neurogen, stuttering in humans would damage to the Braso ganglia or some type of disruption to the basal ganglia at a young age, also causes stuttering in humans. 
+2  
+01:23:16
+And even those who are born with stuttering it's, it's often the basal ganglia that's disrupted than some other brain circuit. And we think the speech part of the basal ganglia 
+0  
+01:23:29
+Can adults who maintain a stutter from childhood repair, that stutter, 
+2  
+01:23:34
+They can repair it with therapy, with learning, how to speak slower, learning how to tap out a rhythm during St. And yeah, I'm not a speech pathologist, but I started reading this literature and talking to others that, you know, colleagues who actually study study stuttering. So yes, there, there, there are ways to overcome the stuttering through, through, you know, behavioral therapy. And I think all of the tools out there have something to do with sensory motor integration, controlling what you hear with what you output in a, a thoughtful controlled way helps reduce the stuttering. 
+0  
+01:24:15
+There are a couple examples from real life that I want to touch on, and one is somewhat facetious, but, but now I realize is, is a serious neurobiological issue, serious meaning I think interesting, which is that every once in a while, I will have a conversation with somebody who says the last word of the sentence along with me. And it seems annoying in some instances, but I'm guessing this is just a breakthrough of the motor pattern that they're hearing what I'm saying very well. So I'm gonna interpret this kindly and think they're hearing what I'm saying. They're literally hearing it in their mind and they're getting that low level electrical activity to their throat. 
+0  
+01:24:57
+And they're just joining me in the, in the enunciation of what I'm saying, probably without realizing it. Can we assume that that might be the 
+2  
+01:25:06
+Case? Well, I, I, I wouldn't be surprised so that, yeah, the motor theory of speech perception where this idea originally came, what you hear is going through your speech circuit and then also activating those muscles slightly. So yes, so one might argue, okay, is that speech circuit now interpreting what that person is speaking? Now, you listening to me and is going to finish it off because it's already going through their brain and they can predict it. That would be one, one theory. And I don't think the verdict out there is known, but that's one. The other is synchronizing turn taking in, in the con the conversation where you're acknowledging that we understand each other by finishing off what I say. 
+2  
+01:25:55
+And it's almost like a social bonding kind of thing. The other could be, I want the person to shut up so I can speak as well and take that turn. And, and each pair of people have a rhythm to their conversation. And if you have somebody who's over talkative versus under talkative of vice versa, that rhythm can be lost in them finishing ideas and going back and forth. But I, I think having something to do with turn taking as well, makes a lot of sense. 
+0  
+01:26:22
+I have a colleague at Stanford who says that interruption is a sign of interest. I'm not sure that everyone agrees. I think it's highly contextual. Yes. But there is this form of, of a verbal nod of saying or things of that sort. And there many of these, and I'm often told by my audience, you know, that I don't interrupt my guests and things of that sort, oftentimes I'll just get caught in the natural flow of the conversation. Right. But, well, 
+2  
+01:26:47
+I, I, I think we've had pretty good turn taking here. I hope 
+0  
+01:26:50
+That's so far so good. I'm glad you feel that way because especially in the context of a discussion about language, yes, this seems important. Texting is a very, very interesting evolution of language because what you've told us is that we have a thought it's translated into language. It might not be complete sentences, but texting, I have to imagine this is the first time in human evolution where we've written with our thumbs. So I don't, you know, it seems more primitive to me than typing with fingers around your hands, but Hey, who am, who am I to judge the evolution of our species in one direction or the other, but the shorthand grammatically often grammatically deficient incomplete sentence form of texting is an incredible thing to see early in relationships, romantic relationships. 
+0  
+01:27:41
+People will often evaluate the others text and their ability to use proper grammar and spelling, et cetera. This often quickly degrades. And there's an acceptance that we're just trying to communicate through shorthand, almost military like shorthand, but with internally consistent between people, but there's no general consensus of what things mean, but, you know, WTF and like, and OMGs, and all sorts of things. I wonder sometimes whether or not we are getting less proficient at speech because we are not required to write and think in complete sentences. 
+0  
+01:28:21
+I'm not being judgemental here. I see this in my colleagues. I see this in myself. This is not a, a judgment of the younger generation. I also know that slang has existed for decades if not hundreds of years. But I also know that I don't speak the same way that I did when I was a teenager, because I've suppressed a lot of that slang, not because it's inappropriate or offensive, although some of it was frankly, but because it's out of context. So what do you, think's happening to language? Are we getting better at speaking worse at speaking? And what do you think the role of things like texting and tweeting and shorthand communication hashtag tagging, what's that doing to the way that our brains work? 
+2  
+01:29:05
+Yeah. I, I think that, oh, one in terms of, you know, measuring your level of sophistication intelligence and you say OMG, right. I, I think that also could be a cultural thing that you belong to the next generation, if you're, you know, or you're being cool, if you're an older person, you know, using OMG and other things that the, the, you know, younger generation would use, but really think about it clearly texting actually has allowed for more rapid communication amongst people. I, I, I think without the invention of the phone before then, or, you know, texting back and forth, you had to wait days for a letter to show up. 
+2  
+01:29:53
+You couldn't call somebody in the phone and talk as well. You know? And so this rapid communication in terms of the rapid communication of writing in this case. So I think actually, it's, it's more like a use it or lose it kind of a, a, a thing with the brain. The more you use a particular brain region or circuit, the more enhance it's like a muscle, the more you exercise it, the more healthier it is, the bigger it becomes and the more space it takes and the more you, you lose something else. So I think texting, I, my is not decreasing the, the, the speech powers. So the intellectual powers of speech it's converting it and using it a lot in a different way, in a way that may not be as rich in regular writing, because you can only communicate so much nuance in short term writing, but whatever that is, whatever is being done, you got people texting hours and hours and hours on the phone. 
+2  
+01:30:56
+So whatever your thumb circuit is gonna get pretty big, actually, 
+0  
+01:31:02
+I, I do wonder whether, you know, many people have lost their jobs based on tweets, the short latency between thought and action and distribution of one's thoughts is, is incredible. Yes. And I'm not just talking about people who have, who apparently would have poor prefrontal top down control. This is geek speak by the way, for people that lack impulse control, but high level academics, I'm not gonna point fingers in anyone, but examples of in where you see these tweets and you, what were they thinking? Yep. So presumably there's an optimal strategy between the, the thought speech motor motor pathway, right? 
+0  
+01:31:44
+Especially when the motor pathway engages communication with hundreds of thousands of people and retweets in particular in the cut and paste function. And the screenshot function are often the reason why speech propagates. Yep. So to me, it's, it's a little eerie that, that just that the neural circuitry can do this and that we are catching up a little bit more slowly to the technology. And you've got these casualties of, of the, that mismatch. 
+2  
+01:32:14
+I, I, I think that's a good adjectives views, the casualties, you know, of what's going on, because yes, it is the case with texting what you're really losing. There is not less so the ability to write, but more the ability to interpret what is being written. And you can over interpret something that somebody means on the flip side of that. You know, when, if somebody's writing something very quick, they could be writing instinctually more instinctually, their true meaning, and they don't have time to modify and color code what they're trying to say. 
+2  
+01:32:54
+And that's what they really feel. And as opposed to saying a more nuanced way. So I think both sides of that casualty are, are present. And that's a downturn, you know, unintended negative consequence of short term. I mean, short word communications. 
+0  
+01:33:14
+Yeah. I agree that this whole phenomenon could be netting people that normally would only say these things out loud once inside the door of their own home. Right. Or not at all. Right. It's a, it's an interesting time that we're in VI of these speech and language and murder and motor 
+2  
+01:33:30
+Patterns. So part of the human evolution for language, I, I, I think this is all part of our evolution. That's right. 
+0  
+01:33:36
+So for those of you thinking terrible thoughts, please put them in the world and be a casualty. And for those of you that are not, please be very careful with how proficient your thought to language to motor action. Yes. Goes maybe the technology companies should install some buffers, some AI based buffers, 
+2  
+01:33:52
+Right. That that's taking some EG signals from your brain while you're tax to say, okay, this, this is, you know, this is not a great thought, slow down, right? 
+0  
+01:34:01
+Yeah. Or this doesn't reflect your best state. Yeah. That brings me to the, what was going to be the next question anyway, which is we are quickly moving toward a time where there will be an even faster transition from thought to speech, to motor output, and maybe won't require motor output. What I'm referring to here is some of the incredible work of our colleagues, Eddie Chang at U C S F and others who are taking paralyzed human beings and learning to translate the electrical signals of neurons in various areas, including speech and language areas, to computer screens, that type out what these people are thinking. In other words, paralyzed, people can put their thoughts on, in, into writing. 
+0  
+01:34:42
+That's a pretty extreme and wonderful example of recovery of function that is sure to continue to evolve. But I think we are headed toward a time, not too long from now where my thoughts can be translated into words on a page if I allow that to happen. 
+2  
+01:35:00
+Yeah. So, and Eddie Chang's work. I who, which I admire quite a bit in sight in my papers. I think he's really one of those at the leading edge of trying to understand within humans, the, the neurobiology of speech. And he may not say it directly, but I know I talked to him about this. It supports this idea that the speech circuit and the separate language module, I don't really think that there's a separation there. So with, with that knowledge yes. And putting electrodes into human brain and then translating those electrical signals to speech occurrence. Yeah. We can start to tell what is that person thinking? Why? Because we often think in terms of speech and without saying words, and that's a scary thought. 
+2  
+01:35:46
+And now imagine if you can now translate those into a signal that transmits something wirelessly and someone from some distant part of the planet is hearing your speech from a wireless signal without you speaking. So probably that won't be done in an ethical way. Who knows, you know, that the, I mean, the ethics of doing that probably, you know, might not happen, but who knows? We have these songbirds, you know, we apply the same technique to them. We can start to hear what they're singing in their dreams or whatever, even though they don't produce sound so we can find out by testing on them, 
+0  
+01:36:22
+It's coming yes, one way or another it's coming for those listening who are interested in getting better at speaking and understanding languages. Are there any tools that you recommend and here again, I let I realize you're not a speech therapist, but here I'm not thinking about ameliorating, any kind of speech deficiency I'm thinking, for instance, do you recommend that people read different types of writing? Would you recommend that people learn how to dance in order to become better at expressing themselves verbally, you know, and feel free to have some, some degrees of, of freedom in, in this answer, this, these are obviously not peer reviewed studies that we're referring to, although there may be, but I'm struck by the number of things that you do exceedingly well, and I can't help but ask, well, the singing that, which I realize it may, your brother didn't pay me to say, this may not be quite as good as your brothers yet, but is getting you'll surpass him. 
+0  
+01:37:23
+I'm guessing at some point getting exactly there you go, you know, should kids learn how to dance and read hard books and simple books. What do you recommend should adults learn how to do that? To everyone wants to know how to keep their brain working better, so to speak. But also I think people want to be able to speak well and people want to be able to understand well, yeah. 
+2  
+01:37:47
+So what I've discovered personally, right, is that, so when I switch from pursuing a career in science, from a career in dance, I thought one day I would stop dancing, but I haven't because it, I find it fulfilling for me, you know, just as a life experience. So ever since I started college, you know, my late teens and early twenties, I, I kept dancing even till this day. And there've been periods of time, like during the pandemic where I slowed down on dancing and so forth. And, and when you do that, you realize, okay, there, there are parts of your body where your muscle tone decreases a little bit and somewhat, and, or you could start to gain weight. 
+2  
+01:38:32
+Or I somehow don't gain weight that easily. And I think it's related to my dance if that's that that's meaningful to your audience. But what I found is, you know, in, in, in science, we like to think of a separation between movement and action and cognition. And there is a separation for you between perception and production, cognition, being perception, production being moving, right. But if the speech pathways is next to the movement, pathways, what I discover is by dancing, it is helping me think it is helping keeping my brain fresh. It's not just moving my muscles, I'm moving the, or using the, the circuitry and my brain to do control a whole big body. 
+2  
+01:39:16
+You need a lot of brain tissue to do that. And so I argue, if you wanna stay cognitively intact into your old age, you better be moving and you better be doing it consistently, whether it's dancing, walking, running, and also practicing speech oratory speech and so forth for singing is controlling the brain circuits that are moving your facial musculature. And it's gonna keep your cognitive circuits also in tune. And I'm, I'm convinced of that from my own personal experience. 
+0  
+01:39:47
+Yeah. For me, long, slow runs are a wonderful way to kind of loosen the joints for long podcasts, especially the solo podcast, which can take many hours to record. And without those long slow runs, at least the day before, or even the morning of, I don't think I could do it at least not as well. All 
+2  
+01:40:08
+Right. Well, you're, you're experiencing something similar. So that's an end of two. Yeah. 
+0  
+01:40:12
+End of two. I'm, I'm tempted to learn how to dance because there are a lot of reasons to learn how to dance. Yes. People can use their imagination. I definitely want to get the opportunity to talk about some of the newer work that you're into right now about genomes of animals, as you perhaps can tell from my quite authentic facial expressions, I, I adore the animal kingdom. I just find it amazing. And it's the reason I went into neurobiology in part so many animals, so many different patterns of movement. So many body plans, so many specializations, what is the value of learning the genomes of all these animals? 
+0  
+01:40:53
+You know, I can think of conservation based, you know, schemes of trying to preserve these precious critters, but what are you doing with the genomes of these animals? Yeah. What do you wanna understand about their brain circuits and how does this relate to some of the discussion we've have been having up until? 
+2  
+01:41:09
+Yeah, I, I, I've gotten very heavily involved in genomes, you know, not just to get at an individual gene involved in the trade of interest, like spoken language, but I realize that, you know, nature has done natural experiments for us, but all these species out there with these various traits and the one that I'm studying, like vocal learning has evolved multiple times among the animal kingdom, even if it's rare, it's multiple times. And the similar genetic changes occurred in those species, but to find out what those genetic changes that are associated with the trait of interest and not some other trait like flying in birds, as opposed to singing, you have to do what's called comparative genomics, even in the context of studying the brain and you need their genomes to compare the genomes and do like a GWAS, a genome-wide association study, not just within a species like humans, but across species. 
+2  
+01:42:10
+And so you need a good genomes to do that. Plus I've discovered I'm also interested in evolution in origins. How did these species come about a similar trait in, in, in last, you know, 300 million years or 60 million years, depending who you're talking about, and you need a good phylogenetic tree to do that and to get a good phylogenetic tree, you also need their genomes. And so, because of this, I got involved in large scale consortiums to produce genomes of many different species, including my vocal learners and my, their closest relatives that I'm fans of. But I couldn't convince the funding agencies to gimme the money to, to do that just for my own project. 
+2  
+01:42:52
+But when you get a whole bunch of people together who wanna study various traits, you know, heart disease, or what, or loss and gain a flight and so forth, suddenly we all need lots of genomes to do this. And so now that got me into a project to lead something called the vertebra genomes project to eventually sequence all 70,000 species on the planet and earth Biogen project, all you carry species, all 2 million of them. And, and to no longer be in a situation where I wish I had this genome. Now we have the genetic code of all life on the planet, create a database of all their traits and find the genetic association with everything out there that makes a difference from one species to another one more piece of, of the equation to add to this story is what I didn't realize as a neuroscientist where that these genomes are not only incomplete, but there have lots of errors in them, false gene duplications, where mother and father chromosomes were so different from each other, that the genome algorithm assembly algorithms treated them as two different genes in this part of the chromosome. 
+2  
+01:44:10
+So there are a lot of these false duplicated genes that people were thought were real, but were not or missing parts of the genome because the enzymes used to sequence the DNA. Couldn't get through this regulatory region that folded up on itself and made it hard to sequence. And so I ended up in, in these consortiums pulling in the, the genome sequencing companies, developing the technology to work with us, to improve it further in the computer science guys who then take that data and that technology, and try to make the complete genomes and make the algorithms better to produce what we now just did recently and led by an effort by add in Philippe is the first human TALT genome with no errors, all complete, no missing sequence. 
+2  
+01:45:00
+And now we're trying to do the same thing with vertebrates and other species. Actually, we improved that before we got to the, what we call TTM from one end of chromosome to another. And what we're discovering is in this dark matter of the genome that was missing before, turns out to be some regulatory regions that are specialized in vocal learning species. And we think are involved in developing speed circuits, 
+0  
+01:45:26
+Incredible well, so much to learn, and that we're gonna learn from this information early on in these genome projects and connectome projects. I confess I was a little bit cynical. This would be about 10, 15 years ago. I, I thought, okay, necessary, but not sufficient for anything. We need it, but it's not clear what's gonna happen, but you just gave a very clear example of what we stand to learn from this kind of information. And I, and I know from the conservation side, there's a huge interest in this because even though we would prefer to keep all these species alive, rather than clone them there, these sorts of projects do offer the possibility of potentially recreating species that were lost right. Due to our own ignorance or missteps, or what have you. 
+0  
+01:46:09
+Yes. 
+2  
+01:46:10
+And, and along those lines, because, you know, we got involved in genomics. Some of the first species that we start working on are critically endangered species. And I'm doing that not only for, for under, you know, perspectives to understand their brains and the genes involved in their brain function. But I feel like it's a moral duty. So the fact that now I become more involved in genome biology and have helped develop these tools for more complete genomes, let's capture their, their genetic code now, before they're gone. And could we use that information to resurrect the species at some future time, if not in my lifetime, in some time in the future and generations ahead of us. 
+2  
+01:46:55
+And so in do in anticipation of that, we created database, we call the genome mark and, and no pun intended like Noah's Ark meant to store the genetic code as complete genome assemblies as possible for all species on the planet to be used for basic science, but also some point in the future. And because of that funding agencies or private foundations that are interested in conservation have been reaching out to me now, a neuroscientists to help them out in producing high quality genome data of endangered species that they can use like revive and restore who wanna resurrect the passenger pigeon or colossal who wants to resurrect the wooly mammoth. 
+2  
+01:47:39
+And so we're producing high quality genomes for these groups, for the conservation projects, what 
+0  
+01:47:44
+A terrific and important initiative. And I think for those listening today, they now certainly understand the value of under, of deeply understanding the brain structures and genomes of different species. Because I confess, even though I knew that a bit of the songbird literature, and I certainly understand that humans have speech and language, I had no idea that there was so much convergence of function, structure and genomes. And to me, you know, I feel a lot more like a, an ape than I do a songbird, right. And yet here we are with the understanding that there's a lot more similarity between songbirds and humans than I certainly ever thought before. 
+2  
+01:48:24
+Yeah. Something very close to home for us humans. I can give you an example of is evolution of skin color in UN in skin color. We use it unfortunately for racism and so forth. We use it also for good things to let in more light or let out less light depending on the part of the planet. You know, our population evolved in and most people think dark skin, people all evolve from the same dark skin person. And light-skinned people all evolve in the same light-skinned person, but that's not the case. Dark skin and light skin amongst humans has evolved independently multiple times, like in, you know, the Pacific islands versus Africa. And it, and it it's just depending on the angle of light hitting the earth as to whether you need more protection from the sun or less protection to, that's also associated with vitamin DS in the skin. 
+2  
+01:49:16
+And so, and each time where darker or lighter skin evolved independently hit the same gene, you know, you know, the Mela melanin melon was and receptors that's right. Yes. Yeah. Genes that are involved in Melan in formation. And so those genes evolve some of the same mutations, even in different species. It's not just humans in equatorial regions. They're darker skinned animals than going away from the Equa equator. 
+0  
+01:49:50
+All right. I think of Arctic foxes and 
+2  
+01:49:52
+That's right. That's right. Polar bears, you know, and so, and so some of the same genes are used in, in, in evolutionary perspective to evolve in a similar way within and across species. Incredible. 
+0  
+01:50:05
+Yeah. 
+2  
+01:50:06
+And that's same thing happening in a brain too. Language is no exception. 
+0  
+01:50:09
+Well, I have to say as somebody who is a, you know, career neuroscientist, but as I mentioned several times now who also adores the animal kingdom, but is also obsessed with speech and language and at a distance not as a, as a practitioner of, of music and dance, this has been an incredible conversation and opportunity for me to learn. And I know I speak for a tremendous number of people when I, I just really wanna say, thank you for joining us today. You are incredibly busy. It's clear from your description of your science and your knowledge base, that you are involved in a huge number of things, very busy. So thank you for taking the time to speak to all of us. 
+0  
+01:50:50
+Thank you for the work that you're doing, both on speech and language, but also this important work on genomes and conservation of endangered species and far more. And I have to say, if you would agree to come back and speak to us again, sometime I'm certain that if we were to sit down even six months or a year from now, there's gonna be a lot more to come to. 
+2  
+01:51:09
+Yeah. We have some things cooking and, and thank you for inviting me here to get the word out to the community of what's going on in the science world. 
+0  
+01:51:18
+Well, we're honored and very grateful to Eric. Thank you. You're 
+2  
+01:51:21
+Welcome. 
+0  
+01:51:21
+Thank you for joining me today for my discussion with Dr. Eric Jarvis. If you'd like to learn more about his laboratory's work, you can go to Jarvis lab, spelled J a R V I S lab, all one word, Jarvis lab.net. And there you can learn about all the various studies taking place in his laboratory, as well as some of the larger overarching themes that are driving those studies, including studies on human genomics and animal genomics that surely are going to lead to the next stage discoveries of how we learn and think about, and indeed use language. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a simple zero cost way to support us. Please also subscribe to the podcast on Spotify and apple and on both Spotify and apple. 
+0  
+01:52:05
+You have the opportunity to leave us up to a five star review. If you have questions or comments or suggestions about topics you'd like us to cover, or guess you'd like us to interview on the Huberman lab podcast, please put those in the comment section on YouTube. We do read all those comments and we do take them to heart. Please also check out the sponsors, mention at the beginning of today's podcast and check out momenta supplements our new partners in the supplement space and check out athletic greens. That's the best way to support this podcast. If you're not already following us on social media, please do. So. We are Huberman lab on Twitter, and we are also Huberman lab on Instagram, in both places. I cover science and science related tools. Some of which overlap with the content of the, the Huberman lab podcast, but much of which is unique from the content covered on the Huberman lab podcast. 
+0  
+01:52:49
+Again, that's Huberman lab on Instagram and Huberman lab on Twitter. Please also check out our neural network, monthly newsletter. This is a newsletter that has summaries of podcast episodes. It also includes a lot of actionable protocols. It's very easy to sign up for the newsletter. You go to Huberman lab.com, click on the menu, go to newsletter. You supply your email, but we do not share your email with anybody. We have a very clear and rigorous privacy policy, which is we do not share your email with anybody. And the newsletter comes out once a month and it is completely zero cost. Again, just go to Huberman lab.com and go to the neural network newsletter. I'd also like to point out that the Huberman lab podcast has a clips channel. So these are brief clips anywhere from three to 10 minutes, that encompass single concepts and actionable protocols related to sleep, to focus interviews with various guests. 
+0  
+01:53:38
+We talk about things like caffeine, when to drink caffeine, relative to sleep alcohol when and how, and if anyone should ingest it relative to sleep dopamine, serotonin, mental health, physical health, and on and on all the things that relate to the topics. Most of interest to you, you can find that easily by going to YouTube, look for Huberman lab clips in the search area, and it will take you there. Subscribe. And we are constantly updating those with new clips. This is especially useful. I believe for people that have missed some of the earlier episodes, or you're still working through the back catalog of hub and lab podcast, which admittedly can be rather long and last, but certainly not least thank you for your interest in science.

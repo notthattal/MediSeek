@@ -57,8 +57,8 @@ def process_file(input_file, output_file):
     print(f"Cleaned transcript saved to {output_file}")
 
 def main():
-    input_folder = "./raw_transcripts"
-    output_folder = "./clean_transcripts"
+    input_folder = "./data/raw_transcripts"
+    output_folder = "./data/clean_transcripts"
 
     os.makedirs(output_folder, exist_ok=True)
 

@@ -1,0 +1,776 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. David Buss: How Humans Select & Keep Romantic Partners in Short & Long Term
+Published: 11/29/2021
+11/29/2021 - 2h 13m 2s
+ - 
+US
+Downloaded:
+(in RSS feed: 2h 10m 4s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+1  
+00:00:00
+Welcome to the Duberman lab podcast. We discuss science science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford school of medicine. My guest today is Dr. David buss. Dr. Buss is a professor of psychology at the university of Texas Austin, and he is one of the founding members and luminaries in the field of evolutionary psychology. Dr. Bus's laboratory is responsible for understanding the strategies that humans use to select mates in the short and longterm. And he is an expert in sex differences in mating strategy. His laboratory has explored for instance, why women cheat on their spouses or their long-term partners, as well as why men tend to cheat on their spouses and long-term partners. 
+1  
+00:00:50
+He's also explored a number of things related to the courtship dance that we call dating and securing a mate, including the use of deception related to proclamations of love or promises of finances or sexual activity. Dr. Bus's laboratory has also evaluated how status is assessed, meaning how we evaluate our own worth and our potential as a mate. And who is, let's just say within range of a potential mate, both in the short and longterm, for instance, today, we talk about how people don't just make direct assessments of their own and other people's value as a potential mate, but also using the assessments of others to indirectly determine whether or not they stand a chance or not in securing somebody as a short or long-term mate. 
+1  
+00:01:37
+His laboratory has also focused on some of the complicated and varied emotions related to mating love and relationships such as lust and jealousy. And he's extensively explored something called mate poaching or the various strategies that men and women use to make sure that the person that they want to be with or the person they are with is not with anyone else or seeking anyone else. And indeed that other people don't seek their mate. Dr. Bus's work also relates to how biological influences such as <inaudible> or time within the menstrual cycle influences mate selection or tendency to have sex or not with a potential short or long-term mate. 
+1  
+00:02:17
+And more recent work from Dr. Bus's laboratory focuses on the darker aspects of meeting and sexual behavior in humans, including stalking and sexual violence. Today, we discuss all those topics. We also discuss some of the strategies that humans can use to make healthy mate selection choices. And for those that are already in committed relationships to ensure healthy progression of those committed relationships. In addition to publishing dozens of landmark scientific studies, Dr. Buss has authored many important books. A few of those include the evolution of desire and why women have sex. And his most recent book is the one that I'm reading now, which is called when men behave badly, the hidden roots of sexual deception, harassment, and assault. 
+1  
+00:03:02
+And it's an absolutely fascinating read. It has endorsements from Dr. Robert Sapolsky professor at Stanford. Who's been on this podcast as a guest before, as well as Steven Pinker and Jonathan Haidt, who wrote the coddling of the American mind. It's a really important book I believe. And one that doesn't just get into the darker aspects of human mating behavior and violence, but also strategies that people can take to ensure healthy mating behavior and relationships. There's so much rumor speculation and outright fabrication of ideas about why humans select particular mates in the short, and long-term what men and women do differently. And so on. 
+1  
+00:03:42
+What I love about Dr bus's work is that it's grounded in laboratory studies that are highly quantitative using rigorous statistics. And so throughout today's discussion, you'll notice that I'm wrapped with attention, trying to extract as much information as I can from Dr. Buss about the real science of human mate selection and mating strategy. I'm certain that everyone will take away extremely valuable knowledge that they can use in existing or future relationships from this discussion with Dr. Buss, before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public and keeping with that theme. 
+ROKA (Ad)  
+00:04:24
+I'd like to thank the sponsors of today's podcast. Our first sponsor is Roca. Rocha makes eyeglasses and sunglasses that are the absolute, highest quality I've spent a lifetime working on the visual system. And I can tell you that the cells and connections of our brain and visual system have to contend with an enormous number of challenges in order to see clearly, for instance, when you go from a brightly lit environment to a dimmer environment or into a shadow, your visual system has to adjust the problem with a lot of sunglasses and glasses out there is that they don't work well with those adjustments. Roca has overcome those challenges. And as a consequence, no matter what environment you're in, you see with crystal clarity, Roca, eyeglasses, and sunglasses are also terrific because they are extremely lightweight. So you don't even notice that they're on your face and they can be worn when working or for school or just walking about, but also when running or cycling. And indeed, if you get sweaty, they won't slip off your face. That's a terrific feature, but they can be worn to do anything. I wear readers at night, and sometimes when I drive at night and a wonderful thing about Roca, eyeglasses and sunglasses is that unlike a lot of other performance glasses out there that make people look like cyborgs or make it look like you're definitely off to exercise. Roca, eyeglasses, and sunglasses have a range of terrific aesthetics that you could wear anywhere. If you'd like to try Roca eyeglasses, you can go to roca.com, that's R O k.com and enter the code Huberman to save 20% off your first order. That's Rocha, R O k.com and enter the code Huberman at checkout 
+1  
+00:05:55
+today's 
+Inside Tracker (Ad)  
+00:05:56
+podcast is brought to us by inside tracker. Inside tracker is a personalized nutrition platform that analyzes data from your blood and DNA to help you better understand your body and help you reach your health goals. I've long been a believer in getting regular blood work done for the simple reason that many of the factors that strongly impact your immediate and long-term health can only be assessed from a quality blood test. And nowadays with the advent of modern DNA tests, you can get additional information about how your body and your nervous system work your immune system in ways that can inform better health choices. The problem with a lot of blood and DNA tests out there is that you don't get any information about what to do with the data that you get inside. Tracker solves that problem. They have a very easy to use dashboard. So when you get your numbers back, it can direct you towards specific nutrition, supplementation, or lifestyle changes that you can make in order to bring the numbers for given hormones, metabolic factors, immune factors into the range. That's ideal for you. If you'd like to try inside tracker go to inside tracker.com/huberman to get 25% off any of inside trackers plans, that's inside tracker.com/huberman to get 25% off today's 
+Headspace (Ad)  
+00:07:07
+episode is also brought to us by Headspace. Headspace is a meditation app that's supported by 25 peer reviewed published studies and benefits from over 600,005 star reviews. There is now a plethora of scientific data pointing to the fact that a regular meditation practice is immensely beneficial for reducing anxiety, improving sleep, improving focus, many, many other aspects of mental and physical health. The challenge many people have, however, is maintaining a regular meditation practice. And indeed, I am one of those people I've been meditating on and off for about 30 years. And I confess a lot of times it's more off than on until a few years ago when I started using the Headspace app. And then I found it very easy and I continue to find it easy to maintain a daily meditation practice. And that's because Headspace has many meditations to select from. So even if I only have five minutes or 15 minutes, I'm able to do a meditation. I really enjoy those meditations. And I always see the benefits of those meditations. In fact, if I just miss a couple of days, I start to notice that I'm not doing as well as when I'm meditating regularly. The Headspace app makes it exceedingly easy to meditate regularly. If you want to try Headspace, you can go to headspace.com/special offer. And if you do that, you'll get a free one-month trial with headspaces full library of meditations for every situation that's the best offer they have right now. So again, if you're interested, go to headspace.com/special offer today. And 
+1  
+00:08:30
+now my conversation with Dr. David buss, well, David, delighted to be here. I've followed your work for a number of years, and I'm excited to ask you a number of questions about these super interesting topics about how people select mates, how they lie cheat, and, but also behave well in the, this dance that we call mate choice. 
+2  
+00:08:53
+Fortunately, there are, there are well behaving humans in the, in the mix here. 
+1  
+00:08:58
+Good to know, just to start off, perhaps you could just orient us a little bit about meat choice. You know, some of the primary criteria that studies show men and women use in order to select mates both, shall we call them transient mates as well as lifetime mates? 
+2  
+00:09:22
+Well, that's a critical distinction because what people look for in a long-term committed mateship like a marriage partner or a long-term romantic relationship is different from what people look for at a, in a hookup or casual sex, or one night stand, or even a brief affair. So, so that's actually critical. I wonder if we could maybe just back up a second and just talk a little bit about the theoretical framework for understanding mate choice. Sure. So it basically stems from Darwin's theory of sexual selection and most people, when they think about evolution, they think about a cliche is like survival of the fittest or written nature, red in tooth and claw. 
+2  
+00:10:02
+And Darwin noticed that there were phenomena that couldn't be explained by this so-called survival selection, things like the brilliant plumage of peacocks sex differences, like in, you know, stags, for example, have these massive antlers and the females of the species do not. And so he came up with the theory of sexual selection, which deals not with the evolution of characteristics due to their survival advantage, but rather due to their mating advantage. And he identified two causal processes by which mating advantage could occur. One is intrasexual competition with the stereotyping to stags locking horns in combat with the Victor gaining sexual access to the female loser ambling off with a broken antler and dejected in low self-esteem and needing psychotherapy perhaps, or, or mate, mate, mate value improvement therapy. 
+2  
+00:10:59
+And the logic was whatever qualities led to success in the same-sex battles. Those qualities get passed on in greater numbers. And so you see evolution, which has changed over time and increase in frequency of the characteristics associated with winning these what Darwin called contest competition. And we know that the logic of that is more general now in a Voss things like in our species competing for position and status hierarchies. So anyway, so intrasexual competition is one, but the second most relevant to your question about mate choice is preferential mate choice. That was the second causal pathway. And the logic there is that if members of one sex agree with one another, if there's some consensus about the qualities that are desired, then those of the opposite sex who possess the desired qualities or embody those desired qualities, they have a mating advantage. 
+2  
+00:11:52
+They get chosen, they get preferred, those lacking desired qualities get banished, shunned ignored, or in the modern environment become in cells. And so the logic there is very simple, but also very powerful. And that is that whatever qualities are desired, consensually desired, if there's some heritable basis to those, then those increase in frequency over time. And so, and in the human case, these two causal processes of sexual selection are related to each other. In that the preferences of the mate preferences of one sex basically set the ground rules for competition in the opposite sex. 
+2  
+00:12:34
+So if, for example, hypothetically women preferred to mate with men who were able and willing to devote resources to them, then that would create competition among men to claw their way, you know, and beat out other men in resource acquisition, and then displaying that their willingness to commit that to a particular woman. And same with women though. And this is one of the interesting things about humans is that we have mutual made choice, which is not true in all species. So, and that is that it's not just a matter of, you know, you selecting someone to be your mate, they have to reciprocally select you. And so with mutual maple made choice, we have both preferences, may preferences that women have and may preferences that men have and consequently competition among men for access to the most desirable women in competition among women for access to the most desirable map. 
+2  
+00:13:33
+So that's sort of a little bit of theoretical backdrop. So you asked, well, what are the qualities that men and women desire, and maybe we'll start with long-term mating and then shift to short-term mating. And long-term mating is, is interesting in and of itself in that it's very rare in the mammalian world. So there are more than 5,000 species of primates of which I'm sorry, more than 5,000 species of mammals of which we are one, but the percentage of mammals that have anything resembling like a pair of bonded long-term eating strategy. It's about three to 5%. It's extremely rare. 
+2  
+00:14:14
+And even our closest primate relatives, the chimpanzees, they don't have a long-term mating strategy. They don't have anything resembling pair, bonded, mating them in the chimps. The females come into estrus, almost all the sexual activity occurs during the estrous phase. After that males and females basically ignore each other for the most part, with some, some exceptions, but with humans, you have the evolution of long-term pair bonding, attachment, a heavy male investment in offspring, relatively concealed by population. And so, and so these are kind of unique aspects of the human mating system. 
+2  
+00:14:55
+So, so to get to your question, so what, what are the qualities? So the, the, the, the best, the most large scale study that's been done, this is a study that I did a while back of 37 different cultures. And it's now been replicated by other researchers, but basically what we found is three clusters of things. We found qualities that both men and women wanted in a longterm mate, we found some qualities that were sex differentiated, where women prefer them more than men or men prefer them more than women. And then we found some attributes that were highly variable across cultures in whether people found these as desirable or indispensable or irrelevant in a mate. 
+2  
+00:15:40
+And so I could give examples of each of these. 
+1  
+00:15:44
+Yeah, that would be great. I I'd love to know what some of the common themes were across these cultures in terms of what what's being sexually maiden sexually selected for. 
+2  
+00:15:54
+Yeah. So, so some of the things that were, so we've talked about universal desires, so things that men and women share, there are things like intelligence, kindness, mutual attraction, and love, which is really kind of heartwarming because some people think that love is a, a recent Western invention by some European poets, but it turns out it's not true. You go to the clung sawn and in Botswana, and they'd describe pretty much the same experience as a falling in love as, as we do. And even describe the distinction between this kind of infatuation stage of love and the attachment phase where, you know, you, you can't maintain this frenzy of infatuation and obsession for very long, six weeks, maybe six months at most, otherwise you can get nothing else done in your life. 
+2  
+00:16:49
+And those are those 
+1  
+00:16:50
+Dopamine circuits firing at high frequency. 
+2  
+00:16:55
+Yeah. So, so, so mutual attraction love good health dependability, emotional stability. Although there's a bit of a sex difference there with women preferring it a bit more than men. And so basically, and, and they, and these may seem obvious. So no one wants a stupid mean ugly disease written mate. And so perhaps obvious, but, but no one knew this in advance of the 37 culture study. So these were some universal preferences. So you go to the Zulu tribe in South Africa, or, you know, Rio de Janeiro in Brazil or Portugal or Oslo, or anywhere in the world. 
+2  
+00:17:43
+And these are qualities that people universally desire in long-term mates, sex differences. So sex differences basically fell into two clusters. So women more than men prioritized good earning capacity, slightly older age, and the qualities associated with resource acquisition. So the, these are things like a man's social status. Does he have drive Z ambitious? Does he have a good long-term resource trajectory is one way that I like to phrase it because women often they don't look at necessarily the resources that a guy possesses at this moment, but what is his trajectory? 
+2  
+00:18:30
+And so 
+1  
+00:18:31
+Just sorry to interrupt, but may I ask, is there anything known about the commonalities of how that is assessed? You know, is it, you know, he's rolling out of bed early in running eight miles, he's showing proficiency in school. He handles himself well, socially at parties isn't drinking too much, but knows, went, you know, I mean, obviously they're integrating multiple cues. The brain is a complex place, but is there any information about what those variables are across cultures? 
+2  
+00:19:03
+Yeah. Well, I think that there's been less attention to that. So that's a great question. One of the things that we do know across cultures is that women attend to the attention structure. So the attention structure is a key determine of status. So there's people who are high in status or those to whom the most people pay the most attention. 
+1  
+00:19:26
+So the attention of others to them, not how well a given potential mate pay can focus and pay attention necessarily. Yeah, 
+2  
+00:19:33
+Yeah, exactly. And, but, but, but women look, I mean, you know, is the guy, even in the modern environment, is the guy spending eight hours a day playing video games, eating Cheetos and drinking beer, or is he devoting effort to his professional development? So hard work ambition. Does he have clear goals or is he in an existential crisis not knowing what he's going to do with his life? So those are some of the qualities that, that, that people look for. And also women use a, what's called an literature mate, choice copying. And this is related in part to the attention structure that is guys who have past the filters of multiple women. 
+2  
+00:20:23
+Those are like, pre-approved pre-approved men. So we've done studies where you just take a guy, photograph him alone versus take the same guy, put an attractive woman. Next one were put two women next to him and women judge, exactly the same guy to be much more attractive. If there is, if there is paired with women, then, then, then if he's not. And so, and some guys exploit this in the modern world by hiring wing women, to go with them on dates and so forth. This is my sister, a former girlfriend or whatever. So, but, but, but, but you're correct in, in Mo in that women use multiple cues to assess these things and they change over time. 
+2  
+00:21:12
+You know, so, you know, in the, in the modern environment, even things like the attention structure does this guy have a million Twitter followers or three Twitter followers. So that is an index of the attention structure and hence the status of the guy within the broader community. So, and, and from an evolutionary perspective, it's reasonable that women would prioritize these qualities because of the tremendous asymmetry in our reproductive biology, namely that fertilization occurs internally within women, not within men, women bear the burdens of the nine month pregnancy, which is metabolically expensive, as well as creating opportunity costs in terms of mobility and, and solving other tasks that people need to solve in the course of their lives. 
+2  
+00:22:02
+And so one way to phrase that is that the costs of making a bad mate choice are much heavier for women when it comes to sexual behavior. Certainly because it, and the, the benefits correspondingly of making a wise made choice are higher for women in the sexual context. But as I said, we have mutual mate choice in our species. And so what do men value more than women physical attractiveness 
+1  
+00:22:35
+As a more important criteria than do women about men? Yes. Yeah, exactly. 
+2  
+00:22:40
+Consistently, consistently. And it's not that women are, are, are indifferent to it. So women do pay attention to a guy's physical appearance, his, his fitness and so forth, and guys are actually off base. And that thinking that women prefer more muscular men than they actually do. So like in muscle magazines, these men with bulging biceps and so forth, women don't find that especially, but they do prioritize fit men, a good shoulder to hip ratio and other qualities of physical appearance, as well as things like cues to health. So, and physical. So physical appearance provides a wealth of information about a person's health status, but also provides for men a wealth of information about a woman's fertility, her reproductive value. 
+2  
+00:23:32
+Now not that men think about that consciously. I mean, you men don't walk down the street and see a woman and say, oh, I find her attractive because I think she must be very fertile. Maybe a few weird people do that, but most men just it's like, they just find those cues attractive. And the cues are cues associated with youth and health because we know that youth is a very powerful Q2 fertility and reproductive value. So men prioritize physical appearance and, and in the field of psychology, it used to, well, I was taught when I was an undergraduate that you can't judge a book by its cover, that physical attractiveness was infinitely arbitrary, infinitely, culturally variable. 
+2  
+00:24:12
+And, and it's simply not true. We know now based on the last 20 years of scientific studies, that the cues that men find attractive women are not at all arbitrary. There is some variation across cultures like in relative plumpness versus thin this, but things like clear skin, clear eyes, symmetrical features, a low waist to hip ratio, full lips, lustrous hair, all these are qualities that are associated with youth and health and hence have heavy evolved to be part of our standards of attractiveness. 
+2  
+00:24:55
+And so, and so it's not just that men are these superficial creatures who evaluate women on the basis of appearance. There there is an underlying logic to why they do so. And as I said, relative youth, this, this age thing is one of the largest sex differences that you find in long-term mates selection with women preferring somewhat older men and men preferring somewhat younger women. Is there a 
+1  
+00:25:19
+Age gap through to relate to the, 
+2  
+00:25:23
+That statement? Yes, there is a, so the age gap though depends on the age of the man. So, so we can document this. So in my studies, what we found is that men preferred women who were about three to four years younger than they were on average. And I'll qualify this in a second women preferred guys who were about three and a half to four and a half years older than they were. So there was a sex difference going in the opposite direction. But as men get older, they prefer women who are increasingly younger than they are. So one way to gauge this. So their, their actual marriage statistics, and then there are express preferences and both sex is kind of converged. 
+2  
+00:26:11
+So if you look at, you know, first marriage, second marriage, third marriage, as if people get divorced and remarried. Average age gap is in America. Anyway is three years at first marriage with the guys being older five years at second marriage and eight years at third marriage. So that as, as men are getting older and getting divorced and remarried, they are marrying women who are increasingly younger than they are in terms of preferences. It's also expressed in preferences. It doesn't go down. So, so like a, say a 25 year old man would say, prefer a woman who's 20 or in her early twenties, 35 year old man might prefer a woman who's in her late twenties or early thirties, a 50 year old man might prefer a woman who say 35 to 38. 
+2  
+00:27:04
+So, so the, the preferences do go up, but the gap gets increasingly larger. And the reason that you don't see things like why aren't men preferring women. So peak fertility in humans is around age 24, 25. And so you say, well, why aren't the 60 year old men prioritizing 25 year old women? Well, as I mentioned, we have a, it's a reciprocal mutual mate choice phenomenon. So it constrains the equation. Well, she constrains it, but also a marriage and long-term mating are things other than reproductive unions and the modern environment that is there. 
+2  
+00:27:47
+You know, we, we, you're supposed to do things as a couple. And if you get too large, an age gap, then essentially you're in different cultures in a, you, you know, you grow up with different songs and, and, and w and if the cultural gap gets too large, you don't understand each other. So, so, so there are constraints on that, but if you look at contexts where there are no constraints of that sort, so historically Kings, emperors, despots, et cetera, and I'll give one more modern example. They basically prefer young, fertile, attractive females. 
+2  
+00:28:28
+And if they have hair arms, they stock the heroines with those and then circulate them out when they're 30 and so forth. And so, so if you look at, at marriage systems that are unconstrained, then the, the preferences are more likely to be revealed or within cultures. That is, if you look at men who were in a position to get what they want. So as Mick Jagger noted, you can't always get what you want, but if you try sometimes, you know what you need. I hear that, that most of the time he got what he needed, he got what he wanted and maybe what he needed, but he, he was in a position. I don't know if he still is he that he's in his seventies now, but he was in a position as was, let's say, rod Stewart, to take another example or Leonardo DiCaprio. 
+2  
+00:29:13
+If you were a male, who's in a position where there are thousands of women potentially available to you, and you can have your pick, then you see that clearer expression for younger females. There was a chart that was floating around the internet of the girlfriends of Leonardo DiCaprio as he got older. And as he's getting older and older, and the graph of the age of his girlfriends, it basically stayed the same was in the early, early twenties or so 
+1  
+00:29:42
+He values 
+2  
+00:29:43
+Consistency is consistency. But so, so, so anyway, the data converge on that. So these are universal sex differences in long-term made selection. So now when we shift to, oh, and I should mention cultural variability, because that's a critical thing, because there is in the, my 37 culture study, what I found was the preference for virginity. That is no prior sexual experience. That was the most severe trouble desire across cultures. So you had cultures like at the time of the study, China, it was basically indispensable that a partner be a Virgin. 
+2  
+00:30:28
+And then at the other end, you have Sweden where Sweden Swedes typically place close to zero value on it. And some even find it undesirable. Like, you're weird if you're a Virgin. And so you have this whole spectrum, 
+1  
+00:30:42
+This is a virginity in the female, or is this also, this is not in when China, was it preference that the male and the female be some mutual mates, a selection, right? 
+2  
+00:30:51
+It was a preference for both sexes, but it's a good question because where there was a sex difference, it was always in the direction of males preferring virginity more than females, and we've gone back to China. So I still do research in China among other places. And we've gone back and retested, modern urban populations. And the importance of virginity has gone down in China, especially in the urban areas and the sex difference that did things this before has now emerged where males value it more than females. And I think part of it was in previous times, you hit, you hit ceiling effects, you know, where both sexes say, yeah, it's absolutely important to, to be a Virgin. 
+2  
+00:31:37
+So, so there's cultural variation and cultural change over time. And some of these qualities, but the sex differences that I described have remained invariant over the years. So since my 37 culture study, this has been replicated in, in at least a couple of dozen different cultures. And, and we've gone back to some of the culture. So I mentioned, we've gone back to China, Brazil, and India, to look at cultural changes over time. And, and there have been, you know, in some cases, dramatic cultural changes over time. But the sex differences that I described are invariant. They haven't changed a bit. 
+1  
+00:32:19
+I'd be remiss if I didn't ask about truth telling and deception, because some of the measures that you're describing age, for instance, one can potentially lie about, right? I'm guessing that there are people who do that on online profiles and whatnot, from what I understand, people also lie about height and other features on online profiles, but some of them are much harder to hide, right? Eventually the truth comes out about some, if not all of these things. So it, if you would, could you tell us about how men and women leveraged deception versus truth telling and communicating some of the things around mate choice selection? 
+2  
+00:33:03
+Yeah. Well, so the, basically the both men and women do deceive, so we have the modern cultural invention of online dating, which, you know, was literally used 10 years ago and virtually absent 20 years ago. And people do lie, but they lie in predictable ways. They lie in ways that attempt to embody the mate preferences of the person they're trying to attract. And so men do lie. They deceive about their income, their status. So they exaggerate their income by about 20%. They, they, they add, they tack on about two inches to their height. 
+2  
+00:33:45
+So if they're five, 10, they round up to six feet. So they don't like, if they're five down, they don't say that they're gigantic, but they, they kind of rounded up in the more desirable direction. Women tend to deceive about weight. So they tend to shave about 15 pounds off of their reported weight and both sexes posts, photos that are not truly representative of what they actually look like. So they might post photos of themselves when they were younger, or they're even advice, tips on how to create the best selfie of the best angle that will maximally, you know, enhance what you look 
+1  
+00:34:28
+Like or, or just doctoring of photos. I'm guessing 
+2  
+00:34:32
+Photoshopping. Absolutely. Yeah. And one of the things about it now, you say like, well, do people find out, of course, people, people do find out, I mean, I just give you one story about a colleague of mine who was doing is a male. Who's doing internet dating. And he picked only women who self-described as sevens on the one to seven on attractiveness. So the most attractive. So as self-reported and so into went out with this one woman, and she was missing her front teeth. And he said, well, call me picky, but missing your front teeth. And she thinks she's like the top of a drag was, he was a little disappointed about that. 
+2  
+00:35:13
+And women of course are disappointed. They, they meet a guy who they think is this physically fit, you know, athletic guy. And he comes up is, you know, 300 pounds overweight. So people, people do find out. And, and so, and there are some internet dating sites have kind of a vetting of the accuracy of something. So some you can look up through public records and does this guy have a criminal record, for example, is he, is he on a, you know, a sexual offenders website? So, so there's some things you can verify. But what I tell people is you, you really have to meet the person and interact, you know, because B be in part because of the deception, but also because what happens with internet dating is that the physio, the photograph tends to overwhelm all the other cues and all the other cues are written statements. 
+2  
+00:36:12
+And we weren't really evolved to process written statements, but we were evolved to respond to physical cues, but, and men tend to attend to the visual cues much more than women. So women in their mate selection, they have olfactory cues to what is the guy sound like? His vocal qualities, that's auditory cues, but all factory cues, what does he smell like? And so women have a more acute sense of smell than men do. And, and so if the guy doesn't smell right, even if he embodies all these other qualities, women want, that's a deal breaker. 
+2  
+00:36:54
+And, and so I encourage people just, you know, stop with the hundred texts back and forth or messaging and meet a person for a cup of coffee and interact. And then you'll, you know, you'll get a more accurate beat on the person. And then of course, some qualities you can't assess, even with, with a half-hour interaction, you can tell a lot, but things like emotional stability or things that have to be assessed over time. And so one of the things that I advise people to do, and I'm not in the advice-giving business, but people ask me all the time. If they find out what I study, they say, well, I got this problem. Can you give me advice? 
+2  
+00:37:35
+But one of the things to assess things like emotional stability, which is absolutely critical in long-term mating is to do something like go on a trip together, take, take a vacation where you're even in a unfamiliar environment where you're, you have to cope with things that you're not familiar with. And as opposed to an environment where it's very predictable. And, and so you get a greater exposure because one of the, one of the hallmarks of emotional instability is how they respond to stress. So emotionally unstable people tend to have a long latency to return, to baseline after a stressful event. 
+2  
+00:38:18
+And so this is the sort of information you can't get on a coffee date. You know, you can only get by assessing it over time 
+1  
+00:38:26
+And whose laboratory studies stress and tools to combat stress. That's great. It's yet more incentive for people to develop self-regulatory mechanisms for themselves. I'm guessing many of the features of deception in this context were present long before internet dating. And so is it it's somewhat dark to think about, but is, is deception built into this dance that we call mate selection? And has it been built in for a long time, or is this, or is this something that you think is emerged more as people are approaching each other through these electronic? 
+2  
+00:39:07
+Yeah. I mean, some forms of deception have been there for a long time over human evolutionary history. So one form of deception, which we haven't mentioned is deception about whether you're interested in a long-term committed relationship or a short-term hookup. And so there's deception about that, especially on the part of men. So men who were interested in like on Tinder, it has been reported, although Tinder denies this, there's been reported that something like 30% of the men on Tinder, or either married or in long-term committed relationships, and they're looking for something on the side, but the, in terms of successfully attracting a mate, the overt display that, Hey, I'm interested in just a short-term hookup. 
+2  
+00:39:54
+I'm interested in sex. So I want to have sex right now. Let's just go back to my apartment. These are very ineffective tactics. And so effective tactics for men are often displaying cues to long-term interests. And so, and of course that's effective for a woman who's seeking a long-term interest. And so, and so that's a deception. So we find in our studies of deception, that men tend to exaggerate the depths of their feelings for a woman exaggerate how similar they are and how aligned they are in their values and religious orientations and political values and so forth. And so, and, and so I think there's deception around that. 
+2  
+00:40:37
+And I think that's probably an evolutionarily, a recurrent form of deception that women have defenses against by the way. But I think that modern internet dating opens the door for certain types of deception, that if we're at a minimum, more difficult to accomplish ancestrally. So like things like Photoshopping, you know, you know, wasn't available back then, plus we evolved in the context of small group living where you not only had your own personal observations of someone's qualities, you had also your, your relatives, your friends, allies, the social reputation that someone had. 
+2  
+00:41:21
+And this is a, these are all critical sources of information that are less available in modern environments because, you know, people migrate, they move from place to place. They can close down one internet profile and put up another, or that could have six going simultaneously. So there, so the modern environment opens up the door for forms of deception that weren't available or weren't available to the same degree ancestrally. I see. 
+1  
+00:41:54
+Very interesting. Would you mind touching on some of the, the features that are selected for, in terms of sex, sexual partner choice? We talked a little bit about mate choice, but in terms of sexual partner choice, are there, is there, are there any good studies exploring what people are selecting for, or is it that they are both just in a state of, of a pure hypothalamic drive my neuroscientist after all? And, and therefore it's hard to recreate in the laboratory? 
+2  
+00:42:27
+Well, no, no. We, we do know something about that. And we know something about how the preferences for a sex partner differ from preference for a long-term mate. There is overlap of course, but one thing is physical appearance. So physical appearance for women is important in long-term mating, not as important it is for men, but it becomes more important in short-term mating. And so it is the guy, the looking, so those physical attributes are more important for women. They are, they remain important for men, physical appearance in short term mating. 
+2  
+00:43:08
+But with the footnote that men are willing to drop their standards in short term, mating, if it's low commitment, low risk, just sex, you know, without entangling commitments, women are more likely to prioritize what I call a bad boy qualities. So guys who are very self-confident guys who are strut guys who are a little arrogant guys who are risk-taking guys who defy conventions, women are more attracted to those guys in short-term mating than long-term mating. 
+2  
+00:43:53
+And whereas in long-term mating, they go more for the good dad qualities. Is this guy dependable? Was he going to be a good father to my children? And then also in short-term mating women use that make copying a heuristic. That is, if there are thousands of other women who find them attractive women find them attractive. And so that's why you have the group B phenomenon. So, so with the rock stars, for example, there are thousands of screaming, women, all of whom want to sleep with this famous rock star. And they use that as information they find, if you took like a still photo of some of these rock stars and asked women how attractive the guy is versus tell him he's a famous rock star and showed the thousands of women screaming, Adam, they judge them entirely differently in terms of his attractiveness. 
+2  
+00:44:48
+So, so, or even in, and this is, this is an important point that women's attraction to men is more context specific and varies more across contexts than men's attraction to women. And so I'll give you just an example of that. This is a female colleague of mine went to a conference, an academic conference, and she found the organizer of this conference to be really attractive and, and, and then saw him six months later and wondered, well, what was I thinking? I, he doesn't seem very attractive at all. And what it was is when he was the organizer, he was at the center of the attention structure. You know, he, he was the guy up on stage directing everybody and everyone was attending to him. 
+2  
+00:45:31
+And then when he was just a normal presenter at a conference, he wasn't didn't command the attention structure like he did in that when he was the organizer. And so this is just an illustration of how circumstance dependent women's attract, made attraction is for guys. It depends on, you know, his status, the number of women that are attracted to them, the attention structure is he, how, how he interacts with a puppy or, or a baby, if he's ignoring a baby in distress or positively interacting with a young child, all these things. Whereas for men, it almost doesn't matter. 
+2  
+00:46:13
+You know, context is a more irrelevant they're hunting in on the specific psychophysical cues that the woman is displaying and contexts be down. 
+1  
+00:46:23
+Very interesting. Let's talk about infidelity in committed relationships. What are some of the consistent findings around reasons for, and maybe even long-term consequences of infidelity for men and women, and this could be marriage or, or long-term partnership, or, you know, infidelity of any kind, I suppose. So I'm guessing it does happen how frequently? 
+2  
+00:46:54
+Yeah. That's the interesting thing. Well, well, how frequent it is, is it difficult to gauge because it's the, the, one of the forms of human conduct that people like to keep secret? So, so if you go back now say 70 years to the classic Kinsey studies, the questions about infidelity were the questions that most people refused to answer. And when the question was brought up, cause more people to drop out of the study. And so that kind of tells you something that, I mean, what, what do people conceal, you know, infidelity, incest murder, you know, there is a small handful of things that people universally want to conceal an infidelity is one of them. 
+2  
+00:47:38
+So, but people do it. And so Kinsey estimated 26% of married women committed in an infidelity at some point during their marriage. And about 50% of men, other studies have given lower figures. And so th th the exact figures bounce around, depending on, you know, anonymity provided and how comfortable they are with the interviewer and so forth. But 
+1  
+00:48:01
+The infidelity does that mean intercourse with somebody else. So we're not talking about quote unquote, emotional affairs. We're talking about just sex sex with somebody other than their committed partner with unbeknownst 
+2  
+00:48:12
+It's to their partner. Right. Right. And there are other forms of infidelity, which we could get into, including emotional infidelity and financial infidelity. But here, we're just talking about for the moment sexual infidelity. And the interesting thing about sexual infidelity is that the sex is really differ fundamentally in the motives for committing infidelity. So for men, the primary motive, and th these are on average sex differences. So whenever I talk about sex and I'm talking about on average sex differences, because there's overlap in the distributions. And, and, but, so these are generalizations of which there are exceptions. 
+2  
+00:48:54
+So, so for men, it's, it's mainly a matter of sexual variety. So about 70% of the men, it's the opportunity presented itself. I was out of town and I had this opportunity. So low risk, low cost pursuit of sexual variety, sexual novelty is a key motivation for men. 
+1  
+00:49:16
+Sorry to interrupt. I just want me, so 70% of men that cheat that's the primary cause, or is it that 70% of men do cheat? 
+2  
+00:49:25
+No, no, no. 70 of the men who cheat 70%, thank you for that clarification of the men who do cheat 70% cite that as the key motive, the key reason why they committed infidels, 
+1  
+00:49:39
+Why mountain climbers climb mountains because they're there. Right, 
+2  
+00:49:42
+Right. Because they're there, if they, well, you know, the comedian, I think it was Chris rock said, men are only as faithful as their opportunity. 
+1  
+00:49:50
+How, how available their password on their phone is to their partner. 
+2  
+00:49:54
+Right. Right. Yeah. So, but, and that's an exaggeration, but, but, but if you look at women, this just desire for pure novelties, sexual variety, as much less of a motive, but women who have affairs site that they're unhappy with their primary relationship, emotionally, unhappy or sexually unhappy. And typically both. And this may seem like totally obvious that, well, of course, people are unhappy in the relationship are more likely to stray, but in fact, it's not true for men. So if you compare men who are happy with their marriage and men who are not happy with their marriage, there's no difference in their infidelity rates. 
+2  
+00:50:39
+And I think it goes down to that issue of, you know, motive for seeking variety. So now why do women do it because it's, it's a risky endeavor. She risks her longterm mate or losing long-term mate. It's risky in terms of reputational damage for both sexes. So it's a risky thing. Why do women do it? And there are two competing hypotheses, at least two, but there are two primary competing hypotheses in the evolutionary literature. One is called the dual mating strategy hypothesis, where women are seeking to get resources and investment from one guy and good genes from another guy. 
+2  
+00:51:24
+So in prince and in principle that that can, that can work. And I initially this isn't, wasn't a hypothesis original with me. This is a Steve gang of stead Randy Thornhill. And some others have Marty Hazelton. A former student of mine have advocated this dual mating strategy hypothesis. And originally I was in endorsed it because the data seemed to support it and we can get into which data seemed to support it. But over time, I became more and more dubious about this hypothesis. And instead of advocated what I call the mate switching hypothesis. And so if you look at a whole host of information around why women have affairs, it's not compatible with the dual mating strategy hypothesis. 
+2  
+00:52:11
+So, and is compatible with the mate switching that is women who are looking to either divest themselves from an existing mateship or trade up in the mating market to a mate. Who's more compatible with them or higher inmate mate value, or simply see whether they're sufficiently desirable so that it eases the transition into the mating pool, or keep keeping inmate made as a potential backup mate. What I call mate insurance is you have car insurance. If something bad happens to your carp house, house insurance, we also have made insurance, you know, keeping someone one moment and said, men are like soup. 
+2  
+00:52:54
+You always want to have one on the back burner. So interesting. Whether that's the best analogy or not, I'm not sure, but, but it kind of captures something about, about why so, so, well, what evidence am I talking about? Well, for one thing, women who have affairs, and this is about 70% of them. 
+1  
+00:53:16
+So many again, sorry, just, I want to make sure people, the women, 
+2  
+00:53:20
+The women who have a fear, so let's say ballpark, Kenzie was, let's say right, 25, 20 6% of women will have affairs. Let's just assume that he's right. And we don't know exactly, but of the women who do have affairs about 70% say they have fallen in love with their affair partner. They become deeply emotionally involved with their affair partner. And to me, if you're just trying to get good genes from a guy that is the last thing you want to do is fall in love with them or get emotionally involved. But it's very compatible if you want to switch mates. 
+2  
+00:53:59
+And so the, so that's sort of a, that's, that's one piece of evidence that suggests that women, th the, the mate switching function of infidelity is a more likely explanation. Now, these two are not inherently incompatible hypotheses. In other words, that it's possible that some women do pursue a dual mating strategy hypothesis, but there's other evidence that suggests. So for example, what are the actual rates of genetic Cocodrie well in the modern environment? Anyway, they're pretty low. It turns out they're like two to 3%. Could 
+1  
+00:54:34
+You just explain for the audience with genetic co-culture? So this 
+2  
+00:54:37
+Is where, where the woman, where, where the man believes he is the genetic father of a child, but it turns out he's not, might be the mailman or the next door neighbor, or the guy she's having an affair with. So mistaken paternity and genetic Cocodrie is just one way to capture. And after the cuckoo bird, right named after the cuckoo bird yeah. 
+1  
+00:55:02
+Who sneaks its eggs into the nest of the other roles destroys the future offspring of the bird, and then basically offloads all the work onto another 
+2  
+00:55:13
+<inaudible> yeah. The parental investment of different bird species. So, so, so anyway, so I think that, and there's other sources of evidence that I think points. So one of the sources of evidence that initially seemed to support the dual mating strategy hypothesis was oblation shifts. So in other words, it looked like from the early studies that when women are obviating, these are among non pill taking women on women, not on hormonal contraceptives, that they experienced a preference shift toward more men who were masculine and symmetrical, which were hypothesized markers for good genes. 
+2  
+00:55:57
+And there's an explanation for that, but it turns out the effects of oblation on women's mate preferences are far weaker than initially, than the initial studies looked like. And in fact, some larger scale studies have failed to replicate them entirely. And so it's, that was one of the key sources of evidence. These ovulation shifts that women were going after the genes, because it's only when she's obviating and she can get pregnant by having sex with another man that it would make sense for her to have sex with another man. And there was even some early evidence that women were timing their affairs timing, sex with their affair partners to coincide with when they were arguing. 
+2  
+00:56:42
+But, but as I said, some of these subsequent studies have failed to replicate these early findings calling into question the dual mating strategy notion. And so I think I've, I've shifted my views on this. And, and now endorse the main switching hypothesis as a more likely explanation for why most women have affairs, 
+1  
+00:57:04
+The way you described this makes me wonder if w when of the women that have affairs, do those affairs tend to be more long lasting than the affairs that men have, because the way you described it, as men are seizing an opportunity to sort of a carpet, diem type approach to infidelity and women potentially on average, are capitalizing on something that is longer term. Now, of course, if they're doing this around ovulation, then it would constrain the amount of times they would need to see or have sex with the, the, the, this other person that they're not married to. But is there any evidence that women have more ongoing affairs in men, men have trans more transient affairs? 
+2  
+00:57:44
+Th there is. And so if you look at people who have affairs, there's a sex difference there. So that women tend to have affairs with one person and become emotionally involved with that one person over time, men tend to, who have affairs tend to have affairs with a larger number of affair partners. And so, which then by definition, can't be long lasting. You can't have long-term affairs with six different partners, 
+1  
+00:58:12
+Juggling multiple phone accounts or something. 
+2  
+00:58:15
+Right. And some men tried to do that, but I think it's, it could be very taxing. Yeah. Well, 
+1  
+00:58:21
+And in this day and age, it's, it's easier to meet more people by virtue of online communications, but it's also easier to get caught, meaning it's harder to conceal interactions. Everything's in the cloud. Anyway, a good friend of mine who is former very high level in special operations, said anything. That's not in your head and only in your head is available for others to define and should they want it? Yeah, I think that's, and I think that's largely true. 
+2  
+00:58:48
+Yeah. And, and yeah, so fun information, text messages and people are very good at hacking into their partners, phones, computers. And then also there are video cameras everywhere. So, so sneaking off to this, a quiet restaurant, I mean, there are probably eight video cameras that can record you walking in and out of that restaurant, 
+1  
+00:59:11
+Everything can be found. I'm certain of that. You mentioned emotional affairs and financial infidelity as well. I had a girlfriend once who, as a early date discussion said, not that I get the impression that you are, but I want to be very clear. She said that you are not emotionally, physically or financially tied to any other women. And I thought it was very interesting that now you bring up a financial infidelity. She's quite happily partnered now and not with me, but, but it's interesting as the first time I heard anyone spell it out that way as a list, almost like specific games in a grant, what is emotional infidelity? 
+1  
+00:59:53
+What is financial infidels? 
+2  
+00:59:55
+Yeah. Yeah. Well, this is a very smart woman that has all three. And so, and I assumed you, you were, you gave honest responses to all of those three questions. 
+1  
+01:00:05
+I recall I did, but as we now know that there, you can ask her at some point, right? 
+2  
+01:00:12
+And there is self deception in the service of deception. That is another issue. So emotional infidelity is basically exactly what it sounds like. It's, it's falling in love with someone else becoming psychologically close to someone else, sharing intimate or private information with someone else. That's what I mean by emotional infidelity. And one of the hallmarks of this, a study done by a former student of mine, Barry Cooley is a very clever, I thought he analyzed there used to be this reality TV show called cheaters, where they would hire detectives. And they would, when the detective with like, say follow someone to a hotel room, they'd call up the partner and say, your husband just walked into the hotel room with someone else. 
+2  
+01:01:01
+Do you, would you like to come down to the hotel and confront him? And certain percentage of people would confront and what he analyzed. So he analyzed all these episodes of this show called cheaters. And what he examined was the verbal interrogations when people confronted their partners and when men confronted their partners, the first question they want to know is, did you fuck him women? Their first question was, do you love her? And so this kind of captures that difference between a sexual infidelity and emotional infidelity, and also kind of captures another sex difference when it comes to sexual jealousy, you know, where men tend to be more focused on the sexual components of the infidelity, because those are what compromise his paternity certainty. 
+2  
+01:01:51
+He has certainty that he's actual actually the genetic father of whatever offspring and SU whereas love is accused to do you love her? That's acute that he's going to leave you the woman for another woman as a cue, that, to the long-term loss of that investment and commitment from that partner. And so, and so the sex has seemed to differ in which aspects of the infidelity with women were attuned to more upset by the emotional infidelity men, more by the sexual infidelity. Now, financial infidelity has been explored much less, but in, in, in my new book, when men behave badly, I have a section on financial infidelity where I summarize all the research that has been done. 
+2  
+01:02:41
+And I was kind of flabbergasted by the percentage of people who do things like have credit cards that their spouse doesn't know about. Keep secret bank accounts, have the credit card bills mailed to their office rather than their home have basically resources and expenditures of pooled resources that they keep from their partner and both sexes do it. And, and the percentages vary from study to study, but they range from like 30 to 60% of all people who are keeping financial information from their, from their spouse in one way or another, it could be the woman's out buying designer, purses, or designer handbags. 
+2  
+01:03:24
+It could be the guys out going to strip clubs or taking his affair partner to restaurants, and doesn't want those charges to show up on, you know, a jointly held credit card. So financial infidelity is critical. And then even things like diverting pooled resources to one set of genetic relatives versus another set is another thing that people tend to keep secret. So there are forms of financial infidelity as well. So, yeah, infidelity, you're absolutely, it's a great question because it shouldn't be confined to sexual infidelity, which is what most people think about, but also emotional and financial. 
+2  
+01:04:07
+Interestingly, if you ask people, what do you mean? What, what is infidelity in a marriage men tend to say, well, it's obvious as she has sex with someone else that's infidelity. Whereas women are more likely to have a broader definition of infidelity. They will cite things like emotional infidelity, financial infidelity as part of the definition. Whereas men have that more narrow definition. Interesting. 
+1  
+01:04:36
+I have a good friend, who's a couples counselor, a clinical psychologist. And she told me something interesting that relates to this, which is that in cases of infidelity, oftentimes the, some of the arguments between couples boil down to whether or not contraception was used or not, that becomes a key feature. And she always thought that that was, you know, home homing in on a detail, which of course is an important detail as it relates to both paternity issues and pregnancy, but also disease. Right. But as we're talking about all this, it, it makes, it makes me think that this may have deeper evolutionary roots in our, for further down in the brain, as we say. 
+1  
+01:05:19
+Yeah. 
+2  
+01:05:19
+Yeah. Well, and, and yeah, and I mean, using a condom versus not using a condom, not using is a more intimate act in a way you were literally physically more intimate with someone else than if you do use a condom. So, you know, but whether it's a weather evolutionary roots to this, I don't know. I mean, condoms are probably relatively recent in, or at least a widespread use of them are relatively recent in evolutionary times. So I doubt we have adaptation specifically for them. 
+1  
+01:05:53
+No. And presumably before condoms, that one can only speculate because as we say with, when it comes to behavior, there's rarely a fossil record, but sometimes there is, it would be the withdrawal method of contraception, which a good friend of mine who studies, whose laboratory works on reproductive biology says the reason that's a poor choice of contraception is because it was designed not to work. So note, note to those of trying to avoid unwanted pregnancy. So we talked a little bit about status in terms of what men and women are selecting for, for different types of relationships. Is there anything else about status that you find particularly interesting and you know, what men are finding attractive besides these, you know, waist to hip ratios and qual quality of potential mothers and so forth. 
+1  
+01:06:46
+Are there any kind of hidden gems in the literature around this that I might not have heard of? 
+2  
+01:06:52
+Well, yeah. So you mean among, you know, things like sex differences in what leads to high status or S or 
+1  
+01:07:00
+For instance, or what, or perhaps things that are surprising in terms of what people are selecting for. Do people even know what they're selecting for this is, or is this all subconscious, any, and all of the, those topics are of interest to me. 
+2  
+01:07:15
+So we'll have to take them in reverse order. You know, I think a lot of that is conscious, but some of it is certainly unconscious or there are elements which are totally unconscious. So I mentioned one earlier where man looks at a woman, he's not, he's aware that he's attracted to her and attracted to her physical appearance, but he might not be aware of why, you know, we didn't evolve to be aware of why just like with food preferences, we, we find certain things delectable and other things nauseatingly, we, we don't understand the adaptive logic of why our food preferences exist and why we have them. And the same is true of mating, you know? 
+2  
+01:07:57
+And so men find women with, with a low waist, hip ratio attractive, but they might not that they almost rarely, rarely will. They know, oh, low waste waster ratio is actually associated with higher fertility, lower endocrine, logical problems, lower age, et cetera. So, so we're sometimes aware of what we want, but we are unaware of why we want it. So, so I think there are unconscious elements that the whole topic of status and what leads to high status on low status. It's a topic I'm currently investigating, published a couple scientific articles on it. 
+2  
+01:08:40
+And so, but maybe we'll hold off on that for a future discussion, but, but it intersects, I'll mention one, it intersects with mating in, in interesting ways in that higher status gives people the ability to choose from a wider pool of potential mates than they would if they have low status. And so one of the reasons that people strive for status is because they have access to more desirable mates, conversely, having desirable mates, endows you with higher status. And so if you have, if you're a male, you have a very attractive woman on your arm that leads to high status. 
+2  
+01:09:26
+And so there's a reciprocal link between status and mating in that way. And there've been studies where you, you say, they say they pose a kind of unattractive guy, older unattractive guy, and a stunningly beautiful woman as, as a girlfriend. And they say, well, what, what what's this guy all about? And they say, oh, he must be very high in status. He must be very wealthy. He must have a lot going for him, you know, whereas the reverse people don't make the same attribution's. And so, and so there is an interesting reciprocal link between status and mating success where maybe success leads to high status and high status leads to more mating success 
+1  
+01:10:10
+Over and over again, there are these instances that you described where the assessment of potential mates, sexual or long-term partnership, or being made in the contents of, of good statistical practices, looking at the choices of others as a readout of your own choices. I keep it, this seems to be a theme that the, this is not being made in a very narrow context, but paying attention to what other people are paying attention to. It seems to come up again and again, slightly off center from that, but still paying attention to what other people are paying attention to. What's known about jealousy in men versus women and how frequent it is, how intense it is and what people do with that jealousy. 
+1  
+01:10:52
+I mean, we hear, or I've heard at some point that a large fraction of homicides are the consequence of jealous lovers. That's the darkest angle of all this, but in evolutionary psychology context, what is jealousy? Does it relate to paternity issues? Only a what can you 
+2  
+01:11:13
+Tell us about you? Yeah, so, well, as a, as a great set of questions, and, and when I first started studying jealousy, I reviewed all the prior publications on jealousy. And at that time, jealousy was regarded as a sign of immaturity, a sign of insecurity, a sign of a neurosis or pathology, or in some cases delusion. And what I argued is, and do argue is that jealousy is an evolved emotion that serves several adaptive functions. Okay. One of which you mentioned is, is a paternity certainty function. 
+2  
+01:11:57
+But, but to, to back up a second, basically, once you have the evolution of the long-term mating, long-term pair bonds, you're talking about from a male perspective, investing a tremendous amount of resources in a woman and her children over years or decades, even with boomerang kids now, and may go more than two decades, boomerang, kids, kids, kids who leave home and then come back and live at home because they have, because they, oh, yeah, that has children. So I, yeah, no, that's a big thing. But if I do, I'll just expect that they'll come back, come back. Those, they, they can't find a job or they find it cheaper to live at the parent's house or whatever. 
+2  
+01:12:37
+Oh, goodness. I 
+1  
+01:12:38
+Can't think of anything worse. I mean, I love my parents, 
+2  
+01:12:40
+But I know I can't imagine, but, but it happens and it's happening more and more in given the current economic situation. Okay. But so once you have long-term mating, you need a, a defense to prevent or preserve the investment that you've made and are making and long-term mateship. And so jealousy serves this mate guarding function, if you will, or make retention function. So in other words, one way of phrasing, this is that we know that there, there affairs, we know that people break up, they get divorced, but people have adaptations to want to hold on to their mates. 
+2  
+01:13:23
+Okay. And that's what jealousy is important about. And so jealousy gets activated when there are threats to that romantic relationship. And there are other forms of jealousy, like sibling jealousy and so forth, but we're focusing on mating jealousy in this context. So now what's interesting is that the threats to an ongoing, valued romantic relationship come from many sources. So they could be, you detect cues to your partner's infidelity or cues of a lack of an emotional distance between you and your partner. You, you say, I love you to your partner and your partner says, oh, I wonder how the hell the Knicks are doing this scoring season or whatever. 
+2  
+01:14:08
+If you get an unreciprocated, I love you as a bad queue or 
+1  
+01:14:11
+A half, or some people are so tuned to this. If there's a half millisecond delay, right. It can detect delays in responses. Yes. 
+2  
+01:14:18
+Yeah. Delays in responses, but even things like, so that's one set of cues, but then there's another set of interested mate poachers. So, you know, if you're made it to someone who's desirable, which many people are, other people still desire them. And so sometimes try to poach them or were them away from you for a short term sexual encounter or for a longer term relationship. And so we have to be so jealous. He motivates people to be attentive to potential mate poachers in their environment, but even more subtle things like mate value discrepancies can trigger jealousy. So even if there are no mate poachers and no accused infidelity, if a mate value discrepancy opens up in a relationship. 
+2  
+01:15:06
+So in the American system, like you're a six or an eight or a 10, and people generally pair off based on similarity and mate value. So that's okay 
+1  
+01:15:16
+To happen. Techs ended up with sixes sevens ended up with six plus or minus one, right? So these are somewhat similar, 
+2  
+01:15:23
+Okay. Is somewhat subjective, but there's still some consensus about these things. So even colloquially the people colloquial, the people say things like he's not good enough for you, you know, or I think you, you could do better to people and implicitly have a notion of relative mate value and discrepancies there in, Hey, but discrepancies can open up where none previously existed. So you get fired from a job. All of a sudden, you know, and most people are very understanding and forgiving about that. If it's not too long, but you go six months, eight months, people start having problems or someone's career takes off. 
+2  
+01:16:03
+Let's say a woman becomes a famous singer or actress or, or, or Amanda's career takes off. All of a sudden there's a mate value discrepancy where you have access to a larger pool of potential Mason, higher mate value, potential mates. So, so people are attentive to mate value discrepancies. And so jealousy can get activated, even if there are no immediate threats to a relationship. But the mate value discrepancy is a threat that looms on the horizon of the relationship, because we know statistically the higher mate value person is more likely to have an affair and is more likely to dump the other person and trade up in the mating market. 
+1  
+01:16:46
+And when people find a new partners for long-term relationships, do they tend to trade up 
+2  
+01:16:52
+On average? Yes. If the discrepancy, if the discrepancy is sufficiently large, so small, so there are costs associated with breaking up, you know, divorcing for example, I mean, is it emotionally, financially, it's a costly thing. And so if you have like a half a point mate, value discrepancy, you're not going to see a lot of breakups, but you know, if you have larger may value discrepancies, that's going to Augur more for a trading up in the mating market. So, but so th then, then you get into, so what jealousy is, it's an emotion that gets activated by these circumstances. And then what people do about it depends on what their options are. 
+2  
+01:17:35
+And people do things that I, in my published scientific work, I say range from vigilance to violence. So there's whole spectrum of things. And in fact, I've identified 19 different tactics that people use to deal with problems once they get jealous and one is increased vigilance and the other vigilance 
+1  
+01:17:56
+For the behavior of the 
+2  
+01:17:58
+Mate. Yeah. Visuals for the behavior of the maid. And that can include stalking, following, hacking into iPhones or computers, monitoring the behavior of mate poachers, looking at eye contact between other men in your partner. There's a whole suite of things that you know, is involved in, in vigilance and then at the other extreme. And we can talk about things in between, but the other extreme is violence. And so in my new book, when men behave badly, I have a whole chapter on intimate partner violence. And this is what I argue in. This is really unfortunate and I'm not endorsing. 
+2  
+01:18:41
+I think it's illegal, it's bad, don't do it. But people will engage in intimate partner violence in America, something like 28 to 30% of all people who are married will experience intimate partner violence in their, in their relationships. So it's not a trivial percentage. 
+1  
+01:18:59
+And that violence is between the two partners 
+2  
+01:19:01
+Between the two partners. Yes. There's also violence that gets directed to our potential mate poachers, but that's, that's a somewhat separate issue. Okay. But one of the things that is functional about the violence is that it tends to reduce perceived mate value discrepancies. So in other words, I say, it's a guys tend to engage in the violence more than women do. Although some argue that there's more equality in the violence, but at a minimum men tend to do more damage when they do the violence. And when you're 
+1  
+01:19:35
+Talking about violence as this ever emotional violence, I mean, 
+2  
+01:19:38
+There there's that as well. And in fact, the two tend to be correlated. So in my studies of married couples, verbal violence is a good predictor of physical violence happening as well. So one things that'll happen just to give a concrete example, guys will start insulting their partners appearance. You're, you're really looking ugly today. Your, your thighs are heavy or, you know, you know, not looking very good. So they try to denigrate the woman's appearance, which is a key component of woman's mate value. 
+1  
+01:20:08
+So they're trying to adjust more closely the mate value discrepancy, 
+2  
+01:20:12
+Trying to reduce her perceived self perceived mate value. So if, if let's say he's a six, she's an eight and he can convince her that she's actually only a six, then she's going to be more likely to stay with them. Very diabolical it's terribly diabolical. But the fact is women don't feel good about themselves when they get beaten up by their partner. In fact, in, in the cases where it leaves physical evidence, you know, women wear sunglasses or turtlenecks or cover up the, the, the bruises is it is, it literally does lower the mate of the woman by injuring her physical appearance. 
+1  
+01:20:55
+I'm getting her to conceal herself, stay home, et cetera. Yeah. She's taking her out of the, the literally reducing her visibility. 
+2  
+01:21:03
+Right. And, and that's actually, one of the predictors of violence is if he starts doing things other than violence, like cutting off her relationships with her friends and her family, trying to sequester her and prevent her from getting exposed to potential other, other, other partners. And so it is a very diabolical, but I think important to understand that, you know, the, the potential functionality of, of intimate partner violence. So 
+1  
+01:21:33
+What about it, sorry to interrupt again, but I'm just so curious. So oftentimes my audience will say, yeah, interrupt too often, but I want to make sure that I don't miss it an opportunity to ask you about the intimate partner violence in the other direction, female to male, where stereotypically speaking that the opportunity for physical violence is still there. But the, the idea in mind is that it would be more of a psychological nature. Although I think there is evidence that, that some women beat their husbands, but I'm guessing it's not as frequent or am I 
+2  
+01:22:02
+Well, well, different studies. So it depends on whether you just simply count up acts or whether you look at the damage is done. Okay. And, and as I mentioned, men tend to do more physical damage. So there are shelters for battered women all over the country. As far as I know, there's one for battered men. Now it may be, and this is partly true that men are more ashamed if they get beaten up by their partner clock with a frying pan and it's possible. And there's evidence that police don't take it as seriously. So there's one case that I reported in my book where a guy called the police and his wife had clocked him with something and it police shows up. 
+2  
+01:22:46
+And he says, if she's so much as broke a fingernail in this altercation, they'll charge you and not her. And so there's a, there is a, a police bias, a potential police bias in this. And so there may be under-reporting of women beating up men as a consequence. Okay. But the motivations are often different. So one is that male sexual jealousy will trigger him to attack his partner. And then she will use physical violence to defend herself. So she might pick up and a frying pan or, you know, or, or a weapon of some sorts of defenders. 
+2  
+01:23:29
+So, and so the motivation is his sexual jealousy on his part, but self-defense on her part. And so that accounts for some unknown percentage of the cases, and in some cases, it is women who were outraged when they discover their partners been having sex with someone else and infidelity of a sexual financial or emotional nature. And so there is some female to male violence that absolutely occurs, but the, the reduction of perceive of mate value discrepancy is a key function from male perspective. Now, again, not that he thinks about this, he's just angry and wants to hurt her. 
+2  
+01:24:11
+Okay. Okay. But, but here here's one other thing that is really interesting about the intimate partner violence and that's the specificity of it, depending on circumstances and namely, when the woman gets pregnant, she's more vulnerable to physical violence. And when the man suspects that he's not the father of that pregnancy, he's more likely to direct the violence toward blows to her abdomen. Okay. It's, that's that specific. And so in that case, the function is, is hypothesized function is to terminate the pregnancy by a rival male, as opposed to deterring the woman from committing an infidelity or from leaving the relationship entirely. 
+2  
+01:24:58
+So that's why one function of Indian, but part of the violence is, is just sequestering the woman and keeping her all to himself. So it's both to prevent infidelity and to prevent defection. 
+1  
+01:25:10
+I have a friend who wife told me that if she, if he cheats I'll kill him, that's what she said, but it's actually just much easier to keep him very, very busy. And, and that statement now leaps to mind, because of what you're describing, that there are many tactics by which people can engage this effort to reduce the mate value discrepancy. Not all of which are overtly violent, but some are, but all of which are designed to constrain their B 
+2  
+01:25:45
+Behavior. Right, right. Yeah. These were, so these would fall under what I would call mate retention tactics and only one or two of which fall under the violence category. Yeah. They're even, yeah. Within partner, psychological manipulations about these things. So there are psychological manipulations about perceived made value, you know, no one else would want you, you know, you're, you're a loser there's denigration of partner within the relationship, even feigning anger to make the partner feel guilty about say looking at someone else. 
+2  
+01:26:25
+So, so there's all kinds of internet nesting warfare that goes on within relationships to manipulate perceptions of these things. This is how I'm creating a much too jaded view of romance and love, I think, 
+1  
+01:26:38
+Oh no. W we we'll get to the, the, the happy endings and LA, I mean, there are certainly many happy relationships out there. I, oh, you know, as a neuroscientist, I hear about this and, and the immediacy of, of how people, you know, fall into a pattern or jealousy or a pattern of cheating and not always, but, and I, it just speaks to a brain circuitry. That's evolved to protect something. And I'm sure this statement is not exhaustive, but I think it's accurate to say that every species, but especially humans wants to make more of itself and protect its young, but these issues of paternity and resource allocation, I mean, I think they're vital. 
+1  
+01:27:19
+And, you know, I look forward to a day where evolutionary psychology and neuroscience can merge at the level of, of underlying mechanism. But I don't think it's dark. I think it's just the way we're wired at some level. Speaking of dark, could you tell us about the dark triad? 
+2  
+01:27:36
+Yeah. So the dark triad, so we've been talking about sex differences on average, but there are critical within sex individual differences. And the dark triad is one of the most important ones. The dark triad consists of three personality characteristics. So narcissism Machiavellianism and psychopathy hallmarks of narcissism or things like a grandiosity person thinks that they're more intelligent, more attractive, more dazzling, more charming than they actually are. I think they're the greatest person since sliced bread, importantly, with narcissism, you also get a sense of entitlement. 
+2  
+01:28:16
+So they feel entitled to a larger share of the pie, whether that be the financial pie, the status pie, or the sexual pie Machiavellianism is high scores tend to pursue an exploitative social strategy. So they might Fain cooperation, but then cheat, you know, on subsequent moves, they view other people as pawns to be manipulated for their own instrumental gains. And then psychopathy. One of the hallmarks of psychopathy is a lack of empathy. So most people have a normal empathy circuit where if a child falls down and gets hurt, we feel compassion for the harm that that person is undergoing. 
+2  
+01:29:01
+Or if a puppy gets a hit by a car or whatever, we feel compassion, psychopaths, dome. That is those high on this domain. It's a dimensional thing. It's not a categorical thing. So those high on psychopathy basically lack empathy. And so if you combine these qualities, narcissism, psychopathy, immaculate, Mackey Von is you, you have well, some very bad dudes. And I say bad dudes cause Ben tend to score higher in these things than women, especially on the psychopathy dimension. So when you talk about clinical levels of psychopathy, it's estimated to be something like 1% of women and about 4% of, of men. 
+2  
+01:29:45
+So men are much higher on that. So why is this important? Well, it's important in the mating context because those who are high on dark triad traits tend to be sexual deceivers for one. So they're very often very charming, very good at seducing women, and then abandoning them sometimes with after fleecing them or draining their bank account. They're very good at, at the art of seduction, they are also tend to be sexual harassers, serial, sexual harassers, and sexual coercers. 
+2  
+01:30:29
+So when it comes to forms of sexual violence, high dark triad guys tend to be perpetrators of this. And so like most men I think, would be, find it ethically abhorrent to sexually harassing a woman in the workplace, dark triad guys, impart. Maybe they feel entitled to it. And, and, and in part they do. I mean, in some cases that I reported in the book, they're like literal descriptions where the guys are writing in these journals. Oh, I knew she was attracted to me. You know, that's why she, she met me in the Xerox room just when I was there. Cause she wanted to admire my bulging biceps or whatever. 
+2  
+01:31:10
+It's all about them. They, yeah. And they, they, they, and this gets into a bias that I talk about, which is the, the male sexual misperception bias where a woman smiles at a man man thinks, oh, she's she wants my body. She's attracted to me. And women are thinking, oh, I'm just being friendly. I'm being polite or professional. But these guys high dark tri guys are more susceptible to the sexual over perception bias. And they literally believe that the woman is attracted to them and sending them signals green lights to sexually approach. And so if you combined our dark triad traits with the dispositional pursuit of a short-term mating strategy, that's an especially deadly combination. 
+2  
+01:31:57
+That's when you get sexual harassment, sexual coercion. So these, these are very bad dudes, also predictors of intimate partner violence, 
+1  
+01:32:09
+Approximate frequency in the male population are these have all three of the dark triad traits. And I realized that they're on a continuum socio. 
+2  
+01:32:16
+Yeah. That's what that's, that's why you can't say because they are on a continuum and it's sort of arbitrary where you, where you draw the line. But, but I think it's a, it's a minority of men. It's a subset of men who commit the vast majority of these acts of sexual violence. And that's why it's not like if you, if you look at victims of sexual violence, they're more numerous than the perpetrators of sexual violence because the perpetrators tend to be serial offenders. So to speak one guy in the workplace, harassing 15 different women, one guy sexually coercing, you know, multiple. So that's why you have like, in well-known cases, in the news, like Harvey Weinstein, you know, probably over a hundred different women, bill Cosby, Jeffrey Epstein, some of these more famous cases, these are large number of victims, but pretty much soles, you know, the perpetrators. 
+2  
+01:33:13
+And there's no question that these guys like Harvey Weinstein and Jeffrey Epstein were definitely high on dark triad traits. 
+1  
+01:33:24
+You mentioned stalking briefly. W w we could just talk about some of the less known features about stalking. I think I once heard you give a lecture where you said that one of the scariest things about stalking is that sometimes it works. 
+2  
+01:33:42
+Yes. Yeah. So, well, stalking has multiple motivations, but one of the most frequent motivations is a mating motivation where either the there's a breakup and the woman dumps the guy and the guy doesn't want to get dumped. He wants to maintain a relationship with her. And I should say that. And when it comes to criminal stalking, there's a huge sex difference. About 80% of the stalkers tend to be men about 20% women. So there's, so there are women's stalkers, but they're, you know, about a fourth, the number compared to men. 
+2  
+01:34:22
+So the motivation of the guys tends to be either an attempt to get back together with the woman, either sexually or in a relationship or, and, or to interfere with her future mating prospects. And it works in, in some of the time in two senses. One is it does interfere with her attempts to remade. So in fact, it scares off some guys. So like you show up and pick up a woman at her apartment for a date and her, her ex is sitting out there glaring at you. Or, 
+1  
+01:35:00
+And I, I I'm, I'm actually familiar with the circumstance where early in a relationship, somebody mentions that an ex has made veiled threats about surveillance. For instance, I've actually had that happen several times in my dating history where someone would say, you know, you started opening up about previous relationships a little bit as it's appropriate. And someone says, yeah, you know, he mentioned that he was gonna, you know, send someone around to, you know, to surveil me, you know, that kind of thing, which is a very interesting factoid to pick up. And, but I heard it enough times and people I know have reported hearing this enough times that I I'm guessing that that's probably more frequent than people actually trailing people in cars and things of that sort. 
+1  
+01:35:47
+But planting that it's like the psychological seed of surveillance is a form of, of harassment in someone's. 
+2  
+01:35:52
+Yes, absolutely. I think that you're right. I mean, there's that planting the psychological seeds, but then also with surveillance, some surveillance is remain hidden. So you don't know necessarily. Yeah. 
+1  
+01:36:04
+I, I confess in this case, it did not act as a deterrent for continuing the relationship, but that's, but that's another story. So, so how often do women respond? I have to put this in quotes for those that are listening, air quotes and quotes positively to stop. I mean, how often does it work to re-secure the partner after they've been broken? 
+2  
+01:36:26
+Well, so in our, in our studies, it's a minority of cases that it works to reestablish. I think something like 15% of the time that it works either to temporarily reestablish a sexual relationship or lure the woman back in for a more permanent relationship. So most of the time it doesn't work. But one woman in our study said the guy, every time she went out with another guy, he would threaten the other guy. And she said after about six months, there were another guys he'd basically scared off all the other guys. And so she went back to him because there were no other guys were, 
+1  
+01:37:07
+Yeah. I, I experienced this to an, I was in college. I lived in a small town, very population dense. I Lavista UC Santa Barbara. And there was a couple where every time this woman would date someone, he'd basically beat up whoever the new suitor was. And pretty soon no one would go near them. They got a reputation as the kind of sit in Nancy couple, and indeed it worked, it worked in the sense that no one dare go near her and they ended up together. So I, so I've, I've seen real life examples of, 
+2  
+01:37:38
+Yeah. So, so it happens, but, but it is, it is in general, modern, not a successful strategy. 
+1  
+01:37:44
+That's not what I'm suggesting. I was just shocked to learn that because we hear stalking and we, we have this, there's one very extreme image of it, but the underlying motivations I think are, are reveal something about yeah. 
+2  
+01:37:56
+Meeting dynamics. Yeah. And I think that the circumstances are often a mate value discrepancy where the guy realizes correctly that he will be unable to replace her with a made of equivalent mate value or, or in some cases in any mate, you know, it's like, was she, she was with me once. Maybe she, I can get her back with me again. So, so the psychology is very understandable, but, but it tends, it tends not to work because, and then the other thing we found, we just study of 2,500 victims of stalking. This is with Josh, Duntley a former student of mine. 
+2  
+01:38:36
+Who's now a professor in the criminology department. And what we found is there were a large sex, large differences between the stalker and the victim of the, or where, where the stalker tends to be much lower in may value than the victim. And so basically the it's typically the woman who realizes she can do a lot better on the mating market and the guy realizes I am never going to be able to replace her with a, with a woman of equivalent may value. And so I'm going to use this last ditch desperate measure to try to get her back. And occasionally it works. 
+1  
+01:39:16
+I'm thinking more about this vape mate value thing is this, this number, this metric, the 8, 10, 6, whatever it is. And mate value discrepancy playing such a strong role in all in all these dynamics. I should've asked this earlier, but what is the impact on mate value perceived or real of a woman having already had children? You know, for instance, there, friends of mine who are married and divorced who have children will often post pictures of themselves with their children in their online profiles, because it shows a strong sense of paternal instinct. 
+1  
+01:39:57
+You know, there's the puppy thing, people with dogs or puppies that demonstrating care capacity to care and for caretaking in women, that the opposite is also true. Women with children show capacity. It demonstrates fertility, at least at, at one point perhaps still fertility that's still present. Does it positively, negatively or neutrally impact a woman to already have children when seeking another mate, regardless of whether or not she was married or had the children out of wedlock 
+2  
+01:40:29
+As a general rule, it decreases for mate value because kids with another Mader viewed as a cost, not a benefit. And there are costs on multiple dimensions. One of which they're going to be a cost to the guy because he's gonna have to invest resources, time, attention, so forth, but also a portion of her effort and are going to be devoted toward kids who are not genetically related to him. And which is one reason why step families, there's often a lot of conflict within step families, very explicable from an evolutionary perspective injury. So in general, it's a cost, not a benefit. Sometimes it can be a benefit though. 
+2  
+01:41:09
+So I know one case where a woman got divorced, she had two kids and she ended up successfully mating with a guy who was also divorced and had primary custody of his two kids. And so there was a compatibility there, but as a general rule, it will decrease a woman's and a man's made value to have kids, especially kids who are financially, who are young and financially dependent. But what happens is let's say the woman would be an eight without kids, a guy who's a six might be able to attract her and might feel lucky to attract her because there's no way he would have been able to attract her under other conditions. 
+2  
+01:41:52
+But that's why the display of effort investing in her kids is often a mating tactic he's showing, okay, I'm willing to invest in, in kids, I'm willing to sacrifice. And so they in essence become equivalent in mate value as a result of that. But will she be able to attract on average, you know, other eights, less likely, but the same is true of guys. And this is why the, the, the reason that it affects women more than men is because more custody tends to go with women. That is the kids, women tend to have Raider custody and women tend to invest more in the kids throughout their lives. 
+2  
+01:42:35
+Now, there are other things like alimony and child support, payments, and so forth, but all the women I've talked to, I've talked to one on one-on-one with many women about this. They view a guy with kids as a cost, not a benefit unless the kids are old enough and they've left home and have no fun, no longer a financially dependent 
+1  
+01:42:55
+And everything you just described is consistent with, with what you said earlier, which is that with subsequent marriages or as men get older, the tendency is to seek mates that are progressively younger, right? Because there's a higher, lower probability. They'll already have children, if they're, if they're 
+2  
+01:43:14
+Right, right. And there. And, and if the guy's successful, if he has status and resources and has other qualities associated with higher mate value, then he will remain attractive to younger women. Okay. 
+1  
+01:43:26
+I realize it's not your specific area of expertise, but these days there's a lot of discussion about how early childhood attachment to parents influences may choice later on this kind of general categorization of avoidant and anxious and anxious avoidant and all this kind of thing. And again, putting my hat on as a neuroscientist, I think, you know, it, it makes sense that the neural circuits for, for attachment in childhood would be somehow partially or in whole repurposed for other forms of attachment. We don't just tend to say, okay, that brain circuitry was from when I was a kid and now I'm an adult. And so I'll develop this new attachment circuitry. I'm guessing it evolves and, and whatnot, but is there anything interesting about that, about childhood attachment strategies vis-a-vis stability of long-term partner choice or is that too big of a leap for us? 
+2  
+01:44:21
+Yeah. Well, I mean, I can offer some sort of informed speculation about it and, and as you point, it's not my, my area of expertise, but I know a little bit about it. And I mean, I think that, you know, a secure attachment style, if both partners have a secure attachment style, that's conducive to a longterm mateship avoidant attachment styles, avoidant people tend to have more difficulty with intimacy and also higher probability of infidelity and anxious attachment style. I don't know, can create problems of its own, you know, and the overly clingy dependent, you know, absorbing what I call high relationship load. 
+2  
+01:45:05
+So, you know, there's like mutation load, which we all have certain number of mutations. There's a P parasite load. There's also what I call a relationship load. So what is the baggage that someone brings to the relationship 
+1  
+01:45:20
+Probably correlated with the frequency of demand of immediate text message responses? Right. Well, I think that the frequency of demand like the, the latent, the expected low latency of text message responses plays out consistently in relationships, you know, early on, there's a very low expectation of response. And then as people get attached, depending on their level of anxiety, if they don't hear back from somebody really quickly where the mind goes is a, is a very interesting aspect, you know, or do you become suspicious? Do you become anxious? Can you stabilize your own internal mill you, or do you, or do you need to see the dot.dot that's coming back? I'd love to see a study on that. 
+2  
+01:45:56
+Yeah, yeah, yeah, no, that's a good one. And my intuition suggests that your prediction about that would, would pan out it would be the insecure that would really be, you know, getting upset if there were, if there were not that immediate response to the texts. 
+1  
+01:46:11
+I have a friend, a female friend who deliberately quote unquote using her language, trains her potential partners to be comfortable with a variable response latency. But then I asked her if she's comfortable with a variable response late. And she said, absolutely not. So there's an asymmetry, at least in that case, this is almost certainly a more rare circumstance, but I'd be remiss if I didn't ask about unconventional relationships these days. I don't think it's just by virtue of living in California, you hear more and more about a monogamish as opposed to monogamous and various forms of polyamory that may or may not include the Amery part PR you know, passes in permission based on seasoned circumstance and prior infidelities, like, okay, somebody had a mishap early on, you know, you have one pass, so to speak and you hear this kind of language getting thrown around. 
+1  
+01:47:17
+And, and it's intriguing to me because it seems like in an effort to bypass some of the more, if you will hardwired or at least culturally hardwired aspects of mate choice in sexual partner choice, you know, acknowledging jealousy, but confronting it by allowing your partner to be with somebody else. For instance, I, I confess, I have friends who have conventional relationships. I have friends with conventional relationships. Any thoughts on the polyamory or, 
+2  
+01:47:48
+Yeah, I do have a couple of thoughts on it. I haven't studied it extensively, but I think that the way I would phrase it is that there's an attempt to overcome certain evolved features of our mating psychology, but often in the service of other aspects of our mating psychology. So what I mean by that is this, so talk about polyamory, first of all, there's a sex difference on and off on average, that is, men are more likely to want to initiate a polyamorous relationship than women. There are lots of exceptions. And I actually know of at least one exception, personally, friends of friends of mine who were in a polyamorous relationship, but the motivation for men is that evolved desire for sexual variety. 
+2  
+01:48:38
+So it gives him access to a wider variety of sex partners, which is part of our evolved sexual psychology. Especially for men women, one motivation, a women also have a desire for sexual variety on average tends not to be as great as that of men, but also have it. But some women agree to a polyamorous relationship as a mate retention tactic. That is this guy in order to keep him, she has to agree to the relationship. And so, and so the motivations for engaging in polyamory are somewhat sex differentiated. On average, on average, on average score is lots of exceptions. 
+2  
+01:49:19
+So now when it comes to sexual jealousy, there is this recognition that there, and in my, the way that I would have framed it, there's this evolved emotion where we, it triggers sexual jealousy, senior partner having sex, or imagining your partner having sex, or be falling in love with someone else. And, but interestingly, and there haven't been studies on this, but I know of this one polyamorous couple where they reported to me, both of them reported to me. She, she doesn't bow. It doesn't bother her at all of her husband. They're married, has sex with other women. She, they allow it. I think it's like every Thursday night or whatever, they have the different couples that have different rules. 
+2  
+01:49:59
+But one time she saw him walking down the street, hand in hand affectionately with a former girlfriend and she got extremely jealous. So because it signaled an emotional connection. So the sexual didn't bother the emotional did. She happens to be bisexual. And she and her partner said that he, it really upset him when she slept with other men, but it was fine if she slept with other woman, 
+1  
+01:50:27
+Fairly common thing that I among the men that I know that are in polyamorous relationships, that that's a fairly common. Yeah. 
+2  
+01:50:33
+Yeah. And so he kept trying to <inaudible> internet saying manipulations, trying to encourage her to sleep with other women, but not with men. And in her case, encouraging him not to get emotionally involved with other women, but the sex was okay. So I think that, you know, I think that in the modern environment, you know, we, we have a very rich and complicated evolved mating psychology and what we're doing in these novel forms or semi novel, because these things have a pretty deep history themselves that we, we are, we're attempting to maximize some of our evolved desires while men, while keeping quiescent other revolved aspects of our sexual psychology, like jealousy, so satisfying or desire for sexual variety, but keeping jealousy at bay and different couples do it in different ways. 
+2  
+01:51:27
+So as you, as you alluded to, so I know one couple were live in Los Angeles and the woman from the woman said, she gives her husband permission to have an affair sleep with other women, as long as outside of the city limits of LA, you know, and this other couple it's has to be Thursday night, you know, so different people have different opinions 
+1  
+01:51:47
+And strengths on, but the constraints are R D specific and somewhat arbitrary to the relationship. 
+2  
+01:51:54
+Yeah, yeah. They're specific. And, and often in polyamorous relationships, people talk it out and, and come to an agreement on what is acceptable and what's out of bounds. So, but, but in a way, I mean, it, in a way it's just, you know, we can't change our evolve, sexual psychology. I don't think what we can do is we can activate certain elements of it and keep others quiescent and, and, and that's all good. And w in a way we, we do in the modern environment. So even to take it outside of polyamory pornography, okay. Widely consumed internet pornography, what, what does that do? 
+2  
+01:52:34
+Well, there's a big sex different there. Men tend to consume it a lot more than women. The forms of the pornography are different, but in a way, the pornography, what it does is it parasitized man's evolved desire for sexual variety. So they can, in some, in some sense, psychologically experienced sexual does a variety of different women's sexually without actually doing it by just looking at their computer screen. And so, in a way, what you get another way of phrasing that is that we create modern, novel, cultural inventions in ways that satisfy our evolved desires and our evolve sexual desires. 
+1  
+01:53:16
+Yeah. It's interesting with the kind of explosion of online pornography. I have a colleague at Stanford in psychiatry on a Lemke used, I used the dopamine system and she mentioned two things of interest. One is that not only is there a tremendous variety of, of experiences that are available to people to view in pornography, but the, the intensity is also quite high so much so that at least for young people who are observing a lot of pornography it's possible, and there are studies looking at this now that their brain circuits become wired to observing sexual acts, as opposed to being engaged in them, which can be extremely problematic. So it's, it's a sharp blade. So to speak this pornography thing, it isn't what it once was. 
+1  
+01:53:59
+And it's evolving quickly. Very interesting. So how should one frame all this? So I imagine the number of people listening are in relationships, or would, would hope to be in a relationship, you know, in terms of understanding what we are selecting for consciously or subconsciously, it seems like there are common themes. It's people want to feel attractive and attracted. Eh, people want to make sure that there's stability of the relationship. So when we hear about security, oftentimes I think of this kind of warm, oxytocin, serotonin like thing, but, but this mate value in seems so powerful in all this assessing mate value. 
+1  
+01:54:44
+So how objective are people about assessing their own value in terms of finding securing and over time, maintaining a relationship securing is dynamic because people age at different rates, right? Is there a, an objective metric of this stuff? I guess you get a lot of statistics about somebody's image and you find, come up with a value, an average value based on the population, but how should people assess themselves? Because it seems like one of the features that would be very powerful for leading to happiness of good partner selection, that stable, where you one doesn't have to resort to these Makaveli in or diabolical or any of these other strategies would be to be very honest with oneself. 
+1  
+01:55:34
+And how does one do that? Yeah. 
+2  
+01:55:36
+Oh, great questions. And, and I don't think that the science has all, all the answers, so a couple things. So one is that I think people are generally pretty good at self-assessing mate value. And even self-esteem has been hypothesized to be one internal monitoring device that tracks made value. So when we get a promotion at work or we get a rise in status, we feel an elevated sense of self-esteem. We get fired, we get rejected, we get ostracized that our self-esteem plummets. So, so our self-evaluation, I think does track mate value. 
+2  
+01:56:17
+To some extent, there are people who overestimate their mate value people high on narcissism or particular in particular, and some people underestimate their mate value. Another important element is that there's consensual mate value. So that is if you asked a group of a hundred people, you know, there's fair amount of consensus that this person's an eight, that person's a six. Okay. But there are also individual differences in mate value. So one example is I know a woman, who's a professor and she places a high premium on guys who are deeply steeped in Russian literature, which she is so that she can have in-depth conversations about Russian literature. 
+2  
+01:57:01
+No two young men learn Russian literature, but this is high. And it's a dimension of mate value. That's important for her, but probably not important for a lot of other people. And so, whereas other people let's say might be, let's say you're into football or, or some sport then. And the other partner thinks sports are stupid. You know, then that's, you know, someone who's also into sports is going to be higher and value for you. So there are these individual differences in components that may, which is good, because that means if everyone were going after the same people, and there was total consensus on eight value, then there would be a lot of Maitlis people and a lot of problems in the world and a lot of dissatisfied people. 
+2  
+01:57:47
+So, so both are important, the consensual aspects and the individually different differentiated components of, of may value, but in terms of accuracy of assessment, it's there are no, no good measures scientifically to do this because it's, it's sufficiently complicated. So I mentioned, you know, we've mentioned maybe half, maybe a dozen different components that made value physical attract in this kindness, emotional stability, health status, et cetera. And, and these aren't the only ones. So I teach a course on psychology of human mating. 
+2  
+01:58:28
+And I asked the people it's a large course, a couple hundred people tell me, what do women want in a mate? And so I started with the Blackboard. This is back in the old days when there was a Blackboard, a piece of chalk, and they say, I want a mate who has a good sense of humor, sorry. Sense of humor, intelligent right time. And so I go through this and I go through five blackboards, and then I run out of space over what women want. Now I do the same for men and men kind of run out of space after about a Blackboard and a half. But, but what that tells me is that these qualities are large in number and complicated in nature. So you say you want a guy who's a nice and generous. They say, yeah. So like a guy who at the end of every month takes his whole paycheck and gives it to the oh, a homeless person. 
+2  
+01:59:14
+Well, no, not that generous, you know, generous toward me, but not toward everyone else. Nice in general, but not so nice that they're getting exploited. So, or even, you know, there's something you, you can't be too healthy. So if you put it that's unidimensional, but you want a guy, women want a guy who's confident, but not too confident, you know, because too confident will mean he's either arrogant narcissistic or not sufficiently manipulable. So, so anyway, so my point is that because there are so many different components of mate value and that they vary in amount. 
+2  
+01:59:54
+So it's not just listing the qualities and summing them up. They vary in amount. It's a very complicated endeavor to assess accurately, but I think people have a good, intuitive sense of people's relative mate value, especially if you've you're in a group and you've been able to interact with them for a long time. And one indication is, again, that attention structure, how many other people will really want to meet with this person. That's a good cue that they're high and make value. Nobody wants to meet with you then cue that your low inmate value. 
+1  
+02:00:28
+Well, it's me at the time when a one is trying to decide who to ask to the prom, you know, there's a, there's a complicated assessment based on who one would like to go with whether or not you're already partnered, who would say yes, who would say no, because there's a, there's a risk in rejection too, because that if I'm guessing correctly, what would could lower one's own perceived may, may value rejected, right? Frequency of rejections probably doesn't lend itself well to increasing one's own view of their mate value. 
+2  
+02:00:59
+Right. Which, which is why, why many guys have what I call a mating anxiety that is they, they don't approach him because they risk getting shot down. 
+1  
+02:01:10
+You're trying to maintain that number in the, by reducing the amount of data, right? Yeah. 
+2  
+02:01:17
+Very interested. It's but it's, it's it backfires in the modern environment. So, so there's a famous psychologist. Albert LSU had mating anxiety and he assigned himself the task of approaching, asking, like, I can't remember what the number was, but let's say 50 women out on dates. He lived in New York city. So it was either a lot of women, he could just stand still and they were streamed past. And any assigns of like ask 50 women on a date, you know, every, every week. And he said, after two weeks has made anxiety disappeared because most of them said buzz off creep, but he decided phones actually getting rejected didn't cause my world, the collapse and it actually was okay. And so he kind of endured himself to this rejection. 
+2  
+02:02:00
+And so it ended up, he ended up doing quite well on his meeting list. 
+1  
+02:02:05
+Another point for cognitive behavioral desensitization. Yes, exactly. He ran the experiment. Just a couple more questions earlier. You mentioned self-deception based deception and or something of that sort self-deception that people aren't always trying to convince somebody else of something that secretly they know isn't true, but that they deceive themselves. Could you embellish on that a little bit 
+2  
+02:02:28
+So, well, this is actually the, this hypothesis is the famous evolutionary biologist. Robert Trevor's first advanced this hypothesis in the preface, a 1976 to Dawkins' book, the selfish gene. And he subsequently written, written more about it, both in scientific article and in a more popular book. But the idea is that if the core idea is that successful deception is facilitated by self-deception. So if you really believe that an X, then you're going to be a more successful salesman to convince other people of X. So if you believe you're, let's say a 10 and made value, you truly believe it. 
+2  
+02:03:12
+Even if you're not, I'm going to have a more successful time convincing you that, that I am as well. And so the hypothesis is basically that people self deceive in order to increase the effectiveness of, of actual deception. Okay. But I think that there are people who are, are, are so in one other dimension I'll mention too, is that as that animals often take each other at our own word for things. So if we're self-confident people assume that we must have the goods to back up that self-confidence, if we're a quivering massive insecurity, people believe, well, we don't have the goods to back up anything, you know? 
+2  
+02:03:54
+And so people use other people's displays of their self-confidence as acute to, to their goods. And it's J in general, pretty reliable cue, but then they're over estimates and underestimate, as we've talked about, like with narcissism, 
+1  
+02:04:10
+We see this with the job candidates, you know, you, you, you are taught to look very carefully at the application and consider all aspects, but ultimately you consider that also in light of, you know, how firmly someone believes in the vision of what they're trying to bring to the profession. And, and that's a, I think a largely a subconscious process and being aware of it can be helpful, but yeah, when somebody is confident and you tend to think that they're going to get where they say they're going to go and it, and it acts as a bit of a, of a heuristic for not needing the impulses, that one, then doesn't need to go vet all the information quite as carefully. But if, I guess if one is aware of it, then, you know, to dig deeper in to, because it seems like there's a lot of deception going on. 
+2  
+02:04:54
+Yeah, yeah. Yeah. Well, and, and, you know, and, and w something we talked about earlier, people high on psychopathy are very good at, at deception. I don't know whether they are good at self deception or whether they're just really good to Seavers and so, but they can be very effective then out in California, you know, you, you live out in California, I'm sure you've seen your fair share of cases like that. 
+1  
+02:05:23
+Yeah. I think into, across today's discussion and various examples, pop to mind of seeing these features in humans. It's so interesting. I find the work that you do incredibly interesting. I think this field of evolutionary psychology is fascinating. And, and I hope I said it before, but I'll say it again. I feel like neuroscience and evolutionary psychology are nudging towards one another. And it's only a matter of time before they merge in, in some formal way. I mean, there is the work for instance, on polygamous versus monogamous Prairie, voles, and levels of vasopressin, but it's a big leap to go from vasopressin and a Prairie vole, no disrespect to that beautiful work, but to humans and say, oh, vasopressin inhaler are going to make you monogamous or something. 
+1  
+02:06:08
+I think that's a, probably got the direction of the effect wrong, but you, you get, 
+2  
+02:06:11
+Yeah, yeah, no, I think you're absolutely right. And I think it, it will happen. I think it's starting to happen. And, and it will happen because getting at the neuroscience is getting at the underlying mechanisms that are driving the process. So, you know, what an evolutionary perspective brings to bear is, is evolve function and ultimate explanation, the selective forces that created adaptations, the functions of those adaptations and the neuroscience brings well, what is the underlying machinery that these mechanisms are instantiated in? 
+1  
+02:06:44
+It'd be wonderful to collaborate someday. Maybe we'll do a brain imaging study on jealousy or something in a, I don't know, throw it you're you're the psychologist. You would come up with the beautiful experimental design. I'm certain that people are going to want to learn more about your work. Certainly we will give them links to your social media and other other sites. You've written a tremendous number of really interesting books. Tell us about your most recent book and maybe some of the others that if people are interested in these topics and they want to learn more, that they could explore. 
+2  
+02:07:15
+Sure. Okay. So, well, my most recent book is called a when men behave badly, the hidden roots of sexual deception, harassment, and assault, and that book deals with conflict between the sexes sexual conflict. And so it deals with them both in what, what or what call mating market conflicts. Some of the topics we've been talking about deception in internet dating and things like that. Second is conflict that occurs within mating relationships of the sort that we've been talking about as well. Financial infidelity, emotional infidelity, sexual infidelity, hoping with conflict within a relationship. 
+2  
+02:07:55
+And I actually have some suggestions for strategies, for coping, with conflict within a relationship coping in the, after dealing with the aftermath of breakups. So often there's an asymmetry. One person wants to break up the other doesn't. So I talk about coping in the aftermath. And then I also talk in this book when men behave badly about some of the darker sides of human mating, like intimate partner violence, stalking sexual harassment, sexual coercion. So that's what that book's about. And I think it, you know, it's gotten well-reviewed and people find it very useful in understanding what is otherwise a, a lot of baffling phenomena in a, why do men and women seem at odds with each other in so many domains? 
+2  
+02:08:41
+Why do some of these recurrent forms of sexual conflict occur? So that's what that, book's about my previous books on my, my first book, which I've had the good fortune to be able to revise a couple of times deals more broadly with human mating strategies. It's called the evolution of desire, strategies of human mating. And it gives people a broad overview of what people want in a mate tactics of attraction, tactics of may retention and so forth throughout the whole mating process, serial mating causes of divorce and so forth. And then even more broadly, I have a textbook called evolutionary psychology, the new science of the mind, which is in its sixth edition right now. 
+2  
+02:09:26
+And it's, it's the most widely used textbook in evolutionary psychology around north America and Europe. And, and, and actually it's been translated even into Arabic and other countries. So that deals somewhat with mating, but also deals with survival problems or evolved fears and phobias issues about Ken and family, extended family friendships, social hierarchy, status, hierarchies, warfare, and other topics. So the evolutionary psychology textbook is the broadest book. And then maybe the second broadest is the evolution of desirous strategies of human mind, mating. 
+2  
+02:10:09
+And then for those interested in conflict between the sex is the latest book when men behave badly. 
+1  
+02:10:15
+Fantastic. I love your work. I'm so grateful for the clarity and depth and rigor with which you do it and you, and you convey it to us. I know I speak for many people when I, I just want to say thank you. This is a tremendously informative 
+2  
+02:10:31
+Conversation. Thank you. It's been a delight to talk with you, and I hope we do engage in that research 
+1  
+02:10:38
+Collaboration of merging neuroscience and evolutionary psychology. Let's do it. All right. Great. Thank you. You David. Thank you. Thank you for joining me for my conversation with Dr. David boss. Be sure to check out the link to his website in the show caption and be sure to check out his new book. When men behave badly, the hidden roots of sexual deception, harassment, and assault. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please put any questions you have in the comment section on YouTube, and also in the comment section, you can make suggestions about future topics for the podcast or future podcast guests that you would like us to host. 
+1  
+02:11:19
+Also check out our sponsors mentioned at the beginning of the podcast. That's one of the best ways to support us. In addition, please subscribe to the podcast on apple and or Spotify. And on apple, you can leave us up to a five star review and you can also provide us questions and feedback. We also have a Patrion it's patrion.com/andrew Huberman. And there you can support this podcast at any level that you like 
+Thorne Research Inc. (Ad)  
+02:11:42
+in many episodes of the Huberman lab podcast, we discuss supplements while supplements might not be for everybody. Many people derive tremendous benefit from them for things like sleep and focus and other aspects of human performance in daily life. One issue with supplements is that many of the supplement companies out there are subpar with respect to quality, and they are not precise about the specific amounts of the various supplement contents that they include. For that reason we partnered with thorn T H O R N E because Thorne supplements are known to have the highest levels of stringency in terms of the quality of the ingredients and the precision of the amounts of the ingredients. In other words, what's listed on the label is what's actually in the bottle. If you want to see what supplements I take, you can go to thorne.com/the letter U slash Huberman. There, you can see the supplements I take. You can get 20% off any of those supplements. And if you navigate further into the thorn site, through that portal, thorne.com/u/huberman, you can also get 20% off any of the other supplements that thorn makes. Thank 
+1  
+02:12:44
+you once again, for joining me for my discussion with Dr. David buss about human mate selection and strategy, and many other extremely interesting topics today and last but not least, thank you for your interest in science.

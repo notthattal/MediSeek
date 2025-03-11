@@ -1,0 +1,1003 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. Jonathan Haidt: How Smartphones & Social Media Impact Mental Health & the Realistic Solutions
+Published: 6/10/2024
+6/30/2024 - 2h 26m 55s
+ - 
+AU
+Downloaded:
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman Lab Podcast, where we discuss science and science based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr Jonathan Haidt. Dr. Jonathan Haidt is a social psychologist and professor at New York University. He's also the author of several important bestselling books, including The Coddling of the American Mind, and more recently The Anxious Generation, how the Great Rewiring of Childhood is causing an Epidemic of mental Illness. And today we talk mainly about the anxious generation, however, it is not a purely pessimistic conversation. 
+0  
+00:00:40
+Indeed, Dr. Het offers several clear solutions to the mental health crisis that now exists, and that we have all created through the use of Smartphones, in particular, in kids entering and transitioning through Puberty. During today's episode, we discuss so-called Critical or Sensitive Periods for Social Development for the development of an understanding about competition and violence, about sex, and how boys and girls are impacted differently by smartphone use and the specific solutions that do exist, and that Dr. Height is created that can place boys and girls as well as young adults back on the trajectory of mental health. So today's discussion is really one that brings together an understanding of neurobiology, psychology, social psychology, and technology in ways that are designed to serve the most critical members of our species, meaning our youth. 
+0  
+00:01:32
+And for those that have already gone through youth, today's discussion is also relevant to you because as many of you know and perhaps have experienced, most everybody nowadays is challenged in some way by Smartphones, both for the utility and the ways in which they can diminish our social and family interactions, academic performance, and more. So thanks to Dr. He, today's discussion really is a solution based one, and it's one that is sure to educate, inform, and inspire specific positive action. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. 
+0  
+00:02:13
+In keeping with that theme, I'd like to thank the Sponsors of today's podcast. 
+Helix (Ad) huberman 
+00:02:17
+Our first Sponsor is Helix Sleep. Helix. Sleep makes mattresses and pillows that are customized to your unique sleep needs. Now, I've spoken many times before on this and other podcast about the fact that sleep is the foundation for mental health, physical health and performance. Now, one of the key things to getting a great night's sleep is to make sure that you sleep on a mattress designed specifically for your sleep needs. And that's what Helix Sleep mattresses are designed to accomplish. If you go to the Helix website and take a brief two minute quiz, it asks you questions such as, do you sleep on your back, your side, or your stomach? Do you tend to run hot or cold during the night? Maybe, you know, maybe you don't know the answers to those questions. In any case, they'll match you to the ideal mattress for your unique sleep needs. For me, that turned out to be the Dusk Helix Mattress. I started sleeping on a dusk mattress about three and a half years ago, and it's been far and away the best sleep that I've ever had. So if you'd like to try Helix Mattress designed for your unique sleep needs, you can go to Helix Sleep dot com slash huberman. Take that brief two minute sleep quiz and Helix will match you to a mattress that's ideal for your unique sleep needs. Right now, Helix is offering 20% off mattresses and two free pillows. Again, that's Helix Sleep dot com slash huberman to get 20% off and two free pillows. 
+AeroPress (Ad) huberman 
+00:03:28
+Today's episode is also brought to us by AeroPress. AeroPress is like a French press, but a French press that always bruised the perfect cup of coffee, meaning no bitterness and excellent taste. AeroPress achieves this because it uses a very short contact time between the hot water and the coffee. And that short contact time also means that you can brew an excellent cup of coffee very quickly. The whole thing only takes about three minutes. I started using an AeroPress over 10 years ago. I first learned about it from a guy named Alan Adler, who's a former Stanford engineer and inventor. I'm a big fan of Adler's inventions, and when I heard he developed a coffee maker the AeroPress, I tried it and I found that indeed it makes the best possible tasting cup of coffee. And I'm not alone in my love of the AeroPress. With over 55,005 star reviews, AeroPress is the best reviewed coffee press in the world. I'm also excited to share that AeroPress has just released a brand new AeroPress that brew and packs into its own travel. Tumblr. This new AeroPress called the AeroPress Go Plus makes brewing coffee when traveling incredibly easy. The design is really clever. The entire AeroPress unit packs really nicely into a custom apress travel thermos. That's small enough that it can fit into your carry-on or any form of luggage. And with it, you can make an excellent cup of coffee anywhere. All you need is some ground coffee and hot water. Indeed, I've even used it on the plane in hotels, of course. Basically, I take it with me anywhere I need a great tasting cup of coffee. And with Father's Day coming up, it makes for a great Father's Day gift. If you'd like to try AeroPress, you can go to AeroPress dot com slash huberman to get 20% off. AeroPress currently ships in the usa, Canada and to over 60 countries around the world. Again, that's AeroPress dot com slash huberman. 
+Joovv (Ad) huberman 
+00:05:05
+Today's episode is also brought to us by Joovv. Joovv makes medical grade red light therapy devices. Now, if there's one thing I've consistently emphasized on this podcast is the incredible impact that light can have on our biology. Now, in addition to sunlight, red light and near infrared light have been shown to have positive effects on improving numerous aspects of cellar and organ health, including faster muscle recovery, improves skin health and wound healing, even improvements in acne, reducing pain and inflammation, improving mitochondrial function, and even improving vision itself. What sets Joovv Lights apart and why they're my preferred Red Light therapy devices is that they use clinically proven wavelengths, meaning it uses specific wavelengths of red light and near infrared light in combination to trigger the optimal seller adaptations. Personally, I use the Jew handheld light both at home and when I travel, it's only about the size of a sandwich, so it's super portable and convenient to use. I also have a Joovv whole body panel, and I use that about three or four times per week. If you'd like to try Joovv, you can go to Joovv, spelled JOOV v.com/huberman. Joovv is offering an exclusive discount to all Huberman Lab listeners with up to $400 off select Joovv products. Again, that's Joovv, JOOV v.com/huberman to get $400 off select Jew products. 
+0  
+00:06:20
+And now for my discussion with Dr. Jonathan Heet, Dr. Jonathan Heet, welcome. 
+2  
+00:06:26
+Thank you, Andrew. I'm a longtime listener. I've, I've developed many good habits because of you. Thank you. Well, 
+0  
+00:06:32
+Thank you. Well, you look very healthy and delighted to have you here. I'm a longtime fan of your work. I read The Cuddling of the American Mind. It's an incredibly important book, the Anxious Generation, incredibly important book. I'll just start off with an easy question, which is, how are we doing as a species? 
+2  
+00:06:51
+Ah, how I was doing as a species? Well, as a species, as one of my friends said, you know, we're gonna be pretty hard to kill off. We'll be like cockroaches, and you know, we're, we're pretty inventive in that way. But as a civilization, I think we might well be at a point of there are peaks and valleys and there are some cycles in history, and we may be at one of those turning points, and it's gonna be pretty unclear what happens over the next five or 10 years. It's a very interesting time to be a social scientist. I'll just leave it at that. 
+0  
+00:07:23
+I suppose we can't point to any one factor, but we wouldn't be sitting here today. You wouldn't have written the anxious generation, and it wouldn't be having the incredible impact that it's having where not for the fact that Smartphones have dramatically, profoundly changed the way that we interact as a species. In fact, a colleague of mine at Harvard, Jeff Liman, who's world famous for neuroplasticity, said a few years back, you know, this is probably the first time in human history that humans have written with their thumbs, implying that the brain representation of the thumbs is probably very different in all of us, right. Than it was prior to that. 
+0  
+00:08:03
+Because the brain is an adaptive map of, of our experience in many ways. That's a somewhat innocuous example of the changes that have occurred. Yeah, the use of the digits, the thumbs to write, but there's so much more going on now as a consequence of smartphone. So if you were to say if the day, the date, the year in which everything changed, would it be the day that most everyone had and has a smartphone somewhere around 2010, 2011, 2012? Or did all this start prior, right? Yeah. 
+2  
+00:08:39
+Well, actually, if it's okay with you, I'll answer that by giving sort of the, the history. 'cause the, the, the short answer would be 2010 to 2015, but it'll make more sense if I just sort of go through how we got there. So changes in technology, when you connect people more, you get roads, you get telephones, these things are all great. They lead to massive gains in knowledge, productivity. Yes, sometimes there are disruptions. But in the history of humanity, they've been great. The internet was that when, you know, you and I are old enough to remember, do you remember the first time you saw a web browser? I do. And it was like, you mean I just, like, I type in a question and I get the answer. I don't have to go to the library. It was, I mean, it was miraculous. And, and I can talk to people for free. 
+2  
+00:09:19
+We had that by email, which was free. So in general, connecting people is good. And we were all very optimistic about the internet in the 1990s. It was amazing. And in our conversation today, I wanna make it very clear, the internet is absolutely amazing. This is not about how the internet is bad. Smartphones or the iPhone, you know, is absolutely amazing. Although there's some things about it that are problematic. It's really, especially social media, which has changed things. And so if we, if we look at a kid, let's take a teenager in 2010 and let's say January, 2010, at that point, there's no Instagram, there's no front facing camera. They all have, mostly they have flip phones. The iPhone came out in 2007, but they don't mostly have them. 
+2  
+00:10:00
+And so in 2010, most teenagers are using the flip phone as a tool to call each other, call each other, text each other, meet up. So when technology helps us achieve our goals, that's good. By 2015, everything's different. By 2015, the great majority of Americans, certainly teens, have a smartphone with a front facing camera. The girls are mostly on Instagram, which was the first social media platform that you had to be on a smartphone for. Everything else was web-based. They have high speed internet, unlimited texting, and now it's possible to spend 10, 15 hours a day on your phone. Nobody could do that with a flip phone. So I, I point to that. It's that five year period, 2010 to 2015, which I've called the Great Rewiring of Childhood because it affects everything, everything about what children and teenagers are doing. 
+0  
+00:10:50
+I can recall in 2010, I was actually in New York City visiting friends. I got my first smartphone, and I recall I was up at one 30 in the morning scrolling on this thing and thinking, this is unbelievably addicting. Yeah, yeah. Nowadays, I think of it less as addicting, but almost like an an OCD of sorts. And here I'm not talking about clinically diagnosed OCD, but the interesting thing about OCD is that the compulsions, the behaviors don't serve to reduce the obsessions. Rather they exacerbate them or reinforce them. And in many ways, I feel like smartphone use and social media use in particular is a OCD of sorts. It's not just a habit. It's not just an Addiction, it's an obsessive compulsive loop. 
+2  
+00:11:34
+So it's already a struggle to pay attention. And, you know, ancient traditions have, have taught techniques to improve your focus, your attention. We're easily distracted. And, you know, so I, I don't work on my phone very much 'cause I, I hate to type on the phone and, and I'm always at a computer. But even for me, sitting at my computer, as soon as the thinking gets hard, as soon as I'm writing, I'm doing something that requires concentration. Some little part of my brain says, I wonder what the weather's gonna be. And I go check the weather. Or, you know, oh, did I get an email? I go check my, I might check my email, you know, probably 40, 50 times a day. And I know that's terrible. So the question is, is it a compulsion where I feel pulled, I have to check it or something bad will happen? 
+2  
+00:12:16
+No, it's more like, imagine trying to do your work. Imagine trying to be a kid in school, and you have on your desk in front of you, you have your television set, your record player, a walkie talkie to talk to your friends, a guitar, a painting set all array in front of you, and your teacher is telling you about, you know, geometry. What are you gonna do? Probably one of these things. And so I think the smartphone where the flip phone, it's, it's a tool. You pull it out. If you want to talk to someone, then you put it away. But the smartphone, there's no reason to ever put it away. 
+0  
+00:12:48
+Talk to us about the scary statistics. There's just no way around this. Yeah. And we will talk about solutions. You offer some incredible solutions in the book, actually, solutions that everyone listening and watching can participate in, not just by restriction. And we'll talk about what that means going forward. But where are we at now, and when did we start to see the trend toward diminished mental health, in particular in girls? Yeah. So feel free to hit us with the, with the scary truth. Okay, 
+2  
+00:13:18
+Sure. So let's imagine, so in the US we have really good statistics based on annual or biannual surveys. There's three or four big ones that allow us to see what's happened since the seventies. And so what I'd like listeners to imagine is imagine a bunch of lines, maybe a line for boys, maybe a line, a line for boys, line for girls showing the percentage that suffer from anxiety, depression, or that have self-harm. Those three really go together and imagine these lines, they move around a little bit, but they're actually pretty stable from the 1990s all the way through 2010, even 2011, there's no sign of a problem. On some measures, they get actually a little bit better because, 
+0  
+00:13:54
+So stable and low, 
+2  
+00:13:55
+Stable, well low. You know, if it's, if they're around, say 12, 15% of girls qualify as having had a major depression, you know, that's much higher than we would like. That's a problem. But it's nothing compared to what it's today. So the lines are pretty, pretty flat until around 2012. And then all of a sudden the lines for girls go up like a hockey stick. It's not a subtle thing. It really is. There's an elbow. It's like somebody turned on a light switch in 2012. Now that's for the American data. Internationally, you see very similar things. It's not necessarily 2012 in other countries, but the girls' graphs are very sharp. The boys are also up on depression, anxiety. They're also way up, depending on the measure. 
+2  
+00:14:36
+It's usually everything is in the ballpark of 50 to 150%. Almost all the numbers are in that range. We're not talking 10 or 20% increases here. For most things, we're talking close to a doubling, especially for the younger girls. The boys' curves, interestingly, are smoother. That is, the boys are more depressed and anxious. It's, but it's not 2012. It, it actually often begins more like 2009, 2010. And then it just keeps going up gradually. So that, that's a real clue, which we'll come back to when we talk about the, the boys story. It, a lot of people say, oh, well, you know, it's just self-report, you know, just Gen Z. They're really, they're really positive about mental health and they're willing to talk about, it's a good thing. 
+2  
+00:15:20
+But the fact that we see the exact same curves, the very sharp uptick for girls in hospital admissions, for self-harm, psychiatric emergency department visits. And we see this in the us, Canada, Australia, New Zealand, the uk, the Scandinavian countries. So something happened across the developed world around 2012. And I keep, you know, gene Twenge was the first to really raise the alarm. She and I keep saying, well, you know, we can't find another candidate. Nothing else fits the pattern. Oh, and there's actually not just correlational data. There's experimental, experimental data too. So we think, you know, of course, look, everything's complicated. 
+2  
+00:16:00
+Mental health is complicated. If you wanna understand why one person is depressed, there are gonna be many stories. But if you wanna understand why depression rates rose for girls faster than boys all over the developed world, unless someone can find like some hormone disrupting chemical that was suddenly sprayed over northern Europe and, and the South Pacific and the US and Canada around 2012, there is no oth, there is no alternative explanation. 
+0  
+00:16:27
+So we break down smartphone use in these young girls that correlates with, and maybe is causal for this diminishment in mental health. There are a number of different variables, right? There's the time spent on the phone, there's the specific content that they're viewing. And that's a vast discussion that we'll get into. There are the social dynamics associated with being on a phone as opposed to in-person interactions. And then there's, and I can't help myself, but as a neuroscientist who trained in the biology, the visual system, there's the effect of looking at something at about eight inches to 12 inches away from you for much of the day, as opposed to navigating an environment the way that we had for hundreds of thousands of years prior. 
+0  
+00:17:13
+So there are a lot of features within this thing that we call smartphone use, right? 
+2  
+00:17:18
+There's 
+0  
+00:17:18
+Also the disruption in sleep. Yep. There's additional blue light exposure. There's just so much to it. Exactly. 
+2  
+00:17:25
+So 
+0  
+00:17:25
+If we pull all that together for the time being and put in a basket of smartphone use, and maybe we'll, we'll pull out each of those variables one by one as we go forward. What are the numbers in 2012 in terms of how much time girls, maybe you can give us an age range, are spending with the smartphone? Was it they got the smartphone and immediately we're spending six to eight hours a day on the thing? Yeah. Or has it been gradual? So let's, let's start with the time, the time variable. 
+2  
+00:17:52
+Sure. Okay. So first, the way you put it is actually very helpful. What I want listeners to imagine, let, let's say like imagine on the left side of a slide, I, I haven't made this slide. I'm formulating in my head. Imagine on the left side of this slide, a whole bunch of harmful changes. If you're getting less sleep, that's bad. If you're having blue light at night, that's bad. If you're not going out in nature, that's bad. If you are sedentary, if you, so, so imagine about, you know, 15 different things, or if you're being contacted by strange men around the world who wanna have sex with you, like that's not good for 11, 12-year-old girls. So it's all these different potential harms. And then imagine all these different potential effects, one of which is depression, and another is anxiety. Another is self-harm. 
+2  
+00:18:33
+But there's doing worse in school, there's becoming more shallow. There's conflicts with your, so there's a whole bunch. And then we wanna look at the causal connections. And what I'm trying to draw out is, suppose you, we suppose we could quantify the degree to which sheer time just spending five hours a day. Does that make you more anxious automatically? Well, maybe a little, but that's probably not the main effect. So there's a gigantic multi causal network of effects. Now I have good numbers for how much the, how much teams are using these devices and these platforms today. Pew in particular, did, has done a great job of, of tracking changes in this since the early, since the two thousands. 
+2  
+00:19:17
+What we know today from both Pew and Gallup is that young people in America are now spending about five hours a day just on Social Media, just Social Media that include mostly 
+0  
+00:19:26
+Instagram? 
+2  
+00:19:28
+No, so it, it, the, the huge time suckers the videos. So it's actually TikTok and YouTube are counted in this analysis. They're counted as Social Media. YouTube is marginally Social Media. It's more of an general information source. But the point is, especially the short videos, the short videos are really, really addictive. 'cause the time between action and reinforcement is so quick that, that, as you know, in behaviorism, like that's the key. It's the quick reinforcement. So five hours a day, it's a little bit more than that for girls, a little less for boys, just on social media, 35 hours a week of strange stuff coming in from random weirdos on the internet. 35, imagine letting your kid import 35 hours, then you add in everything else, Video, Games, everything else you do on a smartphone. 
+2  
+00:20:13
+So now we're up to seven to 10 hours in that range a day. And this is not counting school And, of course, in school, six hours a day for a lot of kids, two or three hours of, of that is screen time as well. So that's why I say kids used to have a play. Based, Childhood play is the basic thing mammals do. And since 2010 or 2012, our kids have a phone, Based Childhood. And I don't think that is, it's just incompatible with healthy human development. 
+0  
+00:20:39
+Maybe we can back up even before 2010 and talk a bit more about the play. Based Childhood, I heard you say last night at a terrific lecture that you gave, that when we don't trust our neighbors, we are far less likely to let our kids out to play without observation or oversight. And that leads to a whole host of negative consequences. So if we were to dial back the, the history clock even further and talk about, let's say the 1950s, sixties and seventies. I was born in 75. I basically was kicked out of the house every day to go play. Right, exactly. My mom would say, get outta the house. I now realize she wanted space. 
+0  
+00:21:20
+Yeah. But we would go down the industry to the cul-de-sac, and we would just play and do all sorts of things, which 
+2  
+00:21:26
+Were get into a little trouble, adventure, 
+0  
+00:21:27
+Disruptive, some of which were, were good. And there were a lot of dynamics that got worked out in the process. My sister would go hang out with the, basically the older sisters of those boys. That's kind of how our neighborhood happened to be arranged it with that was fortunate. And they would do their thing. So 1950s and sixties, what did social dynamics look like among kids? 
+2  
+00:21:49
+Yeah. So, you know, I think what we need to do is tell this story of what happened as a, as a, a tragedy in three acts. And the first act is the loss of, of community, the loss of trust in each other. So if we go back to the, the fifties and sixties, but we can even go back. My ch my parents grew up in New York City in the, in the thirties and forties, people spontaneously organized themselves into villages. Village life is a, is seems to be sort of the default way of living that humans have preferred for tens, you know, for, you know, several thousand years. And it's where, you know, your neighbors, the kids run around the, all the adults take part in supervising all the kids, but nobody has to helicopter because the kids are playing their, doing their thing. 
+2  
+00:22:35
+If there's a real thread, if there's a lion or invaders, then they all come running home, whatever. But, but kids need to be out playing with each other, especially outdoors. We evolved in Savannahs, we evolved in different parts of the world. We're attracted to nature. So that's the way it, it always was. Now, especially if we, in the 1950s and sixties, America had just been through a world war. And the greatest way to make people trust each other, the greatest way to boost social capital is a foreign attack. And, of course, Pearl Harbor did more for American co coherence than anything else in history in modern history. Nine 11 did that too, but only for a little while. And then we, we lost it. 
+2  
+00:23:15
+So for a lot of reasons, people trusted their neighbors. Kids were out playing, you know, my parents grew up in the Depression in New York City. The kids were all out playing stickball on the street or in a parking lot in the 1970s. There is a real crime wave. Crime goes through the roof, actually. And it goes through the eighties. That goes all the way to the early nineties. Even still, you were kicked outta the house to go play. Even in New York City. All kids went out to play. That's just the way it was. But we began to lose trust in each other for a lot of reasons. Robert Putnam wrote about this in Bowling Alone, the, the, the, the loss of social capital. Many reasons for that. The changing media environment, air conditioning and television. People are not hanging out on their porch in the summertime to get away from the heat. 
+2  
+00:23:58
+They close the door and they put on the AC and they watch tv. Family sizes are shrinking. They're not that many kids around. So for a lot of reasons, by the, the nineties is the key decade where act two of the tragedy happens. And that's the loss of the play. Based Childhood. So in America and Britain, we freaked out about child abduction and child sexual abuse. Some of the scandals were real, the Boy Scouts, the Catholic church. There were cases where trusted organizations were covering up abuse. 
+0  
+00:24:26
+And I recall the abduction thing, the milk carton thing. Yep, that's right. And there was a show, I think my name is Brian. Oh, okay. You know about the kid who was abducted and then all he remembered, I think it's a true story. It was that his name was Brian, who would just remind himself every night, oh gosh. About his real name. You know, I think they found him eventually in Berkeley, not calling out Berkeley. I lived in Berkeley for a long time, but there seemed to be the discovery of of abducted of, of abducted kids, excuse me, in Berkeley. There are a few other cases there. I don't know what that's about. In any event, I grew up thinking that you could get kidnapped. 
+2  
+00:25:01
+Right? Yeah, yeah. Which, yeah, which is, so it's important. I mean, it's the most terrifying possibility for any parent. But when I was doing the research for the Coddling American Mind, I found, according to FBI statistics, there's only about a hundred to 150 true kidnappings a year in our whole country. Because if a child, like, who would take a child like it's a really difficult crime and you're gonna, you know, who would steal a child from a store? You know, parents are afraid if your kid goes to the next aisle in the grocery store, they're gonna be, how are you gonna take a kicking and screaming kid out of a store? It's 
+0  
+00:25:32
+Only, and yet, sorry to interrupt, but the show America's Most Wanted, I believe, was hosted by a guy whose kid was abducted and eventually found dead. 
+2  
+00:25:39
+Exactly. Adam Wal. That's right. 
+0  
+00:25:40
+Right. So, so there was this propagation of this that's fear. No, that's right. It happens. Like one of the deepest fears of any parent I can have to imagine is, is is that, 
+2  
+00:25:48
+That's right. But the point is that these crimes are extraordinarily rare. It's almost always the non-custodial parent who takes a kid. It's a family member because there's a fight within the family. So we fear the wrong things. We're terrified of kidnapping, but locking our kids up, overprotecting them, has spiked the suicide rate so much that the death toll is vastly higher from the extra suicides than it would be if we could completely wipe out kidnapping. Which again doesn't, but you know, you know the availability heuristic we say in psychology, if it's visible, if it comes to mind easily, then people will freak out about that. And that's why people sometimes are afraid to fly in a plane. They think a car is safer. So for a lot of reasons, we freak out in the nineties. 
+2  
+00:26:31
+We stop letting our kids out. We think they must always be supervised. So that's act two of the tragedy. And as that act is happening, we're keeping our kids inside. And guess what? These computer things that we started getting in the eighties, they're getting interesting because now we hook 'em up to the internet in the eighties. What we can do, word star and some primitive Video Games like, but in the nineties you get the internet. And now the kids, especially the boys, the early internet was much more of interest to boys. Boys would take computers apart, they could build computers, they would learn to program. So the boys in particular, they're okay with losing out on the outdoor play 'cause the, the internet is so amazing. 
+0  
+00:27:08
+And nerdom started to become cool. Yes. Revenge of the nerds. Steve Jobs and Steve kind of. Exactly. And I know, 'cause I grew up in Palo Alto, see Steve downtown, he had this, he wasn't really like rockstar persona, but he kind of, you know, weed back and forth throughout. So he was an, he was an icon. Yeah. Kind of like a, you know, counterculture guy. But then he was into design and computers. Right. But he was still really geeky. That's like the fonts were lame. Yeah. He brought beautiful fonts to it. He started bringing the aesthetic forward. Yeah. And then of course girls and women got involved in computers more. 
+2  
+00:27:40
+Yes. Although that really, it only really evens out once you get social media, boys are more interested in things and mechanics and, and systems girls have a more evolved and, and elaborate mental map of social space. They're more interested in social relationships. So once you get social media, that attracts the girls more and then it becomes pretty even that all, you know, all boys and girls, they're just incredibly attracted to the internet and things on the internet. But that sets us up for Act three, which is the great rewiring, that's the arrival of the phone. Based Childhood that we just talked about. Between 2010 and 2015. That's when everything changes. 
+AG1 (Ad) drinkag1.com/huberman 
+00:28:13
+As many of you know, I've been taking AG one for more than 10 years now. So I'm delighted that they're sponsoring this podcast. To be clear, I don't take AG one because they're a Sponsor, rather. They are a Sponsor because I take AG one. In fact, I take AG one once and often twice every single day. And I've done that since starting way back in 2012. There is so much conflicting information out there nowadays about what proper nutrition is. But here's what, there seems to be a general consensus on whether you're an omnivore, a carnivore, a vegetarian, or a vegan. I think it's generally agreed that you should get most of your food from unprocessed or minimally processed sources, which allows you to eat enough but not overeat. Get plenty of vitamins and minerals, probiotics and micronutrients that we all need for physical and mental health. Now I personally am an omnivore and I strive to get most of my food from unprocessed or minimally processed sources. But the reason I still take AG one once and often twice every day is that it ensures I get all of those vitamins, minerals, probiotics, et cetera. But it also has adaptogens to help me cope with stress. It's basically a nutritional insurance policy meant to augment, not replace quality food. So by drinking a serving of AG one in the morning, and again in the afternoon or evening, I cover all of my foundational nutritional needs. And I like so many other people that take AG one report feeling much better in a number of important ways, such as energy levels, digestion, sleep, and more. So while many supplements out there are really directed towards obtaining one specific outcome, AG one is foundational nutrition designed to support all aspects of wellbeing related to mental health and physical health. If you'd like to try AG one, you can go to drink AG one.com/huberman to claim a special offer. They'll give you five free travel packs with your order plus a year supply of vitamin D three K two. Again, that's drink AG one.com/huberman. 
+0  
+00:30:02
+Okay. So we've got three acts, all of which are tragedies. Yep. 
+2  
+00:30:06
+Loss of community. Right. 
+0  
+00:30:07
+So community and trust is down. 
+2  
+00:30:09
+That's right. Which then makes us not, then act two is we take away the play Based, Childhood Cooper, so afraid 'cause we no longer trust our neighbors. And then Act three is, as long as the kids are, are inside and, and on on computers already, oh well now just a smartphone and a tablet. These are just cooler computers. Nothing wrong with that. Right. And that's what we thought early on in the early 2010. We thought these things were miraculous. Oh, you know, if my kids use them, maybe they'll be the next Steve Jobs. Maybe they'll, you know, they'll be really technically sophisticated. We thought, and it's not true. 
+0  
+00:30:42
+And now we're in this third act of the tragedy. You touched on some of the male female differences. Maybe you could talk about those a little bit more. So you said girls tend to focus more on social dynamics, boys more on systems. I've heard you say that the boys in general veer toward more, for lack of a better way to put it more on the spectrum Yeah. Type behaviors. Could you elaborate on that and how it impacts online use and the particular sites that they tend to gravitate towards. And then on the, on the other side for girls? 
+2  
+00:31:14
+Yeah. The, the, the one of the psychological traits that is the biggest differentiator between boys and girls and between men and women, it's, it's, lemme lemme state clearly the sex differences in ability are generally pretty small. And they're few and far between sex differences in interest are all over the place. And they're often very large. And they're true across cultures and some are true across species. It's, it's what do you enjoy? And so, and here I'm drawing on the work of, of Simon Barron Cohen, who's the cousin of Sasha Barron Cohen in the uk and Barron Cohen's work on autism shows that, you know, be because of prenatal effects to prenatal, testosterone, changing the body, changing the brain. 
+2  
+00:31:59
+We all start off as girls in utero, we after conception, but then the 10th week of gestation, if there's a Y chromosome, it triggers a little bit of, of a testosterone, which then makes the testes develop and then that's creates testosterone. And all of this, the effect on the brain appears to be a shift away, a little bit away from empathizing. In Barron Cohen's terms, there's, you can either be a high empathizer or you can be a high systemize. Systemizers are people who love subway maps and they pick 'em up quickly and they like programming and they like to see how systems are related. It's possible to be high on both, but most people are more one way than the other. So once you see that, now you can understand why this amazing new internet drew everybody. 
+2  
+00:32:45
+But it drew the boys and the girls to different parts of it. And so, you know, a metaphor that I've, I've started using these days, actually I did get this from Yasha Monk has a great book called The Identity Trap. And Yasha points out that a trap has to have bait in it that's attractive. There has to be something that makes the creature want to go into the trap. And then once they get the bait, there has to be something that prevents them from leaving. That's what a trap is. And in this case, if you wanna catch a girl, don't show her like the operating system of a computer. Don't show her war games. Show her what Maria just said about Julia or what Julia just said about her. 
+2  
+00:33:26
+Do you wanna know? Of course you wanna know. And now everybody does. But girls more than boys, they wanna understand social dynamics. So the girls go rushing into Instagram where everyone's posting photos of themselves, of other people of the party they were at. The girls go rushing into, well, Social Media in general, Instagram, Pinterest, and Tumblr with the three big ones that girls went into in the 20, early 2010s. And then once they take the bait, they can't escape because now that everyone is talking on Instagram, let's say if you leave, you're alone. You know, you're not gonna talk to anyone. So that's how you trap girls. And that's what happened to girls. How do you trap boys? What are the things that boys most wanna do if you let them do whatever they want? 
+2  
+00:34:07
+What are the two things that really track them? One is war and the other is sex. So if you say, do you wanna watch, you know, a movie that has violence in it? Or you know, do you wanna watch sports? Which is play war Boys are more likely to say yes 
+0  
+00:34:21
+Or play a first person shooter game. Exactly. 
+2  
+00:34:23
+That's right. So it's so it's hunting and it's war. And if you can simulate that, you know, when I was a kid, that was the beginning. I mean, I remember playing Sea Wolf, like you shoot missile, you shoot, you know, torpedoes at a boat in the distance. And it was very primitive technology. Even 
+0  
+00:34:38
+A battleship. 
+2  
+00:34:39
+Yeah. Oh that's right. Even battleship. That's right, that's right. 
+0  
+00:34:41
+That was a big deal. 
+2  
+00:34:42
+Yeah, that's right. The little plastic boats. That's right. 
+0  
+00:34:44
+Yeah. Sinking somebody else's battleship by, by ensuing where the location of their ships were behind a wall. It was so satisfying to sing somebody's battleship. 
+2  
+00:34:53
+So boys really wanna play at war. And I really learned this when I was 30 and my, I have a group of buddies from college and we get together once a year and one year I hosted in Charlottesville and we, we played paintball, we went to a paintball place and there were, you know, about five or seven other other guys. And we divided up into teams and we were divided among ourselves on the teams. And it was unbelievably thrilling to work with other guys to hunt and shoot my friends. And, and we came out afterwards, all of us. And it, you know, it hurts when you get with the pain book. Those things hurt. It hurts. Which is well, yeah, that's right. Which is important. It's actually very important because then you really take it seriously. You really don't wanna get shot. 
+2  
+00:35:33
+But it was absolutely thrilling. It really felt like, like there was a room in my heart, you know, as a man, there's a room in my heart for war that had never been opened. So boys wanna play at that. And then the multiplayer, Video Games, the first person, shooter games, all these things, let them do that. The other thing of course that boys wanna do is look at naked women. And so, you know, it used to be Playboy magazine, now it's super hardcore sex with anal sex and gang bangs and, and you know, choking and all sorts of things. So the boys really get, that's heat trap a boy, show them war, you know, let them play war games and, and give and give them sex. And once they do that, they can't escape. 
+0  
+00:36:08
+So, interesting. We did an episode long ago on sexual development, meaning how hormones influence Brain Development, which I spent a little bit of time on for my master's. And by the way, you got the biology exactly right. Okay. Okay. And it's fascinating the way that these hormones organize the brain. And some people enjoy learning that it's testosterone from the testes. It's the y chromosome, then the testes and then testosterone that's converted to estrogen that then actually has the organizing effects. Weird practice of masculinizing the brain. There're all these flips in biology, counterintuitive flips. But I like to mention the flips because they normalize the idea that it testosterone creates maleness and estrogen creates femaleness. That's actually not true. 
+0  
+00:36:48
+It's, but you got the biology Exactly right. But there I was gonna add one more thing. Besides war violence and sex, there seems to be a, an interest by boys in remote control things. 
+2  
+00:37:04
+Oh, absolutely. 
+0  
+00:37:05
+Remote 
+2  
+00:37:06
+Action at a distance. Action 
+0  
+00:37:07
+At a distance. A remote control cars, I never had a remote control helicopter would Okay. But the most thrilling I could get one, but remote control car that we built my, my dad and I built together. Yeah. That was thrilling. Absolutely. And then when we talk about girls and, and some of the, the preferences for certain activities, maybe we, we'll get into some others, but Yeah. Something about remote control. Absolutely. Vehicles Yeah. And vehicles generally. That's right. Yeah. 
+2  
+00:37:30
+So there's, there's an important psychological word called Effectance made up by white in the 1950s. Effectance is the desire to be a cause. I had this effect on the world. And, you know, a a a a nine month old infant in the crib when he discovers, if I pull this, if I hit this, a sound happens. It's thrilling. You did that and this stays with us for life. You wanna see that the things you do have an effect. And especially boys are more in the, in the physical world, you know, mechanical world. And so shooting a gun, I remember when I was a kid, you know, I had a BB gun that I bought at a church bazaar. I, hi. I hid it from my mother, kept it in the closet. 
+2  
+00:38:11
+But my best friend and I, you know, we'd set up cans on a row and you shoot 'em and boom, it's, you know, you knock it, it's amazing. It's thrilling. That does seem to be a sex difference now girls, I think. And now here I'm speculating, but girls seem to be more interested in having an effect in the social world. So everybody wants to have an effect. But boys are more focused on mechanics, girls a bit more on, on relationships in the social world. 
+0  
+00:38:35
+And I'm sure Freud had a field day with this, but what is the apparent, I don't have the numbers on this, of obsession of, of girls and horses and caretaking of animals and, and yet there are also a lot of wonderful stories about boys taking care of dogs. Like I read where the Redfern grows maybe 50 times. And I love dogs. I love taking care of raising my dog. But there's, there seems to be something about the stereotype is girls and horses. 
+2  
+00:39:04
+Yeah, that's right. Yeah. Well, the simple part is girls on average are a little bit more compassionate. They feel the pain of creatures. More boys are more into animal cruelty as a fun thing to do, an interesting thing to do. That's disappointing. So girls are, are more compassionate. Girls tend more to wanna be a veterinarian than boys do. 'cause girls love animals. My daughter was desperate for a pet and we, we got her a leopard gecko when she was about eight or nine. They're really cool. But she, you know, she was crying one day 'cause she could tell like, it's never gonna love me. You know, and she desperately 
+0  
+00:39:41
+Wanted to, you don't know, maybe it's links or No, it's 
+2  
+00:39:44
+Aer rept. No, it's a reptile. No, they're not, they're not MAMs. They don't have the bond. Right. And she was desperate for a dog. And she begged for years for a puppy. And we finally got one. She needed, 
+0  
+00:39:52
+She needed an animal with a four brain. 
+2  
+00:39:54
+She needed an animal. Yeah. That's, that's, well she needed an mamm. She needed an an a mammal. Now the horse thing, that's different. I'm not gonna speculate on that. I have heard some speculation that it's because the, the, the musculature, it's something about, you know, it, it has a feeling of masculinity, but I don't know. But that's very 
+0  
+00:40:09
+Freudian. I was wondering whether or not it was I 
+2  
+00:40:11
+Don't, I don't wanna get too, I don't even that near that. 
+0  
+00:40:13
+Yeah. I was wondering whether or not it was something about the, the healthy requirement for caretaking, the brushing, the cleaning, the, the, the caretaking of the animal is, it's pretty elaborate when it comes to a horse. My first girlfriend had a horse, she spent more time with that horse than with me. And, and the amount of care, like if the horse was colicking, she would literally go sleep with it in the barn. You know? And it seemed like she loved the amount of love that was available to give to the animal. Yeah, yeah. Anyway, yeah. 
+2  
+00:40:44
+I, I would put that in a, in a giant bucket called biophilia. It's term that I love from EO Wilson. Just that our species, you know, we evolved in nature, we evolved with relationships with animals and we, we crave it, we seek it out. We can fall in love with animals. We have relationships. So I think it's a healthy part of life. And again, it's another, another area where a phone Based Childhood just takes you away from all of that. 
+0  
+00:41:08
+It's interesting, this difference between systems and relationships. I was obsessed with Aquaria. Still am I love, I love Aus, I love freshwater tanks. Aqua scaping is something I plan to get back into at some point soon. But the most interesting part about it was which fish could go with which, who would eat, who, how many plants, what the density of fish needed to be in order to maintain the ecosystem as it and how did not get a system crash. Yeah. It wasn't so much about the relationship, it's between the fish or or to the fish. That's 
+2  
+00:41:38
+Right. So I, yeah, it'd be interesting to see if there's a sex difference on, on aquariums. Whether it's more a boy thing because of the interesting complex, you know, systems. But you know what I, what I'd really like to do with you now, as long as we're talking about sort of, you know, these developmental pathways, I'm hoping that we can talk about, oh, oh, let's do, let's stay on sexual development. 'cause this is something I just have a little section in the book in the chapter on boys. I have a section where, where I review the research on Pornography and, you know, huge amounts of study of Pornography over the years. But the hardcore Pornography high resolution video boys watching it for, you know, many boys, well a large number of boys are, are, you know, go every day to Pornography sites. 
+2  
+00:42:25
+Often more than once a day. So I'd love to hear your thoughts on how that would, you know, how is that gonna change sexual development during Puberty a boy who starts at, say at age 12, 13 and does it for 10 years. Could we expect that that boy will be different with when he's 22? His dating life will be different. His, tell me what you, you think is happening there in the brain and socially and hormonally. Sure. 
+0  
+00:42:50
+Absolutely. And I'm not going to demonize Pornography, nor am I going to celebrate it. All I'll say is that my understanding of the Dopamine Reinforcement system, and I like to call it a reinforcement system as opposed to Reward system, because people generally think that dopamine and dopamine hits relate to pleasure. But dopamine is more of a motivator as a neuromodulator. It creates a kind of an agitation state to want warmth that puts us in a state of focus and foraging to resolve some gap between how we feel and how we'd like to feel. Hmm. By seeking things like sex, like food when we're hungry, like warmth, when we're cold, like cool, when we're too warm. It's a universal currency of pursuit Okay. Of craving and wanting as opposed to having, okay, dopamine does a lot more than that and other neuromodulators are involved in wanting and craving, but dopamine is central to that. 
+0  
+00:43:39
+So I think it's not just fair to say, but it's a ground truth that whether or not it's a drug like methamphetamine, cocaine, crack cocaine in particular, or some other drug that hits the system fast and creates a big, big inflection in dopamine, that the more rapid the rise in dopamine, the bigger the crash in dopamine afterwards and the more miserable you feel afterwards. Hmm. And the more repeat of the behavior that initiated the peak will occur aka Addiction. Okay. Or at least extreme habit formation depending on how one defines those when it comes to dopamine. 
+0  
+00:44:22
+The other key thing to know is that dopamine in particular, high inflections in dopamine, big peaks in dopamine that occur without much effort. Mm. In particular, the kinds of effort that evolved to bring about the, the, the dopamine release such as courting. Yes. Dating, learning your preferences, learning the other person's preferences, working out issues of, yeah. Discussion, consent, negotiation, et cetera. When dopamine arrives quickly without effort, such as with amphetamine, crack cocaine or Pornography, the whole reinforcement loop becomes wired to these short timescales. 
+0  
+00:45:03
+You want something, you want it now and you get it, but over time you get less and less of the dopamine peak and you get more of the dopamine trough that occurs. You drop below baseline afterwards. So all of that is a bunch of neurobiological ish nerd speak for absolutely the ready availability of Pornography at a, you know, few taps on the, on the phone. Yeah. No doubt. Triggers big dopamine the first time requires more and more investment in that behavior to get less and less of the dopamine. You never get back to the initial value and you're driven further and further down the pathway of Addiction. And there's the loss of all the learning. 
+0  
+00:45:43
+Right, right. That the brain and, and has evolved to learn how to evoke dopamine from, I don't wanna say just mate pursuit, but it's Courtship and eventually sex. So, and we know that after, after ejaculation, after orgasm, there's a dramatic decrease in dopamine and a huge increase in prolactin. What does that do? Prolactin and dopamine are essentially antagonistic to one another. It creates states of quiescence calm, it's thought to facilitate pair bonding by keeping mates near one another, smelling one another, sharing pheromones. Wow. In fact, there's something called the Coolidge effect. We could talk about that sort of classic Coolidge effect there. These, you know, effects that have to do with the inverse relationship between dopamine and prolactin. 
+0  
+00:46:28
+But with Pornography, assuming that boys are masturbating to the Pornography Oh yeah. And they are doing that to the point of ejaculation, then they're getting this kind of quiescence of the system. They're feeling lethargic, relaxed, maybe, depending on their age or their motivation, they're doing it again and again. But neither the dopamine nor the prolactin are being devoted to anything about Courtship and pursuit. Nor is it in the case of prolactin related to anything related, related to pair bonding. They're just sitting there with their computer in their room. Yeah. And, of course this occurred with Pornography, as you mentioned before, classic Pornography. But when I was growing up, if somebody had a penthouse or a Playboy magazine, they would often stash it for whatever reason behind a business or something so no one would get caught with it. 
+0  
+00:47:12
+And then you go there like a library, it was like a thing you go, and it was in places where, this is getting a little weird, but where people didn't use the Pornography there, I think they remembered it perhaps, but, but they weren't spending a ton of time with it and they weren't taking, in fact, there was an unspoken rule. You didn't take it with you. And this is kind of our most kids' first exposure to Pornography or their dad had a Playboy magazine or something like that. So I hope I, I described the landscape of the biology well enough, but the, the short answer is absolutely creates major problems in the Dopamine Reinforcement system. It's training the Dopamine Reinforcement system for fast reinforcement and diminished reinforcement over time. And none of it translates to the real world. 
+0  
+00:47:53
+Yes. It's not just the content. So I guess what we're getting at here is it's not just what they're seeing as so extreme. And that's an issue clearly. It's also the, the whole process takes, you know, minutes. Yeah, that's right. And it can be repeated over and over depending on the refractory period of, of a young man as opposed to real world dating and relationships, which takes effort and it takes learning. There's hardly any learning. Yes, that's right. In the use of a drug like methamphetamine or cocaine about how your dopamine system works, unconscious learning. There's, and there's hardly any, if any, learning about sex and Courtship in Pornography. And it's also training the dopamine system, the whole motivational system around sex to be observational as opposed to participatory. 
+0  
+00:48:36
+Mm. And I hear a lot, because I'm in the wellness health space and I'm a man, guys reach out by direct message, Hey listen, I, they'll reach out that they're having real issues with erectile dysfunction. Yes. And they're with anxiety. Yes. And these things always existed, but there was a kind of a, a learning, a communication, hopefully some, you know, slow your breathing down and communicate and kind of get back to a place where you're more comfortable. They're not able to translate anything about their experience of sex and pleasure to the real world. And as a consequence, they're retreating into a world where they view if, if they're heterosexual, the opposite sex or if they're homosexual, the same se potential partners as like these distant foreign objects that they don't understand. 
+0  
+00:49:18
+Right. 
+2  
+00:49:19
+Wow. Andrew, thank you. That was a really powerful and clear description of what I was trying to say in the book coming just from the psychological side, which is to, to turn from a boy into a man. There's a certain amount of toughening and skill building. There's skills that have to be developed. And I'm so glad you use the word Courtship. I use that word a lot with my students. I almost, I hear almost nobody else using that word. It's such an important word because we did evolve the ability to pair a bond at least temporarily. And we do have Courtship and it has to start slowly. If you jump into bed and have sex right away, there's no chance of Courtship. It's, that part is over. And so, you know, as you were talking, I was really trying to, I was thinking, and I want the, you know, listeners to imagine, imagine one 13-year-old boy who, you know, really wants sex, would like to have a girlfriend, but he has, he has a laptop, he has a phone, he has PornHub. 
+2  
+00:50:16
+He masturbates two or three times a day, he'd still like to have a girlfriend, but he's sexually satisfied because he has all this amazing Pornography. And he does this every day for 10 years until he is 23, let's say. And then we have another boy who, you know, maybe he has a Playboy magazine or maybe he has nothing, maybe he just has his imagination. He masturbates occasionally as boys do, but he doesn't have the hardcore porn, he doesn't have the fast dopamine. And then this second boy, he puts more effort into actually having a girlfriend and he learns how to talk to girls. And he, and he, he's flirting and one is interested in him and then they have their first kiss. And you know, 'cause I'm remembering back when I was, you know, teenager in my twenties, the most beautiful golden days. 
+2  
+00:51:02
+I mean, the most memorable days of my life, it was those days when you have that first kiss and you know, like, oh, this, this is gonna turn into something. Everything 
+0  
+00:51:10
+Sparkles after 
+2  
+00:51:11
+That. Yeah. Everything sparkles. Yeah. But the point is it's slow and it's hard work. And then when you finally do have sex, you know, it's not like, oh, dopamine crashed, you know, get outta here. It's, it's, as you said, it's like, ah, you know, prolactin rise, you know, you hug, you hold, you hold the girl. And you know, at some point you start thinking about marriage. Like, you start thinking like, is this the one? I mean, you know, crazy thoughts like that. You can't help but think that when you're falling in love. And I, at NYUI teach an undergrad course, and I also teach an BA course. Now the MBAs are all on the dating apps. They're in their late twenties. They're all on the dating apps. The undergrads, some of them are on dating apps, but they're, you know, they're 19. They're mostly dating in their, in their circles. 
+2  
+00:51:51
+And for the MBAs, I really have to work with 'em to see that, that these dating apps are cutting off Courtship in a lot of ways. I mean, yes, you're texting, but it's not the same. So, so I'm so glad you explained a lot about that. One is the fast, it's the fast satisfaction that prevents you from learning. Where slow hard work towards a biological goal, like sex or dating or marriage or love, is what builds you up into a competent man who would wanna hire or who would wanna date, let's put it that way. Who would wanna date the kid who'd been masturbating three times a day to porn since he was 13? So, yeah. Yeah, 
+0  
+00:52:28
+Yeah. And, and there's all sorts of things. I mean, my father's Argentine moved, moved to the states in, in the late sixties. And so I was raised in a fairly traditional home with the, from the perspective of masculine feminine roles. And there were all these things around Chivalry. I remember going to my first junior high school dance. My dad gave me this whole tutorial about holding the door and how did what, you know, it's interesting that nowadays guys are often judged in terms of their latency to respond to text messages. Hmm. You know, something I'm terrible at. And it's interesting that that sort of replaced Chivalry, like how responsive somebody is. Yeah. Yeah. So there's a kind of a bleeding forward, as long as we're we're just being very open about the past present and, and perhaps future of this stuff. 
+0  
+00:53:13
+I remember growing up and hearing stories. This wasn't how my childhood went, but I remember my dad telling me, you know, in Argentina, the young boys, when they would hit, Puberty used to be taken to prostitutes, so they would learn how to have sex. I mean, that's how, I mean, that wasn't that long ago. Wow. That wasn't my childhood. And I remember thinking like, what's, you know, is this, is this what's gonna happen next? And but he was explaining that's kind of how it went. That doesn't tend to happen anymore, as I understand. I 
+2  
+00:53:38
+Haven't heard of it happening. 
+0  
+00:53:38
+Right. But in terms of learning Courtship, learning Chivalry learning, you know, who pays. And a lot of that's changed with the, you know, the changing milieu of sex and gender dynamics. Yeah. But it's all iterative. It's slow and iterative and everything about online use, as you mentioned, is it's fast. You can find anything with a keyword search's. 
+2  
+00:53:59
+Right? No work. That's right. Yeah. The technology makes everything easier. And, and if we, if we end up talking about AI at all, which every conversation goes through at some point, that's my big fear that AI is, makes everything easy. Now, that's great for us adults, when we have 50 things we wanna do, if I can give 30 of them to ai, that would be great. But, you know, how many servants do I want my, you know, my son is now 17, when he was 10, 11, 12. How many servants would I want him to have to take care of his needs? Like probably zero. Like zero is probably the best number. But, you know, with, with porn for sexual drive, with multiplayer, Video, Games for sports or, or competition. That's right. Our kids are, they're not, they're not learn learning or developing. 
+2  
+00:54:41
+And this is why, you know, I work in a business school, I talk to a lot of people in, in the corporate world, and I always ask them, how, how's it going with your Gen Z employees? I've never heard a good word. I've never heard, oh, they're great. It's, they're often people just surprised at how they, they don't take initiative if, if, you know, if if something is broken, they don't fix it. They wanna be told what to do. They don't have the confidence, they're very anxious. So, you know, I'm not, I'm not ragging on Gen Z. I'm saying we blocked their development. We prevented them from having 1,010 millions of experiences of social interaction, of challenge of failure, a fear of thrill. And then when they reach their early twenties and they're employed, employers find there's something lacking. 
+0  
+00:55:24
+So it sounds to me like boys on Smartphones or sort of from this 2010 period forward are getting this kind of hyper stereotypical male experience, first person shooter games, Pornography girls are getting this hyper stereotypical female Exactly. Experience relational, highly relational. But there are certain dynamics that are missing or certain components that are missing. Yesterday I heard you mention something very, very interesting to me, which is that in both groups it seems conflict and any kind of friction is not being resolved among the, the participants, but there's this sort of looking outward for some rule or policy law or oversight to come in and intervene. 
+0  
+00:56:09
+Yeah. Could you talk a little bit about this? This relates in an interesting way to cancel culture. Yeah, that's right. That's right. I would love to, to learn more about this. Sure. 
+2  
+00:56:16
+So aggression is a part of human nature as is cooperation. And they kind, they kind of have to go together, you know, to make it in this world, you have to be able to play politics. You have to have friends and allies. You have to stand up for yourself. You have to push back sometimes. But you have to learn to bury the hatchet. And, you know, if you grow up with siblings, you know you're fighting every day and you're cooperating every day. It's, and it's very important practice. And if you're playing, if you're playing sports outside with a bunch of kids in the neighborhood, you're making the rules every day. And then part of the, I import part of what's important when kids are playing is the infractions. It's, it's, it's, every, the play stops. People come together, you know, that was outta bounds. No, it wasn't. 
+2  
+00:56:56
+You pushed me. No, I didn't. And then every, you know, everybody gets practice playing judge and jury, because everyone wants the game to go on. So they're very motivated to, to work it out, you have to accept the judgment. What are you gonna do? Storm off and go home to protest? Then you look like a loser and you don't get to play anymore. So natural play with no adult forces the kids to learn social skills that are essential for democracy. How do we make rules together? Just us? How do we decide how we're gonna govern ourselves? What do we do when it looks like someone violated a rule? Well, we're not just gonna kill them, we're not gonna expel them. We have to have a way of going on with the play. So these are such crucial skills for social development for boys and for girls. 
+2  
+00:57:37
+And, and kids always learn to work that out. But what happens when the boys are growing up on Video Games, there are no disputes. There can't be a dispute because the game, the, the software basically manages everything. There's no out of bounds or anything. So the play is missing a lot of the, of the, of the key skills. Now, how are conflicts resolved? Well, on social media, instead of like a conflict that two girls might have had just the two of them, or with like a group before, where it could get worked out very, very quickly. It's somebody posts something indirect. Maybe it's an indirect criticism and someone takes it in a way, maybe it was intended that way, maybe it wasn't. 
+2  
+00:58:18
+But before you know it, it's accelerated. People are taking sides. It, it could blow up. You don't know how big it could get. It could be the whole school now gets drawn in. This is terrifying. So a really important idea about play is what's called low Stakes Mistakes. So if you make a mistake while playing soccer with your friends, no big deal. Like, you know, it's a foul redo, whatever it is. But if you make a mistake on social media, it could blow up to the point where you are now a laughing stock. And when a kid, when a, especially in middle school, when a kid is a laughing stock, when everyone's laughing at them, that is likely to trigger thoughts even of suicide. Shame makes us wanna disappear. 
+2  
+00:58:58
+And we're putting our kids, our kids need to be immersed in small groups, small groups of other kids that are stable, somewhat stable over years. That's the healthiest environment. But instead we're mixing them in with po, potentially gigantic groups, including strangers and people who are not engaging their normal empathy skills, but are being performative, judgemental, judging, in order to be liked by others. So it's just an inhumane, it's a, it's a, it's an inhuman world in which to raise kids. And this is part of my point about the great rewiring in 2010 American kids still had a recognizably human childhood with a lot of time together with other friends. 
+2  
+00:59:40
+But that plunges in the 2010s to the point where now childhood is largely happening alone on a screen. 
+LMNT (Ad) huberman 
+00:59:48
+I'd like to take a brief break and acknowledge one of our Sponsors element elements is an electrolyte drink that has everything you need. That means the electrolytes, sodium, magnesium, and potassium in the correct amounts and ratios. And nothing you don't, which means no sugar. Now I and others on this podcast have talked about the critical importance of hydration for proper brain and body functioning. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are critical for the functioning of all the cells in your body, especially your neurons, your nerve cells. Drinking element dissolved in water makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 16 to 32 ounces of water when I wake up in the morning. And I drink that basically first thing in the morning. I'll also drink element dissolved in water during any kind of physical exercise I'm doing, especially in hot days when I'm sweating a lot, losing water and electrolytes. They have a bunch of different great tasting flavors of element. My favorite is the watermelon, although I confess, I also like the raspberry and the citrus. Basically, I like all the flavors. And Element has also just released a new line of canned sparkling element. So these aren't the packets you dissolve in water. These are cans of element that you crack open like any other canned drink, like a soda. But you're getting your hydration and your electrolytes with no sugar. If you'd like to try Element, you can go to drink element spelled spelled LMNT dot com slash huberman to claim a free element sample pack with a purchase of any element. Drink mix. Again, that's drink element.com/huberman to claim a free sample pack. 
+0  
+01:01:24
+I'll never forget in middle school being at some assembly and a kid had got down on all fours behind me and someone pushed me, oh yeah, remember that, that game I stood up and Kevin Gasman was just sitting there, just cackling with his face right in front him. So I hit him. It turns out it wasn't Kevin that did it, and he hit me back and it was a disaster. And I don't remember how it panned out, but we ended up being friends. So it was kind of how things got worked out. Well, that's right. 
+2  
+01:01:47
+Conflict and cooperation. You needed the two together. 
+0  
+01:01:49
+Yeah. Incredibly embarrassing. Both for getting pushed over and for hitting the wrong kid. You, you made a mistake, but credit for hitting somebody. 'cause that's how boys work things. I'm not suggesting people do this. Not, not suggesting violence and then both of us feeling silly and then ultimately, yeah. Well, I don't know. I made it to the eighth grade somehow. Right? That's right. And the Hierarchy among, I mostly had male friends, but the Hierarchy was something that was very dynamic. Yeah. I have a good friend who was a, he was a CEO, a commanding officer in one of the East Coast Seal team squadrons, tier one Seal Seal team squadrons. He said the reason they're so effective in those, those groups is because they embrace Dynamic Subordination, where people take over as different skill sets are required. 
+0  
+01:02:34
+Okay. And, and they are relentlessly hard on each other. This is something they are like relentlessly hard at the level of humor, but also, I mean, because it's so high cons, high risk and high consequence, they're just extremely hard on one another. But it's all about this Dynamic Subordination that sure, they're leaders by virtue of who's appointed leader in certain amount of authority. But there's this constant Dynamic Subordination, and it exists in every group of males I've ever been a part of. And it's wonderful and very reassuring to me because it means that you both get to potentially step up, but you also get to rest when you and trust somebody else's skills. I don't know how it operates with, with girls. I've, I've only been, you know, born with a y chromosome. 
+0  
+01:03:17
+This is all I know. But I imagine it exists there too, in different, but in different ways. So if online everything is fear-based, where one is fearing a dog pile, like if you say the wrong thing, you're gonna get dog piled. You kinda wonder why anyone participates at all. But it seems like people are in there. Are they, are they in there and timid, or are, is boldness rewarded? Is it only boldness of, I guess they call, you know, slamming down, what do they call dunking on other people? I mean, and here as I'm describing kids, I want to acknowledge, if you look on Twitter X, we now call it in the academic tech and finance community in particular, this is how the men behave. 
+0  
+01:04:03
+This is how the women behave. But it's especially a parent that the adults are kind of acting like kids and the kids are kind of acting like adults. So what's going on? Are we, are we drawn into this as well as adults? And are we modeling this? Or is this just social media pulling on these strings of, of, you know, deep evolutionarily conserved wiring? Yeah. 
+2  
+01:04:28
+Well, so first let you know, let's, let's, let's not be too sort of monochromatic about social media. There is a lot of humor. There's a lot of jokes. There are a lot of funny cartoons and 
+0  
+01:04:42
+Videos. 
+2  
+01:04:42
+Yeah. And learning. So there is, there is good stuff mixed in. And even the bad stuff is entertaining in the way that looking at a car crash or a dead body is entertaining people, it draws the eye. So, so young people are very interested and, and us adults too are very interested. It, it, it, you know, it draws us in. But then yes, it certainly changes our behavior. Now actually, there's some research on, on Trolls. Is it, is it that whenever you go on Twitter, you become a jerk? And, and actually no. It seems more that what happens is there's a small number of men, always men who have a personality disorder, they, they like to be jerks. 
+2  
+01:05:28
+They like to get a reaction from people. They get blocked a lot. They get kicked off platforms. And this small number, you know, in a real community, probably when you were growing up, there were one or two kids who were like this and they got in trouble a lot and they probably ended up dead or in jail. But online this, you know, suppose it's 1% of men, 1% of men are psychopaths. So I suppose it's this 2% of men, let's say, who are jerks like this. Well, online. That's who we all see. So, so, so in part it's that the online world super empowers extremists and jerks. It's also that in the online world, everyone is feeling performative. Everyone is, you know, you might even, if, even if you're making a joke, you have to think three steps ahead. 
+2  
+01:06:12
+How will it be misinterpreted? So a metaphor that I have in my head whenever I'm online is it's really just like being on thin ice. Like, you can have fun on thin ice. It's not all bad, but you're kind of always aware that you're in danger. Whereas when you're hanging out with your buddies, you know, you're good friends, there's, you feel totally safe. And if you accidentally insult one of them, you know, it's like, oh, you know, sorry, you know? Yep, you're right. I'm sorry. 
+0  
+01:06:37
+And as followership increases, the ice gets thinner. 
+2  
+01:06:40
+Yeah, that's right. That's right. The right, the higher they go, the, the harder they fall. And then a lot of people wanna see, wanna see your fall? Just wanna make a one point you, that was an interesting concept that what was something Inor subordination, 
+0  
+01:06:51
+Dynamic Subordination, Dynamic 
+2  
+01:06:52
+Subordination. 
+0  
+01:06:53
+Kinda like a flock of birds, but is how it was described to me. But, you know, I always thought in the, in the, you know, tier one special operations community that, you know, people would spend more years there further and further. That's true too. But, but this idea that it's just understood that the Hierarchy evolves in real time. Yeah. And the, and the more people embrace that, the better performing the group is as a 
+2  
+01:07:17
+Pack. Yeah. Now the word Hierarchy certainly takes on a bad name, especially like in our academic circles. Hierarchy, you know, is bad and power is bad. And, and subordination is, all these things are bad power, you know, inequality. But I think part of what's going on there, so, you know, I teach in a business school and there's a huge amount of writing on leadership and, and I haven't read much of it. But, but a key idea that I, that I got, I'm trying to remember the author, is that the, the key puzzle is not why people wanna be leaders. It's why do they wanna be followers? We really need to study followership. And so people are willing to follow because part of our amazing human abilities to work together in groups to overcome obstacles. 
+2  
+01:07:57
+We don't have sharp teeth. We're not very well, we're fast in long distance, but not in sprints. But we're able to work together. And when we face a common threat, we very willingly seed leadership to a leader. But we have to trust him. And if a leader shows that he's a narcissist, that he's putting himself first, that he's benefiting at our, our expense, we don't, we don't trust him. So what you need to do, and I think this is more clear, males are more hierarchical. This is true in chimpanzees as well. Males are, there's, they take to Hierarchy more readily males benefit from having practice. I don't think it as dominance and submission. I think what you said is actually more, more effective. It's like then he'd practice like being the leader of this project and then being a follower because you grant like, yeah, you lead us on this, you take the lead on this, and then something else will reverse. 
+2  
+01:08:45
+And if you have a young man who has a lot of that experience, that's gonna be a young man that you will wanna employ when he's in his mid twenties, whereas one who never had that, it's just gonna be much more difficult to work with in a, in a, in a business setting. 
+0  
+01:08:57
+Yeah. The groups of boys I grew up with and men that I've worked with and been friends with, it's always been understood. Like, this guy's really terrific for finding stuff and this guy's great with vehicles and this guy's great with girls and this guy's that people have different skill sets. Yeah. And that the group together can really mesh, but there isn't an attempt to be something that you're not. And you quickly find out who you are by who you're not, and you find your unique skillset. Yeah. And, and you, you know, you evolve in that way by not trying to be everything to everybody. Whereas I noticed with my sister and her groups of friends, it's changed over time, of course. But that there tended to be one girl that was really dominant in the play session, like the whole time. 
+0  
+01:09:41
+Yeah, yeah. The bossy one. You're right, you're right. You know? Yeah. And even though some stories, you know, kids' books with that, that mainly feature boys have that I, I don't recall that being such a big part of my reading experience or childhood experience. Like in the encyclopedia brown books. Like there was like the mean kid and the Yeah. Like, but people would slot in where they were most adept. So it was sort of like natural tendencies to excel were complimentary. And I don't know what it is for girls, but online it seems all of that's erased. So you've got these social dynamics that are very heightened being played out on social media with, with girls, but boys and men are on there as well. 
+0  
+01:10:27
+And most of what's on social media is social, it's relational. So are boys and men being drawn more toward those sorts of interactions and how well are they navigating those interactions? Yeah. Is it common for boys to make big mistakes online and and then be shunned as a consequence? Yeah. Or is this more common in Yeah, females? 
+2  
+01:10:48
+Yeah. No, that, that, no, that's a good question. Life online is performative for girls. A much bigger element of the performance is Perfectionism about the image. So girls spend a lot more time choosing a photograph, editing a photograph, making sure everything's perfect. Whereas guys, you know, like, I literally don't notice if my socks don't match, my wife has to tell me your socks don't match. You know, guys just don't notice those things as much. So you're a 
+0  
+01:11:15
+Professor after, 
+2  
+01:11:16
+So Yeah. Minded professor, I suppose. Yeah. But my point is that, is that life online, it does affect all kids. So fear of missing out is something that affects everybody. You know, on Snapchat you see all your friends over there and you didn't even know that there was something going on. So, you know, boys, and again, boys and girls, they'll have similar insecurities. It's more a question of degree. So the, the, the Perfectionism, the the playing out the social dynamics to three steps, like girls are playing three dimensional chess about social relationships. Well, but why did he say that? If he also wanted this, when she, he knows that she knows that, you know, and guy's like, what, what are you, I don't even know what you're saying. Right? 
+0  
+01:11:54
+They're barely playing checkers. 
+2  
+01:11:56
+That That's right. That's right. And again, it's that, it's that, you know, it's that the early, the organizing effects of prenatal hormones, this is not culturally taught. This is what kids enjoy doing based on, I believe, and Simon Barron Cohen, I believe believes is the organizing pre the prenatal organizing effects of hormones on the, on the developing brain, but 
+0  
+01:12:15
+On YouTube, where it's my understanding primarily male, yes. There's a lot of clap back type comments. I know this 'cause I have a YouTube channel. Yeah. And in the old days, it seems, it wasn't that long ago when Rogan was, had full length episodes on YouTube, then he didn't. Now he does. Again, the, the jokes, the comment section on YouTube were like their own show. It was outrageous. It was so good. And some of that's coming back now that he's, 
+2  
+01:12:43
+Was it men showing off their cleverness it? 
+0  
+01:12:45
+Right. I mean, like for instance, you might be familiar with Jocko Willink, the Right, you know, this sort, if you had to draw a Navy seal, you draw Jocko, it kinda looks like modern general, general pat, modern day, general patent. Right. And there's this whole category of jokes based on Jocko who I think actually has risen to prominence in the online culture because he's sort of like the football coach that most young males never had. He's a guy that's gonna tell you what to do, when to do it, and do it even though you don't want to just do it. And he, and you trust him. He's a very trustworthy guy, as it were. And he's a warrior and he has all the credentials, et cetera. But there's this whole category of jokes, like, you know, when Jocko was born, the doctor looked at his mother and said, it's a man, you know, or, or when Jocko left for college, he looked at his father and said, you're the man of the house now. 
+0  
+01:13:31
+You know, jokes like that, you know, there are tons and tons of these, right? Yeah. So there's this whole, oh yeah. So that's very YouTube ish male type humor. It, it's one hit that's, it's done. It gets a ton of likes and it propagates Yeah. None of this two or three chess moves down the, down the road. Yeah. That's, so it's very clap back sometimes in that, or in that case, building up Jocko who doesn't need any more building up, but people do it anyway. So things of that sort. So I'm interested in the, in these, in the nuance here, because you're telling me that girls are killing themselves more, they're depressed. Well, 
+2  
+01:14:04
+Their, their increase in suicide is larger boys have a much higher suicide rate. So boy, many more boys die from suicide and 
+0  
+01:14:12
+Say more violent means. 
+2  
+01:14:13
+That's, that, that's one of the major reasons, and that's especially true in America where we have so many guns. Okay. Boys tend to use a gun or a tall building or a bridge. Whereas girls tend to use pills or cutting their wrists. And they, and the great majority of girls suicide attempts don't lead to death. Yeah. 
+0  
+01:14:27
+So are most of the issues with girls and online use, social media, it's sort of, it's despair, it's at home, anxious, sad about self, self critiquing, this kind of thing. I mean, you're telling me there's a, a huge, and I believe you, that there's a tremendous increase. I mean, it said hockey stick like function. Yeah, yeah. When we're looking at essentially capturing the tip of the pyramid in terms of like extreme social interactions. Yeah. So take let me, I'm not being very, very clear here. We have these neural circuits that evolved for social interactions that are more heightened in girls. They're getting much more of it faster. 
+2  
+01:15:09
+Yeah. 
+0  
+01:15:10
+And the consequences are no less and probably even more severe than they used to be. But it's still shunning, shaming, self attack and, and anxiety, depression, et cetera. In boys, the neural circuits that we're talking about are related to sex and violence. Those evolved over hundreds of thousands, not millions of years. And those are heightened. So we're sort of capturing the, the extremes of these neural circuit functions. I'm looking at this through the lens of a neurobiologist. No, no, this is great. This is great. And this is where it seems we're running into trouble because the, the iceberg below all of that. Now, the portion of the iceberg below those, those peaks of behavior and interactions, like none of that's happening. 
+0  
+01:15:51
+There isn't the, it's all happening faster, it's more potent and the consequences are, are more severe. That's 
+2  
+01:15:59
+Right. That's right. I think there's a good analogy here to junk food where I've heard junk food or the hand, you know, a cheeseburger described as a super stimulus. And you know, ice cream is a super duper stimulus, you know, it's got fat, it's got sugar, 
+0  
+01:16:11
+Right? And a and a cheeseburger with a milkshake, and the milkshake has candy in it. 
+2  
+01:16:16
+Yeah. Ice cream. And then 
+0  
+01:16:17
+You get a toy. Yeah, yeah. And they're playing music. I mean, that's right. That's a dopamine bath. 
+2  
+01:16:22
+That's right. Yeah. So if we think about, if we think about life in the presence of junk food, if you raise your kids with junk food, you're gonna have all kinds of, you know, metabolic problems, developmental problems, obesity, all sort of diabetes, all sorts of terrible things. Now if you have a normal development and then as an adult you, you indulge in more junk food, you know, it's, you know, it's probably, it's not good for you, but it's very different than being raised on it. The, the developing brain, the developing body are much more sensitive. And so the way you just put it before, it's like the, it's like these evolved motives. You super satisfy them with these, these overwhelming quick, easy hits. It may not be so bad for an adult. We can choose to have, you know, we can choose to, you know, pay for sex. 
+2  
+01:17:04
+We can choose to, you know, eat it, eat, you know, eat a cheeseburger and a, and a milkshake. But it's very important for kids. We have to see the genes don't have that much information in them, but they start the brain developing, and then the brain has to sort of find its way. The neurons have to find their way guided by local signals, how to develop. And then the child has to kind of find its way through its culture, getting a sense of how do I behave here and, and who am I and how do I relate to people? And it's all a very delicate process that has to be drawn out over many, many years. We, we, everything about us develops slowly, especially compared to other animals. And if you intervene in the developmental process and say, Hey kid, you want the endpoint without the journey, here you go. 
+2  
+01:17:46
+Take it. You're cutting off development. And that's I think what life, that's what the phone Based Childhood is doing. 
+0  
+01:17:53
+Well, here's my concern. There is a reality to these things we call critical or Sensitive. Periods. 
+2  
+01:17:59
+Yes. Let's talk about that. 
+0  
+01:18:01
+Critical Periods implies that it's open and shut, and they're actually Sensitive Periods for language learning, for brain plasticity. And the, the general contour of this is passive experience up until about age 25 dramatically shapes the maps in the brain that we have of social relationships of the visual world, the auditory world. I mean, there's just so much data to support this in animals and humans. Then after about age 25, you can pry open the underlying neurobiological mechanisms for neuroplasticity, and you can rewire your brain, but it takes a hell of a lot of effort and or pharmacology to assist, which is part of what the excitement about some of the psychedelic therapies are about. Because, and I'm not suggesting people just run out and take psychedelics, but, but 
+2  
+01:18:44
+They can foster change. 
+0  
+01:18:45
+They can foster change, and they're either neuromodulators or they stimulate the massive release of neuromodulators like dopamine, serotonin, mostly serotonin and dopamine when we talk about psilocybin and M-D-M-A-L-S-D, et cetera. But that plasticity needs to be directed. So just taking the drug doesn't do it on its own. Right. Okay. Right. So leaving that aside, what do we know for sure? We know that as the brain progresses from age 3, 4, 5, 6, 7, there are milestones that have to be met. And in general, if a kid makes it to high school age or college age, regardless of whether or not they go to, to, hopefully they do in graduate high school or college, there's a, a set of milestones that they have to reach. 
+0  
+01:19:27
+The circuits are going to develop one way or another. The question is, what are the, what are the thresholds under which dopamine is released? Well, if you, yeah, I would argue, and I'll go on record saying that if a kid watches a lot of intense high potency violent porn and that becomes his dopamine stimulus, well then other stuff probably won't do it for him. Whereas if there's a variety of experience or more, let's just say subtle, dare I even say healthier right? Stimuli, then the system is the dopamine system around courting and sex properly is more varied. It's, it's more of a, at least more of a buffet and hopefully a healthier buffet. Yeah, yeah. Right. 
+0  
+01:20:07
+Yeah. Again, no judgment here of different proclivities, but here we're talking about the wiring of neural circuits. Same thing with food. If one grows up on highly processed, very, very tasty food for a while, fruits and vegetables in their pure form meat and fish in their plain form are, are boring. It does not evoke the same reinforcing property. And earlier, I, I, I forgot to to mention why I prefer the word reinforcing as opposed to Reward, because Reward evokes this idea of the thing being the Reward, but the reinforcement is, reinforcement is a verb. And so as a verb, it brings the mind to the fact that these circuits are, are like, they're churning in the background there. It's not just about getting the thing, it's the, it's the underlying bi biology that that gets you there. 
+0  
+01:20:52
+And so I think that where I'm very concerned is that we've now got what millions and millions of kids, boys and girls who is neural circuits we're wired up wrong. And now there needs to be, it seems a very active process in unwiring that, or at least shifting those neural circuits towards something that's more adaptive. 
+2  
+01:21:14
+Yeah. So before, before we talk about what to do if you're older, because I have the, the great good fortune to be sitting here with you right now. I'd like to ask you to help me expand what I say in the book. So you, you gave a description of of Critical Periods where there's a hard beginning and end and of Sensitive Periods are periods in which it's just a lot easier to learn something. And if you don't learn, so for example, phenology is one of the clearest cases. You accent, you know, if you, you know, when a family moves to America from somewhere else, if you've got two kids in the family, like one of my advisors at, at Penn in grad school, Henry Glitman had a very, very heavy German accent. And his younger brother, two years younger had no accent whatsoever because Henry was 14 and his brother was 12 when they came to America from fleeing Nazi Germany. 
+2  
+01:22:01
+And so there's a sensitive period that kind of closes at Puberty for language. So I talk about that in the book. And then I talk about a more speculative sensitive period that I've read about, you know, a few people think this exists. And, and I, I cite a Japanese study of, of Japanese businessmen who moved to California in the seventies as Japanese business were thriving. And they looked at when did the, when did the kids come to feel American? And the answer was, if they came and left before age nine, nothing, they went back to Japan. They were totally Japanese. If they came when the kid was 15, nothing. The kid was already Japanese but wasn't gonna ever feel American. If they came and spent a few years between about nine and 15, then they go back to Japan now, especially if the kid's now 15 or 16, the kid now feels American and has trouble fitting back in Puberty. 
+2  
+01:22:48
+Well, that's right. There's a period, it's, it's early Puberty. It's sort, you know, it's like just before Puberty to sort of midway through Puberty seems to be a sensitive period for culture learning and for identity. Your very deep sense of who you are and how you relate to people. So this is speculative, but it does seem to fit a, a, a lot of interesting data. And, and the reason why I, I focus on this in the book, I decided like late in the process, you know, I knew I had to talk about Puberty. I was gonna have like a section on realized, my God, this is so important. I need a whole chapter on Puberty. And I talk about initiation rights all over the world. Adults think kids don't just turn into men and women, they need help. 
+2  
+01:23:29
+They need to be given the special knowledge for boys. There's usually ordeals more so than for girls. And so I think what's going on is we do have this sensitive period for cultural learning. How do you learn to become a person in your culture? And you know, I was, I was in the Boy Scouts and Boy scouts was created around World War I as like paramilitary training, like learn virtues of, you know, self-denial. And oh, you know, brave, clean, loyal, trustworthy, re I forgot the order all messed up, but it was a set of virtues. So would you agree, or what would you say about Sensitive Periods for this really high level stuff? We're not talking vision or phenology, which are fairly low level cognitive things. We're talking like your sense of who you are. What would you think about a sensitive period for that? 
+0  
+01:24:09
+Oh, first of all, Puberty is just fascinating and under-discussed, in my opinion, as a critical developmental milestone. It's also the, the fastest rate of aging that we ever undergo. 
+2  
+01:24:21
+Aging meaning in 
+0  
+01:24:21
+Our life, range change or growth, you know, in, in terms of change of the brain, in terms of rate of, I mean, there are some theories that, that the, that the rate of Puberty and the timing of onset of Puberty actually might predict something about longevity. Oh, which 
+2  
+01:24:37
+Way early 
+0  
+01:24:38
+Puberty is bad. Early Puberty might be bad, but I wanna be very careful in saying that some people, including myself, have a very protracted Puberty. So I hit Puberty around 14, but I didn't get facial hair until I was out of college. Wow. So some people developed the, so-called secondary sexual characteristics slowly, but I always had this voice since I was a little kid. So five years old, they call me froggy. Now that's me. And everyone goes through these things differently. Yeah. But Puberty is the most profound brain change that one can 
+2  
+01:25:05
+Undergo. Okay, tell me more about it. 'cause I just keep saying like, well, it starts in the back of the brain and then is, but be, be specific. What is happening to the brain during Puberty that will be relevant here to a sensitive period? 
+0  
+01:25:15
+Okay, so this goes back to the biology that you accurately described earlier, which is that while we're in utero, if there's a y chromosome, then a bunch of genes are made like malarian inhibiting hormone, the Malian ducks become inhibited, the testes grow, then testosterone is secreted and testosterone in some of its derivatives like dihydrate, testosterone, organize the brain, quote unquote male. This is dangerous language nowadays, but it's, 
+2  
+01:25:39
+It's less dangerous now than it was two years ago. 
+0  
+01:25:41
+Okay, well we're talking about gender, we're talking about biological bi sex here, and we're not talking about the verb sex. We were talking about that earlier. We're talking about biological sex. So what I'm describing here is, is not disputed. The, so there are these organizing effects of hormones early on, and then they're the activating effects of hormones that happen during Puberty. So then Puberty hits the testee, starts secreting testosterone. If they're fat stores on the body, they secrete estrogen. Again, testosterone and estrogen working in parallel. And in males, a number of different brain areas, in particular the hypothalamus, but also the four brain and associated areas undergo massive plasticity and growth relating the wait, 
+2  
+01:26:20
+The four forebrain, the frontal lobe. Yeah. 
+0  
+01:26:22
+Right. The frontal lobe. Oh. So one of the most profound changes in Puberty that happens, especially in males but also in females, is that, well we can describe the, the major function of the prefrontal cortex. This neural real estate, right behind the, the forebrain has many different subdomains involved in things. But one of its main functions, this was beautifully described by the, the guy who's now the head neurosurgeon at Neuralink, Matt McDougall, is to say, shh to the impulse driving actions of the hypothalamus, in particular hypothalamus houses, neurons for temperature regulation, sexual drive, hunger, aggression, I mean, so much so that you can go in and stimulate certain neurons and the ventral medial hypothalamus with an electrode and you would go into a rage. 
+0  
+01:27:02
+Wow. Yeah. Stimulate neurons also within the ventral medial hypothalamus just nearby. And you'd want to go spend some time with your wife alone. Let's just put it that way. I mean, a remarkable specificity of the neuronal outputs to behavioral change and state change. So all of that gets set up essentially during Puberty, because the neurons of the hypothalamus are responsive to these hormones that are coming from the gonads. And in females it's, yes, mainly secretion of estrogen, but also testosterone. Okay. So the brain is changing in dramatic ways, not the least of which is the forebrain is learning how to suppress impulse. Mm. Okay. And some of that's gets feedback from behaviors, right? 
+0  
+01:27:42
+From parenting, learning how to suppress, learning how to suppress. And 
+2  
+01:27:45
+If it doesn't get practice, social 
+0  
+01:27:46
+Reward or 
+2  
+01:27:47
+Punishment, if it doesn't get daily practice in suppressing, if you're able to give into all your urges, because like I'm finding, like when I sit at my computer, my rule, now, I have to say to myself out loud, finish what you start, finish what you start. No, don't go check until you've done. You only have two more pages to read. Read those two pages bef, but I, I can't do it. 
+0  
+01:28:05
+Right. Well, this is the gradual creep of sort of a, we don't want to make it clinical, but an adult, we like a DH, adhd, like symptoms that we all are suffering from, right. There's just, it's just we're at a buffet. Right? Yeah. It's delicious. 
+2  
+01:28:18
+That's right. That's a good example. 
+0  
+01:28:19
+So that's one of the main things this forebrain to hypothalamic wiring. The other is, and this is not trivial, and you mentioned the context of language learning, and Dr. Eddie Chang, who's a neurosurgeon, actually chair of neurosurgery at UCSF, knows a lot about this and Critical Periods is that there are hormone effects on say, like thickening of the vocal cords, which is why on average boys have deeper voices than girls and so forth after Puberty. And there's a lot of feedback from those signals in terms of the social world, because now a young boy whose voice deepens, who's also acquiring more knowledge, is talking to other people about that knowledge and he's being treated differently. And there's feedback in terms of his self concept. Yeah. And that's where it gets kind of high level abstract in girls. 
+0  
+01:28:59
+Good. Yeah. There's feedback of sometimes it's bodily changes, positive or negative feedback from peers, other girls and or boys. But also knowledge. She's out there talking about, well, you know, like she's brilliant in math or you know, brilliant in literature and getting feedback. And then self-knowledge starts to accumulate and the, the location of identity in the brain is unclear. Yeah. It's probably a distributed network. Yeah. It's probably an emergent property of a lot of different things. So we can't really point to one area, but it's learning, impulse control, reinforcement contingencies on what timescale can I get, what I want to meet certain drives, and to what extent should I suppress those drives? 
+0  
+01:29:39
+And you know, traditionally it was, I think through Religion and parenting and social cues that you learn, well, if I want something, is it okay to do it? That there are consequences to eating more or less consequences to be okay. So it's super complex, but that all happens sometimes in a summer. This is what's so amazing about to, about Puberty to me, you know, or the acquisition of facial hair in, in a boy, you know, suddenly he's looked at differently. People will start projecting all sorts of futures on him, you know? But we do this, I notice I'm not a child psychologist obviously, but as soon as my niece started drawing, she's gonna be an artist. As soon as a boy starts building or a girl starts, he's gonna be an architect, you know, gets a math problem, right? 
+0  
+01:30:23
+Yeah. She's gonna be a, a mathematician. I mean, we project all this stuff and, and there's no question that that feeds back on identity. But in terms of online use, I can't even imagine how much of this is diminished by only showing a specific part of ourselves. And I can't even imagine how much of it is exacerbated in terms of what we are rewarded for during Puberty. So here's what we know in both animals and humans, which is that neuroplasticity, while it responds to punishment, is exquisitely sensitive, becomes sort of a runaway train for more plasticity under conditions of Dopamine, Reinforcement, and Reward. So you can imagine that the girl using the filter, the Instagram filter for who gets rewarded for looking a certain way, maybe excessively thin or something, or what leads to excessively thin. 
+0  
+01:31:11
+There's no question that rewards drive neuroplasticity faster than 
+2  
+01:31:15
+Punishment. Wait, make sure I understand this. You're saying suppose a girl gets, a girl gets onto Instagram and she's now consuming stuff about being thin and for some reason she finds this rewarding. Are you saying that the, the the quick dopamine circuits where she posts something and she gets likes for it, are you saying that that actually will extend neuroplasticity, the the fact that she's getting more dopamine, rapid dopamine that will make her more neuroplastic and her brain will change more? 
+0  
+01:31:43
+Yes, it will, it will accelerate learning for the whatever contingency led to that, whatever led to that. Wow. So we know this in animals and humans, even though they're exquisitely sensitive, plasticity is exquisitely sensitive to punishment. You know, it only takes one shock learning in one corner of a cage, right? Or getting sick, oh, at one particular restaurant that you don't want to go back again. But when it comes to social dynamics, we know that Reward leads to almost what, what I would call runaway plasticity in the circuits that generated the behaviors that led to that particular Reward. I mean it's, and there are a number of experiments that, that explain this. The work of Mike Menik at UCSF, who largely worked on adult plasticity, but showed that when you, when you activate dopamine release in the brain, fortunately both during development but also in adulthood, you essentially create a window of super plasticity. 
+2  
+01:32:37
+Okay, that's amazing. So 
+0  
+01:32:38
+Dopamine Reward, that's, that neuromodulator is a window for super plasticity and evolutionarily it makes sense. Like, oh my goodness, there is, there's abundance here of something. Oh, 
+2  
+01:32:47
+Time to learn something 
+0  
+01:32:48
+New. That's right. We've, we've overemphasized the extent to which plasticity is driven by punishment, but the neuromodulators that allow for plasticity in particular in Puberty and as adults are largely dopamine dependent and acetylcholine dependent. The acetylcholine generally increases focus, broadly speaking. Oh, I mean, does a bunch of other things, controls muscular contraction, et cetera. But so what we're basically saying here is that if a kid gets a strongly reinforcing experience, I, I'd be willing to bet both arms that the neural circuits that help generate whatever behaviors led to that experience are going to be strengthened in one trial. 
+0  
+01:33:32
+Wow. To the extent that it will be very easy to generate those, those behaviors again. Wow. 
+2  
+01:33:36
+Okay. So this, okay. Thank you. This is exactly what I wanted to know to, to deepen my, the theorizing that I do in the book. So now this is actually the perfect time for us to switch over to the four recommendations, the four main recommendations, because they build exactly on what you just said, and they helped me explain why this is so important. So, so, you know, I think one, one reason why the book seems to be doing very well and people seem to like it and pass it on, is that it's not just doom and gloom. It's not just, oh, we've messed up our kids. Oh, these terrible devices. Rather, it's about a vision of childhood, which is actually beautiful. It's the one that, that most of us older people had. It's with play outdoors and all. 
+2  
+01:34:17
+And, and so the, my analysis in the book is that the reason why it got this far is because it's a set of Collective Action traps. Everyone every 10-year-old needs a smartphone now because every other 10-year-old has one. And you don't want to make your kid be alone. So the four recommendations I have are four ways of breaking out on the trap, but the first two are really about delaying and getting past this period of plasticity. And you really help me see why it's so urgent to delay until late Puberty at least. So here are the four norms that I think can break us out of this trap. Norm number one, no smartphone before high school. You can give your kid a flip phone flip. The millennials had flip phones, they came out fine, 
+0  
+01:34:58
+No access or no smartphone 
+2  
+01:35:00
+Of 
+0  
+01:35:00
+Their 
+2  
+01:35:01
+Own. Your own your own. You can't have your own. And that would even go for an iPad. If you give your kid an iPad and say, here Billy, this is your iPad, you can keep it in your room and use it any, you know, anywhere in the house and you can take it outside even, although maybe no wi wifi, whatever the point is, the internet is an amazing thing. And you know, you can have a computer in your living room or kitchen when you have young kids and they can do things on the computer, but you do not want to give your child the entire internet in his or her pocket. And you do not want the entire world to be able to reach your child whenever they want to. So it's just insane that we're giving children even before Puberty a smartphone, let them have a flip phone or a simple phone watch, something like that. 
+2  
+01:35:44
+That's rule number one. Rule number two is the most relevant to what we're just talking about. And that is no Social Media until 16. There is, I believe, no way to make social media safe for children. That is, if they're going to be entering a domain in which prestige is gained by having posts that get the most likes and followers, you're making them be brand managers. You're making them be performative. This is not playful. They're gonna be exposed to horrible, horrible things. I now ask young people, is there something that you saw when you were young that you really regret seeing? And a lot of 'em have an answer. My 21-year-old doorman just told me about the gauntlet running the gauntlet. It's a series of 20 videos. It's a challenge. Can you watch these 20 videos, which end with, you know, a, a Mexican drug gang dismembering, a person who's alive? 
+2  
+01:36:29
+Oh, things like that. Like yes, I'm tough enough, I can do that. Really. At what age should you, do you want your kids watching, people being dismembered? 10 11? Is that 
+0  
+01:36:38
+Okay? And those images are forever during I 
+2  
+01:36:39
+They're forever. They're That's right, that's right. I didn't even watch the video. I sh you know what, I'm sorry I said that. I hope 
+0  
+01:36:43
+Won't provide a link. No, I'll say that. You know, trauma is defined as a adverse event that forever changes the way the brain responds in ways that make people less effective in life. So don't do it to yourself. Like, I wouldn't watch the Dahmer movie. Everyone's talking about the Dahmer movie. All I had to see was 10 seconds of the trailer to know I'll pay money not to see that. That's 
+2  
+01:37:02
+Right. 
+0  
+01:37:02
+Not because I couldn't 
+2  
+01:37:03
+'cause you can't get 
+0  
+01:37:04
+Through it. I'm sure I could force myself to, but I don't want that in my neural real estate. That's right. It is just, there're for 
+2  
+01:37:10
+That's 
+0  
+01:37:10
+Right. For obvious reasons. That's 
+2  
+01:37:11
+So, so let's go back to what you said about neuroplasticity. So, because if, if it's true that Puberty is a sensitive period for many higher level aspects of our humanity, such as identity, relationship skills, all that stuff, then you should be extra careful when your kids are nine to 15 years old, you should be extra careful about what's going into their eyes and ears. And instead that's when we give up all control. You know, when our kids are little, they pay attention to us. We read to them, we have a lot of control about what our kids consume when they're toddlers and when they're very young. But as they reach middle school and high school, they're moving away. They're seeking out other stuff. And that's exactly when you say, here, here's your own device. You wanna go down a rabbit hole of eating disorder stuff, you wanna go down a rabbit hole of, of, you know, so of you know, Tourette syndrome. 
+2  
+01:37:57
+You, you, you're gonna copy people who have these symptoms. So the last thing we should be doing is exposing our children in this sensitive period to socializing information from random weirdos on the internet who are selected by an algorithm for the extremity of their behavior and the degree to which that extremity earned them likes, which makes them extra prestigious. So yeah, I laws that raise the age to 16 or 18, I think that's what we need. This is just not appropriate for minors. Even if there's some good stuff on it, I think it's vastly outweighed by the bad. So that's the, and that's the second no smart no social media till 16. The third norm is phone free schools. And again, you know, if we expect kids to learn and learning is brain change. 
+2  
+01:38:40
+If you're learning something, you're developing a skill, something about your brain has changed. How about instead of learning math or reading or litter or anything else, how about if you just do more phone stuff? You just spend more time in school on TikTok, there was just a, an article in the Washington, in the Wall Street Journal about a teacher who fought against the phones and finally gave up and quit. And it, one of the students in his class is quoted that she used to, she'd come into class and she would just go on TikTok and that's what she would do all class long is just watch TikTok in her desk. You know, and like, no, you should be learning not doing more TikTok in school. So it's just insane that we let kids take the greatest distraction devices ever invented into the classroom with them. 
+2  
+01:39:21
+And 
+0  
+01:39:22
+I would argue that they are learning, but what they're learning are these rapidly reinforced dopamine loops that lead to diminished amounts of dopamine. Not just in short periods of time, but very quickly. And that inhibit other forms of learning. 
+2  
+01:39:37
+Yeah, that's right. And the ability to pay attention right. To, to a teacher. Right. Which is not as stimulating as what you're seeing on TikTok. Yeah. 
+0  
+01:39:43
+There's tons of learning. It's but it's learning of all the wrong things. That's 
+2  
+01:39:46
+Right. That's right. So that's the third norm is no is phone free schools. You have to lock up the phone in the morning, either in a lock, in a phone lock or a yonder pouch. If the policy is you keep it in your pocket. That's not a policy, that's just a recipe for constant conflict with the kids. 'cause they can't help it. They have to text, if anyone's texting, they have to be texting. And the fourth norm is the hardest. The fourth norm is far more independence, free play and responsibility in the real world. Because what we need to do is not just roll back the phone, Based, Childhood and make them just sit and do nothing we have to do is restore a really fun, adventurous childhood. Like, you know what you were saying, you know, you go out on your bicycle, you're hanging out with your friends, sometimes something happens and boy, you have memories. 
+2  
+01:40:27
+I mean, exciting things happen, scary things happen. You have memories. And you know, I worry about like, what, you know, what boys today, you know, I have a group of buddy, my group of friends that I, you know, we, we still talk about things that happened, you know, things that, amazing things that happened when we were in college or after college. And I wonder what boys, young boys today are gonna say, you know, you remember Fortnite game 27,363 where you were trapped in that elevator shaft and I had to shoot you out. No, I don't remember that one. You know, like, you know, the, the virtual adventures are just not gonna cut it. Our kids need adventure. They need independence and adventure where they work out the conflicts themselves. So if we do those four things, I think we can restore childhood in the real world. 
+2  
+01:41:07
+No smartphone before high school, no social media till 16, phone free schools, more independence, free play and responsibility in the real world. Those four things, and these are things that we can all do if we work together. If we do 'em at the same time, if you're the only family that's keeping your kid off of smartphone till high school and off of social media till 16, you're imposing a cost on your child. And she may be lonely and she'll say, mom, I'm left out now. She might still thank you. As we saw last night. So one of the women said her daughter thanked her for keeping her off, but at the time, it was painful for her. And so my hope is by spreading these norms, no parent will ever be in that position again, where their kid is the only one in the class who doesn't have a smartphone at age 10 
+0  
+01:41:48
+To have this fantastic list. I say fantastic, because it jive us all of the neurobiology that I'm aware of. And because it offers solutions there, it's really based on knowing what's happened and is happening with, with smartphone use. There are a bunch of don'ts, but then there's some do's, which I, you know, I'm not, again, I'm not a, an expert in behavioral change, but I spend a fair amount of my time talking to people about what they can do for their health and wellbeing and not just the don'ts. And I, I think it's important, as I understand, to have replacement behaviors. And also I think people of all ages want to do something that feels good the first time and every time, and that's good for them. And then you create that reinforcement loop in a different direction. 
+0  
+01:42:30
+You're offering all of that in the book and here, and it's fabulous. What I wonder about and would love to help in any way that I can with is, you know, if you recall years ago there, there was this understanding about the first six years of life being critical. It was the first six years. And so parents kind of overstepped it a bit and were playing their kids Mozart all the time. Oh, yeah. And things like that. Oh, that waste of time. But what was interesting is that they were thinking about Critical, Periods and brain plasticity. And so as a neurobiologist who said Brain Development, I, I was delighted. It seems to me that if there was an understanding that the biology and psychology and sociology points to the fact that there is a critical period, maybe not even a sensitive period, but a critical period in which excessive smartphone use of a particular type is actually leading to more suicides, depression, anxiety, and less learning and adaptive behavior in life. 
+0  
+01:43:29
+It seems to me that it should be at almost like a law. It should be implemented at the level, certainly at the national level. What, what sorts of barriers do you think exist to that? You know, obviously I'm enthusiastic in joining your effort, and, and I know many people listening will be as well to try and implement these four things, but what do you think it would really take to get people to take their children's brains and lives seriously? Because children can't be left to their own self-care to that degree? This is unfair. That's right. I mean, it's like telling a kid in a candy shop, like, Hey, listen, you know, figure it out. 
+0  
+01:44:09
+You know, there's nutritious food down the street that like, it's unfair, right? It's like a puppy trying to, trying to do the, you know, Westminster Championship. It's like, it's not gonna happen, you know? But this is serious stuff. I mean, we're talking about the future, not just of the United States, but of the entire species. So what about laws? What about Legislature? Yeah. How does that work? I don't know anything about 
+2  
+01:44:31
+That. Sure, sure. Well, first, so, you know, let's, let's note, you know, I could be wrong about this. It might be that the phones aren't doing this. Now, I think the evidence is pretty good that it is, but let's suppose there's a 70% chance that I'm right. Let's suppose there was only a 30% chance I was right. The, the consequences are so severe, we should be taking action now. What action to take? I was over in the UK for the book about three weeks ago. And in the uk, you know, and the rest of Europe, the first thought of everyone is ban it, ban it, ban it, government law ban. And there are times when we need that. You know, cigarette smoking underage, just ban it. Like, you should not have kids smoking. Now, in Britain, there was a lot of consideration of should we ban the sale of Smartphones to kids under 14? 
+2  
+01:45:12
+And, and I met with, with the, the policy unit at, at number 10, Downing Street. And I said, now wait a second, guys, you know, as an American, it never even occurred to me to suggest that you need to get norms first. If, if, if you pass laws that are out of phase with people's norms, they're gonna really hate you and they're gonna resent it. So let's start with a norm change first. And so, so I think, I think that's really happening. So in Britain, parents are up in arms. They really are changing rapidly over there. They're a couple of months ahead of us in America, I think it's happening right now. And so if we just develop a consensus, we need to see Smartphones in the hands of kids as being like cigarettes in the hands of kids, like, you know, you just don't do that. 
+2  
+01:45:54
+You don't do that. Of course, they can be on a laptop, they can be on a computer, they can do some things on your iPhone. Sometimes it's not poison, but you don't want the it to be habit forming. So, so I think that for keeping Smartphones outta the hands of the kids, there's no law. I don't want a law banning that, but we just need a norm now for, for raising the age to 16. We can struggle to do that. I'm doing that with my kids. I'm saying, no for my daughter, no Snapchat till you're 16. And she's the only one who doesn't have it. It's painful for her. And she's 14. But my hope is that no parent, again, will be in that situation that in every school, a lot of the parents are gonna say, no, no social media till 16. 
+2  
+01:46:36
+Now, of course, the laws currently state that you have to be 13 in order to sign a contract, give away your data and make a deal with a company without your parents' knowledge or permission. But Congress passed this terrible law in 1998, the cop cop, a child online Privacy Protection Act. It was supposed to set the age to 16, which is not, which is I think pretty reasonable, but it got pushed down to 13 with no enforcement. It's, the law is written such that as long as the company doesn't absolutely know that you're underage, they're fine. They're not responsible. 13, they're motivated. The companies are. Now, the law motivates the companies to not know how old children are. There's barely 
+0  
+01:47:12
+Any forebrain at 13. That's 
+2  
+01:47:14
+Right. That's right. And since all you have to do, you just have to be old enough to lie about your age. If you're old enough to lie about your age, you can go anywhere on the internet because there's no enforcement. So I'm saying, let's take the age of 13, which is not enforced. Let's require age verification, which is complicated. But they're working on that in Britain. They've, they're mandating that it's gonna happen in Britain. We'll work out the technical details. So mandate age verification, then raise the age to 16. That's the one place where I think we really do need law, because social media is a social trap, and if half the kids are on it, there's gonna be a lot of pressure on the other half to join. So we need to get that down to like, only if 5% sneak around and they find a way on, that's fine. So that's where we definitely need law. 
+2  
+01:47:55
+And then the play stuff there, we could use some laws. So I, I co-founded an organization called Let Grow. If you go to let grow.org with Leno Eskenazi, we advocate for returning play to children. And one of the things we've done is we've gotten laws passed in eight states that say that if you let your child out to play, that cannot be taken as evidence of child neglect. Whereas at present laws are ambiguous. So if you send your 8-year-old out to a store, and, and this has happened to friends of mine, and some nosy neighbor says, where's your mother? Does she know you're out here? And then they call 9 1 1. And the police, the police come because no one has seen an 8-year-old unaccompanied since the nineties. So the police come, and once the police come, they're very likely to refer to Child Protective Services. 
+2  
+01:48:38
+And once your family is in the grip of Child Protective Services, you've got custody battles, you've got supervision, you're not allowed alone with chil. I mean, it's crazy what happens. So eight states have now said, no, no more of that. This is insane. So we, so law could help to put to, to stop incentivizing helicopter parenting to provide more spaces that are safe for kids to play in, not car zones. So the book has the Exus generation that the whole fourth part of it is suggestions for governments, for tech companies, for schools, and for parents. There's a lot we can do to restore a play. Based Childhood in the real world. 
+0  
+01:49:14
+I realize that some of this is dependent on income for a household, et cetera, but is there any protective effect of, say, Summer Camp? Oh, yes. Or protective effect of even just afterschool sport. Yes. Where both the kids and the parents agree. No phones on the field. You know, we're not, we're not taping for every goal. I mean, I love seeing the, my friends' kids, you know, getting a three pointer at a game or something like that. It, you know, I delight in that on Instagram. And it's wild that my friends given who I know them to be growing up, have these kids. And the stories I could tell. But, but in all seriousness, it, it's wonderful. And yet I'm thinking they're taking a video of their kid playing the game. 
+0  
+01:49:59
+You know, wouldn't it be wonderful if there were no phones at afterschool sports events? So it's a couple of hours, three times a week, or once a week even, where at least these young brains are exposed to a different kind of reinforcement learning. 
+2  
+01:50:14
+Yeah, that's right. That's right. The British have a saying, don't put your daughter on the stage, Mrs. Worthington, which is a line from an old Knoll cowards song. And it, it acknowledges that, especially for girls, for girls to grow up being looked at and admired and commented on about their looks is just really, really bad for them. But to grow up always being photographed, everything you do and posted online is really bad for them. So, yes, in response to your question, first summer camps are magic. Never send your child to a Summer Camp that doesn't ban phones, because this is the best chance you have for a detox. And I hear the story over and over again. You know, my, I get my, my girl got a, an iPhone when she was 11, she suddenly became surly, no longer the sweet, funny child. 
+2  
+01:50:55
+She was, I sent her to Summer Camp the next summer. And lo and behold, the girl that comes back is my wonderful sweet 11-year-old. You know, she, her personality is back, and then she gets back on her phone and she becomes surly again. So, summer camps are the most powerful technique known for a detox because the kid isn't being deprived. They are in a bunk with other kids with no phones, and they're joking and talking and laughing and fighting and doing all those healthy things. So Summer Camp is amazing. The other thing that the evidence shows is that Team, Sports and Religion, those two things are very, very protective. So I would strongly urge people to encourage their kids to play Team Sports. My kids run track, which is great, but Team Sports force more cooperation. 
+2  
+01:51:36
+So there's some evidence that Team Sports are even better for their mental health than, than individual sports. You don't want super duper over supervised, you know, high pressure sports leagues. I mean, that's better than nothing. But ideally, the more they play games that are, you know, more intramural, informal, the kids are enforcing the rules, you know, all of that would be better. Our kids are not rooted in communities anymore. But sports and Religion are two things that do that. 
+0  
+01:52:02
+What about music? I did an episode on Music in the Brain, and one of the more thrilling, and it interesting parts to me was, and I have no musical talent whatsoever singing or instrumental or otherwise. I love listening to music, however, was that kids that grew up playing an instrument, especially cooperatively with other people in a band, you know, duet or you know, or quartet or, you know, a band or orchestra or marching band. There's some very impressive data in terms of potential for additional neuroplasticity. Absolutely. In fact, the brain wide networks, the, the sort of patterns of connectivity are much more broad in kids that learned an instrumenting and played it interesting cooperatively than those that try and learn an instrument later in life. 
+0  
+01:52:45
+Although there's still advantages to that. So I wonder if that's an could be added to the list. 
+2  
+01:52:50
+Yes. Playing in a band or singing in a choir, I think definitely should be. For a while I was really interested in Synchrony, and Synchrony has all these really powerful effects. There's a wonderful book called Keeping Together in Time by William McNeil. He was, either he signed up or he was drafted into World War II train training at a camp in Texas. They're marching up and down with wooden guns, 'cause they don't have real guns. And at first it seems stupid to him, but after a few days, his unit gets it. And when they can, they, they're like, they're like a unit. They're like, like a centipede. They're imperfect, you know? And it was th it was like a loss of self. It was ecstatic. And so he goes off to World War ii, he writes, comes back and writes about, you know, men in Battle. 
+2  
+01:53:32
+He writes, oh, that's a different book, a different book title. But, but these, the, but those sorts of being in sync, those experiences, they, we are an ultra social species much, we're much more social than dogs or chimpanzees. We have this ability to keep together in time and do things synchronously and all around the world. That's what rituals used to do. It's thrilling. And so these self transcendent experiences that you get from singing in a choir, from playing in a band, I don't have much talent either, but I did play in a informal rock band when I was at UVA, we called ourselves Pavlov's dogs. We were all in the psych department. But the first time we got it, and we were all really in sync, it was totally thrilling. 
+2  
+01:54:14
+So yeah, the more you give your kid, I have all section, actually in chapter two of the book on Synchrony and, and attunement, we, you know, we need to be in sync. And that's why face-to-face interaction is so important. Whereas when you're communicating on, on Instagram or any social media, it's asynchronous. You don't have the, the automatic a attunement. 
+0  
+01:54:36
+Can I get a little new agey? Speculative? 
+2  
+01:54:39
+Alright, let's go. 
+0  
+01:54:40
+I have a question. So I've heard you and others say that, you know, kids and probably adults nowadays are not familiar with what it is to be bored. There's always an input movie on social media, YouTube, there's always words streaming at us in audio or written. There's this concept that I love from the world of mindfulness, which used to be considered new agey. But now I think every academic campus has a, at least a few grants focused on meditation and its benefits and respiration, breath work, and its benefits. So we've come a long way, but there's this concept of worthlessness, of the importance of being in states of worklessness where we're not reading, we're not thinking in complete sentences, we're not taking in sensory information. 
+0  
+01:55:28
+And we, under those conditions, are able to actually register how we feel about things, that we become better tuned to sense our environment and input when it comes. And I wonder, because my experience of social media has been whether or not kids are on Instagram, Snapchat, et cetera, and they're doing it out of whatever, compulsion, habit, Addiction, whatever you wanna call it. But I'm not sure it feels good to them. I'm not sure it does. I'm not sure. It's like the ice cream that tastes delicious. I think it might start that way. And occasionally, you know, they're jackpots, right? But that in large part, adults. 
+0  
+01:56:10
+But since we're talking about kids, let's talk about kids in this very critical sensitive period of life are not feeling good. And they might not even know they're not feeling good. They're just compulsively. And there, I'm using the term loosely, not clinically compulsively engaging. And so I wonder whether or not there's some benefit to kids not just being bored for experiencing boredom's sake, but learning to actually be a better sensor of what they like and don't like. Because when I talk to my niece, or I talk to other young people now they, they seem to be like becoming increasingly aware of how much some of the online stuff sucks. 
+0  
+01:56:50
+That's the language. They're not like, oh, it's awesome, don't take it away from me. They're like, I don't wanna miss out. But it's also painful to them. It's, I mean, it's like they're drinking from a fire hose of nails, and then every once in a while there's something that tastes good. It's, it's not like they're like, this is so cool and not so cool. But of course, if you give them a really cool video of a animal thing or a social dynamics thing, or a war game or whatever, they'll, they'll get excited. But I don't get the impression that they're like, this is awesome. It's more like, this has me buy the short hairs, it's got me scruffed and I'm just doing it. And I don't know how to stop doing that. 
+2  
+01:57:23
+That that's, I, 
+0  
+01:57:25
+And that's certainly the way, sorry, the, certainly the way that boys reach out guys, young guys typically reach out about their porn addictions. I hear about this. Thousands of messages. Help me get over this. So I refer them to our episode on Addiction by Dr. Anna Lemke from Stanford. Oh, I love her. Yeah. Or, yeah, she's amazing. Oh yeah, listen to that episode. Great. Yeah, she's, she's spectacular. Or it is just that they're desperate. They're desperate. So I don't see it as all pleasure. I see it as mostly pain. 
+2  
+01:57:51
+That's right. So there's a lot going on, going on here. For some, for some of them, they are addicted and they feel bad for the reasons you were talking about. Dopamine overshoot. Or they feel bad when they're not doing the addictive activities. So they are compulsively using it just like a, a gambler. If you're addicted to slot machines, you, life sucks. You've spent all your family's money, you're ashamed of what happened, you feel terrible. Oh. But if I just get back into the zone of the slot machine, I feel good for that two or three hours. 
+0  
+01:58:20
+Yeah, that's the most dangerous Addiction. 'cause as it's been described to me, I'm fortunately not a gambling addict, addict, excuse me. The gambler really does believe that the next one could change everything, 
+2  
+01:58:32
+Right? It's gonna, it's gonna cause motivated reasoning. It's gonna cause hopefulness that is dashed. So for some of them, it is a kind of self-medication. As soon as the boys move their social lives onto Video, Games and porn, and the girls move their social lives onto social media, both sexes got really lonely. It's, you know, they're getting lots of cheap and easy stimulation, but it's not satisfying. So what do they do now that they're lonely and anxious? Well, sometimes they do more of it. So some of it is driven by that feedback cycle that they're now uncomfortable. So they need more of it. But the other part is the compulsion to consume, because everyone else's may have to keep up. And so my students at NYUI asked them, you know, okay, you know, some of you're spending four or five, six hours a day on social media, why don't you quit? 
+2  
+01:59:19
+Oh, why I can't, because, you know, I have to know what, what everyone's talking about. I have to see the latest video. I have to keep up with it. And since, you know, like I can't deal with my email and my texts like those two combine, that's more than I can handle in a day. I can't stand it. I can't imagine having five platforms in addition. And most, I don't know the exact number, but very few of my students are on a single platform. Most of 'em are two on two or three regularly plus email and, and texting and, you know, Snapchat. So it is kind of like, like imagine, you know, food is great, but imagine always having to eat. You have to always be eating. Like, our system can't handle that. You know, imagine a plant always in a shower like the, you know, it's always like, no, you need, you need times of taking in and times of digesting or processing. 
+2  
+02:00:05
+One of the most valuable, I'll, I'll tell you two of the most valuable exercises that we do in my flourishing class at NYU. The first is a pre-requisite to everything else, is they have to regain control of their attention. And once they understand that, they've given away almost all of their attention. Any moment that isn't taken up by, you know, a teacher or something. It's, it's the phone for a lot of them. Because there's so much to process. They have so many direct messages, so many group texts, they have to always be processing. Or they, they feel like they, you know, they're, they're being left behind. They're not participating. So I make them see, you've gotta regain control of your attention. You've gotta shut off almost all notifications. You leave on Uber 'cause you want Uber to interrupt you to say, the car is three minutes away. 
+2  
+02:00:45
+That's good. But how many other companies is it that important that they interrupt you? Very, very few. So shut off almost all your notifications. Get social media off your phone. If you need to use it. You can use it on your computer, but don't always have it. So that in every, like, you know, at at NYU in any elevator as students, students get on the elevator, the phone comes out because that's like 30 seconds and it's awkward. Take the phone out. Scroll. 
+0  
+02:01:08
+I would argue the professors too. 
+2  
+02:01:09
+Yeah, that's true. We do agree 
+0  
+02:01:11
+Too. Not you, I'm not, but less spend time in with you in an elevator yet. But yeah, 
+2  
+02:01:14
+No, we do, we do. But it's, it's, it's less, is that right? Yeah. Yeah. And then the other one that I did that I, is really memorable, and I talk about this in the book, is an A walk. And I got this idea. My friend Dacker Keltner, he and I did research on awe long ago, and he really continued it. He wrote this amazing book called Awe. And there was a great episode if you just Google Keltner and Tippet. So with Krista Tippet, he did this great discussion. He talks about how he used all walks to help him process his brother's early death from cancer. And just walking in a beautiful environment, walk a little more slowly than usual. Don't have anything in your ears, don't be listening to music. 
+2  
+02:01:57
+Don't even bring your phone. And just notice. And it's magical. It's amazing what happens when you do that. And for a lot of my students, they've never done that. 'cause they have to take in so much stuff. If I'm going from point A to point B, of course I'm gonna be listening to a podcast or, or, or, you know, scrolling on my phone while I'm walking. And a lot of them, they really had these transformative experiences. You know, we're right on Washington Square Park at NYU where we're built around Washington Square Park, which is a gorgeous, gorgeous park. It's really one of the most beautiful in America, certainly most beautiful urban parks, I'd say. And the students who did their all walk through the park, a lot of 'em had these just amazing experiences. It's almost like, like a, like their heart is opening, they feel more love for people. 
+2  
+02:02:39
+They, their anxiety goes down. And so ever since they, and I, so I did that myself. When I signed it, I did it too. And I had that sort of experience. So now, you know, I, I love my AirPods. They're amazingly convenient, but I listened to them a lot less now. Like, when, when I'm walking in New York City, I often just, just nothing. Just nothing. Just look, process, think. So, yes, I think young people are taking in way too much stuff. Total quantity of bites is just, you know, 10 times what it should be. And they don't have time to process. They don't have time they to develop an interior life to, to think things through. So we just gotta cut it, cut it way back. 
+0  
+02:03:14
+If I step back from everything that you've said thus far and is in your book, it seems as if until 2012 or so, what was rewarded in youth set us up for a more adaptive adulthood. But now everything that's being rewarded in youth, except from schools and teachers and parents, but what's, you know, being rewarded on a moment to moment basis for mo the majority of the waking life of these young people is maladaptive. Yeah, 
+2  
+02:03:46
+Yeah. That's right. That's 
+0  
+02:03:47
+Right. I mean, it, it's, it's so stark. 
+2  
+02:03:48
+That's right. Think about it this way. Imagine that your children are having a life out in the real world. They're having adventures, they're doing things, they're building forts in the forest. They're doing all sorts of things. And then one day, you know, a casino opens up nearby and it welcomes all the kids. And that's where they spend all their time is in a casino, and they're in the care of a company that is trying to extract as much money as it can from them. And that's what they do eight or 10 hours a day. It's an abomination to think that a casino could own our children's childhood. What if it wasn't a casino? What if it was a brothel for the, for the boys would be more of interest, let's say like, again, inconceivable that we would let that happen. But we've done is we've said, well, what if it's Snapchat? What if it's Instagram? What if it's Facebook? 
+2  
+02:04:29
+Well, not so much Facebook. What if it's TikTok? These companies, these are the, some of the largest and most powerful companies in the world, they essentially own our children's childhood. This is where childhood is taking place on a few giant plat for-profit platforms, who that use an advertising based business model. So they are motivated, like the casino, to keep them in. Don't have a clock, don't let them see what time it is. Keep them in. Don't let them click over to a link to another site. Keep them in. We somehow have seeded our children's childhood to giant companies that have shown that they don't really care about our kids' welfare. They care much more about profitability and, and they care about their customers, who are the advertisers. And these companies have been granted a special writ from the King Congress said in in, in the, in section two 30, the Communications Decency Act, in 1996, I think it was, Congress said, oh, and nobody can sue you. 
+2  
+02:05:22
+Nobody can sue you for what you show to their kids. There was a reason for that, that you don't want a OL to be responsible for everything anyone posts. But it's been so broadly interpreted that so far any attempt to regulate social media or any attempt to sue them is seen as like, no, no. So, you know, it's just, we somehow slipped into this. And once you see it that way, that it's as though our kids are being raised in Harris's Casino, you know, like, like, no, we've gotta stop this. 
+0  
+02:05:49
+Last year I had the opportunity to speak to some of the groups at these companies that are assigned to controlling the wellbeing of the young people that use their platforms. And the major emphasis was on the type of content. Yeah. So protecting them against child predators, protecting them against Pornography, the porn story. Yeah. But as you recall, at the beginning of the conversation, we broke things down into variables of time, specific content dynamics and maybe the visual interface itself. I think for sake of today's discussion, the visual interface is probably the least interesting. But I can just tell you, looking at things up close a lot, not good. The eyeball lengthens, you become nearsighted, which is why spending two hours outside, even if on a tablet, has been shown to offset myopia. 
+0  
+02:06:32
+Oh, wow. And thousands of people, children. Anyway, there's that piece. But the time piece is interesting, right? Maybe limiting the total amount of time on Social Media, obviously the content issue is it only takes one exposure to a video of the sort that you described, the gauntlet. I never wanna see it. Whatever has to be done to my phone so that I never see it, please let me know. But it just seems as if this has been allowed to, it's like, it's almost like an IV drip of glucose or something happening in the background. We're saying, okay, just stay rigged up to the glucose drip. And then we wonder why we're end up with, let's just say cognitively obese children. 
+2  
+02:07:14
+Yeah, that's right. The, whenever there's new media, the the public's emphasis is always on the content. And so with television, the emphasis was, well, violence on tv, is this gonna make them violent? And it turns out not really watching violent on violence on TV doesn't really make you violent. and video games, these violent Video Games, these first person shooter games, are these gonna make our our kids into killers? And there was a lot of research on that. It looks like, no, it doesn't really, it doesn't really do that. And so many researchers then say, see, it's just a moral panic. It's okay. But that is, but that's focusing on the content. And this was the great lesson from Marshall McLuhan and Neil Postman and all these great media theorists in the 20th century. McLuhan said, the medium is the message, don't focus so much on the content of television, focus on the transformation of human life. 
+2  
+02:08:00
+When the television becomes the family hearth and people sit around watching it now from our vantage point today, that's pretty darn social. They're sitting with their family members together having an experience. But McLuhan's point was, that's the transformative thing that, that what the technology does, it's not the content. And so in the same way, a life on social media in some ways is like television. You're watching stuff, but it's much more behaviorist With television, you didn't have the constant, I do something, I'm rewarded. I do something, I'm rewarded. So, so social media is much, much more addictive than television ever was. That's one aspect of the television is not performative. It doesn't make you live your life in front of a camera. 
+2  
+02:08:41
+You're not in front of a camera, you're a passive recipient. Whereas social media puts our kids in front of a camera. So in all these ways, we, we get distracted. And, and this is the way, you know, in those senate hearings, it was all focused on content. You know, can't we, can't we reduce the, you know, the number of beheading videos and the child Pornography? Suppose we, you know, can't we reduce that by 90%? Wouldn't that be great? You know, Senator, we have the, you know, world leading technology and doing this. Yes, that would be nice to, for our kids to see less hardcore porn and, and less violent videos. That'd be nice. But if, if we could make Instagram just be happy girls living beautiful lives, and our daughters were to watch eight hours a day of this, is that good for them? 
+2  
+02:09:23
+Hell no. So, you know, it is important to clean up the content, but for kids going through Puberty, I think the only real answer is just delay. Just don't let them do that. 
+0  
+02:09:34
+How much of the issue here is modeling of what adults are doing? And, you know, and how terrible are or good are adults at modulating their behavior? I say modulating because, you know, I see a lot of parents videotaping everything that they're, you know, on the phone all the time in line at the store while their kids are around, you know? And, and one of the reasons I think parents like devices so much is that it's a terrific low cost, zero cost babysitter. It allows them to then go be on their phones or do other things. Yeah, 
+2  
+02:10:07
+Yeah. So young children are sometimes copying their parents. Young children are looking for things to copy. And, you know, and so, I mean, I've got some slides in my regular book lecture of toy iPhones that we give to toddlers so they can be just like mommy and daddy for little kids. I think it might matter for teenagers. You know, I'm, I'm very often asked that question because, and I think it's because parents, they feel a little guilty. Like they know that they're, they're modeling bad behavior and they're worried, like, is this setting up my kid for doing that? And I can't say for sure, but my intuition as a social psychologist is not really, not very much. And the reason is because, you know, while your kids once looked up to you and they once copied you, like by the time they're 12, 13, 14, you know, if I pick up, if I start reading, you know, the Economist magazine where if I start knitting or whatever, that's not gonna make my 14-year-old daughter wanna do those things because I'm doing them. 
+2  
+02:10:58
+She is completely focused on what her peer group thinks of her. Of course she is. That's, that's the nature of teenage where they're moving away from the family and they're trying to make their way on their own. And a peer group, Lisa Derah is, is great on, on, on these issues. So I don't, you know, it would be nice if parents could improve their phone habits and boy phones at the table. That's an important place. That is a very, very important place. Get across the idea that when we're eating, we're, we're each other. We're looking at each other, and we're tasting our food, we're experiencing the food. So actually there modeling collective behaviors like a meal, I think that is actually very, very valuable. But if it's just that, you know, you're often multitasking, you're often on your phone. 
+2  
+02:11:40
+Yeah. You know, be nice if you didn't, but that's not gonna push your kid over into phone Addiction. 
+0  
+02:11:45
+So the list of four things that you provided are terrific. They are somewhat enforcement focused, as I recall. Maybe this is not true, but as I recall, one of the ways that media was effective in getting kids to stop smoking was to pit them against these wealthy old white men who are in rooms filled with smoke, writhing their hands together, cackling about the amount of money they were making, stealing the health of young people, whereas telling teenagers that smoking was bad for them did very little. Right? So is there a way to create a rebellion of sorts against the smartphone? 
+0  
+02:12:27
+Because kids love to rebel. Teens love to rebel that 
+2  
+02:12:30
+Not, but first of all, they don't anymore. Oh 
+0  
+02:12:34
+No, really? 
+2  
+02:12:35
+Well, they're just, they're just much more passive. I don't think they, they're, they're authority focused. They're not as rebellious as, as they used to be. That's disappointing. Yeah. Now of course, now we'd have to pit them against a group of, you know, young white men who are owning the social media companies, I suppose. But, you know, this is, this Addiction is very different from tobacco or anything else. Tobacco's biologically addictive. And you can't get an entire high school addicted biologically, at least. It's very, it didn't happen in the peak year of smoking was 1997. 37% of American high school students smoked. Two thirds didn't. But with Social Media, you couldn't have that. You couldn't have just a third. 
+2  
+02:13:14
+It's either none or everybody. And it's everybody. And then happens in middle school. So the dynamics of a social media Addiction are, so, it's a social Addiction more than a, more than a, like, you know, biochemical like nicotine or cocaine type type Addiction. So I think the way to break out isn't, hey, these people are exploiting you. That might be helpful. We should definitely study that. I think the way to break out is, okay, look, you guys actually, you can see what this is doing to you. You mostly agree that this is wasting your time. It's garbage. You, you wanna weigh out, but you just feel like you can't, there's such resignation. But look, the cool kids over there, they have flip phones and they're out like every day after school, they're like, you know, they're doing stuff. 
+2  
+02:13:58
+They're down at, you know, they're in the mall. They're, they're getting pizza, they're, you know, building a fort, you know, whatever, depending on the age. So I think the way out is to give kids an exciting childhood. Kids are so lonely now, and, and they, they don't have much in the way of adventure. They don't have much in the way of thrills. You know, you know, I live, I live in New York City, you know, I would start, I would like bring my kids out to Coney Island when they were, you know, nine, 10 years old. Bring them out. And then I would just say, I'm just gonna sit here. You guys run around, you guys go have fun. Like, I'm not gonna be with you. You know, you know, yeah, there's a chance you'll get kidnapped or struck by lightning, although lightning is more likely. So, and then it, you know, and then it got, once they were in, you know, in more, you know, like, like 13, now they can actually take the subway out to Coney Island with a friend. 
+2  
+02:14:42
+So that's cool. I think that's the way to do it. Don't make it like we're gonna take away all this stuff from you. Ha ha ha. Now you have nothing to do. Make it more like, I'm not trying to hurt you here. I want you to have fun the way I did and the way your grandparents did. We all had human file childhoods full of adventure. I want that for you. And I think most Gen Z will embrace that. They just don't wanna do it alone. So the key is, if you're listening to this podcast, and if you have kids that are in elementary and middle school, be sure to talk with the parents of your kids' friends. So if, if you wanna make some changes in your phone policies, if four families do it together, now your kid's not gonna feel left out or deprived. 
+2  
+02:15:24
+And be sure to give them something. Give them say, here, you know what every, how about every Friday, let's call it free, free play Friday, no piano lessons on Friday. No, nothing on Friday. Fridays. You all get together. You can start at anyone's house. Go out, do what you want. We'll even, you know, we'll give you, you know, we'll give you more allowance or we'll give you money to spend, but go have experiences, then it's fun. It's not deprivation. 
+0  
+02:15:46
+I love the trust in kids to sort things out and to be safe enough, at least the statistics say that they're more likely to thrive under those conditions than to be kidnapped or have something terrible happen. I, I like it also because it merges your previous book, coddling of the American Mind with the current book Anxious Generation. I have a bunch of other questions, but I think the most important one at this stage is how optimistic or pessimistic are you about the changes that you're hoping for? And then the second question is, how can we all help? I mean, you, you, you mentioned these four action items, no smartphone before high school, no social media until 16, phone free schools. 
+0  
+02:16:30
+And to foster this exploration in independence. And we will propagate those four things as far and wide as we can. But I think everybody, parents and kids, I'm sure as well want to know, like, what can we do? So optimism scale is zero. Being like, you, you're doing this as a last ditch effort, but it, it is hopeless. Well, you wouldn't be here if you thought it was hopeless. So one to 10, one being just a sliver of hope, 10 being, you know, we got this same way. We got other stuff in the past. 
+2  
+02:16:59
+Yeah, I'm a 10. You're 
+0  
+02:17:00
+A 10. 10, 
+2  
+02:17:01
+10.0. Love it. Yeah. And the reason is because I've never seen a situation like this. I've been involved in a lot of efforts to change attitudes. I ran a gun control group in college when I was, you know, 20. And that was impossible. And I've been involved in non political campaigns. You're trying to persuade people and you can't get their attention. And how do you message them? And it's really hard. That's the way anybody involved in social change has experienced that. That's most things. This is like, you drop a spark and everything goes, everything. It just goes everywhere. So all over the world, all over the developed world, family life has become a fight over screen time. Almost every parent of a kid over two recognizes this. 
+2  
+02:17:41
+We all hate it. We're sick of it. And we've just been confused. The only real pushback I've gotten, I've gotten two guys. One is I am in a normal academic debate with about seven or eight researchers who say there's not evidence of causality. I, I believe there is. I, you know, we're we're, you know, marshaling evidence against each other. But, but by and large, almost everyone seems persuaded because they already knew this. They already thought it, they already saw it. And what I've done with the book is just given them some psychological concepts and some clear labels and a way out. And I'm so confident in part because the revolution started in Britain in February. Yes, they drew on some of my older articles, but this was before my book came out. 
+2  
+02:18:21
+Parents are self-organizing in Britain. The government is acting. They actually have a functioning Legislature in Britain. And the, and the the government has, has led efforts to pass laws as well. So I know it's working in Britain and I see it happening here now at a massive scale. The point of the book is Collective Action and parents all over the country are heeding that they're forming reading groups. They're going in in a group to talk with the principal, the principals and teachers. They all hate the phones. It makes their lives impossible. They want a phone free school. But they were afraid of the few parents who freak out if they can't text their child during class. If the schools are overwhelmed by parents saying, please lock up the phones. 
+2  
+02:19:01
+Please let my child have six hours a day when she can listen to the teacher instead of do more TikTok. So I am, I'm very, very confident that childhood is going to look very different within two years. I don't mean that it won't be seven year olds on phones, but in the same way that we flipped on smoking, we used to think it was okay to smoke in an airplane. We used to think it was okay to smoke in restaurants. It was okay to smoke everywhere we thought. And now we don't, we don't think that anymore. That took a long time to change. But it did change, I think because of the public disgust with seeing children just spending their childhood looking at a screen. And because the public disgust with what we've heard about Meta and, and TikTok and a few of the other companies, I think within two years it's gonna be widespread. 
+2  
+02:19:47
+It'll be a norm that you just don't give kids social media in particular. I mean, iPads are complicated. 'cause you know, you, you want kids, you know, to watch movies is okay. Stories are good. I'm not saying the, you know, iPad is a terrible thing, but our attitudes about this are gonna change radically. And I think the great majority of schools are gonna be phone free within two years. And we're gonna see, we are already seeing more kids outside every day. I get, I get emails from grateful parents saying, you know, because of your book, I know my 6-year-old, he wanted to ride his bicycle down to the end of our cul-de-sac. He wanted to ride down circle and come back. And I never would let him because I was afraid that what, what would the neighbors say? 
+2  
+02:20:27
+But once I read your book, I decided to let him. And he was so ecstatic, he kept doing it and doing it, and now he's going further and he rides to his friend's houses. So people in her neighborhood, now they're seeing a kid on a bicycle. And if suppose there were 10 kids doing it, well now it's normal. So we can renormalize human childhood in the real world where our kids get the chance to have independent adventures and learn how to be self supervising adults. Ultimately, we can do this. 
+0  
+02:20:57
+Okay, so you're at 10 out of 10 on the optimism scale. What can we do to facilitate and accelerate this whole process? 
+2  
+02:21:07
+So once we understand that this is a Collective Action problem, that we're all stuck in this because everyone else is stuck and we can't leave if we're the only ones. Once we understand that, now you see the, the, the key is Collective Action. So, or talk to your friends about this, talk about the book with them. You don't have to buy the book, just go to anxious generation.com. We have all kinds of resources. I have video, I have talks where I've summarized the book in, in videos. Talk about it with your, with your friends, talk about it with your family, talk about it with other parents at the school. If you're on Social Media social media is great for adults who want to pursue projects. I just don't think it's good for kids to be pursued by the social media companies. 
+2  
+02:21:49
+But if you're on Instagram in particular, that's where a lot of parents are, especially mothers talk about these issues. Say you're gonna let your kid have some free range childhood, you're gonna try to do these four norms. And then if you're able, I hope that you'll support the projects. If you go to anxious generation.com, there's a donate button. NYU has it set up so that people can donate into a research account for me. And that's what I use to hire, to pay my small staff. I have about four or five people working for me, and I hope to grow that to 10. I hope people will donate to, to me@anxiousgeneration.com or to let grow this wonderful organization that, that advocates for giving playback and independence back to kids. Let grow.org. 
+2  
+02:22:29
+And if you know influential people, if you know state legislators, not a lot of, there is some, oh, and in Congress there is a very important Bill Cosa, the Kids Online Safety Act. Contact your legislators about that. Say you support cosa, it could be coming up for a vote very, very soon. This is the one piece that really could get through the US Congress. Beyond the Congress, a lot of states are acting, which is very, very exciting. So make your views known to your state legislators. If you know them or the mayor or governor, if you know them, this is a Collective Action trap. The only way out is together. So if we act together, we can break this. 
+0  
+02:23:03
+Terrific. And we'll put links to all of those things you just mentioned in the show Note captions, Jonathan, you're bringing the humanity back. It's, it's remarkable. And you know, as a fellow academic, I have to say your depth of scholarship in terms of developing and researching these ideas, but also the vigor and the mission that you have around doing good and making sure that it happens soon as opposed to waiting another 10 years and seeing just how bad this this can get is really inspiring. I feel it. I know for sure that people listening and, and watching feel it. 
+0  
+02:23:43
+And so I want to thank you for doing this work. Again, I loved coddling in the American Mind because it just woke me up to how much things had changed and were changing. And it's such an important book. And The Anxious Generation is truly an important book. And I don't say that lightly. It's Mission-driven goal-driven, and it has actionable items that I'm certain many people listening to this are going to partake in. So on behalf of the listeners and viewers and also myself, but also the positive Change to Calm, I just wanna say thank you for taking the time outta your very busy schedule. You're still a professor, you're also a public facing health science educator. Yeah. Like you, yeah. 
+0  
+02:24:22
+Yeah. So I feel like kinship there for coming here and speaking with us today. And we'll provide links to the books and to these other resources in the show note captions, and would love to have you back again, hopefully in the not too distant future so that we can review all the progress that you've stimulated. So thank you so much. Oh, 
+2  
+02:24:40
+Well thanks so much Andrew, and thanks for all the work that you do to bring, to make science cool and interesting. So I really appreciate your work and, and I'm very grateful for you, to, you for having me on. 
+0  
+02:24:50
+It's been a pleasure. Thank you. Thank you for joining me for today's discussion with Dr. Jonathan Heet. To learn more about and or to support Dr. He's work and to find a link to his important new book, the Anxious Generation, how the Great Rewiring of Childhood is Causing An Epidemic of Mental Illness. Please see the links in the show note captions. And if you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. You can also subscribe to the podcast by following on both Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review. Please also check out the Sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast, or you have guests or topics that you'd like me to consider for the Huberman Lab podcast, please put those in the comments section on YouTube. 
+0  
+02:25:38
+I do read all the comments if you're not already following me on Social Media, I am Huberman Lab on all Social Media platforms. So that's Instagram, Twitter, now known as X LinkedIn threads and Facebook. And on all those platforms, I cover science and science-based tools, some of which overlap with the content of the Huberman Lab podcast, but much of which is distinct from the content on the Huberman Lab podcast. So again, that's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network Newsletter, the Neural Network Newsletter is a zero cost monthly newsletter that provides Huberman Lab podcast summaries as well as protocols in the form of brief one to three page PDFs. With everything from neuroplasticity and learning to how to optimize your sleep or optimize your dopamine, we have protocols for deliberate cold exposure and deliberate heat exposure. 
+0  
+02:26:25
+We have a foundational fitness protocol that spells out resistance training and cardiovascular training in detail, all of which is available at zero cost. You simply go to Huberman Lab dot com, go to the menu tab, scroll down to newsletter, and provide your email. And I should point out that we do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Jonathan Haidt. And last but certainly not least, thank you for your interest in science.

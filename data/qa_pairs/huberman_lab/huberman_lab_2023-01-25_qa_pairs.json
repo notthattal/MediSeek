@@ -1,0 +1,337 @@
+{
+  "podcast_name": "huberman_lab",
+  "transcript_path": "./data/clean_transcripts/huberman_lab/2023-01-25.txt",
+  "generation_date": "2025-03-14 13:30:30",
+  "qa_pairs": [
+    {
+      "question": "Why should people consider training for strength and hypertrophy beyond just building bigger muscles?",
+      "answer": "Training for strength and hypertrophy is beneficial not only for building bigger muscles but also for longevity and overall health. It helps combat neuromuscular aging, which is crucial for maintaining functionality and independence as one ages. Strength training is the only exercise that can effectively preserve neuromuscular health, which is essential for human movement and preventing falls.",
+      "type": "general",
+      "topic": "strength training, hypertrophy, health benefits"
+    },
+    {
+      "question": "What are the differences between strength and hypertrophy in terms of training adaptations?",
+      "answer": "Strength training focuses on increasing the ability to produce force across muscles or muscle groups, while hypertrophy training is about increasing muscle size. Although there is a strong relationship between the two, they can be developed independently. For example, powerlifters are typically stronger than bodybuilders, who may have more muscle mass.",
+      "type": "specific",
+      "topic": "strength vs hypertrophy, training adaptations"
+    },
+    {
+      "question": "How does strength training impact the neuromuscular system, and why is it important?",
+      "answer": "Strength training is crucial for maintaining the neuromuscular system, as it is the only exercise that can effectively combat neuromuscular aging. The neuromuscular system is responsible for activating muscles and enabling movement, which is vital for independence and preventing falls as we age. Loss of strength and muscle power with aging can be mitigated through consistent strength training.",
+      "type": "technical",
+      "topic": "neuromuscular health, aging, strength training"
+    },
+    {
+      "question": "Can strength training improve bone health, and if so, how?",
+      "answer": "Yes, strength training can improve bone health by increasing bone mineral density, particularly through axial loading exercises. This type of exercise stimulates bones to release osteocalcin, which not only strengthens bones but also enhances brain health by supporting neuron health. This is especially important during one's teens and twenties when the ability to enhance bone density is greatest.",
+      "type": "specific",
+      "topic": "bone health, strength training, osteocalcin"
+    },
+    {
+      "question": "What role does adherence play in the effectiveness of a strength training program?",
+      "answer": "Adherence is the most critical factor in the effectiveness of a strength training program. The immediate feedback and visible results from strength training, such as changes in muscle size, help drive adherence. This consistent engagement is essential for achieving the desired outcomes, as the methods of training are numerous, but the key concepts for success are few.",
+      "type": "technical",
+      "topic": "exercise adherence, training effectiveness"
+    },
+    {
+      "question": "Can resistance training lead to positive changes in bone marrow density for women in their twenties and thirties?",
+      "answer": "Yes, resistance training can lead to positive changes in bone marrow density for women in their twenties and thirties. Noticeable changes can occur within eight months, although these changes are smaller compared to starting resistance training in one's teens or early twenties.",
+      "type": "general",
+      "topic": "resistance training, bone health"
+    },
+    {
+      "question": "Why is it important to consider the menstrual cycle when conducting physiological research with female participants?",
+      "answer": "It's important to consider the menstrual cycle because many physiological metrics can vary significantly depending on the phase of the menstrual cycle. For example, hormone levels can differ by an order of magnitude, which can affect research outcomes. However, some metrics like strength do not change across the menstrual cycle.",
+      "type": "specific",
+      "topic": "menstrual cycle, physiological research"
+    },
+    {
+      "question": "What are some of the neuromuscular adaptations that occur with strength training?",
+      "answer": "Strength training leads to several neuromuscular adaptations, including improved firing rate and synchronization of motor units, increased acetylcholine release, and enhanced calcium recycling. These changes improve the efficiency of nerve-to-muscle signaling and muscle contractility, contributing to increased strength.",
+      "type": "technical",
+      "topic": "neuromuscular adaptations, strength training"
+    },
+    {
+      "question": "How does protein intake affect muscle protein synthesis, and can it occur without exercise?",
+      "answer": "Protein intake alone can stimulate muscle protein synthesis independent of exercise. Consuming protein provides an energetic signal that activates anabolic pathways, leading to increased protein synthesis. This effect is additive when combined with strength training, as both independently increase protein synthesis.",
+      "type": "specific",
+      "topic": "protein synthesis, nutrition"
+    },
+    {
+      "question": "What is the difference between contractile protein hypertrophy and sarcoplasmic hypertrophy?",
+      "answer": "Contractile protein hypertrophy involves an increase in the thickness of myosin and actin, leading to greater force production. Sarcoplasmic hypertrophy, on the other hand, involves an increase in fluid within the muscle fiber, which enlarges the muscle without adding contractile units, thus not increasing strength.",
+      "type": "technical",
+      "topic": "muscle hypertrophy, exercise physiology"
+    },
+    {
+      "question": "What is the relationship between muscle hypertrophy and strength increases?",
+      "answer": "Strength increases are often associated with some hypertrophy changes, and hypertrophy increases are often associated with strength increases. However, this is not always the case.",
+      "type": "general",
+      "topic": "muscle hypertrophy, strength training"
+    },
+    {
+      "question": "How does the concept of muscle memory differ between muscle physiology and neurophysiology?",
+      "answer": "In muscle physiology, muscle memory refers to the ability to regain muscle size (hypertrophy) faster after detraining and retraining, due to epigenetic changes in the nuclei. In neurophysiology, muscle memory refers to the nervous system's ability to retain motor skills, such as riding a bicycle, independent of muscle changes.",
+      "type": "specific",
+      "topic": "muscle memory, neurophysiology"
+    },
+    {
+      "question": "What role do satellite cells play in muscle hypertrophy?",
+      "answer": "Satellite cells, which lie dormant on the periphery of muscle fibers, can enter the fibers and turn into myonuclei, contributing to muscle hypertrophy by increasing the muscle fiber diameter.",
+      "type": "technical",
+      "topic": "satellite cells, muscle hypertrophy"
+    },
+    {
+      "question": "What are the essential components of an effective strength and hypertrophy training protocol?",
+      "answer": "The essential components include adherence, progressive overload, individualization, and picking the appropriate target. Adherence is the most important predictor of fitness outcomes, while progressive overload ensures continuous adaptation. Individualization considers personal preferences and equipment availability, and picking the appropriate target helps balance specificity and variation.",
+      "type": "specific",
+      "topic": "strength training, hypertrophy"
+    },
+    {
+      "question": "How does the shape of nuclei affect their function in muscle cells?",
+      "answer": "The shape of nuclei, such as being more oval or elongated, determines their function. Some nuclei are specific to mitochondria, while others are involved in injury repair, contributing to individual variations in muscle recovery and growth.",
+      "type": "technical",
+      "topic": "muscle cell nuclei, muscle physiology"
+    },
+    {
+      "question": "Why is it important to differentiate between training for speed, power, strength, or hypertrophy?",
+      "answer": "Differentiating between these training goals is crucial because the primary drivers for adaptation differ. Volume is the primary driver for hypertrophy, while intensity is key for speed, power, and strength. Understanding these differences helps in designing effective training programs that preserve the necessary intensity or volume for the desired adaptation.",
+      "type": "general",
+      "topic": "training goals, adaptation, exercise physiology"
+    },
+    {
+      "question": "How should warm-ups be structured for optimal performance in different exercises?",
+      "answer": "Warm-ups should start with a general dynamic warm-up involving whole-body movements to activate the system. The first exercise should be prioritized with specific warm-ups to ensure precision and skill, especially for complex, multi-joint movements. Subsequent exercises may not require additional warm-ups unless they are dissimilar or complex.",
+      "type": "specific",
+      "topic": "warm-up strategies, exercise preparation"
+    },
+    {
+      "question": "What are the implications of using different repetition cadences for strength versus hypertrophy training?",
+      "answer": "For strength training, a faster concentric phase is preferred to maximize force production, as strength is about moving a heavier mass at a faster rate. For hypertrophy, the cadence can vary, but slower repetitions can increase time under tension, which is beneficial for muscle growth. Both approaches can be effective if other training variables are adjusted appropriately.",
+      "type": "technical",
+      "topic": "repetition cadence, strength training, hypertrophy"
+    },
+    {
+      "question": "What role does intra-abdominal pressure play in lifting, and how should it be managed?",
+      "answer": "Intra-abdominal pressure helps stabilize the spine during heavy lifts by creating a cylinder around it. It is managed by taking a deep breath to fill the abdomen with air, creating pressure from the inside, while muscles provide external pressure. This helps maintain spinal stability without excessively elevating blood pressure, which could lead to fainting.",
+      "type": "technical",
+      "topic": "intra-abdominal pressure, lifting technique, spinal stability"
+    },
+    {
+      "question": "How can one effectively use time under tension to enhance hypertrophy when limited by available weights?",
+      "answer": "When limited by available weights, increasing time under tension by performing slower repetitions can enhance hypertrophy. This involves extending the eccentric phase, pausing, and controlling the concentric phase, which allows for muscle growth with lighter weights or fewer repetitions.",
+      "type": "specific",
+      "topic": "time under tension, hypertrophy, exercise modification"
+    },
+    {
+      "question": "What is the recommended breathing technique during weightlifting exercises?",
+      "answer": "An effective breathing technique during weightlifting is to take a gulp of air during the lowering (eccentric) phase and exhale during the concentric exertion phase. This method is borrowed from martial arts and helps in maintaining safety during the hardest portion of the exercise.",
+      "type": "general",
+      "topic": "breathing techniques, weightlifting"
+    },
+    {
+      "question": "How does the Prilepin chart guide strength training?",
+      "answer": "The Prilepin chart provides guidelines on the number of repetitions and intensity ranges needed for optimizing strength. It suggests spending a certain percentage of training time at different intensity levels, such as 55-65%, 70-80%, and 90%+ of one repetition max, to balance specificity and variation in training.",
+      "type": "specific",
+      "topic": "strength training, Prilepin chart"
+    },
+    {
+      "question": "What is autoregulation in the context of strength training?",
+      "answer": "Autoregulation is a training model where adjustments are made based on daily performance and biomarkers rather than a fixed long-term plan. It allows for flexibility by using daily maxes or velocity to determine training loads, accommodating how the athlete feels on a given day.",
+      "type": "technical",
+      "topic": "autoregulation, strength training"
+    },
+    {
+      "question": "Why is specificity important in strength training, and how can it be balanced with variation?",
+      "answer": "Specificity is crucial because it involves training movements under conditions similar to performance goals, leading to better neuromuscular adaptations. However, to prevent overuse injuries, it's important to balance specificity with variation, such as using different exercises or modifying existing ones slightly.",
+      "type": "specific",
+      "topic": "specificity, strength training"
+    },
+    {
+      "question": "What factors should be considered when selecting exercises for a power and strength training program?",
+      "answer": "For power and strength training, exercises should focus on compound movements involving multiple joints. The selection should be based on movements rather than individual muscle groups, such as explosive hip extension or rotational movements, to enhance overall strength and power.",
+      "type": "technical",
+      "topic": "exercise selection, power training"
+    },
+    {
+      "question": "What are the key components to consider when selecting exercises for a balanced workout routine?",
+      "answer": "When selecting exercises, it's important to include a balance of movement patterns such as upper and lower body, push and pull, and rotational movements. Examples include bench press or shoulder press for push, row or chin-ups for pull, and squat or deadlift for hinge. Rotational exercises can include using a cable machine to mimic swinging a golf club or hitting a baseball bat.",
+      "type": "general",
+      "topic": "exercise selection, workout balance"
+    },
+    {
+      "question": "Why is it important to perform power and strength exercises at the beginning of a workout?",
+      "answer": "Power and strength exercises should be performed at the beginning of a workout because they are neurologically demanding and require maximum speed and coordination. Performing them when fresh ensures that fatigue does not compromise the quality of the movements, which is crucial for effective training.",
+      "type": "specific",
+      "topic": "exercise order, power and strength training"
+    },
+    {
+      "question": "How does dynamic variable resistance training work and what are its benefits?",
+      "answer": "Dynamic variable resistance training involves using bands or chains to adjust the resistance throughout the range of motion. As you gain mechanical advantage in a lift, the resistance increases, allowing you to train the full strength curve more effectively. This method challenges stronger areas with heavier weight and weaker areas with lighter weight, making it a beneficial technique for strength development.",
+      "type": "technical",
+      "topic": "dynamic variable resistance, strength training"
+    },
+    {
+      "question": "What is the recommended progression strategy for increasing intensity and volume in strength training?",
+      "answer": "The recommended progression strategy involves increasing intensity by 3 to 5% per week and volume by up to 5% per week. This should be done over a period of about five weeks, followed by a deload or back-off week to ensure recovery and continued progress.",
+      "type": "specific",
+      "topic": "progression strategy, strength training"
+    },
+    {
+      "question": "What are cluster sets and how can they be used in a training program?",
+      "answer": "Cluster sets involve taking a mini break between each repetition within a set, allowing for brief recovery and maintaining high-quality output throughout the set. This method can be used for strength, power, and hypertrophy training, ensuring that each repetition maintains the same quality as the first. It can be incorporated as a primary training strategy or selectively for key exercises.",
+      "type": "technical",
+      "topic": "cluster sets, training techniques"
+    },
+    {
+      "question": "What is the recommended approach for someone looking to diversify their strength training routine?",
+      "answer": "For those looking to diversify their strength training routine, it's suggested to incorporate compound exercises, perform 3 to 5 repetitions per exercise, and rest 3 to 5 minutes between sets. The weight load should be 70% or more of one's one repetition maximum for strength training. It's also important to include both bilateral and unilateral exercises to avoid imbalances.",
+      "type": "general",
+      "topic": "strength training, exercise diversity"
+    },
+    {
+      "question": "How does intention affect strength training outcomes, and can low-load exercises still be effective?",
+      "answer": "Intention plays a crucial role in strength training outcomes. Even with low-load exercises, such as planks or exercises using light kettlebells, significant strength improvements can be achieved if one contracts muscles as hard as possible. This approach emphasizes the importance of muscle contraction intensity over the actual weight lifted.",
+      "type": "specific",
+      "topic": "strength training, exercise intention"
+    },
+    {
+      "question": "What are the key factors to consider when aiming for muscle hypertrophy through resistance training?",
+      "answer": "When aiming for muscle hypertrophy, it's important to provide the muscle with the right stimuli, which could be a strong signal, frequent activation, or a combination of both. The training should be hard enough to induce a signaling cascade for protein synthesis. Additionally, ensuring adequate nutrient availability, particularly amino acids and carbohydrates, is crucial for muscle growth.",
+      "type": "technical",
+      "topic": "muscle hypertrophy, resistance training"
+    },
+    {
+      "question": "Why might someone choose to prioritize specific body parts in their hypertrophy training, and how should they approach this?",
+      "answer": "Individuals may prioritize specific body parts in their hypertrophy training due to genetic predispositions or personal aesthetic goals. It's suggested to maintain some level of training for all muscle groups to preserve motor patterns and complementary muscle engagement. However, one can adjust the volume and intensity for naturally stronger muscle groups to focus on weaker areas.",
+      "type": "specific",
+      "topic": "hypertrophy training, body part prioritization"
+    },
+    {
+      "question": "How does the choice of exercise equipment impact hypertrophy training, and what should be considered when selecting exercises?",
+      "answer": "The choice of exercise equipment in hypertrophy training is less important than the ability to effectively target the desired muscle group. Whether using dumbbells, kettlebells, barbells, or machines, the focus should be on creating the right stimulus for muscle growth. Machines can be particularly useful for isolating muscles and ensuring proper form, especially for beginners or those with specific muscle growth goals.",
+      "type": "technical",
+      "topic": "exercise equipment, hypertrophy training"
+    },
+    {
+      "question": "Why is it important to include exercises for smaller muscle groups even if you're focusing on larger compound movements?",
+      "answer": "Including exercises for smaller muscle groups is important because they can become underdeveloped if you only focus on larger compound movements. For example, abductors might be underdeveloped if you're not doing specific abduction training. Maintaining exercises for these smaller groups helps with flexibility, range of motion, and overall muscle balance.",
+      "type": "general",
+      "topic": "muscle balance, exercise variety"
+    },
+    {
+      "question": "How does exercise order affect muscle training and development?",
+      "answer": "Exercise order can significantly impact muscle training and development. For strength and power, it's recommended to start with the most complicated and compound movements. However, for hypertrophy, you can vary the order based on preference or specific muscle focus. For instance, pre-fatiguing a muscle group like the biceps before compound pulling movements can ensure they receive adequate training.",
+      "type": "specific",
+      "topic": "exercise order, hypertrophy"
+    },
+    {
+      "question": "What is the recommended weekly volume of sets for muscle hypertrophy, and how does it differ for natural athletes versus those using steroids?",
+      "answer": "For muscle hypertrophy, the recommended weekly volume is generally 15 to 20 working sets per muscle group. For natural athletes, this range is crucial as they don't have the enhanced recovery capabilities that steroids provide. Those using steroids may handle higher volumes due to improved recovery.",
+      "type": "technical",
+      "topic": "hypertrophy, training volume"
+    },
+    {
+      "question": "How can genetic predisposition and early sports participation influence muscle activation and growth?",
+      "answer": "Genetic predisposition and early sports participation can greatly influence which muscle groups are easier to activate and grow. For example, individuals who swam or wrestled in their youth might find it easier to activate their lats because of the repetitive pulling motions involved in those sports. This early development, combined with genetic factors, can determine muscle responsiveness.",
+      "type": "specific",
+      "topic": "genetics, muscle activation"
+    },
+    {
+      "question": "What are the considerations for determining the number of repetitions per set for inducing hypertrophy?",
+      "answer": "The number of repetitions per set for inducing hypertrophy can range from 4 to 30 reps, depending on the intensity and proximity to failure. The key is to reach near failure by the end of the set, typically within two reps of failure. This ensures sufficient stimulus for muscle growth without necessarily going to complete failure, which can be more taxing and risky.",
+      "type": "technical",
+      "topic": "repetition range, hypertrophy"
+    },
+    {
+      "question": "What is the recommended rest period between sets for hypertrophy training?",
+      "answer": "The recommended rest period for hypertrophy training is generally between 30 to 90 seconds. However, recent research suggests that moderate to newly trained individuals can take up to three to five minutes of rest between sets without negatively impacting hypertrophy. If opting for longer rest periods, it's important to increase the challenge through mechanical tension or muscle breakdown.",
+      "type": "general",
+      "topic": "hypertrophy, exercise rest periods"
+    },
+    {
+      "question": "How can one structure a workout to target different forms of major adaptation?",
+      "answer": "A workout can be structured to target different forms of major adaptation by varying the repetition ranges and rest periods across exercises. For example, start with heavier loads and lower repetitions (5-8 reps) with longer rest periods (up to 5 minutes), then move to moderate repetitions (8-15 reps) with shorter rest periods (90 seconds), and finally high repetitions (12-30 reps) with very short rest intervals (30 seconds). This approach targets mechanical loads, stress and damage, and metabolic stress.",
+      "type": "specific",
+      "topic": "workout structure, exercise adaptation"
+    },
+    {
+      "question": "What are the physiological steps involved in muscle growth after resistance training?",
+      "answer": "Muscle growth involves several steps: 1) Signaling response, which occurs within seconds of exercise and can last up to two hours; 2) Gene expression, peaking around two to six hours post-exercise; 3) Protein synthesis, which peaks around 12 hours and can last up to 48 hours, but is tapering off by then. Training frequency should consider these timelines to optimize hypertrophy.",
+      "type": "technical",
+      "topic": "muscle growth, protein synthesis"
+    },
+    {
+      "question": "Is it necessary to train a muscle group every 48 hours for optimal hypertrophy?",
+      "answer": "It is not necessary to train a muscle group every 48 hours for optimal hypertrophy. While protein synthesis peaks around 48 hours post-exercise, training sooner than this does not confer significant advantages. Training every 48 to 72 hours is generally sufficient, and waiting longer can still be effective as long as the total volume and intensity are adequate.",
+      "type": "specific",
+      "topic": "training frequency, muscle hypertrophy"
+    },
+    {
+      "question": "How can systemic recovery be assessed to avoid overtraining in hypertrophy-focused workouts?",
+      "answer": "Systemic recovery can be assessed by monitoring both local muscle soreness and systemic biomarkers. Locally, a subjective soreness scale is used, where soreness above 6 out of 10 suggests avoiding training. Systemically, biomarkers such as creatine kinase, LDH, and myoglobin levels can be measured to assess muscle damage and recovery status.",
+      "type": "technical",
+      "topic": "systemic recovery, overtraining"
+    },
+    {
+      "question": "What is the significance of the AST to ALT ratio in assessing muscle damage?",
+      "answer": "The AST to ALT ratio is an important marker for assessing muscle damage. A ratio higher than 1.67 indicates a high risk of muscle damage. If AST levels exceed ALT, it suggests muscle damage, as most of these enzymes are found in muscle tissue.",
+      "type": "technical",
+      "topic": "muscle damage, biomarkers"
+    },
+    {
+      "question": "How can heart rate variability (HRV) be used to monitor training-induced overload?",
+      "answer": "Heart rate variability (HRV) is a sensitive marker that can indicate training-induced overload. Unlike resting heart rate, HRV is more responsive to changes in training, making it a useful tool for monitoring systemic overload.",
+      "type": "specific",
+      "topic": "training overload, heart rate variability"
+    },
+    {
+      "question": "What is the crossover interference effect in the context of combining cardiovascular and hypertrophy training?",
+      "answer": "The crossover interference effect refers to the potential for endurance exercise to interfere with hypertrophy training. This interference can be mitigated by ensuring adequate energy intake and avoiding endurance exercises that heavily involve the same muscle groups, especially those with significant eccentric loading like running.",
+      "type": "technical",
+      "topic": "crossover interference effect, hypertrophy training"
+    },
+    {
+      "question": "Can high-intensity interval training (HIIT) aid in muscle hypertrophy?",
+      "answer": "Yes, high-intensity interval training (HIIT) can potentially aid in muscle hypertrophy. This is because HIIT induces metabolic disturbances that can activate pathways for muscle growth. However, it should not compromise the ability to perform primary training sessions.",
+      "type": "specific",
+      "topic": "high-intensity interval training, muscle hypertrophy"
+    },
+    {
+      "question": "Why should cold exposure be avoided immediately after hypertrophy training?",
+      "answer": "Cold exposure should be avoided immediately after hypertrophy training because it can blunt the hypertrophy response. Cold exposure blocks the signaling pathways that drive muscle growth, which are activated by the stress of training.",
+      "type": "general",
+      "topic": "cold exposure, hypertrophy training"
+    },
+    {
+      "question": "Why is it important to understand the specific goals of a training phase when deciding on recovery strategies?",
+      "answer": "Understanding the specific goals of a training phase is crucial because it allows for precise decision-making regarding recovery strategies. For instance, during a hypertrophy phase, the focus is on causing overload to stimulate adaptation, so recovery methods like icing might be minimized to avoid compromising long-term results. Conversely, in phases focused on maximizing adaptation and results, recovery strategies are prioritized.",
+      "type": "general",
+      "topic": "training goals, recovery strategies"
+    },
+    {
+      "question": "How does protein intake affect muscle hypertrophy, and what is the recommended range of protein consumption?",
+      "answer": "Protein intake is vital for muscle hypertrophy as it supports muscle protein synthesis. The recommended range for protein consumption is between 1.6 to 2.7 grams per kilogram of body weight per day. This range ensures that protein quality, type, and timing become less significant factors, as long as the total protein intake is sufficiently high.",
+      "type": "specific",
+      "topic": "protein intake, muscle hypertrophy"
+    },
+    {
+      "question": "What is the role of creatine supplementation in training, and what dosage is recommended?",
+      "answer": "Creatine supplementation is highly beneficial for training directed toward strength, power, and hypertrophy. It is the most well-studied and effective supplement, offering benefits across multiple physiological domains, including muscle recovery and cognitive function. The recommended dosage is generally 3 to 6 grams per day, adjusted based on body size, with 5 grams being the standard. Timing of intake is irrelevant.",
+      "type": "technical",
+      "topic": "creatine supplementation, training"
+    },
+    {
+      "question": "What is the significance of carbohydrate timing in training, especially in relation to protein?",
+      "answer": "Carbohydrate timing is significant because it affects muscle glycogen replenishment, which is crucial for maintaining training quality and supporting endurance work. Unlike protein, where timing is less critical if total intake is high, carbohydrates need to be timed around training sessions to ensure optimal performance and recovery.",
+      "type": "specific",
+      "topic": "carbohydrate timing, training"
+    },
+    {
+      "question": "How does the podcast suggest handling nutrition around hypertrophy training sessions?",
+      "answer": "The podcast suggests that for hypertrophy training, it is beneficial to have nutrients available around the training session, either pre, mid, or post-workout. This approach helps maximize potential growth and jumpstart recovery. A common recommendation is a one-to-one ratio of protein to carbohydrates post-exercise, but personal preferences and specific training goals can adjust this ratio.",
+      "type": "general",
+      "topic": "nutrition, hypertrophy training"
+    }
+  ]
+}

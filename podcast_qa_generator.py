@@ -255,13 +255,22 @@ class PodcastQAGenerator:
         
         results = []
         for file in tqdm(transcript_files, desc="Generating QA pairs"):
+            podcast_date = os.path.basename(file).split('.')[0]
             transcript_path = os.path.join(transcript_dir, file)
+            json_file_name = f"{podcast_name}_{podcast_date}_qa_pairs.json"
+            output_path = os.path.join(self.output_dir, json_file_name)
             try:
-                result = self.generate_qa_pairs(transcript_path, podcast_name)
+                # should only run if the file has not been processed yet 
+                if os.path.exists(output_path):
+                    print(f'The transcript at {file} has already been processed into QA pairs')
+                    print(f'Skipping....\n')
+                    continue
+                else:
+                    result = self.generate_qa_pairs(transcript_path, podcast_name)
                 if result:
                     results.append(result)
                 # Sleep to avoid hitting API rate limits
-                time.sleep(3)
+                time.sleep(5)
             except Exception as e:
                 print(f"Error processing {file}: {str(e)}")
                 # Continue with next file instead of stopping

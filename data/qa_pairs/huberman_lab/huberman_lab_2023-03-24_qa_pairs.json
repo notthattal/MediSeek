@@ -1,0 +1,67 @@
+{
+  "podcast_name": "huberman_lab",
+  "transcript_path": "./data/clean_transcripts/huberman_lab/2023-03-24.txt",
+  "generation_date": "2025-03-14 12:06:11",
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of the Huberman Lab Podcast Premium Channel?",
+      "answer": "The Huberman Lab Podcast Premium Channel was started to provide support for the standard Huberman Lab Podcast and to generate funding for research on mental health, physical health, and human performance. The Tiny Foundation matches every dollar generated for research studies, effectively doubling the funding.",
+      "type": "general",
+      "topic": "Huberman Lab Podcast, Premium Channel, Research Funding"
+    },
+    {
+      "question": "How does the Huberman Lab Podcast Premium Channel support research?",
+      "answer": "The Premium Channel generates funds that are used to support research on human beings, particularly studies that lead to discoveries in mental health, physical health, and performance. The Tiny Foundation matches the funds raised, doubling the total amount available for research.",
+      "type": "specific",
+      "topic": "Research Funding, Huberman Lab Podcast"
+    },
+    {
+      "question": "What is the definition of true Obsessive Compulsive Disorder (OCD) according to the podcast?",
+      "answer": "True OCD is defined as a situation where engaging in compulsive behavior does not reduce the intensity or frequency of obsessions but instead makes them worse. It is different from the common use of the term OCD, which often refers to people being particular or fastidious.",
+      "type": "technical",
+      "topic": "Obsessive Compulsive Disorder, Mental Health"
+    },
+    {
+      "question": "What strategies are suggested for dealing with intrusive thoughts that are not disturbing?",
+      "answer": "For intrusive thoughts that are not disturbing, it is suggested to anchor thoughts to an external stimulus by engaging in activities that draw attention away from the thoughts. Mindful meditation can also help improve focus on singular topics.",
+      "type": "specific",
+      "topic": "Intrusive Thoughts, Mindfulness"
+    },
+    {
+      "question": "How can one address intrusive thoughts that are disturbing?",
+      "answer": "To address disturbing intrusive thoughts, it is recommended to write down the thoughts in detail, which can help reduce their emotional load and frequency. This process is akin to doing one's own form of trauma therapy.",
+      "type": "specific",
+      "topic": "Intrusive Thoughts, Trauma Therapy"
+    },
+    {
+      "question": "What role does rapid eye movement (REM) sleep play in dealing with intrusive thoughts?",
+      "answer": "Sufficient REM sleep is important for removing the emotional load of traumatic experiences and intrusive thoughts. It is recommended to strive for the best possible sleep, including lots of REM sleep, to help diminish these thoughts.",
+      "type": "technical",
+      "topic": "REM Sleep, Intrusive Thoughts"
+    },
+    {
+      "question": "What is the 30-day dopamine reset strategy mentioned in the podcast?",
+      "answer": "The 30-day dopamine reset strategy involves abstaining from one's 'drug of choice' for 30 days to reset the dopamine reward pathway. This is effective for most people struggling with behavioral or substance addictions, but must be adapted for things like food where abstinence is not possible.",
+      "type": "specific",
+      "topic": "Dopamine Reset, Addiction"
+    },
+    {
+      "question": "What is the difference between sensations and perceptions in neurobiology?",
+      "answer": "Sensations are the processes by which neurons convert external stimuli like light and sound into electrical and chemical signals. Perceptions are the brain's interpretation of these signals, forming our understanding of the world.",
+      "type": "technical",
+      "topic": "Neurobiology, Sensations and Perceptions"
+    },
+    {
+      "question": "How does the podcast define trauma?",
+      "answer": "Trauma is defined as an event that fundamentally changes the way the nervous system works, leading to less adaptive functioning going forward. Not every negative event is a trauma, but many people do experience traumas that affect their nervous system.",
+      "type": "technical",
+      "topic": "Trauma, Nervous System"
+    },
+    {
+      "question": "What is the benefit of subscribing to the Huberman Lab Podcast Premium Channel?",
+      "answer": "Subscribing to the Premium Channel provides access to full Ask Me Anything episodes, transcripts, and exclusive content. It also supports research on mental health, physical health, and performance, with funding matched by the Tiny Foundation.",
+      "type": "general",
+      "topic": "Huberman Lab Podcast, Premium Subscription"
+    }
+  ]
+}

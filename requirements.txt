@@ -10,3 +10,7 @@ rouge-score==0.1.2
 bert-score==0.3.13 
 matplotlib==3.9.4 
 pillow==11.1.0
+peft==0.14.0
+bitsandbytes==0.42.0 
+scipy==1.13.1
+tensorboard==2.19.0

@@ -1,0 +1,67 @@
+{
+  "podcast_name": "huberman_lab",
+  "transcript_path": "./data/clean_transcripts/huberman_lab/2024-01-01.txt",
+  "generation_date": "2025-03-16 15:02:49",
+  "qa_pairs": [
+    {
+      "question": "Who is the guest featured in today's Huberman Lab podcast episode?",
+      "answer": "The guest featured in today's Huberman Lab podcast episode is David Goggins.",
+      "type": "general",
+      "topic": "podcast guest"
+    },
+    {
+      "question": "What are the titles of David Goggins' books mentioned in the podcast?",
+      "answer": "The titles of David Goggins' books mentioned in the podcast are 'Can't Hurt Me' and 'Never Finished'.",
+      "type": "general",
+      "topic": "books"
+    },
+    {
+      "question": "How can listeners support the Huberman Lab podcast at no cost?",
+      "answer": "Listeners can support the Huberman Lab podcast at no cost by subscribing to the YouTube channel and leaving a five-star review on Spotify and Apple.",
+      "type": "general",
+      "topic": "podcast support"
+    },
+    {
+      "question": "What type of content does Huberman Lab share on social media platforms?",
+      "answer": "Huberman Lab shares science and science-related tools on social media platforms, some of which overlap with the podcast content, but much of which is distinct.",
+      "type": "specific",
+      "topic": "social media content"
+    },
+    {
+      "question": "Where can listeners find more information about the supplements discussed on the Huberman Lab podcast?",
+      "answer": "Listeners can find more information about the supplements discussed on the Huberman Lab podcast at live momentous dot com slash huberman.",
+      "type": "specific",
+      "topic": "supplements"
+    },
+    {
+      "question": "What kind of resources does the Huberman Lab newsletter provide?",
+      "answer": "The Huberman Lab newsletter provides podcast summaries and protocols in the form of brief PDFs, covering topics like deliberate cold exposure, foundational fitness, heat exposure, dopamine management, and sleep optimization.",
+      "type": "specific",
+      "topic": "newsletter resources"
+    },
+    {
+      "question": "How can one subscribe to the Huberman Lab newsletter?",
+      "answer": "To subscribe to the Huberman Lab newsletter, go to huberman lab dot com, navigate to the menu, scroll down to the newsletter tab, and enter your email to sign up.",
+      "type": "general",
+      "topic": "newsletter subscription"
+    },
+    {
+      "question": "Does the Huberman Lab share subscribers' email addresses with third parties?",
+      "answer": "No, the Huberman Lab does not share subscribers' email addresses with anybody.",
+      "type": "specific",
+      "topic": "privacy policy"
+    },
+    {
+      "question": "What are some of the benefits of supplements discussed in the Huberman Lab podcast?",
+      "answer": "Some of the benefits of supplements discussed in the Huberman Lab podcast include improving sleep, hormone support, and enhancing focus.",
+      "type": "specific",
+      "topic": "supplement benefits"
+    },
+    {
+      "question": "What platforms can listeners use to subscribe to the Huberman Lab podcast?",
+      "answer": "Listeners can subscribe to the Huberman Lab podcast on Spotify and Apple.",
+      "type": "general",
+      "topic": "podcast platforms"
+    }
+  ]
+}

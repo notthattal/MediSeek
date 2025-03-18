@@ -36,17 +36,18 @@ def lambda_handler(event, context):
             # parse message
             body = json.loads(event.get("body", "{}"))
             message = body.get("message", "")
+            model_type = body.get("model_type", "deepseek") 
             
             # get ec2 endpoint
-            ec2_ip = os.environ.get("EC2_IP_ADDRESS", "##.###.##.###")
+            ec2_ip = os.environ.get("EC2_IP_ADDRESS", "##.###.###")
             ec2_endpoint = f"http://{ec2_ip}:5000/predict"
             
-            logger.info(f"sending to ec2: {message}")
+            logger.info(f"sending to ec2 using {model_type} model: {message}")
             
-            # send to ec2
+            # send to ec2 with model type
             response = requests.post(
                 ec2_endpoint,
-                json={"message": message},
+                json={"message": message, "model_type": model_type},
                 timeout=30
             )
             

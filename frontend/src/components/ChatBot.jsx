@@ -1,19 +1,157 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { Container, Row, Col, Form, Button, Card } from 'react-bootstrap';
-import axios from 'axios';
+import webSocketService from '../services/WebSocketService';
 
-const API_URL = "https://your-api-gateway-url.amazonaws.com/prod";
+// Debug mode for additional logging
+const DEBUG = true;
 
 const ChatBot = () => {
+  if (DEBUG) console.log('ChatBot component loaded');
+  
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const [connectionStatus, setConnectionStatus] = useState('Disconnected');
+  const [connectionStatus, setConnectionStatus] = useState('Connecting...');
+  const [hasSetupWebSocket, setHasSetupWebSocket] = useState(false);
   const messagesEndRef = useRef(null);
+  const fallbackTimerRef = useRef(null);
 
+  // Setup WebSocket event handlers
+  const setupWebSocketHandlers = useCallback(() => {
+    if (hasSetupWebSocket) return;
+    
+    if (DEBUG) console.log('Setting up WebSocket handlers');
+    
+    webSocketService.onConnectionChange((isConnected) => {
+      if (DEBUG) console.log('WebSocket connection status changed:', isConnected);
+      setConnectionStatus(isConnected ? 'Connected' : 'Disconnected');
+    });
+    
+    webSocketService.onMessage((data) => {
+      if (DEBUG) console.log('Message received from WebSocket:', data);
+      
+      // Clear any pending fallback timer
+      if (fallbackTimerRef.current) {
+        clearTimeout(fallbackTimerRef.current);
+        fallbackTimerRef.current = null;
+      }
+      
+      // Check for response field
+      if (data && data.response) {
+        const botMessage = {
+          text: data.response,
+          sender: 'bot',
+          timestamp: new Date().toISOString()
+        };
+        setMessages(prev => [...prev, botMessage]);
+        setIsLoading(false);
+      } 
+      // Check for error field
+      else if (data && data.error) {
+        const errorMessage = {
+          text: `Error: ${data.error}`,
+          sender: 'bot',
+          timestamp: new Date().toISOString(),
+          isError: true
+        };
+        setMessages(prev => [...prev, errorMessage]);
+        setIsLoading(false);
+      }
+      // Handle internal server error message format
+      else if (data && data.message === "Internal server error") {
+        const errorMessage = {
+          text: "The server encountered an error processing your request. Please try again later.",
+          sender: 'bot',
+          timestamp: new Date().toISOString(),
+          isError: true
+        };
+        setMessages(prev => [...prev, errorMessage]);
+        setIsLoading(false);
+      }
+      // Handle the raw data format (if JSON parsing failed)
+      else if (data && data.raw) {
+        try {
+          // Try to parse the raw data as JSON
+          const rawData = JSON.parse(data.raw);
+          if (rawData && rawData.response) {
+            const botMessage = {
+              text: rawData.response,
+              sender: 'bot',
+              timestamp: new Date().toISOString()
+            };
+            setMessages(prev => [...prev, botMessage]);
+            setIsLoading(false);
+            return;
+          }
+        } catch (e) {
+          if (DEBUG) console.log('Failed to parse raw data as JSON');
+        }
+        
+        const botMessage = {
+          text: "Received a response in an unexpected format.",
+          sender: 'bot',
+          timestamp: new Date().toISOString()
+        };
+        setMessages(prev => [...prev, botMessage]);
+        setIsLoading(false);
+        
+        // Log the raw data for debugging
+        if (DEBUG) console.warn("Raw data received:", data.raw);
+      }
+      // Fallback for unexpected message format
+      else {
+        if (DEBUG) console.warn("Received unexpected message format:", data);
+        const botMessage = {
+          text: "Received a response in an unexpected format.",
+          sender: 'bot',
+          timestamp: new Date().toISOString()
+        };
+        setMessages(prev => [...prev, botMessage]);
+        setIsLoading(false);
+      }
+    });
+    
+    webSocketService.onError((error) => {
+      console.error('WebSocket error:', error);
+      setConnectionStatus('Connection Error');
+      
+      // Add an error message to the chat
+      const errorMessage = {
+        text: typeof error === 'string' ? error : 'Connection error occurred. Please try again later.',
+        sender: 'bot',
+        timestamp: new Date().toISOString(),
+        isError: true
+      };
+      setMessages(prev => [...prev, errorMessage]);
+      setIsLoading(false);
+    });
+    
+    setHasSetupWebSocket(true);
+  }, [hasSetupWebSocket]);
+
+  // Connect to WebSocket on component mount
   useEffect(() => {
-    testConnection();
-  }, []);
+    if (DEBUG) console.log('ChatBot component mounted, initializing WebSocket');
+    
+    // Connect to WebSocket if not already connected
+    if (!webSocketService.isConnected) {
+      webSocketService.connect();
+    }
+    
+    // Setup handlers
+    setupWebSocketHandlers();
+    
+    // No need to disconnect on unmount - we want the WebSocket to stay alive
+    return () => {
+      if (DEBUG) console.log('ChatBot component unmounting, but keeping WebSocket alive');
+      
+      // Clear any pending fallback timer on unmount
+      if (fallbackTimerRef.current) {
+        clearTimeout(fallbackTimerRef.current);
+        fallbackTimerRef.current = null;
+      }
+    };
+  }, [setupWebSocketHandlers]);
 
   useEffect(() => {
     scrollToBottom();
@@ -23,78 +161,38 @@ const ChatBot = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   };
 
-  const testConnection = async () => {
-    try {
-      setConnectionStatus('Connecting...');
-      // Comment out this block until working backend
-      /*
-      const response = await axios.get(`${API_URL}/api/test`);
-      if (response.data && response.data.status === 'success') {
-        setConnectionStatus('Connected');
-      } else {
-        setConnectionStatus('Connection Error');
-      }
-      */
-      // For now, just set status manually since we don't have a backend yet
-      setConnectionStatus('No Backend Yet');
-    } catch (error) {
-      console.error('Connection test failed:', error);
-      setConnectionStatus('Connection Error');
-    }
-  };
-
   // Send a message to the chatbot
-  const sendMessage = async (e) => {
+  const sendMessage = (e) => {
     e.preventDefault();
     if (!input.trim()) return;
 
     // Add user message to the chat
     const userMessage = { text: input, sender: 'user', timestamp: new Date().toISOString() };
-    setMessages([...messages, userMessage]);
+    setMessages(prev => [...prev, userMessage]);
+    const sentMessage = input;
     setInput('');
     setIsLoading(true);
 
-    try {
-      // Temporarily simulate a response until backend is ready
-      setTimeout(() => {
+    // Send message via WebSocket
+    if (DEBUG) console.log('Sending message via WebSocket:', sentMessage);
+    webSocketService.sendMessage(sentMessage);
+    
+    // Set a fallback timer in case WebSocket response doesn't come back
+    fallbackTimerRef.current = setTimeout(() => {
+      if (DEBUG) console.log('No WebSocket response received within timeout, using fallback');
+      
+      // Only add the fallback message if we're still loading
+      if (isLoading) {
         const botMessage = {
-          text: `I'm a sample response. When the backend is connected, I'll provide real health information about: "${input}"`,
+          text: `I apologize for the delay. It seems like the server is taking longer than expected to respond. Please try again in a moment.`,
           sender: 'bot',
-          timestamp: new Date().toISOString()
+          timestamp: new Date().toISOString(),
+          isWarning: true
         };
         setMessages(prev => [...prev, botMessage]);
         setIsLoading(false);
-      }, 1000);
-      
-      // Comment out this block until you have a working backend
-      /*
-      // Send the message to the API
-      const response = await axios.post(`${API_URL}/api/chat`, {
-        message: input
-      });
-
-      // Add bot response to the chat
-      if (response.data && response.data.response) {
-        const botMessage = {
-          text: response.data.response,
-          sender: 'bot',
-          timestamp: new Date().toISOString()
-        };
-        setMessages(prev => [...prev, botMessage]);
       }
-      */
-    } catch (error) {
-      console.error('Error sending message:', error);
-      // Add error message
-      const errorMessage = {
-        text: 'Sorry, there was an error processing your request.',
-        sender: 'bot',
-        timestamp: new Date().toISOString(),
-        isError: true
-      };
-      setMessages(prev => [...prev, errorMessage]);
-      setIsLoading(false);
-    }
+    }, 15000); // Increased timeout to 15 seconds for model processing
   };
 
   return (
@@ -123,6 +221,8 @@ const ChatBot = () => {
                           ? 'bg-primary text-white'
                           : msg.isError
                           ? 'bg-danger text-white'
+                          : msg.isWarning
+                          ? 'bg-warning'
                           : 'bg-white border'
                       }`}
                       style={{ maxWidth: '80%' }}
@@ -157,7 +257,7 @@ const ChatBot = () => {
                     />
                   </Col>
                   <Col xs="auto">
-                    <Button type="submit" variant="primary" disabled={isLoading}>
+                    <Button type="submit" variant="primary" disabled={isLoading || connectionStatus !== 'Connected'}>
                       {isLoading ? (
                         <>
                           <span className="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>

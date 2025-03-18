@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# ignore RSA and pem keys for ec2
+*.pem
+

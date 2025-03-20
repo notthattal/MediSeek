@@ -1,0 +1,571 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Using Science to Optimize Sleep, Learning & Metabolism
+Published: 1/18/2021
+1h 41m 26s (in RSS feed: 1h 41m 7s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman Lab podcast, where we discuss science and science based tools for everyday life 
+1  
+00:00:09
+I'm Andrew Huberman. And I'm a professor of neurobiology in ophthalmology at Stanford school of medicine. This Podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public along those lines. I want to thank the sponsors of today's podcast. 
+AG1 (Ad)  
+00:00:31
+Our first sponsor is Athletic Greens, which is an all-in-one vitamin mineral probiotic liquid supplement I've been using Athletic Greens since 2012, because I really like getting my total vitamin mineral base covered in one easy to consume product. It also tastes really good. I mix mine with a little bit of lemon juice. I've been doing that well for well over a decade now. And the inclusion of probiotics is important to me because there's a lot of data out there right now about the importance of gut health for the immune system for mood. And so by combining all these things in one product, you get all of those things at once. If you want to try Athletic Greens you can go to Athletic Greens dot com slash Huberman, and that will give you a special offer where you will get a year supply of liquid vitamin D three and K2 vitamin D three has been shown to be important for various aspects of immune function, as well as other biological functions. And so once more, if you want to try Athletic Greens and get the year's supply of vitamin D three K to just go to Athletic Greens dot com slash Huberman. 
+Inside Tracker (Ad)  
+00:01:36
+The other sponsor of today's podcast is InsideTracker InsideTracker is a way to measure metabolic factors, hormones, and DNA related factors by way of blood tests and saliva. In order to assess one's health. I'm a big believer in blood tests, in saliva tests for assessing one's health markers, because I like data and there's really no other way to measure what's going on in one's body without taking the occasional blood test or saliva test. You can, you can guess what's going on, but if you really wanna know what's going on and be under the hood, InsideTracker it can be of great help. One of the problems with a lot of products out there, or just regular blood testing is that you get a lot of data back about the levels of various hormones, metabolic factors, et cetera, but you don't know what to do with those data. Great thing about InsideTracker is it is provided in a format. They have an online dashboard that given your particular levels of various things directs you toward potential lifestyle related changes like changes and Exercise or changes in sleep patterns or changes in nutritional patterns that can really help move those markers in those numbers, on those metabolic factors, hormones, et cetera, in the direction that you want. If you'd like to try InsideTracker, you can go to InsideTracker dot com slash Huberman. And if you do that, you'll get 5% off their program at checkout. 
+0  
+00:03:02
+Okay. Let's get started today is episode three of the podcast and it is Office Hours Office Hours as many of, you know, it's where students come to the office of the professor, sit down and ask questions, requesting clarification about things that were confusing, or to simply go down the route of exploring a topic with more depth and detail. 
+1  
+00:03:25
+I asked for your questions to be listed in the comment section of the previous two episodes of the podcast on YouTube, as well as on Instagram. And I, first of all, just want to thank you for the many questions. They are excellent. We read them all. We distilled from that large batch of questions to two types of questions, questions that we're asked very often. And we're, Light very often with a little thumbs up like PTAB, as well as the questions that we thought could really expand on the topics that we've covered previously. And today we're, we're going to cover both of those. If we did not get to your question, please don't despair. We will keep track of those. 
+1  
+00:04:05
+And we have several more episodes devoted to this topic of sleep and wakefulness. And Learning during the month of January, maybe even, you know, leaking over a little bit into the month of February. So we have time that's one of the unique format to this podcast is that we have time for Dialogue. We have time for your questions, and we have time to really go deep into these topics. It's official Costello sleeping in the background. So if you hear snoring, Costello is going to be keeping time. A With is a deep and melodic snoring. There it goes. So the questions that we received, I batched crudely into a couple different categories. 
+1  
+00:04:44
+Light Exercise supplementation, Temperature Learning plasticity and mood and sort of mood related disorders. There were a lot of questions about those before we begin any of this, I want to point out something that I, I always say it sounds like boiler plate, but it's important to not just to protect me, but to protect you, which is that I am not a physician. I'm not a medical doctor. I don't prescribe anything, including behavioral protocols. I'm a professor. So I profess a lot of things based on quality peer reviewed studies, you should take that information. You should filter it through whatever it is that you currently happened to be dealing with whether or not that's health or illness, you should consult with a licensed healthcare professional before you add or remove anything from your daily life protocol. 
+1  
+00:05:33
+I'm not responsible for your health. You are so be smart with this information and be a stringent filter, as we say, okay, very well, let's get started on the actual material. Somebody asked, what is the role of Moonlight and Fire I'm presuming they mean fireplace or Candler, things of that sort in setting circadian rhythms. Is it okay to view Moonlight at night or will that wake me up? Will a fire in my fireplace or Using candle. Light be too much. Light great question also offers me the opportunity to share with you. What I think is a quite beautiful definition of what light is in a quantitative sense. 
+1  
+00:06:17
+So I've mentioned a few times the use of, of apps and Light meters and things to measure things like locks, which sometimes are also described in terms of Ken delis. So those are the two units for measuring light intensity, typically Luxe L U X is this is the unit. And so before we go forward and discuss this many locks or that many lucks, I want to just tell you what a Lux is because it relates to this question. One lox equals the aluminum, a nation of one square meter surface at one meter away from a single candle. I think about that. So somebody actually decided at some point that the amount of illumination at one square meter surface, one meter away from a single candle that equals one Lux. 
+1  
+00:07:03
+So when we talk about 6,000 Lux of light intensity, or 10,000 Lux of light intensity, now you have a kind of a reference or a framework that will be the equivalent of you could think of it as 6,000 candles, all with their light intensity shown on one square meter from one meters distance away. Or of course, if it was a different number of Lux, it would be a different number of candles. So you get the idea. Here's the great thing. It turns out that Moonlight candle light and even a fireplace. If you have one of these roaring fires going in the fireplace, do not reset your circadian clock at night and trick your brain into thinking that it's Morning, even though if you've ever sat close to a fireplace or even a candle, that light seems very bright. 
+1  
+00:07:50
+And there are two reasons for that that are very important. The first one is that these neurons in your eyes that I discussed in the previous episode, these melanopsin ganglion cells also called intrinsically photosensitive ganglion cells. Those cells adjust their sensitivity across the day, and those cells respond best to the blue, yellow contrast present in the rising and setting sun so-called low solar angle sun also discussed on the previous episode, but those cells adjust their sensitivity, such that they will not be activate the, the triggers in the brain that convey daytime signals when the view Moonlight or even a full moon, a really bright moon, or Fire. 
+1  
+00:08:34
+Now this does raise an interesting kind of thought point, which is a, you know, a lot of people that talked about lunacy in the fact that when there is a full moon out, people act differently and behave differently. There's a lot of lore around that. There's actually a little bit of quality science around that that maybe we can address in the future. But you know, Moonlight is typically not going to wake us up too much, except maybe if moon is, is really full and really bright there's possibility for that. So providing you're not going to burn down in the structure, you're in your not gonna burn down in the forest, enjoy your day, your fireplaces enjoy your, your Lights from candles. And those are perfectly safe without disrupting your circadian rhythm. Because we talked about just how crucial it is to avoid bright lights between the Hours of about 10:00 PM and 4:00 AM. 
+1  
+00:09:17
+Except when you need to view things for sake of safety or, or, or work are so and so forth. Also received a lot of questions about Red Light no, I think I was asked those questions because Red Light is used in a number of different commercial products where these products tend to include a sheet, a very bright red lights, that one is supposed to view early in the day. And there are various claims attached to these Red Light devices that they improve mitochondrial function that they improve. Metabolism there. I'm going to be really honest and I can't name brands, and I'm not going to name particular studies. Cause when I'm about to say about these studies is not particularly unkind, but let's just say that none of the studies that I've seen, except for one that I'll talk about a moment pointing to the positive effects of red light on the visual system are published in blue ribbon journals. 
+1  
+00:10:13
+They tend to be published in journals that I had to work hard to find. I'm not sure what the peer review in stringency level is. Now. That's not to say Red Light isn't beneficial because there is one study in particular that came from Glen Jeffrey's lab at the university of college London, it was published last year. Glen is somebody I happen to know has an excellent reputation, excellent vision scientist, what this study essentially showed. And again, this is a study that I, I very much liked the data and I think it was done with a very high standards. What this study shows is that viewing Red Light for a few minutes, each Morning can have positive effects on mitochondria in a particular retinal cell type that tends to degenerate or decline in function with age in humans. 
+1  
+00:11:00
+And that cell type is the photoreceptor. The photoreceptor is a type of cell in your eye that sits at the back of the eye. It's a can of some distance away from the ganglion cells. And it's, The the cell that converts light information into electrical signals that the rest of the retina and Brain can understand these are vitally important cells without them. People are blind. And many people's vision gets worse with age in particular, age related macular degeneration, but also related to some other factors, including Photo is a receptor functionality. You just getting worse with time. And what Glen showed was that Red, Light flashes delivered in particular early in the day, but not late in the day can help repair the mitochondria. 
+1  
+00:11:43
+Now this study needs more support from additional study is of course they are doing a clinical trial. They did a report on what I th I think it was 12 patients. And so the work is ongoing, but that was very interesting and it points to some potentially really useful things about Red Light however, most of the questions I got about Red Light for sake of Office Hours we're about the use of Red Light later in the day. So here's the deal in principle Red Light will not stimulate the melanopsin retinal neurons that wake up the brain and circadian clock and signal daytime. However, most of the red lights in particular, the red lights that come on the sheets of these products that people are supposed to view them, or in order to access the number of, you know, proclaimed health effects. 
+1  
+00:12:29
+Those are way too bright and would definitely wake up your body and brain. So if you're going to use those products and I'm not suggesting you do, or you don't, but if you are, if that's your thing, you would want to use those early in the day, who knows you might even derive some benefit on mitochondrial function in these photo receptors. But if you are thinking about Red Light for sake of avoiding the negative effects of Light later in the day and at night, then you want that Red Light to be very, very dim, certainly much dimmer than it is on most of those commercial products. Now, do you need red lights? No. Although red lights are rather convenient because you can see pretty well with them on, but if they're dim, they won't wake up the circadian clock. They won't have this dopamine disrupting thing that we talked about in the previous podcast. 
+1  
+00:13:13
+So there's a role for Red Light potentially early in the day. And for mitochondrial repair in the photo receptors, there is a role for dim Red Light later in the day and at night. So you're starting to notice a theme here, which is that there is no immediate prescription of look at these Lights it's look at these Lights potentially, if that's what you want to do at particular times of day, and we're a particular intensities, it brings us back to the blue light issue, which is so many people are obsessed with avoiding blue light, but you actually want a ton of blue light early in the day and throughout the day. So don't worry your Blue Blockers then, or maybe if you don't wear them at all. And at night, it doesn't matter if you're a blue Blockers on. If the lights are bright enough, then you're still going to be activating these cells and mechanisms. I just want to add something since about the science behind the blue blocker confusion. 
+2  
+00:14:00
+So these melanopsin retinal cells do it 
+1  
+00:14:03
+React to blue light. That that is the best stimulus for one of these melanopsin cells, which lead to the belief that blue blockers would be a good thing for preventing resetting of the circadian clock at night and deleterious effects of screens, et cetera. However, the people that made these products fail to actually read the papers to start to finish, or if they did, they didn't comprehend a critical element, which is that most of those papers early on took those neurons out and put them in a dish. And when they did that, they divorced those neurons from their natural connections in the eye. It turns out in your eye MII right now, because that's what we care about. These cells exists and the cells respond to blue light, but also to other wavelengths of light because they not only respond directly to Light as they do in a dish, they also respond to input from photoreceptors. 
+1  
+00:14:55
+So if you talk to anyone in the circadian biology field, they'll tell you, Oh yeah, this blue light thing is really gotten out of control because people assume that blue light is the culprit because blue light is the best stimulus. That doesn't mean that blue light is the only stimulus that will trigger these cells. Okay. So like many things as a scientific paper, it can be accurate without being exhaustive. And a lot of claims about products can be accurate, but not exhaustive. So blue light during the day is great. Get that screen light, get that sunlight, especially getting the overhead lights to talk about all this in the previous podcast. But at night you really want to avoid those bright lights. And it doesn't matter if it's blue light or something else. And so there was a real confusion about The the papers and, and the data when most of those product recommendations were made. 
+1  
+00:15:41
+Okay. While we're on that topic, let's talk about Light. In other orifices of the body, I made kind of a joke about this, the last podcast episode, but a couple of people wrote to me and said, well, I've seen some claims that Light delivered to the ears into the ears or the roof of the mouth or up the nose can be beneficial for some setting circadian rhythms, you know, not directly anyway. And this is a great opportunity for us to distinguish between what is commonly called the placebo effect, but a more important way to think about any manipulation behavioral or otherwise you might do is the difference between modulation and mediation. 
+1  
+00:16:22
+There are a lot of things that will modulating your biology, putting a couple of lights up your nose, please don't do this. Might modulating your biology by way of the stress hormone that's released. When you stuffed those things up your nose. Remember earlier a previous podcast, I said that virtually anything will face shifts your circadian rhythm if it's different and dramatic enough. So it, the question is, is that the Light delivered up the no's or through the IRRs or some other orifice that's mediating the processes. Is it actually tapping into the natural biology of the system that you're trying to manipulate? And this is where I like to distinguish between real biology and hacks. I don't like the word hack or frankly, neuro hacking or biohacking. 
+1  
+00:17:05
+I just don't like the term because I hack is, is using something for it, a purpose for which it was not intended. Right. But when you can kind of, it, it's a kind of a cheat and that's not how biology works well. So I try and distinguish between things that really mediate biological processes and things that ModuLite them. There are a number of, of commercial products out there with some studies attached to them, claiming that Light delivered to the IRRs or wherever it can adjust your wakefulness or adjust Your Sleep, I've looked at those papers again, you know, I'm probably gonna lose some friends by saying this, but maybe I'll gain a few as well. Not blue ribbon journals, frankly, oftentimes read the small print. 
+1  
+00:17:45
+There was a conflict of interest clause there related to commercial interest. If somebody disagrees with me outright on this and can send to me a peer reviewed paper, published in a quality journal about Light delivered anywhere, but the eyes of humans that can mediate circadian, rhythms, wakefulness, et cetera, I'm more than happy to take a look at that and change my w words in stance on this and do it publicly, of course. But until then, you know, I'm guessing that the proper controls we're not done of adjusting for heat that could be delivered, which can definitely shift circadian rhythms. We're gonna talk about Temperature and other things like that. So Light to the eyes folks is where these Light effects work in humans in other animals. 
+1  
+00:18:27
+They have extra ocular Photo reception in humans. No, and just be mindful. I mean, I'm not trying to encourage people to avoid certain products in particular, but just be mindful of this difference between modulation and Mo and mediation and media, a mediating, you know, as a process through a hardwired or a long-standing biological mechanism is really where you're going to see the powerful effects over time. I also, as you've probably noticed, I really tend to favor behavioral tools and zero cost tools first. And getting those dialed in before you start, you know, plugging and plugging in and swallowing and, you know, putting things in various places, I'm just to really figure out how your biology works and explore that unless there's of course a clinical need to take a, a, a prescribed drug, in which case, by all means listened to your doctor. 
+1  
+00:19:15
+Okay. A huge number of people asked me about what about Light through Windows. And I actually did an Instagram post about this look, setting your circadian clock with sunlight, coming through a window is going to take 50 to a hundred times longer. If you want the date on that, I'll be happy to send you to the various papers that were described in the previous Podcast that Jamie's ICER from Stanford. And I have discussed also elsewhere, but here's really the key thing with us. Do the Experiment. You can download the free app Light meter. You can have a bright day outside or some sunlight hold up that app, take a picture. It will tell you how many locks now, you know how it looks, Are it we'll tell you how many Lux or in that environment now close the window. 
+1  
+00:19:59
+And if you want close the screen or don't open the screen, you can do all sorts of Experiment. And you'll see that it will at least half the amount of looks and it doesn't scale linearly, meaning let's say I get a 10,000 Lux outside 5,000 looking out through an open window. And then I closed the window and its 2,500 Lux. It does not mean that you just need to view that sunlight for twice as long if it's half as many lucks. Okay. It does not like 25, a hundred Lux means you need to look for 10 minutes and 5,000 Lux means you look for five minutes. It doesn't scale that way just because of the biology doesn't work. That way. Best thing to do is to get outside. If you can, if you can't. 
+1  
+00:20:39
+Next best thing to do is to keep that window open. It is perfectly fine to wear prescription lenses and contacts. Why is okay to wear prescription lenses and contacts when those are glass also, but looking through a window, diminishes the effect. Well, we should think about this. The Lenses that you wear in front of your eyes by prescription or on your eyes are designed to Focus the light onto your neural retina. In fact, that's what near-sightedness is, is, is when the image, because your lens doesn't work quite right. The image falls in front of the neural retina wearing a particular lens in front of that focus as the lens onto your retina onto these very neurons. So they can communicate that to the brain. It's not Costello is loving this a lot and he's deep and Sleep and if we, maybe we could play him some tones and he'll remember it later, based on the studies that we're going to talk about it in a little bit. 
+1  
+00:21:30
+I don't know how we'd know if you remembered it or not, but prescription lenses are fine. In fact, they're great for this reason, they're actually focusing the Light on to the retina. So think about this logically and all of a sudden it makes perfect sense your glass window or your windshield or the side window of your car. It isn't a, it isn't optically a perfect to bring the image and the Light onto your retina or in fact what its doing. Is it scattering and filtering Light in particular, the wavelengths of light that you want. So if you live in a low light environment, a lots of questions about this. We talked about this in a previous podcast, but just to get outside for a longer or, and, or use really bright lights inside. 
+1  
+00:22:12
+Okay. So let's think about why I'm making some of these recommendations because I think it can really empower you with the ability to change your behavior in terms of Light viewing and other things, depending on time of year, depending on other lifestyle factors. The important point to understand is that early in the day, your central circadian clocks and all these mechanisms are looking for a lot of Light. I mean, they don't have a mind of their own, but it needs a lot of light to trigger this daytime signal, alertness, et cetera, and early in the day, but not in the middle of the day, you can some or add photons. 
+1  
+00:22:53
+So there's this brief period of time early in the day when the sun has low in the sky, when your brain and body or expecting a morning, wake up signal where let's say, it's not that bright outside. Someone sent me a picture or a little movie of their walk in England, and it was pretty overcast and they were using Light meter. And they said, it's only about 700 Lux or maybe even less. And I said, well, stay outside longer. But when you get inside, turn on the lights, really bright and overhead lights in particular, because those will be best for stimulating these mechanisms. And that's because at least for the first few hours of the day, you can continue to some or add photon activation of the cells in the eye. 
+1  
+00:23:33
+And the Brain in the middle of the day. Once the sun is overhead, or even if you stay inside all day, all morning, and then you're in the circadian dead zone, which sounds terrible. And it is terrible. You are, doesn't matter if you get a ton of artificial light or even sunlight, you're not going to shift your circadian clock. You're not going to get that wake up signal. And then in the evening, you want to think about this whole system as being vulnerable too, even a few photons of light because of their sensitivity to light really goes up at night. And I talked last time about how you can protect against that sensitivity by looking at the setting sun and watching the evening sun, even if it's not crossing the horizon around the time of sunset. 
+1  
+00:24:15
+And that's because it adjusts your retinal sensitivity and your Melatonin pathway. So that light is not as detrimental to Melatonin at night. Thinking about the afternoon sunlight viewing as kind of a, I think of it as kind of a Netflix Inoculation. It allows me to watch a little bit of a Netflix in the evening, although its very hard to watch a little bit of anything on Netflix it seems like there's some other neuro biological process that goes on on there where I have to watch episode after episode after episode. But you know, 
+3  
+00:24:42
+In the case you can protect yourself against some of that Bad 
+1  
+00:24:47
+Is that effect of late at night by looking at Lite in the evening, it really does adjust down the sensitivity of the system. Okay. I want to talk about seasonal changes in all these things as they relate to mood and a Metabolism. So depending on where you are in the world, Northern hemisphere, Southern hemisphere at the equator or closer to the poles, the days the nights are going to be different lengths. 
+3  
+00:25:10
+That just makes sense. 
+1  
+00:25:12
+But that translates to real biological signals that impact everything from wakefulness and sleep times, but also mood and Metabolism. So here's how this works. Now, after seeing the previous episode of the podcast and paying attention here, you are armed with the knowledge to really understand how it is that believe it or not, every cell in your body is tuned to the movement of the Planet relative to the sun. So as all of you know, the earth spins once every 24 hours on its axis. So part of that day were bathed in sunlight, depending on where we are the other half of the day or a part of the day we are in darkness. The earth also travels around the sun 365 days is the time that it takes one year to travel around that sun. 
+3  
+00:26:00
+The earth is tilted. It's not perfectly upright. So that is 
+1  
+00:26:05
+Earth is tilted on its axis. So depending on where we are in that 365 to eight day journey, and depending on where we are in terms of hemisphere, Northern hemisphere, Southern hemisphere, some days of the year are longer than others. Some are a very short some or a very long. If you have to at the equator, you experienced less variation in day length and therefore nightlife. And if your closer to the polls, you're going to experience a very long days. And you're also going to experience some very short days depending on which poll you're at and what time of year it is the simple way to put this as depending on time of year, the days are either getting shorter or getting longer. Now every cell in your adjusts, its biology, according to day length, except your brain, body and cells don't actually know anything about daily. 
+1  
+00:26:53
+It only knows nightlife. And here's how it works. Light inhibits Melatonin powerfully if days are long and getting longer, that means Melatonin is reduced. The total amount of Melatonin is less because Light is more, therefore Melatonin is less. If days are getting shorter, Light can't inhibit Melatonin as much through the summing of photon mechanisms that we talked about before and that Melatonin signal is getting longer. So every cell in your body actually knows as external day length and therefore time of year by way of the duration of the Melatonin signal. 
+1  
+00:27:37
+And in general, it's fair to say that in diurnal animals, Meaning animals like us, that tend to be awake during the day time and not nocturnal animals, which tend to be awake at night. The longer the Melatonin signal, the more depressed, not necessarily clinically depressed, although that can happen, but the more depressed our systems tend to be reproduction. Metabolism mood, turnover, rates of skin cells and hair cells all tend to be diminished compared to the spring and summer months for some Northern hemisphere spring and summer months or the times in which days are very long. 
+1  
+00:28:17
+And there's less melatonin that tends to in almost all animals, including humans, more Breeding more hormone elevation of the hormones that stimulate Breeding reproduction and, and, and fertility Metabolism is Up lipid Metabolism fat. Burning is Up protein synthesis is Up. These things tend to correlate with the seasons. Now some people are very, very strongly tied to the seasons. They get depressed clinically depressed in winter and Light therapies are very useful for those people. Some people love the winter and they're happiest in winter and they feel kind of depressed in summer. Although that is far more rare. That doesn't mean depression cannot exist in the summer, but when we're talking about seasonal depression, that tends to be true. 
+1  
+00:29:04
+It's more depression in winter. Now there's other things that correlate with seasonality suicide rates tend to be highest in the spring, not in the winter, but that has to do with some of the, a more complicated and unfortunately, unfortunately, tragic aspects of suicide, which is that oftentimes people will commit suicide, not at the, at the very depths of their energy levels, but as they're emerging from those depths of low energy. So we'll talk about suicidality and, and mood disorders in a later podcast. Season Meaning a month later, but for now, just understand that everybody is going through these fluctuations, depending on the duration of the Melatonin signal. 
+1  
+00:29:44
+Now this might lead you to say, well, then I should just really get as much light as I can all the time and reduce Melatonin feel great all the time. Unfortunately, doesn't work that way because Melatonin also has important effects on the immune system. It has important effects on transmitter systems and the brain, et cetera. So everybody needs to figure out for themselves how much Light they need earlier in the day and how much light they need to avoid late in the day in order to optimize their mood and Metabolism, and there is no one size fits all prescription because there's a range of Melatonin receptors. There are a range of, of, of everything from metabolic types to genetic histories, family histories, etc. 
+1  
+00:30:29
+There is no one size fits all prescription, but by understanding that Light an extended day length inhibit Melatonin and Melatonin tense to be associated with a more depressed or reduced functioning of these kinds of activity driving and a mood elevating signals and understanding that you have some control over Melatonin by way of Light including sunlight, but also artificial light that should empower you. I believe, to make the adjustments that if your feeling Lowe, 
+3  
+00:30:57
+You might ask how much 
+1  
+00:30:59
+Light am I getting? When am I getting that? Light because sleep is also important for restoring mood, right? So you need sleep. You can't just, you know, just crush melatonin across the board and expect to feel good because then you're not going to fall asleep and stay asleep. Melatonin not incidentally comes from is synthesized from Serotonin. Serotonin is a neurotransmitter that is associated with feelings of wellbeing provided or is it proper levels, but wellbeing of a particular kind or wellbeing associated with quiescence and calm and the feeling that we have enough resources in our immediate kind of conditions is the kind of thing that comes from a good meal or sitting down with friends or holding a loved one or conversing with somebody that you really bond with Serotonin does not stimulate action. 
+1  
+00:31:50
+It tends to stimulate stillness very different than the neuromodulator dopamine, which is a reward feel good. Neuromodulator that stimulates action. And actually dopamine is the precursor to Epinephrine to Adrenaline, which actually puts us into action there, or it's actually made from dopamine, 
+3  
+00:32:10
+Right? So 
+1  
+00:32:12
+You can start to think about light as a signal that is very powerful for modulating things like sleep and wakefulness, but also Serotonin levels Melatonin levels. And I talked about this previously, but I'll mention once more that Light in the middle of the night reduces dopamine levels to the point where it can start causing problems with learning and memory and mood. That's one powerful reason to avoid bright light in the middle of the night. 
+3  
+00:32:37
+Okay. Seasonal rhythms 
+1  
+00:32:40
+Have a number of effects, but humans are not purely seasonal breeders. Unlike a lot of animals, we breed all year long. In fact, I'm, you know, there's a, a, a preponderance of September babies in my life and not actual babies we build they're born in September, which means that they were conceived in December I without knowing the details. We can fairly assume that umm, and December, at least in the Northern hemisphere at T days tend to be shorter and you know, nights tend to be longer. So clearly humans aren't seasonal breeders, but there are shifts in, in breeding and fertility that exist in humans, but also much more strongly in other animals. So seasonal effects of airy. Some of you will experience very strong, seasonal effects. 
+1  
+00:33:21
+Others of you will not. I think everybody should be taking care to get adequate sunlight and to avoid bright light at night throughout the year, if possible, throughout this podcast. And in previous episodes I've been mentioning neuromodulators things like serotonin and dopamine, which tend to by a certain brain circuits and things in our body to happen in certain brain circuits and things in our body not to happen. One of the ones I've mentioned numerous times is epinephrin, which is a neuromodulator that tends to put us into action, make us want to move. In fact, when it's released in high amounts in our brain and body, it can lead to what we call stress or the feeling of being stressed. 
+1  
+00:34:01
+Several people asked me what's the difference between epinephrin and adrenaline. Adrenaline is secreted from the adrenal glands, which sit right above our kidneys epinephrin is the exact same molecule, except that it's released within the brain. And so people use these phrases are these words rather interchangeably epi means NIR or on top of sometimes and Neff Neff. Anytime you see nephron or For it means kidney. So it means near the kidney. So Epinephrine actually means near the kidney. So it was used originally to describe Adrenaline, but Epinephrine and Adrenaline or basically the same thing and they get to stimulate agitation in the desire to move. 
+1  
+00:34:42
+That's what that's about, which brings us to the topic of exercise, got a lot of questions about Exercise. What forms of exercise are best for sleeping? Well, when should I exercise, et 
+3  
+00:34:54
+Cetera, there's 
+1  
+00:34:57
+A lot of individual variability around this, but I can talk about what I know from the science literature and what I happened to do myself. There are basically two forms of exercise that we can talk about. Although, of course I realized there are many different forms of exercises, much more nuanced to this, but we can talk about cardiovascular exercise where the idea is to repeat a movement over and over and over continuously. So that would be like running biking, growing in the cycling, this kind of thing, or there's a resistance exercise where you're moving, lifting, presumably putting down also things of progressively heavier and heavier weight that you couldn't do continuously For for 30 minutes. 
+1  
+00:35:39
+So cardiovascular exercise is typically the more aerobic type exercise and resistance exercise of course is the more anaerobic type exercise. And yes, there's variation between the two. Most studies of Exercise have looked at aerobic exercise because that's basically the thing that you can get a rat or a mouse to do. You know, what's really weird about rats and mice. They like to run on wheels so much that someone actually did this study was published in science. They put a wheel, a running wheel in the middle of a field in mice, ran to that wheel and ran on the wheel. They turns out that what they like is the passage of the visual image of the bars in front of their face, which I find kind of a remarkable and troubling because it seems so like trivial, but anyway, they love a aerobic exercise. 
+1  
+00:36:27
+And so most of the studies were done on these mice that love running on wheels. Whereas so far as it's been challenging to find conditions in which mice really liked to lift weights or will do it in a laboratory. So any weight bearing exercise studies really have to be done in humans. And since humans are what we're interested in, there are some studies looking at these two things and when they tend to work best, now you will see some places. The aerobic exercise is the best one in the morning in weight training as best down in the afternoon. I think there's far more individual variation than that. I think there are however, a couple of Windows that the exercise science literature and the circadian literature points to as Windows related to body Temperature in which performance injury in which performance is Optimize injury is reduced and so on. 
+1  
+00:37:20
+And those tend to be 30 minutes after waking. And that probably correlates with the inflection in cortisol associated with waking whether or not you've got in late or not three hours after Waking, which probably correlates to the rise in body temperature sometime right around Waking. And the later afternoon, usually 11 hours after Waking, which is when Temperature tends to peak. So some people like to exercise in the morning, some people like to exercise in the afternoon. It really depends. I think for those of us with very busy schedules, it's a advantageous to be able to, to, to do your training, whenever you have the opportunity to do it, unless you can really control your schedule. 
+1  
+00:38:01
+And so I would never want these recommendations to seem like recommendations. What I'm really describing is some opportunities 30 minutes after Waking three hours after Waking or 11 hours after Waking has been shown, at least in some studies to optimize performance, reduce injury and that sort of thing. But you really have to figure out what works for you. A note about working out first thing in the morning. Last time we talked about non-photo phase shifts. If you exercise first thing in the morning, your body will start to develop an anticipatory circuit. There is actually plasticity in the circadian circuits that will lead you to want to wake up at the particular time that you Exercise the previous three or four days. So that can be a powerful tool, but you still want to get Light exposure because it turns out that Light and Exercise converged to give you an even bigger wake up signal to the brain and body. 
+1  
+00:38:52
+You might want to think about that. Some people find if they Exercise late in the day, they have trouble sleeping in general, intense Exercise does that, whereas the kind of lower intensity exercise doesn't I found some interesting literature that talked about sleep need and Exercise I found this fascinating that if one is Waking not feeling rested and recovered from, and yet sleeping the same amount that they typically have, it's quite possible that the intensity of exercise in the preceding two or three days is too high. Whereas if one can't recover, no matter how much sleep they get, they're just sleepy all the time to realize these things are correlated, that the volume of training might be too high. 
+1  
+00:39:39
+Now I'm not an exercise scientist. We should probably get Andy Galpin or somebody else on here. Who's really an expert in this kind of stuff. I do realize that as soon as anyone talks about exercise and nutrition publicly, they're basically opening themselves up to all sorts of challenges because you can basically find support for almost any protocol in the literature. What I've looked at was a To journals in particular international journal chronobiology and, and journal biological rhythms. Excuse me, to, to assess these parameters that I I've mentioned is just a moment ago because the studies tended to be done in humans. They were fairly recent and they came from groups that I recognized as well as a knowing that those journals are peer reviewed. 
+1  
+00:40:24
+Many of your questions were about Neuroplasticity, which is the brain and nervous system's ability to change. In response to experience, there was a question that asked whether or not these really deep biological mechanisms around wakefulness time of Waking Sleep, et cetera, were subject to Neuroplasticity. And indeed they are. Some of that plasticity is short term in some of it is more long-term. There is a really good analogy here, which has, if you happened to eat on a very tight schedule where every day say it, 8:00 AM noon and 7:00 PM is when you eat your food, not suggesting you do this, but let's say you were to do that for a couple days. 
+1  
+00:41:05
+After a few days, you would start to anticipate those meal times were no matter where you were in the world, no matter what was going on in your life, about five to 10 minutes before those mealtimes, you would start to feel hungry and even a little agitated, which is your body's way of trying to get you to forage for food. And that's because of some peptide signals that come from the periphery from your body, things like hypocretin, orexin that signal to hypothalamus and brainstem to make U active and alert and, and look for food and feel hungry. So there's kind of an anticipatory circuit. That's a chemical circuit, but eventually over time, the neurons, the neural circuits that control hypocretin orexin would get tuned to the neural circuits that are involved in eating and maybe even smell and taste to create a kind of a Eating circuit. 
+1  
+00:41:56
+That's unique to your pattern. Two, your rhythms at the same thing is true for these Waking and Exercise and other schedules, including all trade-in schedules. If you wake up in the morning and start getting your sunlight, you start exercising in the morning or you exercise in the afternoon. Pretty soon in your body will start to anticipate that and start to secrete hormones and other signals that prepare your body for the ensuing activity of waking up or going to sleep. So if you get on to a pattern or a rhythm, even if that rhythm isn't down to the minute, you'll find that there's plasticity in the circuits in, it becomes easier to wake up early. If that's your thing or exercise at a particular day, if that's your thing, that's the beauty of neuroplasticity. 
+1  
+00:42:42
+A number of people asked me, what can I do to increase plasticity? And that really comes in two forms. There's plasticity that we can access in Sleep to improve rates of learning and depth of learning from the previous day or so. And there's this NSDR non Sleep deep breaths that can be done without sleeping, to improve rates of learning and depth of retention, et cetera. So let's consider the, those both, and you can incorporate these protocols. If you like. Again, these are based on quality peer reviewed studies. First, let's talk about Learning in Sleep. This is based on some work that you provide. The reference for that was published in the journal. 
+1  
+00:43:22
+Science excellent journal, Matt Walker. He also talks about some of these studies done by others in his book, why we sleep the studies just to remind you our structured, the following way, and individual is brought into a laboratory. Look does a spatial memory task. So there tends to be a screen with a bunch of different objects popping up on the screen in different locations. So it might be a Bulldog's face that might be a cat, and it might be an Apple than it might be a pen in different locations. And that sounds trivial easy. But with time you can imagine it gets pretty tough to come back a day later. And remember, if something presented in a given location was something you've seen before and whether or not it was presented and that location or a different location, if you had enough objects in change, the locations enough, this can actually be quite difficult in this study. 
+1  
+00:44:11
+The subjects either just went through the, the Experiment or a particular odor was released into the room while they were learning, or a tone was played in the room while they were learning. And then during the Sleep of those subjects, the following night and the following night, this was done repeatedly for several nights, 
+4  
+00:44:34
+Its the same odor or tone 
+1  
+00:44:38
+Was played while the subjects were sleeping. 
+4  
+00:44:41
+I did this in here 
+1  
+00:44:42
+For, in stages of sleep, non REM sleep and rapid eye movement, sleep REM sleep. They did this with just the tone in Sleep if they, if the subjects had The 
+4  
+00:44:52
+Odor, but not the tone they had, they did it with it, putting the tone if they had had The 
+1  
+00:44:57
+Odor while learning. So basically all the Controls, all the things you'd want to see done to make sure that it wasn't some indirect effects of modulatory effect. Okay. And what they found was that providing the same stimulus, the odor, if they smelled an odor or a tone, if the subjects heard a tone while learning, if they just delivered that odor or tone, while the subject slept rates of learning and retention of information was significantly greater. This is pretty cool. What this means that you can cue the subconscious brain, the asleep brain to learn particular things better and faster. So how might you implement this? 
+1  
+00:45:37
+Well, you could play with this if you want. I don't see any real challenges to this provided the odor and a is a safe one and that it doesn't wake you up in the tone is a safe, a safe one. And doesn't wake you up. You could do this by having a metronome, for instance, well I'm learning something playing in the background or a particular music and then have that very faintly while you sleep. So you could apply this if you like and try this. There are a number of groups I think now that are trying this Using tactile stimulation. So it was a slight vibration on the wrist during Learning and then the same vibration on the wrist during sleep. It does not appear that the sensory modality, whether or not it's odor or auditory tone or a tactile stimulation, some of the sensory stimulation it, whether or not it matters. 
+1  
+00:46:22
+It's remarkable because it really shows that Sleep as an extension of the waking state, we've known that for a long time, but at this really tethers those to in a very meaningful and actionable way. So I think I'll report back to you as I learned more about these studies, but that's, that's what I know about them at this point. As long as we're there, we might as well talk about dreaming. Cause I got so many questions about dream's a couple of it. We want to ask me what their dreams meant. Look, I don't even know what my dreams mean half the time I occasionally will wake up from a dream and remember it. If you want to remember your dreams better. If you're somebody who has a challenge is Remembering your dreams. You can set your alarms that you wake up in the middle of one of these 90 minute cycles, which toward Morning tend to be occupied almost exclusively by REM sleep. 
+1  
+00:47:06
+Remember early in the Knight, you have less REM sleep and later in the night, but you want to get as much sleep as you can coz that's healthy. So I didn't know that you want to wake yourself up. Some people find that writing down their thoughts immediately. First thing in the morning allows them to relator spontaneously. Remember the dream they had. There is some literature on that. The Meaning of dreams is a little bit controversial. Some people believe they have a strong Meaning. Other people believe that they can be just spontaneous firing of neurons that were active. In the waking state and don't have any Meaning. There are a good data to show that when you Learn spatial new spatial environments, that there's a replay of those environments, the so-called play cell's that fire in your brain. 
+1  
+00:47:51
+Only when you enter a particular environment that those are replayed in Sleep in almost direct fashion to the way that things were activated. When you were learning that special task dreams are fascinating there, you know, we're Paralyzed during dreams, which brings us to another question. Somebody asked about sleep paralysis. We, our Paralyzed for much of our Sleep so-called <inaudible> so presumably, so we don't act out our dreams. Some people wake up and they're still Paralyzed. I've actually had this happen to me, not very many times, but a few times. And then they jolt themselves awake and in actually is quite terrifying. I can say from personal experience to wake up, be wide awake and you cannot move your body at all. 
+1  
+00:48:33
+It's really quite frightening. There are a couple things that we'll increase the intrusion of a Tonia into the wakeful state, which is essentially means you're waking up, but you can't, you can't move. One is marijuana, THC, a I'm not a marijuana smoker. I'm not a, a copper, I don't know the legality where you live. So I'm not saying one thing or another about marijuana. I'm just the fact that I had that experience without marijuana means that it can happen regardless, but marijuana smokers, for whatever reason, maybe it has something to do with the cannabinoid receptors or the serotonin receptors downstream of the motor pathways. I don't know. I couldn't find any literature on this, but marijuana smokers report, higher frequency of this kind of paralysis and wakefulness. 
+1  
+00:49:19
+Oh, as you transition from sleep to wakefulness, I suppose probably one could learn to get comfortable with it. For me, it was terrifying because I'm just used to be able to move my limbs fortunately, and I wasn't able to, and it it's quite a, a quite a thing. Let me tell you, okay, some other questions about Neuroplasticity. So the other form of Neuroplasticity is not the Neuroplasticity that you're amplifying by listening to tones or smelling odors and Sleep, but the Neuroplasticity that you can access with non Sleep deep rest. So NSDR a non Sleep deep rest as well as short 20 minute naps, which are very close to non Sleep deep rest because people rarely drop into deep States of sleep during short naps, unless they're very sleep deprived, NSDR has been shown to increase rates of learning when done for 20 minute bouts for a proxy to match an approximately 90 minute bout of Learning. 
+1  
+00:50:20
+So what am I talking about? 90 minute cycles or these ultradian cycles that I've talked about previously? And we tend to very well by taking a 90 minute cycle transitioning into some Focus mode early in the cycle when it's hard to focus and then deep focus and Learning feels almost like agitation and strain. And then by the end of that 90 minute cycle becomes very hard to maintain, focus and learn more information. There is a study published in cell reports last year. Great journal, excellent paper showing that 20 minute naps or Lights Sleep have a sort of non Sleep deep rest taken immediately after where close to it. 
+1  
+00:51:01
+Doesn't have to be immediately after you finished the last sentence of Learning or whatever it is or, or a bar of music. But you know, a couple of minutes after transitioning to a period of, of non Sleep deep rest, where you are turning off the analysis of duration path and outcome has been shown to accelerate, learning to a significant degree, both the amount of information and the retention of that information. So that's pretty cool. 'cause this is a cost-free drug-free way of accelerating learning without having to get more Sleep. But simply by introducing these 20 minute bouts, I would encourage people if they want to try this to consider the 20 minutes per every 90 minutes of old tradie and Learning cycle. 
+1  
+00:51:42
+There you are incorporating in a number of different neuroscience backed tools, 90 minute cycles for focused learning. It could be motor, it could be cognitive can be musical or whatever, and then transition to a 20 minute non Sleep deep rest protocol. Just want a cue to the fact that in last episode, in the caption on YouTube, we provided links to, to Different yoga nidra, non Sleep deep rest protocol's as well as hypnosis protocols that are clinically backed from my colleague, David Spiegel at Stanford psychiatry department, all those resources are free. There are also a lot of other hypnosis scripts out there. I like the one's from Michael Sealey, N S E a L. 
+1  
+00:52:23
+I think it's EYL or maybe it's just L Y you can find them easily on YouTube clinical hypnosis scripts. Meaning not stage hypnosis. There are not designed to get you to do anything. In fact, they're just designed to help rewire your brain circuitry. Now, how does hypnosis work that way? It says a lot to do with sleep because it engages Neuroplasticity by bringing together to things that normally are separate from one another one is the alert focused wakeful state, where you activate the Learning and then there's the deep rest where the actual reconfiguration of the neurons and synopsis takes place. Hypnosis brings both the, the focus and the deep rest component into the same compartment of time. 
+1  
+00:53:03
+It's a very unique state in that way. So hypnosis kind of maximizes the Learning bout and the non Sleep deep breaths out and combines them. But of course that requires some guidance from a script or from a hypnotist clinically, a trained hypnotist, and it becomes hard to acquire detailed information. It's more about shifts in a state like fear to a state of calm or smoking to quitting smoking anxiety around a trauma to release of anxiety around a trauma rather than specific information learned in hypnosis. Okay. So hypnosis seems more about modulating the circuit's that underlie state, as opposed to specific information. 
+1  
+00:53:46
+Although I would not be surprised if there weren't certain forms of hypnosis that could increase retention and Learning of specific information, but I'm not aware of any of those protocols out there yet, which brings us to the next thing about learning and plasticity, which is nootropics, AKA Smart Drugs. Ah, this is a big topic that sigh was at a sigh of concern about how to address nootropics in a, a thorough enough, but thoughtful enough way. Look, I have a lot of thoughts about nootropics. First of all, it means Smart Drugs I believe, and I don't like that phrase because let's just take a step back and think about Exercise or do you say I want to be more physically fit? 
+1  
+00:54:31
+What does that mean? Does it mean I would ask for more specificity, I'd say, do you want to be stronger? Okay. Maybe you need to lift heavier objects. Progressively. Do you want more endurance, very different protocol to access endurance. Do you want flexibility? Do you want explosiveness or suppleness huge range of things that we call physical fitness? Maybe you want all of those. If we were talking about emotional fitness, we would say, well, in the ability to feel empathy, but probably also to disengage from empathy, because you don't want to be tethered to other people's emotions all the time. That's not healthy either. You would think about being able to access a range of emotions, but for some people, their range into the sadness regime is really quite vast, but their range into the happiness regime might be kind of limited for other people who were in a manic state. 
+1  
+00:55:19
+It might be that they can access all the happy stuff, but not the sadder stuff. So, you know, speaking by way of analogy here. But if we say, you know, we're talking about cognitive and you know, cognitive abilities, we have to ask, okay, creativity, memory, you know, we tend to associate intelligence with memory. I think this goes back to like spelling bees or something, the ability to retain a lot of information and just regurgitate information will, which we'll get you some distance in some, some disciplines of life, but it won't allow you creative thinking it's necessary for creative thinking. You need a knowledge base, right? You can't just look up everything on Google, despite what, you know, certain educators or so-called educators say, you need a database so that you have the raw materials with which to be creative, so necessary to have memory, but not sufficient to be creative, right? 
+1  
+00:56:12
+The creative could have a poor memory for certain things, but certainly not for everything. They can't have anterograde and retrograde amnesia. They'd be like with the goldfish that every time around the tank, it a, you know, I can't remember where it's at. I actually don't know that they've ever done that. Experiment by the way, but so no disrespect to a goldfish, but you know, so you get the idea, you got creativity, you have a memory, you have the ability of tasks switch, right? You have the ability to this strategy development strategy implement. So the problem I have with the concept of a nootropic or a smart drug is it's not specific as to what cognitive algorithm, your trying to engage. We need more specificity that said there are elements to Learning that we've discussed here before that are very concrete things like the ability to Focus and put the blinders on to everything else that's happening in, around you in, in your head, mainly write distractions about things that you should be doing or could be doing, or I might be doing and focused on what you need to do. 
+1  
+00:57:14
+And then that's required for a triggering that the acetylcholine, not a neuromodulator that will then allow you to highlight the particular synapsis that will then later change in Sleep. So no nootropic allows you to bypass the need for sleep and deep rest. That's important to understand. So I daydream about a day when people will be able to access compounds that are safe, that will allow them to learn better, meaning to access information, focus better, as well as to sleep better and activate the plasticity from the Learning bout right now, most nootropics tend to bundle a bunch of things together. 
+1  
+00:57:55
+Most of them include some form of stimulant caffeine. Episode To. I tell you more probably than you ever wanted to know about caffeine adenosine and how that works. So refer there for how caffeine works, but stimulants will allow you to increase, focus up to a particular point. If you have too little alertness in your system, you can't focus too much. However, you start to Clif and focus drifts. Okay? So you can't just ingest more stimulant to be more focused. It doesn't work that way. Most neutral pics also include things that increase or a design to increase acetycholine things like alpha GPC and other things of that sort. And indeed there's some evidence that they can increase acetylcholine or refer you again to examine.com the website, to evaluate any supplements or compounds for their safety and they're effects in humans and animals, free website, as well as with links to studies. 
+1  
+00:58:49
+So we need to focus component. We need the alertness component. The alertness component comes from Epinephrine traditionally from caffeine stimulation. The acetycholine stimulation. Traditionally comes from Coleen donor's or alpha GPC or things of that sort. And then you would want to have some sort of off switch, because anything that's going to really stimulate your alertness that then provides a crash. That crash is not a crash into the deep kind of restful slumber that you would want for Learning it's a crash into the kind of let's just call it lop-sided Sleep meaning it's a deep sleep, but it lacks certain spindles and other elements of the physiology sleep spindles that that really engage the Learning process and the reconfiguration of synopsis. 
+1  
+00:59:35
+So right now, my stance on nootropics is that may be maybe for occasional use for provided it safe for you. I'm not recommending it, but in general, it tends to use more of a shotgun approach then is probably going to be useful for learning and memory in the long run. A lot of people asked about Modafinil or armodafinil, which was designed for treatment of narcolepsy. So right there, it tells you it's a stimulant and yes, there is evidence. It will improve learning and memory. Modafinil is a very expensive last time I checked our Modafinil, I think is the most recent release, a generic version of this that's far less expensive. Most of these things look a lot like amphetamine and many of them have a, the potential for addiction, uhm, or can be habit forming. 
+1  
+01:00:24
+But more importantly, a lot of those things also can create metabolic effects by disruption, to insulin receptors and so forth. So you want to approach those with a strong sense of caution. Now there are the milder things that act as nootropics that I mentioned, some of them like alpha GPC, some people like Gingko Gingko gives me vicious headaches. So I don't take it. So, you know, people really differ last, the Podcast I recommended Magnesium three and eight. If you are exploring supplements, I am not recommending anything directly. I'm just saying if you're exploring supplements, Magnesium three and eight seems among the magnesiums to be one of the more bio available and useful for Sleep. 
+1  
+01:01:05
+I recommended actually to a good friend of mine. It gave him at very low dose. He had stomach issues with it and you just had to simply stop taking it. So there is variability there. You just, it gave him some stomach cramping and just didn't feel good on it, stopped it. He felt better. Other people take magnesium three and eight and feel great. I was asked, do magnesium need to be taken with or without food daytime before Sleep, if you're going to go that route, it should be taken 30 to 60 minutes before sleep cause its design to make you sleepy. And I'm not aware that it has to be taken with food, but again, all of this has to be run by your doctor. And this is your health care to govern. Not a, these are not strict recommendations. So if you look into it, but magnesium threonate, most people have recommended it to have a benefit from it. 
+1  
+01:01:51
+Tremendously. Some people can't tolerate it so that you have to find out, there were a number of questions about other supplements designed to access deep sleep in part to access to Neuroplasticity. But now I'm just sort of transitioning from Neuroplasticity to these compounds that can regulate Sleep one of them that I discussed at the end of the last podcast that got a lot of questions about it. It's Apigenin API, G E N I N Apigenin. If you look in the literature, the way it works is it increases some of the enzymes associated with GABA. Metabolism it actually GABA's an inhibitory neurotransmitter. It's the neurotransmitter that is increased after a couple of alcohol drinks containing alcohol and that shut down the forebrain Apigenin is a derivative of the Kem a mile. 
+1  
+01:02:37
+I think that the proper pronunciation or this is metric Caria, Kemo, Mila. Although I always feel like I should be using a Spanish accent. Whenever I, whenever I say something like that, other related things that impact the GABA system and increase GABA or things like passion flower, which is a PASI Florida in Canada at the, I don't know why the Italian is that Italian. Anyway, my Italian colleagues, please forgive me. And I have some very close Italian friends and colleagues in Genoa. I butchered the Italian, sorry. In any event Apigenin and passion flower found in a lot of, a lot of supplements designed to increase sleepiness and sleep because, and they work presumably because they increase GABA. 
+1  
+01:03:18
+Actually they work on chloride channels rather than give you a whole lecture on a membrane biophysics in neurons. I'll just say that when neurons are really active it's because sodium ions, salt rushes into the cells and causes them to Fire electrically. The cells tend to become less active as more chloride, which is a negatively charged ion. It was probably taken some of you back to the, either of the wonderful times or traumas of high school physics. The chloride is negatively charged. So it tends to make cells less electrically positive because it carries a negative charge and hyperpolarized as the neuron. So Apigenin works through these increasing the activity, these chloride channels, passionflower In Works by increasing the activity as chloride channels and GABA transmission, it tends to increase this inhibitory neurotransmitter that shuts off our thinking, our analysis of duration path and outcome. 
+1  
+01:04:12
+So if you're going to explore these things, I suggest you at least know how they work. you@leastgotoaexamine.com that you talk to your doctor about them. Some people asked about Serotonin for getting to sleep and staying asleep. Now I understand the rationale here, just like I understand the rationale of taking something like Macuna Purina or L-DOPA to increase dopamine, but sometimes what works on paper doesn't really work in the real world. I personally have tried taking a supplement, which was a trip to fan, which is the precursor to serotonin or five HTP, which is designed to increase what it is. Serotonin basically, you're just a one biochemical step away from actually taking actual Serotonin. 
+1  
+01:04:55
+And I'll be honest, the Sleep that I had, With increased Serotonin by way of tryptophan or five HTP. It was dreadful. I fell asleep almost immediately. You say, well, that's great. And 90 minutes later, I woke up and I couldn't sleep almost for 48 hours. Now that was me. I have a pretty sensitive system to certain things and not the other things. Some people love these things. So you really have to be thoughtful and explore them with kind of awareness of, of being thoughtful and realizing that what works for you may not work for everybody and what works for everybody might not work for you. Okay? I'd like to continue by talking about the role of Temperature in Sleep accessing sleep, staying asleep and wakefulness. 
+1  
+01:05:36
+But first I want to tell a joke, because I think this joke really captures some of the critical things to understand about any Self Experimentation that you might do. So this is a story that was told to me by a colleague of mine who is now a professor at Cal tech, not to be named there's a scientist and there in their lab and their trying to understand how the nervous system works. So they go over to a tank and they pick up a frog and they take the frog and they put it down on the table and they clap. And the frog jumps. So they think for awhile and they pick up the frog, okay. 
+1  
+01:06:16
+And they go over at the cabinet and they take out a little bit of a paralytic drug and they inject it locally into the back leg, set it down and clap. And the frog jumps, but it kind of like jumps to the side a little bit. It pick it up. They inject the paralytic into the other back leg. They clap again, the frog jumps, but it really doesn't jump well that time, it kind of drags itself forward. So they pick it up and they inject the paralytic into the remaining two legs. They set it down and they clap. And the frog doesn't jump and you go, Oh my goodness, the legs are used for hearing. 
+1  
+01:06:59
+Now they publish the paper. Paper comes out in a great journal news releases. It's a really big deal. Their career takes off 20 years later, a really smart graduate student comes along and says, yeah, but that's loss of function. It doesn't really show gain of function. So let's take a closer look. So they repeat the first Experiment it checks out everything happens the same way, but then they take the Frog and they inject a drug into all four legs that turns off the paralytic, right? It's an antagonist. They set the Frog down the clap and the frog shops. 
+1  
+01:07:40
+There you go. Oh my goodness, its true. The legs really are for hearing. Now, first of all, I want to make the point that this is not to illustrate that Science is not a good practice. It is. We need to do a loss of function and gain and function experiments. But just to show that correlation and causation is complicated. You need to do a variety of control experiments, and you really need to figure out what works for you. And so while science can provide answers about what works under very controlled conditions, it doesn't and can never address all the situations in which a given to given practice will or won't work. And its not just individual variability is that there are a number of different factors. 
+1  
+01:08:21
+You all of course know that Light can activate and shift your circadian rhythm. But so it can Exercise so can food. And the last point I want to make is an important one, which is that no frogs we're hurt in the telling of this joke. Okay. So let's continue. I want to talk about Temperature Temperature is super interesting as it relates to circadian rhythms and wakefulness and sleep first, let's take a look at what's happening to our body temperature across each 24 hour cycle. In general, our temperature tends to be lowest right around 4:00 AM and starts creeping up around 6:00 AM, 8:00 AM and peak sometime between 4:00 PM and 6:00 PM. 
+1  
+01:09:05
+Now that varies from person to person, but in general, if we were to continuously monitor or occasionally monitor temperature, that's what we would see now it's interesting is that even in the absence of any Light cues or meal cues, we would have a shift. We would have an oscillation or a rhythm in our Temperature that would go from high to low. This is why the idea that we're all 96.8 and that's Are correct. Temperature for get that. That is no longer true. It never was true. It depends on what time of day you measure temperature. However, there is a range which is within normal range. I think most of us associate fever with somewhere around a hundred, 101, 103 that's concerning. And we will be very concerned of temperature drop too low as well. 
+1  
+01:09:46
+The way that the Temperature rhythm that's indogenous that's within us and rhythmic, no matter what, the way it gets anchored to the pattern I described before of being lowest at 4:00 AM and increasing again around, you know, through the day and until about four to 6:00 PM is by way of in train mint or matching to some external cue, which has almost always going to be light. But also Exercise now you may have experienced this Temperature rhythm and how quickly it can become uninterested or it can fall out of entrainment. Here's an Experiment I wouldn't want you to do, but you've probably experienced this before, where you wake up, it's sunny outside and maybe you have some email or something to take care of or maybe you didn't sleep that well the night before. 
+1  
+01:10:35
+And so you stay in doors, you don't change anything about your breakfast. You don't change anything about your within home Temperature or anything like that. And somewhere right around 10 or 11 o'clock you start feeling kind of chilled like your cold. Well, what happened was the oscillator as the clocks in your various tissues that are governed by Temperature and circadian rhythm, our starting to split away from your central clock mechanisms. So it's actually important that your temperature match daylife. Now there's another way in which Temperature matches or daytime, excuse me. There's also an important way in which Temperature matches day late in general as get longer. It tends to be hotter out. 
+1  
+01:11:15
+Not always, but in general that's the way it is. And as days get shorter, it tends to be colder outside. So Temperature and day length are also linked metabolically. They're linked biologically they're Blue they're linked, excuse me. And atmospherically. They're linked for the reasons that we talked about before, about duration of day length and other climate features and so forth. So one of the most powerful things about setting your circadian rhythm properly is that your temperature will start to fall into a regular rhythm. And that Temperature has a very strong effect on things like Metabolism and when you will feel most willing and interested in exercising, typically the willingness to exercise and engage in any kind of activity mental or physical is going to be when that rise in temperature is steepest. 
+1  
+01:12:03
+When the Slope of that line is greatest. That's why 30 minutes after waking as one of those key Windows as well as three hours after Waking. And then when Temperature actually peaks, which is generally, generally about 11 hours after Waking. So this is why we say that Temperature and circadian rhythm are linked, but they're actually even more linked than that. We've talked before about how Light enters the I triggers activation of these melanopsin cells, which then triggers activation of the super cosmetic nucleus, the master circadian clock. And then I always say the master of circadian clock informs all of the cells and tissues of your body and puts them into a nice cohesive rhythm. But what I've never answered was how it actually puts them into that rhythm. 
+1  
+01:12:46
+And it does it two ways. One is it secretes a peptide, a peptide is just a little protein that floats through the bloodstream and signals to the cells. Okay, we're tuning your clock kind of like little, you know, when the watch store, the, the watch store owner would tune the clocks, but the other way is it synchronizes the temperature under which those cells exist. So Temperature is actually the effector of the circadian rhythm. Now this is really important because changes in temperature by way of Exercise by way of Eating. But especially by way of exercise can start to shift our circadian rhythm pretty dramatically, but let's even go to in a more extreme example nowadays there's some interest in cold showers and ice baths, not everybody is doing this. 
+1  
+01:13:30
+I realize people seem to either love this or hate this. I don't mind the cold dunk thing. I've I get regular about this from time to time and I'll do it. I haven't been doing it recently. It's always painful to do the first couple of times, then you get kinda used to it. However, I've taken people to a cold, Donker an ice bath. I have a family member who wouldn't get In literally passed her toes. She was like, this is just too aversive for me. Some people really like the cold people vary tremendously. Getting into an ice bath is very interesting because you have a rebound increase in thermogenesis. Now you should know from the previous episode that as that temperature increases, it will shift your circadian rhythm and which direction it shifts. Your circadian rhythm will depend on whether or not you're doing it during the day time or late in the day. 
+1  
+01:14:12
+If you do it after 8:00 PM is going to make your day longer, right? Because your body and your central clocks are used to, Temperature going up early in the day and throughout the day and peaking in the afternoon. If you then increase that further or you simply increase it over its baseline at 8:00 PM after Temperature was already falling, even it was just by a half a degree or a couple of degrees, or you do that with Exercise. It doesn't have to be what the ice bath you were extending. You are shifting forward your face, delaying your clock. You're convincing your clock and therefore the rest of your body that the day is still going right. You you're giving it the perception, the cellar and physiological perception that the day is getting longer and you will want to naturally stay up later and wake up later. 
+1  
+01:14:59
+Now you might say, wait, I do an ice bath late at night, and I feel great. And I fall deeply asleep. Well, cold can trigger the release of Melatonin. There's a rebound increase in melatonin. So that could be the because of that. In fact, you have to see what works for you, but if you do the ice bath early in the day and then get out, you will experience a more rapid rise or a cold shower earlier in the day, a more rapid rise in your body temperature that will phase advance your clock and make it easier to get up early the following day. So for those of you that are having trouble getting up, and this is going to almost sound laughable, but a cold shower, first thing in the morning, we'll wake you up. But that is waking you up in the short term because of a different mechanism, which I'll talk about in a moment, but it also is shifting your clock it's phase, advancing your clock in a way that makes you more likely to get up earlier the next day. 
+1  
+01:15:51
+Okay? So in other words, increasing your temperature by getting in an ice bath, which, or a cold shower, which Meh or exercising, which causes a compensatory increase in body temperature. I think about the normal pattern of body temperature low around 4:35 AM, starts to peak right around Waking start, excuse me. It starts to increase right around Waking then steep slope, steep slope to a peak around four to 6:00 PM, and then drops off. If you introduce and increase in body temperature by way of cold exposure early in the day, let's say 6:00 AM or 5:00 AM. If your masochistic enough to get into a cold shower at that time more power to you, it's going to make, you want to wake up about half hour to an hour earlier the next day, then you normally would. 
+1  
+01:16:34
+Whereas if you do it while your temperature is falling, it will tend to delay and make your body perceive as if the day is getting longer. These are phase advances and phase delays. We're going to get into this in far more detailed. When we talked about jet lag in shift, work in Episode for as well as other other things, but Temperature is, again, is not just one tool to manipulate, wake up time in circadian rhythm. And Metabolism, it is the effector. It is the way that the central circadian clock impacts all the cells and tissues of your body. If you want to read further about this, and you're really curious about the role of Temperature worked by Joe Takahashi, who used to be at Northwestern university and is now at UT Southwestern in Dallas, incredible scientists. 
+1  
+01:17:17
+And is it really worked out a lot of the mechanisms around Temperature in circadian rhythms. You can just Google his name, you'll see a, a, a whole bunch of studies there. 
+3  
+01:17:27
+I want to talk about cold 
+1  
+01:17:29
+And cold exposure because there's a great misconception about this that actually you can leverage once you understand, how do you use cold to either increase thermogenesis and fat loss Metabolism or you can use it for stress mitigation and mood. And it really depends on one simple feature of how you approach the ice bath. 
+3  
+01:17:51
+If you get into an ice bath or cold shower, and then, 
+1  
+01:17:54
+And you are calming yourself, you're actively calming the autonomic nervous system. Maybe through some deep breathing, maybe through visualization, maybe you sing a song, you know, people do this stuff, or they use various tools. Some people find paying attention to an external stimulus is more helpful. You know, thinking about something, not the experience of the cold other people find that directly experiencing the cold in its most intense forming, kind of going into the cold quote-unquote is the best way to approach it. It really varies For for people. There is no right or wrong way to go about this, but the goal of using cold exposure for stress inoculation, and to raise your stress threshold, 
+3  
+01:18:30
+To be able to tolerate 
+1  
+01:18:32
+Heightened levels of real life stress, not the ice bath, but real life stress like work stress in relational stress, et cetera, 
+3  
+01:18:40
+Is by 
+1  
+01:18:42
+Suppressing the activation of the so-called sympathetic nervous system, meaning the alertness or stress system 
+3  
+01:18:49
+That involves 
+1  
+01:18:50
+Buffering or trying to resist the shiver response. The shiver response is an autonomic response design to generate heat, presumably. And actually that is what it does 
+3  
+01:19:00
+In order to counter the cold. So when you used it 
+1  
+01:19:04
+Cold exposure and you're going to muscling through it or your learning to relax within it as a form of stress, Inoculation, that's great and works quite well for that purpose in mind, there's a reason why cold exposure is used in a variety of forms of military stress. Inoculation most famous of which of course is the Navy seal 
+3  
+01:19:22
+Buds, a strep 
+1  
+01:19:25
+Test, really, which is screening procedure for becoming a seal, involves a lot of exposure to cold war 
+3  
+01:19:29
+Are. However, if you're interested, 
+1  
+01:19:33
+You did in Using cold exposure for fat loss and thermogenesis, you want to do the exact opposite thing. There was a paper published in nature two years ago, which showed that cold 
+3  
+01:19:45
+And do a shiver. The actual physical shiver activates the release. 
+1  
+01:19:51
+You have a chemical in the body from muscle called <inaudible> S U C C I N a T E 
+3  
+01:19:58
+Sukin eight travels 
+1  
+01:20:00
+In the bloodstream, and then goes and activates a particular category of fat, not the typical kind of pink or white fat that we think of as like blubber in humans. So that the stuff that people will seem to generally want less of, except for those genetic freaks that seem to have none of it depends on what they consume. Congratulations, 
+3  
+01:20:21
+Brown 
+1  
+01:20:21
+Fat is called Brown fat because it actually dark under the microscope. It it's rich with mitochondria and it exists mostly between the scapulae and in the upper neck. And it generates, generates thermogenesis and heat in the body. It's rich with a certain category of Andrew synergic receptor In suddenly Epinephrine binds to adrenergic receptors. 
+3  
+01:20:46
+These 
+1  
+01:20:47
+And fat cells increased Metabolism it's called Brown fat thermogenesis and cause fat burning burning of other kinds of fat, the pink and white fat. So what does this all mean? This means if you wanna use the ice bath in order to increase, Metabolism shiver away. If you want to use the ice bath or cold shower in order to stress inoculate resist the shiver and Learn to stay calm or quote unquote muscle through it. And, you know, I don't know that anyone's ever really talked about this publicly because I think the data is so new. And I think that people assume that the ice bath or cold exposure is just one thing here. I've talked about it three ways to shift your circadian rhythm depending on whether or not you're doing it early in the day, while your temperature is still rising or 
+3  
+01:21:32
+At its peak, or after 
+1  
+01:21:35
+That peak, in order to extend the perception of your day as continuing and, and make you want to go to sleep later and wake up 
+3  
+01:21:43
+Later now. 
+1  
+01:21:45
+And then the third way of course is to either activate Brown fat thermogenesis and increase Metabolism I suppose the fourth way would be to increase stress tolerance or stress threshold. Okay. But remember Temperature is the effector of circadian rhythms. Light is the trigger. The Supercars MADEC nucleus is the master circadian clock that mediates all of these changes also influenced by non Photo influence like Exercise and feeding and things of that sort. But Temperature is the effector. Now you can also shift your circadian rhythm with eating when you travel and you land in a new location in your schedule is inverted 12 hours. 
+1  
+01:22:27
+One way that we know you can shift your rhythm more quickly is to get on to the local meal schedule. Now that probably has to do with two affects one or changes in temperature induce, or Eating induced, it increases in body temperature. Now you should understand why that would work as well as Eating has this anticipatory secretion of beta of hyper cretin. Orexin that I'd talked about it earlier. So if this is getting a little too down in the weeds, don't worry about it. That we, I we'll get more into this in episode four of how to shift one's rhythm, but I would love for people to understand that Light and Temperature are the real heavy duty leavers when it comes to moving your circadian rhythm and sleep times and activity schedules and Exercise and feeding can help, but really Temperature and Light, With, Light being the primary one or the most important when it comes to sleep and wakefulness, many people asked questions about food and neurotransmitters and how those relate to sleep wakefulness and mood, which is essentially 25 hours of content for me to cover. 
+1  
+01:23:28
+But I'm going to try and distill out the most common questions. We've talked a lot about neuromodulators like dopamine acetylcholine, and nor epinephrin. You may notice in those discussions that the precursors to say Serotonin is tryptophan. Tryptophan actually comes from the diet. It comes from the foods that we eat tyrasine is the precursor to dopamine. It comes from the foods that we eat, and then once we ingest them that those compounds are or circulate to a variety of different cells and tissues, but it is true that our food and the particular foods, we can influence things. Neuromodulator levels. To some extent, it's not the only way because they're also enzymes and biochemical pathways that are going to regulate how much tyrasine gets converted into dopamine. 
+1  
+01:24:17
+And there are elements of the dopaminergic neurons, the dopamine neurons, themselves that are electrical that have influenced on this as well. But there are a couple fair assumptions that we can make. First of all, nuts and meats in particular, red and meats tend to be rich in things like tyrasine right, that tells you right there. That because tyrasine is the precursor of dopamine and dopamine is the precursor of norepinephrine and epinephrine that those foods tend to lend themselves toward the production Learn of dopamine and Epinephrine and the sorts of things that are associated with wakefulness. Now, of course, the volume of food that we eat also impacts our wakefulness. 
+1  
+01:24:59
+If we eat a lot of anything, whether or not it's ribeye, steaks, rice, or cardboard, please don't eat cardboard. Your stomach of its very distended will draw a lot of blood into your gut and you will divert blood from other tissues and you'll become sleepy. So it's not just about food content. It's also about food volume. All right, fasting States, generally we are associated with more alertness Epinephrine so forth and fed States are generally he associated with more quiescence and relaxation Serotonin in a row. And that kind of things that lend themselves more towards Sleep and less toward alertness foods that are rich in tryptofan tend to be things like white meat, Turkey, also complex carbohydrates. 
+1  
+01:25:43
+So if you like, you can start experimenting depending on what foods you eat. You can start experimenting with carbohydrate, rich meals for accessing sleep and more depth of sleep. This is actually something I personally do. I tend to eat pretty low carbs during the day. I actually fast for until about noon. Not because I have to work to do that, but because I'd rather just drink caffeine and water during that time. And then sometime around noon, I can't take it anymore and I'm hungry and I eat and I try and eat low carb ish unless I've worked out extremely hard in the previous two hours, which I rarely do, although I do sometimes. 
+3  
+01:26:21
+And that meal 
+1  
+01:26:23
+Is then designed to prolong my period of wakefulness into the late afternoon. And then sometime around dinner time, which for me is around 6:37 PM, 8:00 PM. Sometimes as low as 9:00 PM, I tend to eat things like white meat, fish, pastas, rice kind of thing. My favorite food of all for accessing Tripp to fan is actually a starch. Its, its actually a vegetable. It's the croissant, which is my favorite vegetable. I don't eat those all the time, but I love them and they seem to increase dopamine as well. And I've never actually done the mass spectrometry on a croissant, but they definitely increase tryptofan and relaxation for me in all seriousness, low carbohydrate slash fasted slash ketogenic diets tend to lend themselves toward wakefulness by way of increasing Epinephrine nor Epinephrine Adrenaline dopamine and things of that sort, a carbohydrate rich meals. 
+1  
+01:27:16
+And I suppose we talk about meals as opposed to diet tend to lend themselves more toward tryptofan Serotonin and more lethargic States' there is very limited evidence that I am aware of that carbohydrates should be eaten at one time a day. And as it relates to a Metabolism et cetera, I'm sure that will open up a certain amount of debate. If you work out very hard and you deplete glycogen, then this all changes. So some people are working out very hard and depleting glycogen and other people or not that gets weigh outside the context of this particular Podcast. But yes, indeed different foods can bias Different neuromodulators and thereby can modulate our Waking or our feelings of lethargy and sleepiness. 
+1  
+01:28:02
+There are a couple effects of Food that are independent or I should say couple of effects of eating because the food won't do it when it's sitting across the table, but of Eating that are powerful for modulating, circadian, rhythm, wakefulness, et cetera. And that's because every time we eat, we get Eating induced thermogenesis regardless of what we eat. Now, the Eating induced thermogenesis and increase in Metabolism, which is an increase in temperature really 
+3  
+01:28:28
+Is probably greatest 
+1  
+01:28:30
+For amino acid, rich foods 
+3  
+01:28:33
+Like meats, but also, 
+1  
+01:28:35
+Or other types of foods. It's a minimal increase in body temperature compared to say cold exposure or Exercise now whether or not its a quarter have a degree or a half a degree or a degree. It really depends on the individual. And of course there are a blood sugar effects. There are things like whether or not you are type one or type two diabetic, whether or not you're insulin resistant, whether or not like there's a, a, a kid who interns on the podcast, who's a 17 years old and I'm convinced that he can eat anything. And he just seems to like burn it up and he's growing in it every time. It actually, the other day he walked into the other room and two days later he walked out to the same room. He came out in between of course, but, and I was like, Your grew. 
+1  
+01:29:17
+He, it was like, you know, but he's at that stage where he's just growing food is going to affect a teenager very differently than it is gonna affect a full grown person. So in general, starchy carbohydrates, white meats, such as Turkey, some fish increased Tripp to fan. Therefore Serotonin therefor more lethargic States, more calm meat nuts. And there are probably some plant-based foods that I'm not aware of. And I apologize, I should read up on this, that also our high entire scene that can increase things like dopamine, norepinephrine epinephrin alertness. So you can vary these however you like most people I think are eating a variety of these things in, in a given meals. 
+1  
+01:30:00
+And there are other parameters of nutrition that are important to volume of food. For the reasons that I mentioned before, the volume of food in the Gut less Food in the Gut, whether or not it's empty or a small amount of food will tend to correlate with wakefulness. Large volumes of food of any kind will tend to correlate. And Dr the calming response. And that's by way of this nerve pathway called the Vegas. We actually have sensory fibers in the Gut that communicate to a little protrusion of neurons that sit right next to the juggler called the NoDoz ganglia and O D O S E unlike Costello. It's no dose right now. He's all those no dose actually means having many protrusions in it. It's like kind of a lumpy collection of neurons. 
+1  
+01:30:42
+A ganglia is just a collection of neurons. And then it goes in to the brain STEM and then forward in the brain to the areas of the brain there involved in production of various neuromodulators. 
+3  
+01:30:53
+So 
+1  
+01:30:54
+What we eat and the volume of Food are both signaling to the brain. It's not just one or the other. And then there's also this Eating induced thermogenesis. And now, you know, from the discussion about Temperature that if your eating early in the day, you're tending to shift your rhythm earlier. So that you'll want to wake up earlier the next day, if you're eating very late in the day, even if you can fall asleep after that, there's a tendency for you to want to sleep later in the next day. Now this of course is all going to be constrained by when your kids need to heat and when your spouse needs to and when your friends need to eat, or if you live alone or what other things you are doing, if you're like me and you kind of don't eat until noon, then eat sometime around noon. And then I'm terrible about meals. I just start eating the ingredients when I'm supposed to be cooking. 
+1  
+01:31:36
+And then eventually they're all gone. And I guess that's a meal. It varies. Some people are neurotically attached to a particular meal schedule. Some people are not. I take my light exposure schedule far more seriously than I take my meal schedule. Although in general, our Chinese healthy foods, for the most part croissants included, I was asked several times whether or not men and women are males and females differ in terms of these neurotransmitter phenotypes in the rhythms of Sleep and Temperature, 
+4  
+01:32:06
+You know, or we could probably devote 
+1  
+01:32:08
+As a whole month that we probably will devote an entire month to what are called Sex Differences because those tend to be related to things we absolutely know like X, X, or X, Y chromosomes or X, Y Y in some cases or double X chromosomes, as opposed to gender sex and, and carry a tight as we call it a genetic makeup is, is crystal clear. 
+4  
+01:32:28
+There 
+1  
+01:32:29
+Are things that correlate with one or the other, but it's complicated. And its not something that has been explored in what I think is enough detail 
+4  
+01:32:38
+Actually in recently, 
+1  
+01:32:40
+I guess it was about five years ago, the national institutes of health made it a mandate that all studies use Sex as a biological variable and actually explore both sexes of mice, both sexes of humans when doing any kind of study because there was a bias towards only using a male animals or a male subjects prior to that time. So a lot of data now coming out revealing important Sex Differences that I think are going to have a powerful impact on health practices, et cetera. A response to Drugs response is different sleep schedules, et cetera, perhaps the, the most salient and obvious one is that during pregnancy females experience a whole range of endocrine and neuro effects and we definitely will devote a month to pregnancy and childbirth and child rearing. 
+1  
+01:33:26
+And for that I'd really like to bring in some experts of Gut terrific colleagues at Stanford and elsewhere that work on these things that we can go in to those in more depth. So I'm not blowing off those questions. I'm just, I'm kind of pushing them down the road a little bit where a lot 
+4  
+01:33:38
+I can give you a more thorough answer. So it is 
+1  
+01:33:42
+When we finish up, I just want to offer you the opportunity to do an Experiment. We've talked about a lot of variables that can impact sleep and wakefulness. And in keeping with a theme of the podcast, we are going to continue to talk about sleep and wakefulness and tools for those and the science behind those tools as we go forward. But there are really just for simple parameters that you have control over that you can immediately start to record and take note of just to see how you're doing it with these things, with no judgment or in perhaps no change to what you're actually doing. It might be interesting, just a suggestion to write down for each day when you went outside to get sunlight. 
+1  
+01:34:28
+And when you did that relative to Waking so you would write down, I, the way I do this on my calendar is I'll write down the aisle. I don't get exact about it. I might say a, you know, I woke up at six 15 and then I As, I'll put a w six 15 and then M S L for sunlight. You know, you sometimes get outside right away. Other times I'm less good at that. And I'll go out around Hours let's say seven and for how long at all, maybe like 10, 15 minutes or so. And then I'll put a little check it roughly the times that I eat my so-called meals. Although, as I mentioned, sometimes my meals or a bunch of small cheques that just kind of extend through the late hours of the day, yours might be more confined to, to certain times. 
+1  
+01:35:10
+And then you might just take note of when you exercise, you just put down an E for when you exercise weight training or aerobic exercise, and you might know when you might've felt chilled or cold, if you do, or you might've felt particularly hot, or if you woke up in the middle of night, when you felt particularly hot. And then the last thing you might want to do is just write down if, and when you did a non Sleep deep rest protocol NSDR protocol, that could be a meditation that could be yoga nidra that can be hypnosis or anything that you're using to deliberately teach your nervous system. How to go from more alertness, to more calmness in the waking state. Even if it's waking up in the middle of the night and doing an NSDR protocol or in the afternoon or first thing in the morning to recover some sleep and ability to perform DPO is that you might've last from a minimal or a poor night's sleep. 
+1  
+01:35:59
+So you're going to write down when you woke up, when you viewed sunlight, that might be in the morning in the evening or just in the morning, hopefully it's the morning and the evening when you exercise, when you eat your meals and using a simple record keeping scheme like w for Waking SL for sunlight, maybe you come up with a system where its a check or an X or something for exercise. This is not designed to make you neurotically attached, to tracking all your, your behaviors and everything you do. I, for instance, don't track what I eat in particular. I kind of know what, what works for me and I'd just try and stay within a, within that range. But by doing this, you can start to reveal some really interesting patterns, patterns that no answer that I could provide you about any existing tool or protocol could, you know, counter it's really about taking the patterns of behaviors of waking and Light viewing an eating and exercise and superimposing that on what your learning in this podcast and elsewhere, of course, in what you already know and trying to see where certain problem or problems or pain points might be a rising. 
+1  
+01:37:06
+Maybe you're eating really late in the day and you're waking up in the middle of the night, really warm. Well now you would say, well, that could be due to kind of an increase in temperature that is extending my day. Or maybe you start to find that Using cold exposure early in the day is great for you, but using it late, if it's too late in the day, that's not great. Or if your into the sauna or it's even like some people including myself, if I take a hot shower or sit in a hot tub or a sauna late at night, well then I get a compensatory decrease in body temperature and I sleep great, provided a hydrate well enough because that can be kind of a dehydrating thing to sit in the hot, a hot conditions. But if I do the sauna early in the day, unless I Exercise immediately afterward, then I tend to get the temperature drop, which makes sense because we get in the sauna, you get vasodilation, throw off a lot of heat and then you generally get a compensatory drop in temperature. 
+1  
+01:37:58
+Or if you do that earlier in the day, that's right about the time that that temperatures trying to train the circadian clocks of your body. That's what happens to me. Other people, it might be slightly different and some people have more resilient systems than others. So I just encourage you to start becoming scientists of your own physiology of your own brain and body and seeing how the various tools that you may or may not be using are effecting your patterns of sleep, your patterns of attention and wakefulness. It's vitally important that if you do this, that you know that it's not about trying to get onto a, a, an extremely rigid schedule. It's really about trying to identify variables that our most powerful for you and that push you in the direction that you want to go and changing the variables that are pushing your body and your mind in the directions that you don't want to go. 
+1  
+01:38:47
+Self Experimentation is something that should be done slowly, carefully. You don't want to be reckless about this. And this is where I would say manipulating one or two variables at a time is really going to be based as opposed to changing, you know, a dozen things all at once to really identify what it is that's most powerful for you as always, thank you so much for your questions. We are going to continue to answer questions. I certainly didn't get to all of them, but we tried to get to most, all of the ones that were frequently asked episode four of the podcast. I'm going to get into shift work, jet lag and age dependent changes in sleeping and wakefulness and cognition. 
+1  
+01:39:28
+So for those of you with kids, for those of you, that our kids, for those of you with older relatives or who might be a bit older, Meaning probably when you start to get into late 60 seventies and eighties is when there's some marked biological shifts in temperature, regulation and things that relate to sleep. And for those of you that travel, we're going to talk about jet lag. The shift work discussion might seem only relevant to those that work nights, but actually that's not the case. Most people because of the way they're interacting with devices are actually in a form of shift work. Now were the days, or certainly not D nine to five so-called banker's hours. And then the lights are out at nine and they're asleep until, you know, 5:00 AM. 
+1  
+01:40:10
+Some people have that schedule and most people do not. So Episode four, we will go deeply into shift work, jet lag, age dependent, changes in sleep alertness in cognition. And I will touch back on a few of your questions, but don't think that if your question wasn't answered during these Office Hours that we won't get to it, I absolutely will. At some point, in addition to that, several of you have graciously asked how you can help support the Podcast. And we very much appreciate that you can support the podcast by liking it on YouTube, by subscribing on YouTube, by recommending the YouTube videos to others, as well as subscribing and downloading the podcast on Apple, where you can also leave a review and on Spotify or all three, if you like, you can also help us by supporting our sponsors. 
+1  
+01:40:58
+So check out some of the sponsor links that were described at the beginning of the episode and in general, recommending the podcast to people that you know, and that you think would benefit from the information. It would be terrific as always, I will be continuing to post on Instagram. You can expect another podcast episode out next Monday about the topics that we've been discussing this month and above all. Thank you for, 
+0  
+01:41:19
+For your interest in science.

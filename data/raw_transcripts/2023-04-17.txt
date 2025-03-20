@@ -1,0 +1,782 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. Matthew MacDougall: Neuralink & Technologies to Enhance Human Brains
+Published: 4/17/2023
+4/17/2023 - 2h 1m 41s
+ - 
+US
+Downloaded:
+(in RSS feed: 1h 57m 55s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today my guest is Dr. Matthew McDougle. Dr. Matthew McDougle is the head neurosurgeon at neurolink. Neurolink is a company whose goal is to develop technologies to overcome specific clinical challenges of the brain and nervous system, as well as to improve upon brain design. That is to improve the way that brains currently function by augmenting memory, by augmenting cognition, and by improving communication between humans and between machines and humans. 
+0  
+00:00:42
+These are all of course, tremendous goals, and Neurolink is uniquely poised to accomplish these goals because they are approaching these challenges by combining both existing knowledge of brain function from the fields of neuroscience and neurosurgery with robotics, machine learning, computer science, and the development of novel devices in order to change the ways that human brains work for the better. Today's conversation with Dr. Matthew McDougal is a truly special one because I and many others in science and medicine consider neurosurgeons the astronauts of neuroscience and the brain that is, they go where others have simply not gone before and are in a position to discover incredibly novel things about how the human brain works, because they are literally in there probing and cutting, stimulating, et cetera, and able to monitor how people's cognition and behavior and speech changes as the brain itself is changed structurally and functionally. 
+0  
+00:01:39
+Today's discussion with Dr. McDougal will teach you how the brain works through the lens of a neurosurgeon. It will also teach you about neurolink specific perspective about which challenges of brain function and disease are immediately tractable, which ones they're working on now, that is as well as where they see the future of augmenting brain function for sake of treating disease, and for simply making brains work better. Today's discussion also gets into the realm of divising, the peripheral nervous system. In fact, one thing that you'll learn is that Dr. McDougal has a radio receiver implanted in the periphery of his own body. He did this not to overcome any specific clinical challenge, but to overcome a number of daily, everyday life challenges, and in some ways to demonstrate the powerful utility of combining novel machines, novel devices with what we call our nervous system and different objects and technologies within the world. 
+0  
+00:02:34
+I know that might sound a little bit mysterious, but you'll soon learn exactly what I'm referring to. And by the way, he also implanted his family members with similar devices. So while all of this might sound a little bit like science fiction, this is truly science reality. These experiments, both the implantation of specific devices and the attempt to overcome specific movement disorders such as Parkinson's and other disorders of deep brain function, as well as to augment the human brain and make it work far better than it ever has in the course of human evolution, are experiments and things that are happening now at neurolink. Dr. McDougal also generously takes us under the hood, so to speak, of what's happening at neurolink, explaining exactly the sorts of experiments that they are doing and have planned how they're approaching those experiments. 
+0  
+00:03:20
+We get into an extensive conversation about the utility of animal versus human research in improving brain function and in divising and improving the human brain and in overcoming disease in terms of neurosurgery and NEUROLINK goals. By the end of today's episode, you will have a much clearer understanding of how human brains work and how they can be improved by robotics and engineering, and you'll have a very clear picture of what Neurolink is doing toward these goals. Dr. McDougal did his medical training at the University of California San Diego, and at Stanford University School of Medicine, and of course is now at neurolink. So he is in a unique stance to teach us about human brain function and dysfunction, and to explain to us what the past, present, and future of brain augmentation is really all about. 
+Ketone-IQ (Ad)  
+00:04:05
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. Our first sponsor is H V M N Keto iq, H V M N. Keto IQ increases blood ketones. I wanna be very clear that I, like most people have heard of the ketogenic diet, but I, like most people, do not follow a ketogenic diet that is, I'm not in ketosis. However, most people don't realize that you can still benefit from increasing your blood ketones, which is what H V M N Keto IQ does. I take Keto IQ prior to doing really focused cognitive work, so I take it once in the afternoon, anytime I'm going to prepare for a podcast or do a podcast, or if I'm going to do some research or focus on a grant, anything that requires a high level of cognitive demand. And that's because ketones are the brain's preferred use of fuel, even if you're not following a ketogenic diet. If you'd like to try KE iq, you can go to hvn.com/huberman to save 20% off your order. Again, that's hvm n.com/huberman to save 20%. 
+Levels (Ad)  
+00:05:16
+Today's episode is also brought to us by Levels. Levels is a program that lets you see how different foods and activities affect your health by giving you real time feedback on your diet using a continuous glucose monitor. Nowadays, there's a lot of excitement about continuous glucose monitors and levels, allows you to assess how what you eat and what combinations of foods you eat and exercise and sleep and things like alcohol should you indulge in alcohol and things of that sort, how those impact your blood glucose. Now, it's very important that the cells of your body, and in particular the cells of your nervous system, not experience levels of blood glucose that are too high or too low, so-called hyperglycemia or hypoglycemia. What levels allows it its users to do is to understand how their specific routines, food intake patterns, exercise, et cetera, impact their blood sugar levels. I like most people who use levels find that there's a lot to learn and a lot to be gained by understanding these blood glucose patterns. If you're interested in learning more about levels and trying a continuous glucose monitor yourself, you can go to Levels Link slash huberman right now. Levels is offering an additional two free months of membership. Again, that's levels link, L I N K slash huberman to get two free months of membership. 
+Thesis (Ad)  
+00:06:27
+Today's episode is also brought to us by thesis. Thesis makes Custom neutropics, and as many of you have perhaps heard me say before, I am not a fan of the word neutropics because it literally means smart drugs, and the brain has neural circuits for focus. It has neural circuits for creativity, it has neural circuits for task switching. It does not have neural circuits for being Smart. Thesis understands this and is designed custom neutropics, each of which is designed to place your brain and body into a specific state ideal for a particular type of work or physical effort, such as creativity or focus or clarity. If you'd like to try Thesis neutropics, you simply go to their website, you fill out a brief quiz, and they will design a custom starter pack so that you can assess which things work for you more or less well, and then they'll iterate with you over the course of the next few weeks or months to come up with the ideal NEUTROPIC kit for your needs. To get your own personalized neutropic starter kit, go online to take thesis.com/huberman. You can take that three minute quiz and they'll send you four different formulas to try in your first month. Again, that's take thesis.com/huberman and use the code huberman checkout to get 10% off your first box. 
+0  
+00:07:35
+And now for my discussion with Dr. Matthew McDougle, Dr. McDougle, welcome. 
+2  
+00:07:40
+Good to be here. Nice to see 
+0  
+00:07:42
+You, Andrew. Great to see you again. We'll get into our history a little bit later, but just to kick things off, as a neurosurgeon and as a neuroscientist, could you share with us your vision of the brain as an organ, as it relates to what's possible there? Yeah, I mean, I think most everyone understands that the brain is, along with the body, the seat of our cognition, feelings, our ability to move, et cetera, and that damage there can limit our ability to feel the way we want to feel or move the way we want to move. But surgeons tend to view the world a little bit differently than most because as the not so funny joke goes, you know, they like to cut and they like to fix, and they like to mend and they, in your case, have the potential to add things into the brain that don't exist there already. 
+0  
+00:08:31
+So how do you think about and conceptualize the brain as an organ, and what do you think is really possible with the brain that most of us don't already probably think about? 
+2  
+00:08:42
+Yeah, that's a great question. Thinking about the brain as this three pound lump of meat trapped in a prison of the skull, it seems almost magical that it could create a, you know, a human, a human set of behaviors, and a life merely from electrical impulses. When you start to see patients and see, say a small tumor eating away at a little part of the brain and see a very discreet function of that brain go down in isolation, you start to realize that the brain really is a collection of functional modules pinned together, duct tape together in this, in this bone box attached to your head. 
+2  
+00:09:32
+And sometimes you see very interesting failure modes. So one of the most memorable patients I ever had was very early on in my training, I was down at uc, San Diego and saw a very young guy who had just been in a car accident. We had operated on him and you know, as is so often the case in neurosurgery, we had saved his life potentially at the cost of quality of life. When he woke from surgery with bilateral frontal lobe damage, he had essentially no impulse control left. And so, you know, we rounded on him after surgery, saw that he was doing okay to our, you know, first guess at at his health. 
+2  
+00:10:21
+And we continued on to see our other patients, and we were called back by his, you know, 80 year old recovery room nurse saying, you've gotta come see your patient right away, something's wrong. And we walk in to see him and he points at his elderly nurse and says, she won't have sex with me. And, you know, it was apparent at that moment, his frontal lobes were gone, and that person is never going to have reasonable human behavior again. And that's, you know, it's one of the most tragic ways to have a brain malfunction. But, you know, anything a brain does anything from control of hormone levels in your body to vision to sensation, to, you know, the most obvious thing, which is muscle movement of any kind, from eye movement to moving your bicep, all that comes outta the brain. 
+2  
+00:11:16
+All of it can go wrong, any of it, any part of it or all of it. So yeah, working with the brain is the substance of the brain as a surgeon, very high stakes. But you know, once in a while you get a chance to really help you get a chance to fix something that seems unfixable. And you have, you know, Lazarus like miracles, not, not too uncommonly. So it's extremely satisfying as a career. 
+0  
+00:11:45
+Could you share with us one of the more satisfying experiences Sure. Or perhaps the top contour of what qualifies as satisfying in in neurosurgery? 
+2  
+00:11:56
+Yeah. You know, one of the relatively newer techniques that we do is, you know, if someone comes in with a, a reasonably small tumor somewhere deep in the brain, that's hard to get to. The traditional approach to taking that out would involve cutting through a lot of good normal brain and disrupting a lot of neurons, a lot of white matter that, you know, kind of the wires, connecting neurons. Then the modern approach involves a two millimeter drill hole in the skull down, which you can pass a little fiber optic cannula and, and a attach it to a laser and just heat the tumor up deep inside the brain under direct MRI visualization in real time. 
+2  
+00:12:39
+So you're, this person is in the MRI scanner, you're taking pictures every second or so, as the tumor heats up, you can monitor the temperature and get it exactly where you want it, where it's gonna kill all those tumor cells, but not hurt hardly any of the brain surrounding it. And so, not uncommonly, nowadays we have someone come in with a tumor that previously would've been catastrophic to operate on, and we can eliminate that tumor with, you know, leaving a poke hole in their skin with almost no visual after effects. 
+0  
+00:13:15
+So that procedure that you just described translates into better clinical outcomes, meaning fewer, let's call them side effects or collateral damage. 
+2  
+00:13:25
+Exactly. Right. Yeah. We don't, you know, even in cases that previously would've considered totally inoperable, say, a tumor in the brain stem, or a tumor in primary motor cortex or primary verbal areas, brokers area where we would've expected to either not operate or do catastrophic damage, those people sometimes now are coming out unscathed. 
+0  
+00:13:52
+I'm very curious about the sorts of basic information about brain function that can be gleaned from these clinical approaches of lesions and strokes, and maybe even stimulation. So for instance, in your example of this patient that had bilateral frontal damage, what do you think his lack of regulation reveals about the normal functioning of the frontal lobes? Because I think the obvious answer to most people is going to be, well, the frontal lobes are normally limiting impulsivity. Right? But as we both know, because the brain has excitatory and inhibitory neurons as sort of accelerators and breaks on communication, right? The, that isn't necessarily the straightforward answer. 
+0  
+00:14:36
+It, it could be, for instance, that the frontal lobes are acting as conductors, right? And are kind of important, but not the immediate players in determining impulsivity. So two questions really. What do you think the frontal lobes are doing? Because I'm very intrigued by this human expanded real estate. Yeah. We have a lot of it compared to other animals. And more generally, what do you think damage of a given neural tissue means in terms of understanding the basic function of that tissue? 
+2  
+00:15:10
+Yeah, it, it varies, I think, from tissue to tissue, but with respect to the frontal lobes, I think they act as sort of a, a filter. They selectively are saying, 
+0  
+00:15:21
+Shh, 
+2  
+00:15:22
+Backward to the rest of the brain behind them. When part of your brain says, that looks very attractive, I want to go grab it and take it, you know, out of the jewelry display case, or, you know, whatever the frontal lobes are saying, you can, if you go pay for it first, right? They're filtering the behavior, they're, they're letting the impulse through maybe, but in a controlled way, this is very high level, very broad thinking about how the frontal lobes work. And that, that patient I mentioned earlier, is a great example of when they go wrong. You know, he had this impulse, sort of strange impulse to be attracted to his nurse that normally it would be easy for our frontal lobes to say, this is completely inappropriate, wrong setting, wrong person, wrong time. 
+2  
+00:16:16
+Sh in his case, he had nothing there. And so even the slightest inclination to, to want something came right out to the surface. So yeah, a filter calming the rest of the brain down from acting on every possible impulse. 
+0  
+00:16:35
+When I was a graduate student, I was running what are called, you know, these, what these are, but just to inform you what are called acutes, which are neurophysiological experiments that last several days, because at the end, you, you terminate the animal. This is a, my apologies to those that are made uncomfortable by animal research. I now work on humans, so a different type of animal. But at the time, we were running these acutes that would start one day and, and maybe end two or three days le later. And so you get a lot of data, the animals anesthetized and doesn't feel any pain the entire time of the surgery. But the one consequence of these experiments is that the experimenter, me and another individual are awake for several days with an hour of sleep here, or an hour of sleep there, but you're basically awake for two, three days. 
+0  
+00:17:17
+Something that really, I could only do in my teens and twenties. I was in my twenties at the time, and I recall going to eat at a diner after one of these experiments, and I was very hungry, and the waitress walking by with a tray full of food for another table, and it took every bit of self-control to not get up and take the food off the tray. Something that, of course is totally inappropriate, and I would never do. And it must have been based on what you just said, that my forebrain was essentially going offline or offline from the sleep deprivation, right? Because there was a moment there where I thought I might reach up and grab a plate of food passing by simply because I wanted it. 
+0  
+00:17:58
+Right. And I didn't. But I can relate to the experience of feeling like the shh response is a flickering in and out under conditions of sleep deprivation. So, do we know whether or not sleep deprivation limits four brain activity in a similar kind of way? 
+2  
+00:18:15
+You know, I, I don't know specifically if that effect is more pronounced in the four brain as opposed to other brain regions, but it's clear that sleep deprivation has broad effects all over the brain. People start to see visual hallucinations. So the opposite end of the brain, as you know, the, the visual cortex and the far back of the brain has affected people. People's cord motor coordination goes down after sleep deprivation. So I think, you know, if I, if you force me to give a, a definitive answer on that question, I'd have to guess that the entire brain is affected by sleep deprivation, and it's not clear that one part of the brain is more affected than another. 
+0  
+00:19:00
+So we've been talking about damage to the brain and inferring function from damage. Maybe we could talk a little bit about what I consider really the holy grail of the nervous system, which is neuroplasticity, this incredible capacity of the nervous system to change its wiring, strengthen connections, weaken connections, maybe new neurons, but probably more strengthening and weakening of connections. Right. Nowadays, we hear a lot of excitement about so-called classical psychedelics like LSD and psilocybin, which do seem to open plasticity. They do a bunch of other things too. But through the release of neuromodulators, like serotonin and so forth, how do you think about neuroplasticity and more specifically, what do you think the potential for neuroplasticity is in the adult, so let's say older than 25 year old brain with or without machines being involved? 
+0  
+00:19:55
+Yeah, because in your role at Neurolink and as a neurosurgeon in other clinical settings, surely you are using machines, and surely you've seen plasticity in the positive and negative direction, right? What do you think about plasticity, what's possible there without machines? What's possible with machines? 
+2  
+00:20:15
+So as you mentioned or alluded to, the plasticity definitely goes down in older brains. It, it is harder for older people to learn new things, to make radical changes in their behavior to, you know, kick habits that they've had for years. Machines aren't the obvious answer. So implanted electrodes and computers aren't the obvious answer to increase plasticity necessarily compared to drugs. We already know that there are pharmacologics, some of the ones you mentioned, psychedelics, that have a broad impact on plasticity. Yeah. It, it's hard to know which area of the brain would be most potent as a stimulation target for an electrode to broadly juice plasticity compared to, you know, pharmacologic agents that we already know about. 
+2  
+00:21:10
+I think with plasticity, you're talking in general, you're talking about the entire brain. You're talking about altering, you know, a trillion synapses all in a similar way in their tendency to be rewire able to, their tendency to be up or down weighted. And an electrical stimulation target in the brain necessarily has to be focused, you know, with a device like potentially neural inx, there might be a more broad ability to steer current to multiple targets with some degree of control. But you're never going to get that broad targetability with any electrodes that I can see coming in our lifetimes to say that would be coating the entire surface and depth of the brain the way that a drug can. 
+2  
+00:22:02
+And so I think plasticity research will bear the most fruit when it focuses on pharmacologic agents. 
+0  
+00:22:10
+I wasn't expecting that answer. Given that you're at neurolink, and, and then again, I think that all of us, me included, need to take a step back and realize that while we may think we know what is going on at Neurolink in terms of the specific goals and the general goals, and I certainly have in mind, I think most people have in mind a chip implanted in the brain, or maybe even the peripheral nervous system that can give people super memories or some other augmented capacity. We really don't know what you all are doing there. Yeah. For all we know you guys are taking or administering psilocybin and combining that with stimulation, I mean, we really don't know, and I say this with a, with a tone of excitement, because I think that one of the things that's so exciting about the different endeavors that Elon has really spearheaded SpaceX, Tesla, et cetera, is that early on, there's, there's a lot of mystique, right? 
+0  
+00:23:08
+You know, mystique is a quality that is not often talked about, but it's, I think, a very exciting time in which engineers are starting to toss up big problems and go for it. And, and obviously Elon is certainly among the best, if not the best, in terms of going really big. I mean, Mars seems pretty far to me, right? Electric cars all over the road nowadays are very different than the picture a few years ago, right? When you didn't see so many of them rockets and so forth. And now the brain. So to the extent that you are allowed, could you, you share with us what your vision for the missions at Neurolink are and what the general scope of missions are? 
+0  
+00:23:54
+And then if possible, share with us some of the more specific goals. I can imagine basic goals of, yeah. Trying to understand the brain and augment the brain. I could imagine clinical goals, so trying to repair things in humans that are suffering in some way, or animals for that matter. 
+2  
+00:24:08
+Yeah, it's, it's funny what, what you mentioned Neuralink, and I think Tesla and SpaceX before it end up being these blank canvases that people project their hopes and fears onto. And so we, we experience a lot of upside in this. People, you know, assume that we have superpowers in our ability to alter the way brains work, and people have terrifying fears of the horrible things we're gonna do. For the most part, those extremes are not true. You know, we are making a neural implant. We have a robotic insertion device that helps place tiny electrodes the size smaller than the size of a human hair, all throughout a small region of the brain. 
+2  
+00:24:57
+In, in the first indication that we're aiming at, we are hoping to implant a series of these electrodes into the brains of people that have had a bad spinal cord injury. So people that are essentially quadriplegic, they have perfect brains, but they can't move, use them to move their body. They can't move their arms or legs 
+0  
+00:25:17
+Because of some high level spinal cord 
+2  
+00:25:19
+Damage. Exactly. Right. And so this, you know, pristine motor cortex up in their brain is completely capable of operating a human body. It's just not wired properly any longer to a human's arms or legs. And so our goal is to place this implant into a motor cortex and have that person be able to then control a computer, so a mouse and a keyboard as if they had their hands on a mouse and a keyboard. Even though they aren't moving their hands, their motor intentions are coming directly out of the brain into the device. And so they're able to regain their digital freedom and connect with the world through the internet. 
+0  
+00:26:04
+Why use robotics to insert these chips? And the reason I ask that is that, sure, I can imagine that a robot could be more precise or less precise, but I in theory, more precise than the human hand. No tremor, for instance. Right. More precision in terms of maybe even a little micro detection device on the, the tip of the blade or, or something that could detect a, a capillary that you would want to avoid and swerve around that exactly. The human eye couldn't detect, and you and I both know, however, that no two brains nor are the two sides of the same brain identical, right? 
+0  
+00:26:47
+So navigating through the brain is perhaps best carried out by a human. However, and here I'm gonna interrupt myself again and say 10 years ago, face recognition was very clearly performed better by humans than machines. And I think now machines do it better, right? So is this the idea that eventually, or maybe even now, robots are better surgeons than humans are 
+2  
+00:27:17
+In, in this limited case? Yes. These electrodes are so tiny, and the blood vessels on the surface of the brain, so numerous and so densely packed that a human physically can't do this. A human hand is not steady enough to grab this, you know, couple micron with loop at the end of our electrode thread, and place it accurately, blindly, by the way, into the cortical surface, accurately enough at the right depth to get through all the cortical layers that we wanna reach. And I would love if human surgeons were, you know, essential to this process. 
+2  
+00:27:58
+But very soon, humans run out of motor skills sufficient to do this job. And so we are required, in this case, to lean on robots to do this incredibly precise, incredibly fast, incredibly numerous placement of electrodes into the right area of the brain. 
+0  
+00:28:18
+So in some ways, Neurolink is pioneering the development of robotic surgeons as much as it's pioneering the exploration and augmentation and treatment of human brain conditions. 
+2  
+00:28:29
+Right. A and as the device exists currently, as we're submitting it to the F d A, it is only for the placement of the electrodes, the, the robot. It's part of the surgery. I, or, or another neurosurgeon still needs to do the, you know, the more crude part of opening the skin and skull and presenting the robot a pristine brain surface to sew electrodes into. 
+0  
+00:28:53
+Well, surely getting quadriplegics to be able to move again or maybe even to walk again, is a heroic goal and one that I think everyone would agree would be wonderful to accomplish. Is that the first goal, because it's hard, but doable, right? Or is that the first goal because you and Elon and other folks at Neurolink have a passion for getting paralyzed people to move again? Yeah. 
+2  
+00:29:23
+Broadly speaking, you know, the mission of Neuralink is to reduce human suffering, at least in the near term. You know, there's hope that eventually there's a use here that makes sense for a brain interface to bring AI as a tool embedded in the brain that a human can use to augment their capabilities. I think that's pretty far down the road for us, but definitely on a desired roadmap in the near term, we really are focused on people with terrible medical problems that have no options right now with regard to motor control. You know, our mutual friend recently departed Krishna Chinoy was a giant in this field of motor prosthesis. 
+2  
+00:30:13
+It just so happens that his work was foundational for a lot of people that work in this area, including us. And he was an advisor to Neuralink. That work was farther along than most other work for addressing any function that lives on the surface of the brain. The physical constraints of our approach require us currently to focus on only surface features on the brain. So we can't say, go to the really very compelling surface deep depth functions that happen in the brain, like, you know, mood, appetite, addiction, pain, sleep. 
+2  
+00:30:54
+We'd love to get to that place eventually. But in the immediate future, our first indication, or two or three will probably be brain surface functions like motor control. 
+AG1 (Ad) drinkag1.com/huberman 
+00:31:05
+I'd like to take a quick break and acknowledge one of our sponsors, athletic Greens, athletic Greens now called Ag One is a vitamin mineral probiotic drink that covers all of your foundational nutritional needs. I've been taking Athletic Greens since 2012, so I'm delighted that they're sponsoring the podcast. The reason I started taking Athletic Greens, and the reason I still take Athletic Greens once or usually twice a day, is that it gets to be the probiotics that I need for gut health. Our gut is very important. It's populated by gut microbiota that communicate with the brain, the immune system, and basically all the biological systems of our body to strongly impact our immediate and long-term health. And those probiotics and athletic greens are optimal and vital for microbiotic health. In addition, athletic Greens contains a number of adaptogens, vitamins and minerals that make sure that all of my foundational nutritional needs are met and it tastes great. If you'd like to try Athletic Greens, you can go to athletic greens.com/huberman, and they'll give you five free travel packs that make it really easy to mix up athletic greens while you're on the road, in the car, on the plane, et cetera. And they'll give you a year supply of vitamin D three K two, again, that's athletic greens.com/huberman to get the five free travel packs and the year supply of vitamin D three K two. 
+2  
+00:32:20
+So for those listening, the our portions of the brain are filled with or consist of rather neocortex. 
+0  
+00:32:30
+So the, the bumpy stuff that looks like sea coral, some forms of sea coral look like brains or brains look like them. And then underneath reside a lot of the brain structures that control what Matt just referred to things, controlling mood, hormone output, how awake or asleep the brain is. And would you agree that those deeper regions of the brain have in some ways more predictable functions? I mean, that lesions there or stimulation there lead to more predictable outcomes in terms of deficits or improvements in function? 
+2  
+00:33:05
+Yeah. In, in some way, yes. I mean, the, the deeper parts of the brain tend to be more stereotyped as in more similar between species than the, the outer surface of the brain. They're kind of the firmware or the, the housekeeping functions to some degree, body temperature, blood pressure, sex, motivation, hunger, things that you don't really need to vary dramatically between a fox and a human being. Whereas the, the outer more reasoning functions of problem solving functions between a fox and a human are vastly different. And so the physical requirements of those brain outputs are different. 
+0  
+00:33:46
+I think I heard Elon describe it as the human brain is I'm essentially a monkey brain with a supercomputer placed on the outside, which sparks some interesting ideas about what neocortex is doing. We have all this brain real estate on top of all that more stereotyped function type stuff in the deeper brain, and it's still unclear what neocortex is doing in the case of frontal cortex, as you mentioned earlier, it's clear that it's providing some quieting of, of impulses, some context setting, rule setting, context switching. All of that makes good sense. But then there are a lot of cortical areas that sure are involved in vision or touch or hearing, but then there's also a lot of real estate that just feels un unexplored. 
+0  
+00:34:32
+Right. So I'm curious whether or not in your clinical work or work with Neurolink or both, whether or not you have ever encountered neurons that do something that's really peculiar and intriguing. And here I'm referring to examples that could be anywhere in the brain. Yeah. Like where you go, wow, like these neurons when I stimulate them or when they're taken away lead to something kind of bizarre, but interesting. 
+2  
+00:35:01
+Yeah. Yeah. There, there's the one that comes immediately to mind is, unfortunately in a terrible case, in kids that have a, a tumor in the, the hypothalamus that lead to what we call gel lastic seizures, which is sort of a, an uncontrollable fit of laughter. There's been cases in the literature where this laughter is so uncontrollable and so pervasive that people suffocate from failing to breathe or they laugh until they pass out. And so, you know, you don't normally think of a deep structure in the brain, like the hypothalamus as being involved in the, you know, a function like humor. 
+2  
+00:35:45
+And, and certainly when we think about this kind of laughter in, in the, these kids with tumors, it's mirthless laughter is the, the kind of textbook phrase, humorless laughter. It's just a reflexive, almost zombie-like behavior. And it comes from a very small population of neurons deep in the brain. This is one of the other sort of strange loss of functions you might say, is, you know, it's, it's nice that you and I can sit here and not have constant disruptive fits of laughter coming out of our bodies, but that, that's a neuronal function. 
+2  
+00:36:29
+That's, you know, thank goodness due to neurons, properly wired and properly functioning, and any neurons that do anything like this can be broken. And so we see this in horrifying cases like that from time to time. 
+0  
+00:36:45
+So I'm starting to sense that there are two broad bins of approaches to augmenting the brain, either to treat disease or for sake of increasing memory, creating super brains, et cetera. One category you allude to earlier, which is pharmacology, right? And you specifically mentioned the tremendous power that pharmacology holds, right? Whether or not it's through psychedelics or through prescription drug or, you know, some other compound. The other approach are these little micro electrodes that are extremely strategically placed right into multiple regions in order to play essentially a concert of electricity that is exactly right, to get a quadriplegic moving that sparks. 
+0  
+00:37:33
+Two questions. First of all, is there a role for, and is Neurolink interested in combining pharmacology with stimulation? 
+2  
+00:37:41
+So n not immediately. Right now we're solely focused on the extremely hard, some might say, the hardest problem facing humans right now of decoding the brain through electrical stimulation and recording. That's, that's enough for us for now. 
+0  
+00:37:56
+So to just give us a bit fuller picture of this, you were talking about a patient who can't move their limbs because they've ha have spinal cord damage, right? The motor cortex that controls movement is in theory fine, right? You make a small hole in the skull, and through that hole, a robot is going to place electrodes, obviously, motor cortex. But then where, how is the idea that you're going to play a concert from different locations? You're gonna hit all the keys on the piano in different combinations, and then figure out what can move the limbs. What I'm alluding to here is I still don't understand how the signals are gonna get outta motor cortex past the lesion and into, and out to the limbs because the lesion hasn't been dealt with at all in this scenario. 
+0  
+00:38:38
+So 
+2  
+00:38:38
+Just to clarify there, I I should emphasize, we're not in the immediate future talking about reconnecting the brain to the patient's own limbs. That's on the roadmap, but it's way down the, the roadmap a few years, what we're talking about in the immediate future is having the person be able to control electronic devices around them with their motor intentions alone, right? 
+0  
+00:39:01
+So prosthetic hand and arm, or just mouse and, and keys on a mouse 
+2  
+00:39:05
+And keys on a keyboard for starters. So you wouldn't see anything in the world move as they have an intention. The patient might imagine, say, flexing their fist or moving their wrist. And what would happen on the screen is the mouse would move down and left and click on an icon and bring up their word processor, and then a keyboard at the bottom of the screen would allow them to, you know, select letters in sequence and they could type, this is the easy place to start. Easy in quotes, 
+0  
+00:39:37
+I would say, because the transformation of electrical signals from motor cortex through the brainstem into the spinal cord and out to the muscles is somewhat known right? Through, through a hundred years or more of incredible laboratory research, right? But the transformation, meaning how to take the electrical signals at a motor cortex and put it into a, a mouse or a robot arm, that's not a trivial problem. I mean, that, that's a whole other set of problems, in fact, 
+2  
+00:40:05
+Well, we we're take, we're unloading some of that difficulty from, from the brain itself, from the brain of the patient, and putting some of that into software. So we're using smarter algorithms to decode the motor intentions out of the brain. We have been able to do this in monkeys really well. So we have, you know, a small army of monkeys playing video games for, you know, smoothie rewards, and they do really well. We, we actually have the world record of bit rate of information coming out of a monkey's brain to, you know, intelligently control a cursor on a screen. 
+2  
+00:40:45
+We're doing that better than anyone else. And you know, again, thanks in no small part due to Krishna Chinoy and his, you know, his lab and the people that have worked for him that have been helping Neurolink. But what you can't do with that monkey is ask him what, what he's thinking. You can't ask him. 
+0  
+00:41:04
+Well, you can ask him, but he, you won't get a very interesting answer. Yeah. 
+2  
+00:41:08
+You can't tell him to try something different. You can't tell him to, Hey, you know, try the shoulder on this, try the other hand and see if there's some cross body neuron firing that, that gives you a useful signal. Once we get the people, we expect to see what they've seen when they've done similar work in academic labs, which is the, the human can work with you to vastly accelerate this process and get, get much more interesting results. So one of the things out of, out of Stanford recently is there was a lab that with Krishna and Jamie Henderson and, and other people decode speech out of the hand movement area in the brain. 
+2  
+00:41:49
+So what we know is that there are, you know, multitudes of useful signals in each area of the brain that we've looked at so far. They just tend to be highly expressed for say, hand movement in the hand area. But that doesn't mean only hand movement in the hand area. 
+0  
+00:42:08
+Okay? So here's the confidence test. There's a long history dating back really prior to the 1950s of scientists doing experiments on themselves. Sure. Not because they are reckless, but because they want the exact sorts of information that you're talking about. Right. The ability to really understand how intention and awareness of goals can shape outcomes in biology, if that is vague to people listening. What I mean here is that for many, probably hundreds of years, if not longer, scientists have taken the drugs they've studied or stimulated their own brain or done things to really try and get a sense of what the animals they work on or the patients they work on might be experiencing. 
+0  
+00:42:52
+Psychiatrists are sort of famous for this, by the way, right? I'm not pointing fingers at anybody, but psychiatrists are known to try the drugs that they administer. Right. And some people would probably imagine that's a good thing, just so that the clinicians could have empathy for the sorts of side effects and not so great effects of some of these drugs that they administer to, to patients. But the confidence test I present you is, would you be willing, or are you willing, if allowed to have these electrodes implanted into your motor cortex? Yeah. You're not a quadriplegic, right. You can move your limbs. Yeah. But given the state of the technology at Neurolink now, would you do that, or maybe in the next couple of years if you were allowed, would you be willing to do that? 
+0  
+00:43:41
+Yeah, absolutely. And be the person to say, Hey, turn up the stimulation over there. I feel like I want to reach for the cup, right? With that robotic arm, but I'm, I'm feeling kind of some resistance because it's exactly that kind of experiment done on a, a person who can move their limbs and who deeply understands the technology and the goals of the experiment, that I would argue actually stands to advance the technology fastest. Sure. As opposed to putting the electrodes first into somebody who is impaired at a number of levels, and then trying to think about why things aren't working. Right. Right. And again, you know, this is all with the, the goal of, of reversing paralysis in mind, but would you implant yourself with these micro electrodes? 
+2  
+00:44:24
+Yeah, absolutely. I, I would be excited to do that. I think for the first iteration of the device, it probably wouldn't be very meaningful. It wouldn't be very useful because I can still move my limbs. And our first outputs from this are things that I can do just as easily with my hands. Right. Moving a mouse, typing in a keyboard, we are necessarily making this device as a medical device for starters, for people with bad medical problems and no good options. It wouldn't really make sense for an able-bodied person to get one in the near term. It, as the technology develops, and we make devices specifically designed to perform functions that can't be done even by an able-bodied person, say, eventually refine the technique to get to the point where you can type faster with your mind and one of these devices than you can with text to speech or speech to text and your fingers. 
+2  
+00:45:25
+That's a use case that makes sense for someone like me to get it. It doesn't really make sense for me to, you know, get one when it allows me to, you know, use a mouse slightly worse than I can with my hand currently. That said, the safety of the device, I would absolutely vouch for from, you know, the hundreds of surgeries that I've personally done with this. I, I think it's much safer than many of the industry standard FDA approved surgeries that I routinely do on, on patients that, you know, are, are no one even thinks twice about their standard of care. Neurolink is already reached, in my mind, a safety threshold that is far beyond a commonly accepted safety threshold 
+0  
+00:46:12
+Along the lines of augmenting one's biological function or functions in the world. I think now's the appropriate time to talk about the small lump present in the top of your hand for those listening, not watching. There's a, it looks like a, a small lump between Dr. McDougal's forefinger and thumb or index finger and thumb placed on skin on the top of his hand. You've had this for some years now because we've known each other for, gosh, probably seven years now or so. Yeah. And you've always had it in the time that I've known you. What is that lump and why did you put it in there? 
+2  
+00:46:52
+Yeah, so it's a, a small writeable R F I D tag. 
+0  
+00:46:56
+What's an R F I D? What does R F I D stand 
+2  
+00:46:58
+For? Yeah. Radio frequency identification. And so it's just a very small implantable chip that wireless devices can temporarily power if you approach an antenna, they can power and send a small amount of data back and forth. So most phones have the capability of reading and writing to this chip for years. It, it let me into my house. It unlocked a deadbolt on my front door for some years. It unlocked the doors at Neuralink and let me through, you know, the, the various locked doors inside the building. 
+2  
+00:47:38
+It is writeable. I can write a small amount of data to it. And so for some, some years in early the early days of crypto, I had a crypto private key written on it to store a, a cryptocurrency that I thought was, you know, a dead offshoot of one of the main crypto currencies after it had forked. And so I put the private wallet key on there and forgot about it, and remembered a few years later that it was there and went and checked and it was worth, you know, a few thousand dollars more than when I had left it on there. So that was a nice finding change in the sofa in the 21st century. 
+0  
+00:48:14
+And then when you say you read it, you're essentially taking a, a phone or other device and scanning it over the, the rf the, the lump in your hand, so to speak. Yep. And then it can read the data from there. Yeah. Essentially. Yeah. What other sorts of things could one put into the, these RFIDs in theory and how long can they stay in there before you need to take them out and Yeah. And recharge them or replace them? 
+2  
+00:48:37
+Well, the, these are passive, they're coded in biocompatible glass and as an extra, I'm a rock climber, and so I was worried about that glass shattering during rock climbing. I additionally coded them in another ring of silicone before implanting that. So it's, it's pretty safe. They're passive. There's no battery, there's no active electronics in them. So they could last the rest of my life. I don't think I'd ever have to remove it for any reason. You know, at some point the technology's always improving, so I might remove it and upgrade it. That's not inconceivable already. There's, you know, 10 x more storage versions available that could be a, a drop in replacement for this if I ever remove it. 
+2  
+00:49:21
+But, you know, it, it, it has a small niche use case and it's an interesting proof of concept tiptoeing towards the concept that you mentioned of, you know, you have to be willing to go through the things that you're suggesting to your patients in order to, you know, say with a straight face that you think this is a reasonable thing to do. So a small subcutaneous implant in the hand, it's a little different than a brain implant, 
+0  
+00:49:48
+But yeah. What's involved in getting that RFID chip into the hand? Is it, I'm assuming it's an outpatient procedure, presumably you did it on yourself. 
+2  
+00:49:56
+Yeah. Yeah. Th this was a kitchen table kind of procedure. 
+0  
+00:50:00
+Any anesthetic or is, or No, 
+2  
+00:50:02
+You know, I, I've seen people do this with lidocaine injection. I, from my money. I think a lidocaine injection is probably as painful as just doing the procedures. 
+0  
+00:50:12
+Just a little cut in that thin skin on the top of the hand. Right. Some people are cringing right now. Other people are saying, I want one. Cuz you'll have to never worry about losing your keys. Yeah. Or passwords. I, I actually would like it for passwords because I'm dreadfully bad at remembering passwords. I have to put them in places all over the place. And then it's like, I'm like that kid in that, remember that movie Stand by Me? Yeah. Where the kid hides the pennies under the, the porch and then loses the map. Yeah. Spends all summer trying to wind them. So I can relate. Yeah. So a little, it was just a little slit and then put in there no local immune response. No, no, no pus, no swelling. 
+2  
+00:50:47
+All the materials are completely biocompatible. They're on the surface exposed to the body. So no, no bad reaction. It healed up, you know, in days and it was fine. 
+0  
+00:50:56
+Very cool. Since we're on video here, maybe can you just maybe trace it and show us? Yeah, yeah. So, so were you not to point out that little lump, I I wouldn't have known to to ask about it, but Right. And any other members of your family have, have 
+2  
+00:51:12
+These a few years after having this and s seeing the convenience of me being able to open the door without keys, my wife insisted that I put one in her as well. So she's walking around with one. 
+0  
+00:51:22
+Fantastic. 
+2  
+00:51:23
+We consider them our sort of, our, our version of wedding rings. 
+0  
+00:51:26
+Love it. Well, it's certainly more permanent than wedding rings in, in in some sense. I can't help but ask this question even though it might seem a little bit off topic. As long as we're talking about implantable devices and Bluetooth and R F I D chips in the body. I get asked a lot about the safety or lack thereof of a Bluetooth headphones. You work on the brain, you're a brain surgeon. Sure. That's valuable real estate in there. Yeah. And you understand about electromagnetic fields and Sure. Any discussion about EMFs immediately puts us in the category of uhoh, like get their tinfoil hats. And yet I've been researching EMFs for a future episode of the podcast. Sure. 
+0  
+00:52:06
+And EMFs are a, a real thing. That's not a, a valuable statement. Everything's a real thing at some level, even in an idea. But there does seem to be some evidence that electromagnetic fields of sufficient strength can alter the function of maybe the health of, but the function of neural tissue, given that neural tissue is electrically signaling among itself. Sure. So I'll just ask this in a very straightforward way. Do you use Bluetooth headphones or wired headphones? 
+2  
+00:52:35
+Sure. 
+0  
+00:52:35
+Yeah. Bluetooth. And you're not worried about any kind of EMF fields across the skull? 
+2  
+00:52:40
+No, I mean, I, I think the energy levels involved are so tiny that, you know, ionizing radiation aside we're, we're way out of the realm of ionizing radiation that people would worry about, you know, tumor causing EMF fields. Even just the electromagnetic field itself, as is very well described in a Bluetooth frequency range. The power levels are tiny in these devices. And so, you know, we are a wash in these signals, whether you use Bluetooth headphones or not for that matter, you're, you're getting bombarded with ionizing radiation in a very tiny amount no matter where you live on earth, unless you live under huge amounts of water, it's unavoidable. 
+2  
+00:53:30
+And so I think you just have to trust that your body has the DNA repair mechanisms that it needs to deal with the constant bath of ionizing radiation that you're in as a result of being in the universe and exposed to cosmic rays in terms of electromagnetic fields there. It's just, it's, you know, the energy levels are way, way out of the range where I would be worried about this. 
+0  
+00:53:57
+What about heat? You know, I don't use the earbuds any longer for a couple of reasons. Once, as, as you know, I take a lot of supplements and I reached into my left pocket once and swallowed a handful of supplements that included a, a Bluetooth, a AirPod pro. I knew it, I swallowed it at the moment after I gulped it down. By the way, folks, please don't do this. It, it was not a good idea. It was, it wasn't an idea, it was a mistake and, but I could see it on my phone as registering there, never saw it again. So I'm assuming it's no longer my body. But anyway, there's a bad joke there to be sure. But it, in any event, I I tend to lose them or misplace them. So that's the main reason I, but I did notice when I used them that there's some heat generated there. 
+0  
+00:54:42
+I also am not convinced that plugging your ears all day long is, you know, there's some ventilation through the, through the sinus systems that include the ears. So it sounds to me like you're not concerned about the use of, of earbuds, but what about heat near the brain? I mean, there's the, the cochlea, the, the auditory mechanisms that sit pretty close to the surface there. Heat and neural tissue are not friends. Sure. I'd much rather get my brain cold than hot. Yeah. In terms of keeping the cells healthy and alive, should we be thinking about the heat effects of some of these devices or other things? Is there anything we're overlooking? 
+2  
+00:55:21
+Well, think about it this way. The, I use cars as an an analogy a lot and, you know, mostly internal combustion engine cars. So these analogies are gonna start to be foreign and useless for another generation of people that grow up in the era of electric cars. But using cars as a, as a platform to talk about fluid cooling systems. Your body has a massive distributed fluid cooling system similar to a car's radiator. You're pumping blood all around your body all the time at a very strictly controlled temperature. That blood carries a hu it's mostly water. So it carries a huge amount of the heat away or cold away from any area of the body that's focused heating or focused cooling. 
+2  
+00:56:10
+So you could put an ice cube on your skin until it completely melts away and the blood is gonna bring heat back to that area. You can put, you can stand in the sun under much more scary heating rays from the sun itself that contain UV radiation. That's, that's definitely damaging your DNA if you're looking for things to be afraid of. The sun is a good one. 
+0  
+00:56:33
+You're talking to the guy that tells everybody, you get sunlight in their eyes every morning. But I don't want people to get burned or, or give themselves skin cancer. I, I encourage people to protect their skin accordingly. And, and different individuals require different levels of protection from the sun. Sure. Some people do very well in a lot of sunshine, never get basal cell or anything like that. Some people, and it's not just people with very fair skin, a minimum of sun exposure can cause some issues. And here I'm talking about sun exposure to the skin. Of course, staring at the sun is a bad idea. I never 
+2  
+00:57:04
+Recommend. But thinking about the sun just as a heater, you know, for, for a moment to compare it with Bluetooth headphones, your body's very capable of carrying that heat away and, and dissipating it, you know, via sweat evaporation or, you know, temperature equalization. So any heat that's locally generated in the year, you know, one, there's a pretty large bony barrier there, but two, there's a ton of blood flow in the scalp and in the head in general, and definitely in the brain that's gonna regulate that temperature. So I think certainly there can be a tiny temperature variation, but I doubt very seriously that it's enough to cause a significant problem. 
+0  
+00:57:43
+I'd like to go back to brain augmentation. You've made very clear that one of the first goals for Neurolink is to get quadriplegics walking again and again. What a marvelous goal that is. And I certainly hope you guys succeed. Well, 
+2  
+00:58:00
+Again, just, just to be very clear, the first step is we, we aren't reconnecting the patient's own muscle system to their motor 
+0  
+00:58:07
+Cortex, allowing them, excuse me, agency over the movement of things in the world. Yes. And eventually their body, 
+2  
+00:58:14
+And you're exactly right. Yeah. Eventually their body. We would, we would love to do that. And we've done a lot of work on developing a system for stimulating the spinal cord itself. And so that gets to the question that you, that you asked a few minutes ago of how do you reconnect a motor cortex to the rest of the body? Well, if you can bypass the damaged area of the spinal cord and have an implant in the spinal cord itself connected to an implant in the brain and have them talking to each other, you can take the perfectly intact motor signals out of the, the motor cortex and send them to the spinal cord, which most of the wiring should be intact in the spinal cord below the level of, say the, the injury caused by a car accident or motorcycle accident or gunshot wound or whatever. 
+2  
+00:58:58
+And it should be possible to reconnect the brain to the body in that way. So not out of the realm of possibility that, you know, in some small number of years, that Neuralink will be able to reconnect somebody's own body to their brain. 
+0  
+00:59:13
+And here I just want to flag the hundred years or more of incredible work by basic scientists. The names that I learned about in my textbooks as a graduate student were like George Opolis. And that won't mean anything to anyone unless you're a neuroscientist. But George Opolis performs some of the first sophisticated recordings out of motor cortex just simply asking like, what sorts of electrical patterns are present in motor cortex as an animal or human moves a limb. Right? Krishna Chinoy being another major pioneer in this area and, and many others, right? And just really highlighting the fact that basic research where a exploration of neural tissue is carried out at the level of anatomy and physiology, really sets down the pavement on the runway to do those sorts of big clinical expeditions that you all at Neural Inc. 
+0  
+01:00:03
+Are doing. 
+2  
+01:00:03
+Yeah. It, it can't be said enough that, you know, we broadly speaking in the industry sometimes are, and sometimes stand on the shoulders of academic giants. They were the real pioneers that they, they were involved in the grind for years in an unglorious, unglamorous way. 
+0  
+01:00:22
+No stock options, 
+2  
+01:00:24
+No stock options. And, you know, the reward for all the hard work is a paper at the end of the day that is read by, you know, dozens of people. And so, you know, they were selfless academic researchers that, that made all this possible. And we all, humanity and Neuralink owe them a massive debt of gratitude for all the hard work that they've done and continue to do. 
+Inside Tracker (Ad)  
+01:00:50
+I agree. I'd like to just take a brief moment and thank one of our podcast sponsors, which is Inside Tracker. Inside Tracker is a personalized nutrition platform. They analyzes data from your blood and DNA to help you better understand your body and help you reach your health goals. I've long been a believer in getting regular blood work done for the simple reason that blood work is the only way that you can monitor the markers such as hormone markers, lipids, metabolic factors, et cetera. The impact your immediate and long-term health. One major challenge with blood work, however, is that most of the time it does not come back with any information about what to do in order to move the values for hormones, metabolic factors, lipids, et cetera, into the ranges that you want with Inside Tracker. Changing those values becomes very straightforward because it has a personalized dashboard that you can use to address the nutrition-based, behavior based, supplement based approaches that you can use in order to move those values into the ranges that are optimal for you. Your vitality and your longevity inside Tracker now includes a measurement of apo lipoprotein B, so-called Apo B in their ultimate plan. Apo B is a key marker of cardiovascular health and therefore there's extreme value to knowing your apo B levels. If you'd like to try inside Tracker, you can go to inside tracker.com/huberman to get 20% off any of inside tracker's plans. Again, that's inside tracker.com/huberman to get 20% off. 
+2  
+01:02:09
+Along the lines of augmentation, early on in some of the public discussions about Neurolink that I overheard between Elon and various podcast hosts, et cetera, there were some lofty ideas set out that I think are still very much in play in people's minds. 
+0  
+01:02:26
+Things like, for instance, electrical stimulation of the hippocampus that you so appropriately have worn on your shirt today. So for those the beautiful, it looks like either A, it looks like a GOGI or a kaha rendition of the hippocampus Yeah. Translates to seahorse and it's an area of the brain that's involved in learning and memory. And among other things, there was this idea thrown out that chip or chips could be implanted in the hippocampus that would allow greater than normal memory abilities, perhaps. That's one idea. Sure. Another idea that I heard about in these discussions was, for instance, that you would have some chips in your brain and I would have some chips in my brain and you and I could just sit here, look at e looking at each other or not nodding or shaking our heads and essentially hear each other's thoughts. 
+0  
+01:03:16
+Sure. Which sounds outrageous, but of course, why not? Wh why should we constrain ourselves to, as our good friend Eddie Chang and who's a neurosurgeon who was already on this podcast once before said, speech is just the shaping of breath as it exits our lungs. Right. Incredible. Really when you think about it. But we don't necessarily need speech to hear and understand each other's thoughts because the neural signals that produce that shaping of the lungs come from some intention. You know, I have some idea, although it might not seem like it about what I'm going to say next. So is that possible that we could sit here and just hear each other's thoughts and Yeah. And also how would we restrict what the other person could hear? 
+2  
+01:03:57
+Yeah. Well, so absolutely. I mean, think about the fact that we could do this right now. If you pulled out your phone and started texting me on my phone and I looked down and started texting you, we would be communicating without looking at each other or talking, shifting that function from a phone to an implanted device. It requires no magic advance, no leap forward. It's technology we already know how to do. If we say put a device in that allows you to control a keyboard and a mouse, which is our stated intention for our first human clinical trial, 
+0  
+01:04:34
+Or I, and again, I'm deliberately interrupting, or I can text an entire team of people Sure. Simultaneously. Sure. And they can text me and in theory I could have a bunch of thoughts and 5, 10 50 people could hear. Right. Or probably more to their preference, they could talk to me. Yeah. 
+2  
+01:04:53
+And, and so, you know, texting each other with our brains is maybe an uninspiring rendition of this, but it, it's not very difficult to imagine the implementation of the same device in a more verbally focused area of the brain that allows you to more naturally speak the thoughts that you're thinking and have me have them rendered into speech that I can hear, you know, know maybe via a bone conducting implant. So silently here 
+0  
+01:05:21
+Or, or not silently, like I could, let's say I was getting off the plane and I wanted to let somebody at home know that I had arrived. I might be able to think in my mind, think their first name, which might cue up a, a device that would then play my voice to them and say, just got off the plane, I'm gonna grab my bag and then I'll give you a call. 
+2  
+01:05:39
+Right. On their home, Alexa. Right. 
+0  
+01:05:42
+So that's all possible. Meaning we know the origin of the neural signals, right. That gives rise to speech. We know the different mechanical and neural apparat tie, like the cochlea, eardrums, et cetera, that transduce sound waves into electrical signals. Right. Essentially all the pieces are known. We're just really talking about like 
+2  
+01:06:08
+Refining 
+0  
+01:06:08
+It. Yeah. Refining it and reconfiguring it. It is, it's, I mean it's not an easy problem, but it's really an engineering problem rather than a neuroscience problem. 
+2  
+01:06:17
+For that, for that use case, you know, ver non-verbal communication, you might say that's a solved problem in a very crude, disjointed way. So some labs have solved, you know, part one of it, some labs have solved part two of it. There are products out there that solve, you know, say the implanted bone conduction part of it for the, for the deaf community. There are n there are no implementations I'm aware of, that are pulling all that together into one product that's a streamlined package from end to end. I think that's a few years down the road. 
+0  
+01:06:53
+And we, I think have some hints of how easily or poorly people will adapt to these, let's call them novel transformations. Yeah. A few years ago was on Instagram and I saw a post from a woman, her name is Kasar Jacobson, and she is deaf since birth and can sign and to some extent can read lips, but she was discussing neurosensory. So this is a, a device that translates sound in the environment, into touch sensations on her hand or wrist. She's a admirer of birds and all things avian. 
+0  
+01:07:34
+And I reached out to her about this device cuz I'm very curious because this is a very interesting use case of, of neuroplasticity in the sensory domain. Sure. Which is a fascination of mine. And she said that yes indeed. It, it afforded her novel experiences Now when walking past, say pigeons in the park, if they were to make some goo, whatever sounds that pigeons make right. That she would feel those sounds and that indeed it enriched her experience of those birds in ways that obviously it wouldn't otherwise. I haven't followed up with her recently to find out whether or not ongoing use of the neurosensory has made for a better, worse, or kind of equivalent experience of avians in the world, which for her is, is a near obsession. 
+0  
+01:08:24
+So she delights in them. What are your thoughts about kind of peripheral devices like that periphery me? Peripheral meaning outside of the, the skull no requirement for a, a surgery. Do you think that there's a more immediate or even a, a just generally potent use case for peripheral devices? And do you think that those are going to be used more readily before the kind of brain surgery requiring devices are used? 
+2  
+01:08:54
+Yeah, certainly the barrier to entry is lower. The barrier to adoption is low. You know, if you're making a, a tactile glove, that's hard to say no to when you can slip it on and slip it off and not, not have to get your skin cut at all. What, you know, again, there's no perfect measure of the efficacy of a device, of one device compared to another, especially across modalities. But one, one way that you can start to compare apples to oranges is bit rate, you know, useful information in or out of the brain as, you know, transformed into digital data. And so you can put a single number on that. 
+2  
+01:09:36
+And you have to ask, when you look at a device like that is, what is the bit rate in, what is the bit rate out? How much information are you able to useful convey into the system and get out of the system, into the body, into the brain. And I think there's, what we've seen in the early stabs at this is that there's a very low threshold for bit rate on some of the devices that are trying to avoid, you know, a direct brain surgery. 
+0  
+01:10:05
+Could, could you perhaps say what you just said, but in a way that maybe people who aren't as familiar with thinking about bit rates Sure. Might, might, might be able to digest there. I'm, I'm referring to myself. I mean, I, I understand bit rate. I understand that adding a new channel of information is just that adding information. Are you saying it's important to understand whether or not that new information provides for novel function or experience and to, and to what extent is the, the newness of that valid and adaptive? 
+2  
+01:10:39
+Well, I'm saying more, it's hard to measure utility in this space. It's hard to, you know, put a single metric, single number on how useful a technology is. One crude way to try to get at that is, is bit rate. Think of it as, as back in the days of dial up modems, the bit rate of your modem was, you know, 56 K or 96 
+0  
+01:11:04
+Hear the sound of the dial up in the background completely. Yeah. 
+2  
+01:11:08
+That was a bit rate that thankfully kept steadily going up and up and up. Your, your internet service provider gives you a number that is the maximum usable data that you can transmit back and forth from the internet. That's a useful way to think about these assistive devices. How much information are you able to get in, into the brain and outta the brain useful. And right now that that number is very small even compared to the old modems. But you have to ask yourself, when you're looking at a technology, what's the ceiling, what's the theoretical maximum? And for a lot of these technologies, the theoretical maximum is, is very low, disappointingly low, even if it's perfectly executed and, and perfectly developed as a technology. 
+2  
+01:11:54
+And I think the thing that attracts a lot of us to a technology like Neuralink is that the ceiling is incredibly high. There's no obvious reason that you can't interface with millions of neurons as this technology is refined and, and developed further. So that's the kind of wide band, you know, high bandwidth brain interface that you want to develop if you're talking about an a semantic prosthetic, an AI assistant to your cognitive abilities, you know, the more sci-fi things that we think about in the coming decades. 
+2  
+01:12:33
+So the, it's an important caveat when you're evaluating these technologies, you really want it to be something that you can expand off into the sci-fi. So 
+0  
+01:12:45
+Let's take this a step further because as you're saying this, I'm realizing that people have been doing exactly what Neurolink is trying to do now for a very long time. Let me give you an example. People who are blind, who have no pattern vision, have used canes for a very long time. Now the cane is not a chip, it's not a, an electrode, it's not neurosensory. Right. None of that stuff. What it is, is essentially a, a stick that has an interface with a surface. So it's swept back and forth across the ground and translating what would otherwise be visual cues into somatic sensory cues. 
+0  
+01:13:28
+Sure. And we know that blind people are very good at understanding, even when they are approaching, say, a curb edge, because they are integrating that information from the tip of the cane up through their somato sensory cortex and their motor cortex with other things like the changes in the, the wind and the sound as a round a corner. And here I'm imagining a like a corner in San Francisco downtown. Whereas you, as you get to the corner, it, it's a completely different set of auditory cues. And very often we know, and this is because my laboratory worked on visual repair for a long time, I talked to a lot of blind people who use different devices to navigate the world that they aren't aware of the fact that they're integrating these other cues, but they nonetheless do them subconsciously. 
+0  
+01:14:13
+Right. And in doing so, get pretty good at navigating with a cane. Right now a cane isn't perfect, but you can imagine the other form of, of navigating as a blind person, which is to just attach yourself or attach to you another nervous system. The best that we know being a dog, a sighted dog. Sure. That can cue you again with stopping at a curbs edge or even if they're some individuals that might seem a little sketchy. Dogs are also very good at sensing different arousal states and others threat danger. Sure. I mean, they're exquisite at it. Right. So here what we're really talking about is taking a, a cane or a bi, another biological system, essentially a whole nervous system and saying this other nervous system's job is to get you to navigate more safely through the world. 
+0  
+01:15:01
+Right. In some sense, what Neurolink is trying to do is that, but with robotics to insert them and chips, which raises the, the, the question people are gonna say finally a question. The question is this, we hear about bmi, brain machine interface. Right? Which is really what Neural Inc specializes in. We also hear about ai another example where there's great promise and great fear, right? We hear about machine learning as well. To what extent can these brain machine interfaces learn the same way a seeing eye dog would learn, but unlike a seeing eye dog continue to learn over time and get better and better and better, because it's also listening to the nervous system that it's trying to support. 
+0  
+01:15:46
+Right. Put simply, what is the role for AI and machine learning in the type of work that you're doing? That's 
+2  
+01:15:52
+A great question. I, I think, you know, it goes both ways. Basically what you're doing is taking a very crude software intelligence, I would say not exactly a full, full-blown ai, but some well-designed software that can adapt to changes in firing of the brain. And you're coupling it with another form of intelligence, a human intelligence, and you are allowing the two to learn each other. So undoubtedly the human that has a neural length device will get better at using it over time. Undoubtedly, the software that the neural link engineers have written will adapt to the firing patterns that, that the device is able to record and over time focus in on meaningful signals toward movement. 
+2  
+01:16:40
+Right. So if a neuron is fire, a high firing rate, when you intend to move the mouse cursor up and to the right, it doesn't know that when it starts, when you first put this in, it's just a random series of signals as far as the chip knows. But you start correlating it with what the person, what you know, the person wants to do as expressed in a series of games. So you, you assume that you know that the person wants to move the mouse on the screen to the target that's shown because you tell them that's the goal. And so you start correlating the activity that you record when they're moving toward an up and right target on a screen with that firing pattern. 
+2  
+01:17:22
+And similarly for up and left down and left down and right. And so you, you develop a model semi intelligently in the software for what the person is intending to do and let the person run wild with it for a while and they start to get better at using the model presented to them by the, by the software as expressed by the mouse moving or not moving properly on the screen. Right. So it's, imagine a scenario where you're asking somebody to play piano, but the, the sound that comes out of each key randomly shifts over time. Very difficult problem. But a human brain is good enough with the aid of software to solve that problem and, and map well enough to a semi sable state that they're gonna know how to use that mouse even when they say, turn the device off for the night, come back to it the next day. 
+2  
+01:18:14
+And some of the signals have shifted. 
+0  
+01:18:17
+So you're describing this, I'm, I'm recalling a recent experience. I got one of these rowers, you know, for to exercise and I am well aware that there's a proper row stroke and there's a, a improper roro and most everybody including me, who's never been coached in rowing, gets on this thing and pushes with their legs and pulls with their arms and back. And it's some mix of incorrect and maybe a smidgen of correct type execution. There's a function within the rower that allows you, in this case me, to play a game where you can actually, every rosero you generate arrows on toward a dart board. Hmm. And it knows whether or not you're generating the appropriate forces at the given segment of the row, the initial pole when you're leaning back, et cetera, and adjust the trajectory of the arrow so that when you do a proper rose stroke, it gets closer to a bullseye and it's very satisfying. 
+0  
+01:19:11
+Sure. Because you now have a visual feedback that's unrelated to this, the kinds of instructions that one would expect, like, oh, you know, hinge your hip a bit more or, you know, splay your knees a bit more, reach more with your arms or pull first with your back. All the rowers are probably cringing as I say this cuz they're realizing the what is exactly the point, which is, I don't know how to row. But over time, simply by paying attention to whether or not the arrow is hitting the bullseye or not, more or less frequently, you can improve your roro and get, as I understand, pretty close to optimal roro in the same way that if you had a coach there telling you, Hey, do this and do that, what we're really talking about here is neurobio feedback. Sure. 
+0  
+01:19:51
+So is that analogy similar to what you're describing? 
+2  
+01:19:54
+Yeah, that's a great analogy. You know, humans are really good at learning how to play games in software. So video games are an awesome platform for us to use as a training environment for people to get better at controlling these things. In fact, it's, it's the default and the obvious way to do it is to have people and monkeys play video games. 
+0  
+01:20:15
+Do you play video games? Yeah, sure. Which video games? 
+2  
+01:20:19
+Let's see, I, you know, play old ones. I'm a little nostalgic, so I like the old Blizzard game, StarCraft and Warcraft 
+0  
+01:20:28
+And all my, I don't even know those, I remember the first Apple computers. I, I mean, I go How old are you? 
+2  
+01:20:34
+43. 
+0  
+01:20:35
+Okay. 
+2  
+01:20:35
+47. 44 now as of a few days ago. 
+0  
+01:20:37
+Oh, happy birthday. So we're a little bit offset there. Yeah. I can recall Mike Tyson's PunchOut, like the original Nintendo game. Super Mario Brothers. It's hard game. But the games, so the games you're describing, I I don't recall the, my understanding is that the, the newer games are, are far more sophisticated 
+2  
+01:20:53
+In some respects. I, I did recently find time to play cyberpunk, which was really satisfying and maybe appropriate. It's a game where the characters are all fully moderate out with cybernetic implants. Oh, perfect. But, you know, the root of the game is run around and shoot things, so maybe not so different from, you know, duck hunt or whatever from our childhoods. 
+0  
+01:21:16
+The reason I ask about video games is there's been some controversy as to whether or not they are making young brains better or worse. And I think some of the work from Adam Gazelle's lab at U C S F and other laboratories have shown that actually provided that children in particular and adults are also spending time in normal face to, let's call them more traditional face-to-face interactions that video games can actually make nervous systems that is people much more proficient at learning and motor execution. Sure. Visual detection and on and 
+2  
+01:21:48
+On. Yeah. There's some work showing that surgeons are better if they play video games. So I try to squeeze some in as a, you know, a professional development activity. 
+0  
+01:21:59
+Great, great. Well, I'm sure you're getting cheers from the, from those that like video games out there and some of the parents who are trying to get their kids to play fewer video games are, are cringing, but that's okay. We'll let them settle their familial disputes among themselves. Let's talk about pigs. 
+2  
+01:22:15
+Sure. 
+0  
+01:22:17
+Neurolink has been quite generous, I would say, in announcing their discoveries and their goals. And I, I want to highlight this because I think it's quite unusual for a company to do this. Yeah. I'm probably gonna earn a few enemies by saying this. Despite the fact that I've always owned Apple devices and from the South Bay, you know, the Apple design team is notoriously cryptic about what they're going to do next or when the next phone or computer is going to come out. Is is, is vaulted to a serious extent, neural Link has been pretty open about their goals Right. With the understanding that goals change and have to change. 
+0  
+01:22:58
+And one of the things that they've done, which I think is marvelous, is they've held online symposia where you and some other colleagues of mine from the neuroscience community, Dan Adams, who have tremendous respect for, and Elon and others there at Neurolink, have shared some of the progress that they've made in experimental animals. I'm highlighting this because I think if one takes a step back, I mean, just for most people to know about and realize that there's experimentation on animals, implantation of electrodes and so on, is itself a pretty bold move because that understandably evokes some strong emotions in people and in some people evokes extremely strong emotions. 
+0  
+01:23:39
+Sure. Neurolink did one such symposium where they showed implant devices in pigs. Right. Then they did another one. You guys did another one where it was implant devices in monkeys. Right. I assume at some point there will be one of these public symposia where the implant devices will be in a human. What was the rationale for using pigs? I'm told pigs are very nice creatures. Yeah. I'm told that they are quite smart. Right. And for all my years as a neuroscientist and having worked admittedly on every species from mice to cuttlefish to humans, to hamsters, to, you know, I confess various carnivore species, which I no longer do. 
+0  
+01:24:28
+I work on humans now for various reasons. I never in my life thought I would see a implant device in the cortex of a pig. Sure. Why work on pigs? 
+2  
+01:24:41
+Yeah. Well, let me, let me say first, Neuralink is almost entirely composed of animal loving people. The people at NAR Inc are obsessive animal lovers. There are signs up all around the office, you know, spontaneously put up by people within the organization, you know, talking about how we want to save animals, we wanna protect animals. If there was any possible way to help people the way we want to help people without using animals in our research, we would do it. It's just not known how to do that right now. And so we are completely restricted to making advances, to getting a device approval through the FDA by first showing that it's incredibly safe in animals. 
+2  
+01:25:29
+And so, 
+0  
+01:25:30
+As is the case for any medical advancement, essentially. Right. Exactly. I mean, I do wanna highlight this, that the, the FDA and the other governing bodies oversee these types of experiments and ensure that they're done with a minimum of discomfort to the animals. Of course. But I think there's an inherent speciesism right in, in most humans. Not all, some people truly see equivalence between a, a lizard and a human lizard life being equivalent to human life. Most human beings, I think in particular human beings who themselves or who have loved ones that are suffering from diseases that they hope could be cured at some point. Right. View themselves as species and feel that if you have to work on a biological system in order to solve the problem, working on non-human animals first makes sense. 
+0  
+01:26:20
+Right. To most people. Sure. But certainly there's a category of people that feels very strongly in the opposite direction. 
+2  
+01:26:26
+Sure. And you know, I think we would probably be having a very different conversation around animal research if we weren't, you know, we as a species, we as a culture weren't just casually slaughtering millions of animals to eat them every single day. And so that is a background against which the, the relatively minuscule number of animals used in research. It, it becomes almost impossible to understand why someone would point to that ridiculously small number of animals used in research when the vast, vast majority of animals that humans use and and their lives are, are done for food or 
+0  
+01:27:11
+For 
+2  
+01:27:11
+Fur. Or for fur. Yeah. Or, or these other reasons that people, you know, have historically used animals. So we, in, in that context, we do animal research because we have to, there's no other way around it. If tomorrow laws were changed and the FDA said, okay, you can do some of this early experimentation in willing human participants, that would be a very interesting option. I think there would be a lot of people that would step up and say, yes, I'm, I'm willing to participate in early stage clinical research. You 
+0  
+01:27:41
+Already volunteered. I 
+2  
+01:27:42
+Yeah. And I I wouldn't be alone. And that, you know, is a potential way that animals could maybe be spared being unwilling participants in this, on that note, to whatever extent possible, I think Neuralink goes really, really far, much, much farther than anyone I've ever heard of. Any organization I've ever heard of any, anything I've ever seen to give the animals agency in every aspect of the research we have just an incredible team of people looking out for the animals and trying to design the experiments such that they're as purely opt-in as humanly possible. 
+2  
+01:28:24
+No animal is ever compelled to participate in experiments beyond the surgery itself. So if say on a given day, our, our star monkey pager doesn't wanna play video games for smoothie, no one forces 'em to ever, 
+0  
+01:28:40
+This is a very important point, and I want to cue people to really what Matt is saying here, obviously the animals are being researched on for neural links so they don't get to opt into opt out of the experiment. Right. But what he's saying is that they play these games during which neural signals are measured from the brain because they have electrodes implanted in their brain through a surgery that thankfully to the brain is painless. Right. No pain receptors in the brain and are playing for reward. This is very different, very different than the typical scenario in laboratories around the world where people experiment on mice, monkeys, some kisses pigs or other species in which the typical arrangement is to water deprive the animals. 
+2  
+01:29:31
+We never do 
+0  
+01:29:31
+That. And then have the animals work for their daily ration of water. Right. And some people are hearing this and probably think, wow, that's barbaric. And here I'm not trying to point fingers at the people doing that kind of work. I just think it's important that people understand how the work is done. Right. In order to motivate an animal, to play a video game. Right. Depriving them of something that they yearn for is a very efficient way to do that. We 
+2  
+01:29:56
+Don't do that. We, they have free and full access to food this entire time. So they aren't hungry, they aren't thirsty. The only thing that would motivate them is if they want a treat extra to their normal rations. But there's, there's never any deprivation, there's never any adverse negative stimuli that pushes them to do anything. 
+0  
+01:30:15
+I must say I'm impressed by that decision because training animals to do tasks in laboratory settings is very hard. And the reason so many researchers have defaulted to water deprivation and, and having animals work for a ration of water is because frankly it works. Right. It allows people to finish their PhD or their postdoc more quickly than having to wait around and try and figure out why their monkey isn't working that day. In fact, having known a number of people who've done these kinds of experiments, although we've never done them in my lab, my monkey isn't working today is a common gripe among graduate students and postdocs who do this kind of work and for people who work on mice. 
+0  
+01:31:02
+Okay. So this is very important information to get across and there's no public relations statement woven into this. This is just, we're talking about the nature of the research, but I think it is important that people are aware of this. Yeah. 
+2  
+01:31:15
+It's one of the, one of the underappreciated innovations out of Neuralink is how far the animal care team has been able to, to move in the direction of humane treatment of these guys. 
+0  
+01:31:24
+Wonderful. As an animal lover myself, I can only say wonderful. Why pigs? 
+2  
+01:31:30
+Yeah. Pigs are, you know, they're actually fairly commonly used in medical device research more, you know, in the cardiac area, their hearts are, you know, somewhat similar to human hearts. How 
+0  
+01:31:43
+Big are these pigs? I've seen little pigs and I've seen big pigs. 
+2  
+01:31:45
+Yeah. There, there's a range. There's a bunch of different varieties of pig. There's a bunch of different species that, you know, you can optimize for different characteristics. There's mini pigs, there's, you know, yorkshires, there's a lot of different kind of pigs that we use in different contexts when we're trying to optimize a certain characteristic. So yeah, the pigs are, we don't necessarily need them to be smart or task performers, although occasionally we have, you know, trained them to walk on a treadmill when we're studying how their limbs move for some of our spinal cord research. But we're not, you know, recording Interesting, say cognitive data out of their minds. 
+2  
+01:32:30
+They're really just a biological platform with a skull that's close enough in size and shape to humans to be a valid platform to study the safety of the device. 
+0  
+01:32:41
+Unlike a monkey or a human, a pig I don't think can reach out and, and hit a Right. A button or a lever. Exactly. How are they signaling that they saw or sensed to something? 
+2  
+01:32:53
+Yeah. So again, the, the pigs are really just a safety platform to say the device is safe to implant. It doesn't, you know, break down or cause any kind of toxic reaction. The monkeys are where we are really doing our heavy lifting in terms of ensuring that we're getting good signals out of the device. That, that what we expect to see in humans is validated on the functional level in in monkeys. First let's 
+0  
+01:33:18
+Talk about the skull. Yeah. Years ago, you and I were enjoying a conversation about these very sorts of things that we're discussing today. And you said, you know, the skull is actually a pretty lousy biological adaptation. Far better would be a titanium plate, you know, spoken like a true neurosurgeon with a radio receiver implanted in his hand. But in all seriousness, drilling through the skull with a two millimeter hole. Certainly don't do this at home folks, please don't, don't do this. But it that, yes, that's a small entry site, but I think most people cringe when they hear about that or think about that. 
+0  
+01:33:59
+Sure. And it obviously has to be done by a neurosurgeon with all the appropriate environmental conditions in place to limit infection. What did you mean when you said that the skull is a poor adaptation and a titanium plate will be better? And in particular, what does that mean in reference to things like traumatic brain injury? I mean, are human beings unnecessarily vulnerable at the level of traumatic brain injury because our skulls are just not hard enough? 
+2  
+01:34:30
+You know, maybe I'm being too harsh about skull. The skull is very good at what it does, given the tools that we are working with as biological organisms that develop in our mother's uterus. The skull is, you know, usually the appropriate size. It's one of the hardest things in your body. That said, there are a couple puzzling vulnerabilities. Some of the, the thinnest bone in the skull is in the temporal region. This is, you know, neurosurgeons will all know that I'm heading toward a feature that sometimes darkly is called God's little joke, where the very thin bone of the, of the temporal part of the skull has one of the largest arteries that goes to the lining of the brain Right. 
+2  
+01:35:19
+Attached to the inside of it. And so this, this bone just to the side of your eye tends to fracture if you're struck there. And the sharp edges of that fractured bone very often cut an artery called the middle meningial artery that leads to a big blood clot that crushes the brain. This is how a lot of people with, you know, otherwise would be a relatively minor injury end up dying is this large blood clot developing from high pressured arterial blood that crushes the, the brain. And so why would you put the artery right on the inside of the very thin bone that's most likely to fracture? It's an enduring mystery, but this is probably the most obvious failure mode in, in, you know, the design of a human skull. 
+2  
+01:36:05
+Otherwise, you know, in terms of general impact resistance, I think the brain is a very hard thing to protect. And the, the architecture of human anatomy, probably given all other possible architectures that can arise from development, it's not that bad really. One of the interesting features in terms of shock absorption that hopefully prevents a lot of traumatic brain injury is the fluid sheath around the brain. The brain you may know is it's mostly fat. It floats in saltwater in our brains. Our brains are all floating in, in saltwater. And so with rapid acceleration deceleration, that sheath of saltwater adds a marvelous protective cushion against development of, you know, bruising of the brain say, or bleeding in the brain. 
+2  
+01:36:58
+And so I think for any flaws in the design that do exist, you, you can imagine things being a lot worse. And there's probably a lot fewer TBIs than would exist if a human designer was taken a first crack at it. 
+0  
+01:37:14
+As you described the, the thinness of this temporal bone in the, in the presence of a critical artery just beneath it. I'm thinking about most helmets and here I also want to cue up the fact that, well, whenever we hear about TBI or CTE brain injury, people always think football hockey, but most traumatic brain injuries are things like car accidents or construction work. Right. It's not football and hockey. For some reason, football and hockey and boxing get all the attention. Yeah. But my colleagues that work on traumatic brain injury tell me that most of the traumatic brain injury they see is somebody slips at a party and hits their head or, you know, was in a car accident or environmental, environmental accidents of various kinds. 
+0  
+01:38:05
+To my mind, most helmets don't actually cover this region close to the eyes. Yeah. So is there, is, is there a also a failure of helmet engineering that, you know, I, I can understand why you'd want to have your peripheral vision out the sides of your eyes, periphery of your eyes, but it seems to me, if this is such critical real estate, why, why isn't it being better protected? 
+2  
+01:38:25
+You know, I'm no expert in helmets, but I don't think we see a lot of epidural hematomas in sports injuries. To get this kind of injury, you usually need a really focal blunt trauma. Like the baseball bat to the head is a classic mechanism of injury that would lead to, to a temporal bone fracture and epidural hematoma with sports injuries. You know, you don't often see that, especially in football with, you know, a a sharp, sharper object coming in contact with the head. It's usually another helmet. Right. Is the, the mechanism of injury. 
+2  
+01:39:06
+So I I, I can't think off the top of my head of an instance of this exact injury type in sports. 
+0  
+01:39:14
+You spent a lot of time poking around in brains of humans. And while I realize this is not your area of expertise, you are somebody who I am aware, you know, cares about his health and the health of your family. And I think generally people's health, when you look out on the landscape of things that people can do and shouldn't do if their desire is to keep their brain healthy. Yeah. Do any any data or any particular practices come to mind? I mean, I think we've all heard the obvious one. Don't, don't get a head injury. Right. If you do get a head injury, make sure it gets treated and don't get a second head injury. Right. 
+0  
+01:39:53
+But those are sort of duh type answers that I'm able to give. So I'm curious about the answers that perhaps I'm not able to give. 
+2  
+01:40:01
+Yeah. Well the, you know, the obvious ones is one that you, you talk about a lot and I see a lot of the, the smoldering wreckage of humanity, you know, in the operating room and in the emergency room for people that come in. You know, I, I work, my practice is in San Francisco right next to the Tenderloin. And so a lot of people that end up coming in from the Tenderloin have been drinking just spectacular amounts of alcohol for a long time. And their brains are, you know, very often on the scans they look like small walnuts inside their empty skull. They're so much atrophy that happens with a, an alcohol soaked brain chronically that I would say that's, you know, far and away the most common source of brain damage that many of us just volunteer for. 
+2  
+01:40:51
+And it's, you know, when you look at the morbidity, kind of the, the human harm in aggregate that's done, it's mystifying that, that it's not something that we are all paranoid about. 
+0  
+01:41:04
+We're tr people will think that I don't drink at all. I'll occasionally have a drink. I I could take it or leave it. Frankly, if all the alcohol in the plant disappeared, I wouldn't notice. But I, I do occasionally have a drink, maybe one per year or something like that. But I am shocked at this current state of affairs around alcohol consumption and advertising, et cetera. When I look at the data, mainly out of the UK Brain Bank, which basically shows that for every drink that one has on a regular basis, when you go from zero to one drink per week, there's more brain atrophy, thinning of the gray matter cortex. Right. You go from one to two more thinning, you go from two to three, and there's a near linear relationship between the amount that people are drinking and the amount of brain atrophy. 
+0  
+01:41:46
+Right. And to me it's like, it's just sort of obvious from the, these large scale studies that as you point out, alcohol atrophies is the brain. Yeah. It, it, it kills neurons. Right. And I, I don't have any bias against alcohol or people that drink. I know many of them, but it does seem to me kind of shocking Yeah. That we're talking about, you know, the resveratrol and red wine, which is at, you know, infant intestinally, small amounts and not even clear resveratrol is good for us anyway. Right. By the way, a matter of debate I should point out. But so alcohol, certainly alcohol and excess is bad for the brain. Sure. In terms of, okay, so we have head hits, bad alcohol, bad, you're working, as you mentioned, you're the tenderloin. 
+0  
+01:42:32
+Is there any awareness that amphetamine use can, can disrupt brain structure or function? 
+2  
+01:42:38
+You know, that that's not an area that I've spent a lot of time researching in. I, you know, I incidentally take care of people that have used every substance known man in quantities that are, you know, spectacular. But I, I haven't specifically done research in that area. I'm not super well versed on the literature. 
+0  
+01:42:56
+Yeah. I ask in part because maybe, you know, a colleague or will come across a colleague who's working on this as there's just such a, a incredible increase in the use of things like Adderall, ritalin, modal, aol, which I think in small amounts in clinical, clinically prescribed situations can be very beneficial. But let's be honest, many people are using these on a chronic basis. Right. And I don't think we really know what it does to the brain, aside from increasing addiction for those substances. Right. That's very 
+2  
+01:43:26
+Clear. Well, for better or worse, we're generating a massive dataset right now. 
+0  
+01:43:31
+Well put, I'd like to briefly go back to our earlier discussion about neuroplasticity. Sure. You, you made it an interesting statement, which is that we are not aware of any single brain area that one can stimulate in order to invoke plasticity. Right. This malleability of neuro architecture. Years ago, Mike Meek and colleagues at U C S F did some experiments where they stimulate nucleus basalis and paired that stimulation with eight kilohertz tone. Or in some cases they could also stimulate a different brain area, the ventral pigment area, which causes release of dopamine and pair it with a tone. 
+0  
+01:44:11
+And, and in it seemed in every one of these cases, they observed massive plasticity. Hmm. Now I look at those data and I compare them to the kind of classic data. I think it was Carl Lashley that did these experiments where they would take animals and they'd scoop out a little bit of cortex, put the animal back into a learning environment, and the animal would do pretty well, if not perfectly sure. So they'd scoop out a different region of cortex and a different animal. And by the end of maybe three, four years of these kinds of lesion experiments, they referred to the equal potential of the cortex. Meaning they concluded that it didn't matter which piece of the cortex you took out Yeah. That there was no one critical area. 
+0  
+01:44:52
+So on the one hand, you've got these experiments that say, you know, you don't really need a lot of the brain. Right. And, and you, every once in a while a news story will come out where they'll, a patient, a person will go in for a brain scan for some other reason or an experiment and the person seems perfectly normal and then like missing half their cortex. Right. And then on the other hand, you have these experiments like the stimulation of basalis or vta where you get massive plasticity from stimulation of one area. I was, I've never been able to reconcile these kinds of discrepant findings. And so I'd really like just your opinion on this. Sure. You know, one, is it about the brain as an organ that lets it be both so critical at the level of individual neurons in circuits so, so critical. 
+0  
+01:45:35
+And yet at the same time it's able to circumvent these what would otherwise seem like massive lesions and holes Yeah. In 
+2  
+01:45:44
+Itself. Yeah. I I mean a lot of, a lot of it to reconcile those experiments, you first account for the fact that they're probably in different species, right? You take out a particular portion of a pig or a rabbit brain, a small amount, you might not see a difference, but a small portion of a human brain say the part most interested in coordinating speech or finger movement. And you're gonna see profound losses or, or visual cortex. Right. I take out a small portion of v1 and you'll, you'll have a visual deficit. And so species matters, age matters. If you take out half of the brain in a very young baby, that baby has a reasonable chance of developing high, a high degree of function by having the remaining half subsume, some of the functions lost on the other side because they're very, very young and their brain is still developing. 
+2  
+01:46:42
+It's, it's to some degree a blank slate with extremely high plasticity over many years. So that can, can overcome a lot of deficits. Taking an adult animal's brain that isn't very well differentiated functionally to begin with. You might not see those deficits. So apparently there's a lot of redundancy as well. Right. There's a lot of, say, cerebellar and spinal circuits in other animals that generate stereotyped behavior patterns and might not need the brain at all to, to perform, say, a walking movement or, or some other sequences of motor activities. So a lot of that depends on the experimental setup. 
+2  
+01:47:24
+I would say in general, adult humans are very vulnerable to losing small parts of their brains and losing discreet functions. 
+0  
+01:47:32
+I'm gonna take the liberty of asking a question that merges across neural link and Tesla. I could imagine that cars, whether or not they're on autopilot mode or being driven by the human directly and society generally would benefit from knowing whether or not a human is very alert or sleepy. Sure. I don't own a Tesla, perhaps this technology already exists, but is there any idea that a simple sensor, maybe even a just eyelid position or pupil size or head position could be introduced to a car like the Tesla or another car for that matter? 
+0  
+01:48:17
+Yeah. And resolve a, a common problem, which is that when people are less alert, not just when people fall asleep, but the simple drop in alertness that occurs when people are sleepy is my read of the data is responsible for approximately a third, a third. It's incredible of accidents between vehicles and then of course some percentage of those are gonna be lethal accidents. So in terms of preserving life, this might seem like a minor case, but it's actually a major case scenario. Yeah. 
+2  
+01:48:47
+I, you know, I, I have no, you know, special insight into how Tesla software works. I know they have brilliant engineers. When I, I have a Tesla, when I drive it, it seems to know when I'm looking at the road versus not. And it yells at me if I'm not looking at the road. So 
+0  
+01:49:05
+How does it do that? And what voice does it use? 
+2  
+01:49:07
+There's a small camera up by the rear view mirror and I think it's a simple eye track. My, my guess here is that it's a simple eye tracking program. And so it may already be the case that it's implemented, that it's detecting whether your eyes are open or not. Obviously, you know, it's not strict. It's not stringent because sunglasses, and I've seen forms on the internet where people tape over that small camera 
+0  
+01:49:37
+So they, so they can vault. Oh goodness. 
+2  
+01:49:40
+But you know, I think they're definitely making efforts to try to try to save lives here. 
+0  
+01:49:46
+Incredible. I say incredible just because I think I'm fortunate enough to live in a lifetime where there were, there were no electric cars when I was growing up and now things are moving Oh, so fast. No pun intended. What is your wish for brain machine interface and brain augmentation? So let, let's, let's assume that, that the clinical stuff can be worked out or maybe you have a pet clinical condition that you just are just yearning to see resolved. Yeah, that would be fine too. But in addition to that, you really just expand out, let's say we can extend your life 200 years or we're thinking about the kind of world that your children are going to live in and their grandchildren will live in. 
+0  
+01:50:32
+What do you think is really possible? Yeah. With brain augmentation and brain machine interface. And here please feel no bias whatsoever to answer in a way that reveals to us your, your incredible empathy and consideration of clinical conditions. Cuz w that's how you spend your days, is fixing patients and helping their lives be better. So if it lands in that category, great. But for sake of, of fun and for sake of delight and for sake of really getting us the audience to, to understand what's really possible here. Yeah. Please feel no shackles. Yeah. 
+2  
+01:51:12
+Well, you know, I, I love the idea down the road and we're talking, you know, a 10 year, maybe 20 year timeframe of humans just getting control over some of the horrible ways that their brains go wrong. Right? So I think everybody at this point has either known someone or second order known someone, a friend of a friend who has been touched by addiction or depression, suicide, obesity, these functions of the brain or, or malfunctions of the brain, or what drives me. These are the things that I want to tackle in my career. 
+2  
+01:51:55
+You know, in terms of my kids' lifetime. I'm thinking, you know, full human expansion of human cognition into ai, full immersion in the internet of your cognitive abilities. Having no limitation for what you think as bottlenecked by needing to read the Wikipedia article first, to have the data to inform your thoughts. Having communication with anyone that you want to unrestricted by this, you know, flapping air, past meat on your face. 
+2  
+01:52:35
+It, it's a, you know, a a means of communication that's ridiculously prone to being misunderstood. It's also a tiny narrow bottleneck of communication. We're, you know, trying to send messages back and forth through a tiny straw. And there's no reason that needs to necessarily be true. It's the way things have always been, but it isn't the way things are going to be in the future. And I think there's a, you know, a million very sci-fi possibilities in terms of banding human minds together to be even more potent as a, as a multi-unit organism, you know, as an opt-in multi brainin, you know, these are things that are so far down the road, I can't even directly see how they would be, IM implemented, but the technology we're working on is a little crack in the door that allows some of this stuff to even be thought about in a realistic way. 
+2  
+01:53:35
+To that, to that point, I, you know, encourage anyone who is, you know, excited about things like that, you know, especially mechanical engineers, software engineers, robotics engineers, come to the Neuralink website and look at the jobs we've got. We need the brightest people on the planet working on these, the hardest problems in the world, in my opinion. And so if you wanna work on this stuff, come help us. 
+0  
+01:54:00
+Well, I have several responses to what you just said. First off, I'll get the, the, the least important one out of the way, which is that years ago I applied for a job at neurolink. The neural link website at that time was incredibly sparse, right. It was just at Neurolink and it said, if you're interested, give us your email. So I put my email there, I got no response. So yeah, the, they made a wise choice in terrible error, 
+2  
+01:54:26
+Terrible 
+0  
+01:54:26
+Loss. Now, fast forward several years, I am very grateful and I think very lucky that you who passed through, fortunately for me, through my lab at one point, and we had some fun expeditions together in the wild neural explorations. So we can talk about some other time as well as I'm learning from you as you pass through your time at Stanford, but have arrived there at Neurolink. And, and I'll say that they're very lucky to have you and folks like Dan Adams, who I've known for your very long time. So phenomenal neurosurgeons like yourself, neuroscientists and vision scientists like Dan and others. 
+0  
+01:55:09
+It's really an incredible mission. So I really wanna start off by saying thank you to you and all your colleagues there. I know that Neuralink is really tip of the spear in being public facing with the kinds of things they're doing and, and being so forthcoming about how that work is done in animals and exactly what they're doing. And that's a very brave stance to take. Yeah. Especially given the nature of the work, but, 
+2  
+01:55:32
+Well that's classic Elon, right? He, he doesn't keep secrets in public too commonly. He tells you what he's going to do and then he does it. And people are always amazed by that. You know, he releases the Tesla master plan and tells you exactly what the company intends to do for the next several years. And people assume that there's some subterfuge, that he is misdirecting, but it's, it's right out there in the open. And I think Neurolink follows in that path of, you know, we want people to know what we're doing. We want the brightest people in the world to come help us. We, we want to be able to help patients. We want, you know, the most motivated patients with quadriplegia to, you know, visit our patient registry and, and sign up to be considered for clinical trials. 
+2  
+01:56:17
+That that will happen in the future. 
+0  
+01:56:19
+We'll put a link to that, by the way. So maybe just the direct call could happen Now. So you, this is for people who are quadriplegic or who know people who are quadriplegic, right. Who are interested in being part of this clinical trial. 
+2  
+01:56:32
+It's a patient registry right now that we're just collecting information to see who might be eligible for clinical trials. That'll happen in the future. We're still working with the FDA to hammer out the details and, and get their final permission to proceed with the 
+0  
+01:56:46
+Trial. Great. So please see the note in the show. Note the link, excuse me in the, in the show note captions for that. Yeah. I, I want to thank you guys for your stance being public facing and also doing the incredibly hard work. I also think the robotics aspect, which you've clarified for me today, is extremely forward thinking and absolutely critical. So a lot of critical engineering that no doubt will wick out into other domains of neurosurgery and medical technology, not just serving Neurolink mission directly. And I really want to thank you, first of all for coming here today and taking time out of your important schedule of seeing patients and doing brain surgery. Literally have to go do it time away from your family and time away from your mission at Neurolink briefly to, to share with people what you guys are doing. 
+0  
+01:57:34
+As I mentioned before, there, there's a lot of mystique around it. And even despite the fact that Neurolink has gone out of their way to try and erase some of that mystique, this to me is the clearest picture ever to my knowledge that has been given about what's going on there and, and the, the stated and the real mission and what's going on at the level of, of, of nuts and bolts and, and guts and brains and this kind of thing. And I really just want to thank you also for, for being you, which is perhaps sounds like a, a kind of an odd thing to hear, but I think as made apparent by the device implanted in your hand, you don't just do this for a job. You live and breathe and embody, truly embody this stuff around the nervous system and trying to figure out how to fix it, how to make it better. 
+0  
+01:58:22
+Yeah. And you live and breathe it. And I know you're deep love for it. So I want to thank you for not just the brains that you put into it and the energy you put into it, but also for the, the heart that you put into it. Thanks 
+2  
+01:58:34
+For that, Andrew. I appreciate that. We, we just wanna help people. We wanna make things better. 
+0  
+01:58:39
+Well, I know that to be be true knowing you, and thank you again for coming here today, and I look forward to another round of discussion and whenever the time happens to be when these incredible technologies have spelled out to the next major milestone. Thank you. Thank you for joining me for today's discussion with Dr. Matthew McDougal, all about the human brain and how it functions, how it breaks down, and the incredible efforts that are being carried out at neurolink in order to overcome diseases of brain and nervous system function and to augment how the human brain works. If you'd like to learn more about Dr. McDougal's work and the specific work being done at neurolink, please see the links that we've provided in the show. 
+0  
+01:59:20
+Note captions, if you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please subscribe to the podcast on Spotify and Apple. And in addition on both Spotify and Apple, you can leave us up to a five star review. If you have questions for me or topics you'd like me to cover on the Huberman Lab podcast or guests that you'd like me to consider inviting on the huberman Lab podcast, please put that in the comments on YouTube. I do read all the comments. In addition, please check out the sponsors mentioned the beginning and throughout today's episode. That's the best way to support this podcast. 
+Momentous (Ad)  
+01:59:54
+Not so much on today's episode, but on various previous episodes of the Huberman Lab podcast, we discuss supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them for things like enhancing sleep focus and hormone support, the Huberman Lab podcast is proud to have partnered with Momentous supplements. If you'd like to hear more about the supplements discussed on the huberman Lab podcast, please go to live momentus spelled os.com/huberman. Again, that's live momentus.com/huberman. 
+0  
+02:00:20
+If you're not already following the huberman Lab podcast on social media, we are huberman Lab on Instagram, Twitter, Facebook, and LinkedIn. And on all those places, I focus on material that somewhat overlaps with content from the Huberman Lab podcast, but often is distinct from the content covered on the Huberman Lab podcast. So again, it's Huberman Lab on all social media channels. For those of you that haven't already subscribe to our so-called Neural Network newsletter, this is a completely zero cost monthly newsletter that has summaries of podcast episodes and so-called toolkits. Toolkits are lists of about a page to two pages long that give the critical tools, for instance, for optimizing sleep or for neuroplasticity or deliberate cold exposure or deliberate heat exposure, optimizing dopamine. 
+0  
+02:01:02
+Again, all available to you at zero cost. You simply go to huberman lab.com, go to the menu tab in the corner, scroll down a newsletter. You provide us your email. We do not share your email with anybody. And in addition to that, there are samples of toolkits on the huberman lab.com website, again, under newsletter, and you don't even have to sign up to access those, but I think most people do end up signing up for the newsletter because it's rich with useful information and again, completely zero cost. Thank you once again for joining me for today's discussion with Dr. Matthew McDougal. And last but certainly not least, thank you for your interest in science.

@@ -1,0 +1,1205 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. Karen Parker: The Causes & Treatments for Autism
+Published: 12/11/2023
+12/11/2023 - 2h 56m 28s
+ - 
+US
+Downloaded:
+(in RSS feed: 2h 51m 19s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+Andrew Huberman  
+00:00:00
+Welcome to the Huberman Lab Podcast, where we discuss science and science based tools for everyday life. I'm Andrew Huberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr Karen Parker. Dr. Karen Parker directs the social Neurosciences Research program at the Stanford University School of Medicine. The goal of her laboratory's research is to understand the biological basis of social functioning at every stage of the lifespan. So this includes the bonds that form between infant and parent or parents, as well as the bonds that occur between children as they grow up, which of course form the template for social functioning when we become adults. 
+Andrew Huberman  
+00:00:43
+Dr. Parker's research is heavily focused on Autism and Indeed on all forms of Autism spectrum disorders. Today we discuss autism. We talk about the prominent theories and current understanding of the biological basis for Autism, as well as what still remains mysterious and unresolved about The, Causes of Autism. You may have heard that the incidents, or perhaps just the diagnosis of autism has dramatically increased in the last 10 to 15 years, and today we discuss why it is In fact that the incidents, not just the diagnosis, but the of Autism has so dramatically increased. And perhaps most excitingly, Dr. Parker shares with us brand new research findings from her laboratory that point to a new understanding of what Causes Autism, as well as a novel treatment for autism. 
+Andrew Huberman  
+00:01:29
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. 
+Eight Sleep (Ad) huberman 
+00:01:46
+Our first Sponsor is Eight Sleep eight. Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. I've spoken many times before on this podcast about the fact that sleep is the foundation of mental health, physical health, and performance. Now, a key component of getting a great night's sleep is that in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees And. In order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. One of the best ways to make sure that those temperature changes occur at the appropriate times at the beginning and throughout and at the end of your night when you wake up, is to control the temperature of your sleeping environment. And that's what Eight Sleep allows you to do. It allows you to program the temperature of your mattress and sleeping environment such that you fall and stay deeply asleep easily and wake up each morning feeling incredibly refreshed and energized. I've been sleeping on an Eight Sleep mattress cover for almost three years now, and it has dramatically improved the quality of my sleep. So much so that when I travel and I'm at a hotel or an Airbnb and I don't have access to my Eight Sleep, I very much look forward to getting home because my sleep is always better when I sleep on my Eight Sleep mattress cover. If you'd like to try Eight Sleep, you can go to Eight Sleep dot com slash Huberman to get $150 off their Pod three mattress cover. Eight Sleep currently ships in the USA Canada UK select countries in the EU and Australia. Again, that's Eight Sleep dot com slash Huberman. 
+LMNT (Ad) drinklmnt.com/huberman 
+00:03:10
+Today's episode is also brought to us by Element Elements is an electrolyte drink that has everything you need and nothing you don't. That means zero sugar and the appropriate ratios of the electrolytes, sodium, magnesium, and potassium And. that correct ratio of electrolytes is extremely important because every cell in your body, but especially your nerve cells, your neurons relies on electrolytes in order to function properly. So when you're well hydrated and you have the appropriate amount of electrolytes in your system, your mental functioning and your physical functioning is improved. I drink one packet of Element dissolved in about 16 to 32 ounces of water when I wake up in the morning, as well as while I exercise. And if I've sweat a lot during that exercise, I often will drink a third element packet, dissolved in about 32 ounces of water after I exercise. Element comes in a variety of different flavors, all of which I find really tasty. I like the citrus, I like the watermelon, I like the raspberry. Frankly, I can't pick just one. It also comes in chocolate and chocolate mint, which I find tastes best if they are put into water, dissolved and then heated up. I tend to do that in the winter months because of course, you don't just need hydration on hot days and in the summer and spring months, but also in the winter when the temperatures are cold and the environment tends to be dry. If you'd like to try Element, you can go to drink element spelled LMNT dot com slash Huberman to try a free sample pack. Again, that's drink element.com/ Huberman. 
+AeroPress (Ad)  
+00:04:32
+Today's episode is also brought to us by AeroPress. AeroPress is similar to a French press for making coffee, but is In fact a much better way to make coffee? I first learned about AeroPress well over 10 years ago, and I've been using one ever since. AeroPress was developed by Alan Adler, who was an engineer at Stanford, and I knew of Alan because he had also built the so-called a Robbi Frisbee, which I believe at one time perhaps still now, held the Guinness Book of World Records for furthest throne object. and I used to see Alan, believe it or not, at parks around Palo Alto testing out different a Robbi Frisbees. So he was sort of famous in our community for developing these different feats of engineering that turned into commercial products. Now, I love coffee. I'm somebody that drinks coffee nearly every day, usually about 90 to 120 minutes after I wake up in the morning. Although not always. Sometimes if I'm going to exercise, I'll drink coffee first thing in the morning, but I love, love, love coffee, and what I've personally found is that by using the AeroPress, I can make the best possible tasting cup of coffee. I don't know what exactly it is in the AeroPress that allows the same beans to be prepared into a cup of coffee that tastes that much better as compared to any other form of brewing that coffee, even the traditional French press, the AeroPress is extremely easy to use and it's extremely compact. In fact, I take it with me, Whenever, I travel, and I use it on the road in hotels, even on planes. I'll just ask for some hot water and I'll brew my coffee or tea right there on the plane. If you'd like to try AeroPress, you can go to AeroPress dot com slash Huberman. That's A-E-R-O-P-R-E-S s.com/ Huberman to get 20% off any AeroPress coffee maker, AeroPress ships, anywhere in the usa, Canada, and over 60 other countries around the world. Again, that's AeroPress dot com slash Huberman to get 20% off. 
+Andrew Huberman  
+00:06:22
+And now for my discussion with Dr. Karen Parker, Dr. Karen Parker, welcome. 
+Karen Parker  
+00:06:27
+Thank you. It's great to be here. 
+Andrew Huberman  
+00:06:29
+This is going to be perhaps one of the longer conversations that we've been able to have over the years, in part because Whenever I see you on campus. We're heading in our respective directions, but I'm very excited because the topic of Autism is one that is on a lot of people's minds and I think The first question that always comes up it seems is whether or not the Frequency of autism is Indeed increasing or whether or not the field of medicine is getting better at detecting what was always there over time. Do we have any clear answers to that? 
+Karen Parker  
+00:07:05
+Well, I think it's a multifactorial answer. So we're getting better at detecting autism, right? So in the past, we were diagnosing kids at nine or 10 years of age, right? And now clinicians are able to reliably diagnose kids at two to three years of age, right? So there's more people, there are, pediatricians have autism screeners now. So when you bring in your baby and over the first couple years of life, you're filling out screeners that are looking for Autism symptoms, right? So, so there's just a lot more awareness around autism, but the rates have increased to now one in 36 US children have a diagnosis of autism, which is over two years ago. 
+Karen Parker  
+00:07:47
+It was one in 44, so 
+Andrew Huberman  
+00:07:49
+One in 36. Wow. I feel like it was just yesterday when it was one in 80, but is one in 36 the average across boys and girls? Does it skew differently if you look at just male births versus female births? Yeah, 
+Karen Parker  
+00:08:07
+That's a great question. So Autism is male biased and prevalence. So you have, and again, the studies vary. I mean, it's, it's worth noting that autism is a highly clinically heterogeneous disorder, which means that if you've met one kid with Autism, you've met one kid with Autism, right? So, so we have to bear that in mind as we have this conversation. But you know, different studies show that about for every one girl, there's three to four boys that are impacted by autism. So there's, you know, differences in the prevalence rate, and also there's different monitoring sites. So the way in the US that these data are generated is the CDC has 11 monitoring sites across the country. 
+Karen Parker  
+00:08:46
+And so they, they follow children, and then that's where we, that's where the prevalence rates come from, and they release new prevalence rates every, you know, few years. 
+Andrew Huberman  
+00:08:57
+So if physicians are able to detect autism early, say in a two-year-old, or a three-year-old to imagine that they're working off of tests that don't rely heavily on language, because even though it can get, you know, some verbose two and three year olds, most two and three year olds don't have a very extensive vocabulary. And I'm guessing that they're also relying on things like visual gaze among other things. We've already made clear that this is not a discussion to allow people to diagnose themselves or others. But with that said, what are some of the diagnostic tools that people use? 
+Andrew Huberman  
+00:09:39
+You know, is it language, is it vision? Does it present as, you know, abnormal auditory processing? Maybe you could give us a sampling. So 
+Karen Parker  
+00:09:49
+Autism is a behavioral diagnosis, right? So unlike other areas of medicine where you might be able to take a blood test or there's other sort of tools, it's all a behavioral diagnosis by an expert. So usually a psychiatrist or a psychologist, and they look for two core features. So the, so this is based on the DSM five and there the two core features are pervasive Social Interaction challenges and the presence of restricted repetitive behavior. But there are a lot of people with autism who have anxiety. There are a lot of people with sensory challenges. There are a lot of people with seizure disorders, sleep disorders. 
+Karen Parker  
+00:10:31
+So again, it's each person with autism has this sort of unique collection of Traits and you know, that's how they get diagnosed. 
+Andrew Huberman  
+00:10:41
+And we're going to talk a lot today about Interventions, but how early are some of the behavioral Interventions and I should just say any Interventions introduced nowadays? So if someone brings their child to the pediatrician and they take one of these tests And, that a child is deemed as having autism, will the, will the one yearold or the, you know, 2-year-old immediately go into behavioral Interventions? 
+Karen Parker  
+00:11:06
+Well, so usually you need to have the diagnosis of autism, and then there are behavioral Interventions or a variety of different ones that are used. There are some studies where, because autism's, highly heritable, you can have one child with autism and then you, if you have subsequent children, you're at an increased risk of having subsequent children with autism. And these are called baby sibling studies. So what you're doing is enriching the population of infants that you follow prospectively who are more likely to receive an autism diagnosis. And there are studies where some of those children are enrolled in behavioral studies, even when they're quote unquote at risk. 
+Andrew Huberman  
+00:11:46
+I've heard before that you know, parents in which one, or typically both parents are say of the engineering mathy physics, quote unquote hard science type, are more likely to have Autistic children. Is that true? I mean, did that bear out in the data? You know, if you look at profession or, or you know, undergraduate major, does any of that correlate with the probability of having an Autistic child? 
+Karen Parker  
+00:12:16
+Yeah, well, what I can say is that there's been some studies. So what we know is that Autistic Traits are continuously distributed across the general population. And there was a study, and there's a couple different instruments that are used to be able to measure these Autistic Traits. So there's something called the Social Responsiveness scale, and then that's a US based instrument, and there's an autism quotient that's a similar measure that was designed in England. And what, what we know from work with the AQ is that individuals that are in intense STEM fields like engineering, physics, and math, have a greater burden of Autistic Traits, even if they don't have an autism diagnosis. 
+Andrew Huberman  
+00:12:57
+Okay, so that leads me to wonder whether or not this whole business of a spectrum Yeah. Is actually multiple spectrum Spectrums, is it Spectrums or SPECT dry? What someone will put it in the, in the comments on YouTube, we know that for sure. Please let me know. I would like to know what is the plural of spectrum Spectrums, you know, because when we hear the word spectrum, we think, okay, there's a spectrum of severity, right? And In fact, I have some experience with experience severe autism, not in my family, but where I went to undergraduate university, uc, Santa Barbara, down the way from that school was the Devereux School, which was a school which it's been there for a long time, that parents would send their kids if they were quote unquote severely Autistic. 
+Andrew Huberman  
+00:13:43
+It was actually where Dustin Hoffman went to study for his role in Rainman. Yeah. And the, the kids who were really delightful, they used to come into town every once in a while to the coffee shop where I'd study, and they would also continue on from there to Kmart, which is why the Dustin Hoffman character would say, gotta go to Kmart, gotta go to, he would do that repetition, right? That Kmart was down the road from our, you know, our college housing and the Devereux school. Those kids were literally in a away from home facility, full-time. and I spoke to some of the parents at one point, and they were at that facility, meaning the parents had sent them their children away to live there. Yeah, full time. Of course, they'd get visits and they'd get visits home because they were, I suppose we could say at the far end of some spectrum that made it at least to the parents' idea, impossible for them to be at home. 
+Andrew Huberman  
+00:14:36
+Okay. Now, at the other end of the spectrum, if one is just simply thinking in terms of severity, I know people who have self-identified as au Autistic, that's how they've referred to it. So I feel comfortable saying that they've said, I am Autistic. Yeah. And they seem pretty high functioning, meaning they have driver's licenses, drive cars, are in healthy relationships and manage life, apparently. Well, they have some Traits that yes, I would agree are a little bit different, right? So this is where we get into neurodivergence, right? But I guess the point is, you know, should we think about autism as on a spectrum, or given the fact that there are these kind of collections of different Traits, could there be a spectrum of severity, also a spectrum of, you know, more stereotype behaviors. 
+Andrew Huberman  
+00:15:25
+Another spectrum that intersects with that, that has to do with, you know, obsession with a particular topic. You know, you could imagine that there's, you know, 50 or 60 different SPECT or Spectrums, I still don't know which one to say And, that when we talk about the spectrum, we're really talking about something that's in multiple dimensions and not just one line that goes from severe to mild. Does that make sense? 
+Karen Parker  
+00:15:47
+Yeah. I mean, I think this is where understanding the biological basis of behavior would then allow us to be able to say, you know, like, here's these different dimensions, right? But not understanding the biology you're left with. Okay, we're, are we lumpers or splitters? Like how do we think about this? Because autism is highly heritable, so there's about 40 to 80% of autism is, is genetic, right? So they, these vary wildly, right? But the, but the common thinking is that the majority, about 50% of Autism is, is associated with common genetic variants. And so the way that we've always thought about this is that there is this, you know, autism is largely an inherited polygenic condition. 
+Karen Parker  
+00:16:35
+And, but what I mean by that is that you have a lot of common variants that are additive. And so if you think about this collection of common genetic variants that underlie the spectrum, right? So if you have less of a dosing of some of these common variants, you might see somebody who's a lot more, who's higher functioning, like you said. And if you end up with one of these single gene highly penetrant disorders, you might see severe intellectual disability and sort of lower functioning on the other end of the spectrum. But I think that there is a lot that we don't know. And what you're bringing up, I think underlines, you know, sort of an issue with autism, autism, which is common from many brain disorders, which is like, if you don't understand the underlying biological basis, it also gets very difficult to diagnose and treat, right? 
+Karen Parker  
+00:17:25
+And that's where we are with a lot of different, you know, psychiatric and neurodevelopmental disorders 
+Andrew Huberman  
+00:17:31
+To date. Has there been any specific Neural network that we can point to and say, ah, that's the Neural network that seems to be different in people who are on the autism spectrum. I saw a study published recently that seemed to point to the idea that the genes that are altered in autism at least include a large number of genes that are altered, or the proteins that are the consequence of those genes are altered and exist at the synapse, at the connections between neurons. Yeah. And I'm asking it that way because, you know, some years ago I was at a talk on autism at Stanford, and someone raised their hand and says, do we even know that autism is a brain issue? 
+Andrew Huberman  
+00:18:12
+Right? Right. Couldn't, couldn't it be an issue of, you know, the immune system or the cardiovascular system, which at the time seemed like, okay, gosh, of course it's, but wait, then you stop and you think that's a really good question, right? How do we know it's a, it's a challenge of the brain, 
+Karen Parker  
+00:18:25
+Right? and I think that's a great question, right? And there may be people talk about autisms, right? And so when you think about where the major player is, you know, we're at the infancy of thinking about this, right? And so maybe for some people it's more of a brain-based disorder. Maybe for some people it's, you know, the connection with the Gut and the brain, right? I think what's also really tricky, right? So one thing that you have to ask is what are the barriers to progress in understanding autism, right? And so the way I think about this is that, let, let's just take for a moment that this is a brain disorder. How do you study it in people, right? So, you know, it's very difficult to get access to either Cerebral, Spinal, Fluid, which is a Fluid that bathes the brain, brain tissue biopsies. 
+Karen Parker  
+00:19:13
+It's very hard to get people, especially children that are really impacted into a brain scanner, right? Because they can't sit still. They may have sensory issues, they don't wanna go into a scanner, right? So a lot of the tools that neuroscientists or or psychiatrists have to think about looking at the brain are limited, right? And then, and then the other part is how do you model? So the other way might, we might think about getting access or, or thinking about model systems. What we need to do is think about the control animals, and we need to make sure that the species that we're modeling them in has features of control Humans, if you will. 
+Karen Parker  
+00:19:54
+So we need to have complex cognitive abilities. We need to have complex social skills. We need to have an organism that has vision as its primary sensory modality, right? Potentially sleep consolidating. So we need to think about all of those. And, and the, the tricky part, I think until fairly recently was that we were doing all of this work in Mouse models and you know, the control mice just fundamentally lack many of the characteristics that are needed to model, you know, autism with fidelity, right? And, and I think that's, you know, when we look at drug development pipelines, about 50% of Preclinical failures. So that would be something that's tested in an animal that works and then fails in a human clinical drug trial. 
+Karen Parker  
+00:20:40
+50% of those failures can be attributed to poorly selected animal models. And so I think part of where we, we will be getting traction is picking, you know, developing sophisticated models as a sort of point of entry into being able to understand some of these things that are really difficult to study in people. 
+Andrew Huberman  
+00:20:57
+Yeah, it's such a key point. And for those that have not heard of Preclinical models, Preclinical models are non-human models. So it could be Mouse, could be non-human Primate could be flies or worms for that matter. But we're going to talk a lot about non-human Primate Preclinical models and the work that you've been doing. And of course also the work that you've been doing in Humans, the other animal. Yeah, the other Primate. The other Primate. Right, exactly. I love to remind people that we're Primates old world Primates. So thank you for doing that. So you've been talking about the genetic influences on autism, and of course genes in the environment interact, right, right. It's never nature or nurture, it's always an interaction And that isn't just about the epigenome, it's also just about the fact that nature impacts the genome and our genome impacts the way that we interact with the environment, et cetera. 
+Andrew Huberman  
+00:21:46
+So what is the role of the environment in autism, both the Frequency and the presentation of Autism? 
+Karen Parker  
+00:21:51
+Right. So I mean, there are, again, lots of different epidemiological studies. So advanced parental age prematurity, severe prematurity is a risk factor for Autism maternal illness during pregnancy. So there's, there's a bunch of different things that have been associated with an increased risk for Autism 
+Andrew Huberman  
+00:22:14
+In terms of environmental influences and how they can intersect with biology. One of the things that I was really struck by in the early two thousands that at least by my read of the literature hasn't really gone anywhere, was this idea that was proposed by Psco Rick, who used to run the neurobiology department Yeah. At Yale, expert in brain neuroanatomy and non-human Primates. And in Humans embryology, really a luminary of our field. And he had a series of papers exploring how the migration of neurons during early development, you know, as you and I both know, but most people out there probably don't know. 'cause we haven't covered this in the podcast. It's not typical dinner table conversation. You know, when you, when an embryo, when a human embryo is developing that the neurons are born at one location and they migrate out some distance to their final resting place, where then they grow out their connections and connect with one another And, that process of neuro neuronal migration is, oh, so critical for the eventual wiring of the brain. 
+Andrew Huberman  
+00:23:11
+And Rish had this idea that perhaps, and I really want to emphasize perhaps that the more frequent incidents of autism might be correlated with the increase in early prenatal ultrasound. And he had these papers published in a number of really high profile journals, including proceeds in national academy and science and elsewhere showing that in a Mouse model, if you do ultrasound with each successive ultrasound, you got more migration errors, right? So there's, to me, it was a, you know, an interesting example of, of the environment Frequency of ultrasound and cell migration having some sort of interaction. But it seemed like it never went anywhere. It never got tacked to, okay, you should keep in mind the number of ultrasounds that you're getting for your child. 
+Andrew Huberman  
+00:23:56
+And of course, ultrasounds are critical for pe for pregnant women to get, because they can stave off a number of developmental issues and they're super important. But, you know, we've heard about ultrasound, you know, within the scientific literature, and then occasionally we'll hear other theories about, okay, it's having two parents who are both engineers. And then we'll hear, oh, you know, it's, you know, toxicity in the food environment. We've heard, you know, hypotheses about vaccines or the, the adjuvants that the vaccines are contained in, you know, in that large cloud of theories, has anything really emerged from them? It's like, okay, there really seems to be at least one major risk factor, environmental risk factor, because I feel like all those theories and I come up, get some popular press, bunch of papers are published, sometimes those papers are retracted, like in the case of the vaccines, right. 
+Andrew Huberman  
+00:24:47
+And then the theory kind of dies. Yeah. So is there any specific environmental influence on autism that we can say Yes, there really seems to be something there. 
+Karen Parker  
+00:24:59
+Yeah, I, I mean it's, so it's a really spectacular good question. I think the tricky part about it is that every single person that comes into a trial has a different genetic background, right? And so until we can have these a prioritized stratified trials where you could then, you know, as a good scientist, you would only manipulate maybe one, two variables at a time, right? But when you're doing these large epidemiological studies, because you can't, it's very difficult to do experimental studies, right? Especially with developing children. I think that's an incredibly difficult study to do, right? So there's been an interest in this field of, there's these neurogenetic syndromes that have high penetrance for Autism, which basically means that you could have a disorder or you know, another genetic condition, let's say, it doesn't have to be a single gene, but that a lot of those kids tend to also get an Autism diagnosis. 
+Karen Parker  
+00:25:54
+And so there's been work in, like, so for instance, fragile X is a good example where because autism is so diverse in terms of clinical presentation, that let's say you have a medication that could work for a handful of kids in the trial, you may not be statistically powered to see it, right? So, so, you know, the way I think about the Autism world is there's so little we don't know. So think about being in a dark room and you have a flashlight and you only see where you shine the light, right? And so if you think about a very heterogeneous, genetically heterogeneous study, it, it's gonna to be very difficult to tease out these pieces because an environmental risk factor might be a driver for one kid but not another, right? 
+Karen Parker  
+00:26:38
+And so I think what we need to do is to have these genetically defined subgroups of individuals and then be able to test the g by gene by environment interactions or in this genetically defined group of individuals, can we test this certain medication to see if it's beneficial for this subgroup of children? 
+Andrew Huberman  
+00:26:58
+Got it. So you, you mentioned fragile X. Yeah. Which we know presents with autism-like symptoms in some cases. And then I think of another disease like Timothy syndrome, a mutation in an L type calcium channel, which for those of you that don't know what these L type calcium channels are, they're, they're not just important for the function of neurons in the brain. They're really important for the function of neurons and other, other tissues including the heart tissue, right? So kids with Timothy syndrome have cardiac issues. Yeah. And they have Autism. So, you know, I think it's important for us to kind of explore this a bit because in most people's minds, you know, kids with autism have autism, and occasionally they'll have other issues, you know, Gut issues or heart issues or musculoskeletal issues. 
+Andrew Huberman  
+00:27:45
+But we often think that that's the consequence of the Autism, but oftentimes they, they have multiple things going on, right? And the Autism actually could be secondary or independent of the other thing that's going on. So this is what leads me back to the, this idea of, of a spectrum, you know, is, you know, is it possible that what we call autism is actually like 50 different D disorders or 50 different conditions depending on what one wants to call them? I mean, what is Autism really? I mean, is it, it's, what does it really center around like and I think here, maybe it's useful to go, like, do we go to the diagnostic criteria? Like how do we decide if a child has autism, if they also have a bunch of other things, right. 
+Andrew Huberman  
+00:28:26
+That, that are challenging 
+Karen Parker  
+00:28:27
+Them? I mean, I, I think that that's the $64,000 question, right? And, and, and again, in other areas of medicine, so if you think about, let's think about cancer biology, right? Like decades ago, somebody would come in with cancer and you would hit them with radiation chemotherapy, And. that was the best that we could do, right? But with the invention of a lot of molecular tools, you can remove a, a tumor and you can do molecular profiling and even, you know, have personalized medications made right to attack that TU tumor. And so, you know what's really tricky when you have a behavioral diagnosis that's not biologically defined, you, you see a lot of heterogeneity. 
+Karen Parker  
+00:29:08
+So it's incredibly difficult, I think, to answer this question because we don't know how many kinds of autisms there are, right? Like, there will be people who say, if you have a disorder like Fragile X or Prodder Willie syndrome or Timothy's syndrome or, or a variety of these other conditions, there will people, people I've heard clinicians say, well that's not really autism, right? That's a piece of fragile X, right? But if it's a behavioral diagnosis and they meet, be behavioral criteria, it becomes this weird circular argument, right? So like, until we really understand what autism is, I, I, I think that it's going to be very tricky to start, you know, sub defining different aspects of the condition. 
+AG1 (Ad)  
+00:29:55
+As we all know, quality nutrition influences, of course our physical health, but also our mental health and our cognitive functioning, our memory, our ability to learn new things and to focus. And we know that one of the most important features of high quality nutrition is making sure that we get enough vitamins and minerals from high quality unprocessed or minimally processed sources, as well as enough probiotics and prebiotics and fiber to support basically all the cellular functions in our body, including the Gut Microbiome. Now, I, like most everybody try to get optimal nutrition from whole foods, ideally mostly from minimally processed or non-processed foods. However, one of the challenges that I and so many other people face is getting enough servings of high quality fruits and vegetables per day, as well as fiber and probiotics that often accompany those fruits and vegetables. That's why way back in 2012, long before I ever had a podcast, I started drinking AG one. And so I'm delighted that AG one is sponsoring the Huberman Lab podcast. The reason I started taking AG one, and the reason I still drink AG one once or twice a day, is that it provides all of my foundational nutritional needs that is, it provides insurance that I get the proper amounts of those vitamins, minerals, probiotics, and fiber to ensure optimal mental health, physical health and performance. If you'd like to try AG one, you can go to drink AG one.com/ Huberman to claim a special offer. They're giving away five free travel packs plus a year supply of vitamin D three K two. Again, that's drink AG one.com/ Huberman to claim that special offer. 
+Andrew Huberman  
+00:31:26
+Well, this is probably a good time for us to think about the work that you've done in terms of trying to tack the biology of social communication and behavior. Yeah. And those things interact, not just language, but also behavior to autism in Humans using non-human Primate models. And then of course to also discuss some of the work that you've been doing in Humans. And we can't have that discussion without first having a discussion about two neuropeptides that I think most people have heard of, at least one of them. and I think there's a lot of misunderstanding about, but you're going to clarify that for us, which are Oxytocin and Vasopressin. 
+Andrew Huberman  
+00:32:09
+So before we dive into the, the important work that you've been doing on Vasopressin in particular, but also Oxytocin and autism, what are Oxytocin and Vasopressin really? 
+Karen Parker  
+00:32:22
+Okay, so they're these small little peptide, they're nine amino acids long. So very tiny. They only differ by two amino acids. And they're these ancient peptides that are hundreds of millions of years old. And in almost any species studied, whether it's the current version, you might have vaso toin or other meso toin, which are sort of precursor forms in other species. But they're highly evolutionarily conserved. And they're involved in Social Behavior in pretty much any, it could be egg laying, it could be, you know, but, but reproduction and Social Behavior across the phylogenetic taxes essentially. 
+Andrew Huberman  
+00:32:59
+So house cats make Vasopressin and Oxytocin Humans obviously make Vasopressin and Oxytocin and pretty much every other species that has to interact with and connect with. Yes. Other members of its species, 
+Karen Parker  
+00:33:10
+Especially mammals. Right. So Oxytocin and Vasopressin are pervasive and mammalian species. 
+Andrew Huberman  
+00:33:16
+Do the different species tend to make Oxytocin and Vasopressin in similar brain areas and tissues? 
+Karen Parker  
+00:33:26
+Yes, but not completely overlapping. But I, I think the thing that the, the beautiful mystery about these, and the infuriating piece of them is that because they're so structurally similar, they can have similar effects. And they, there's four receptors that they bind to. So if you think about a hormone or a neurotransmitter, so Oxytocin Vasopressin, if you think about them like a key and a receptor, like a lock, and you have to put them together to open a door, open behavior, they can bind to these four receptors. So it can be very difficult to disentangle which one is acting and at which receptor and where in the brain. 
+Andrew Huberman  
+00:34:04
+Oh, so Oxytocin Vasopressin are chemically similar? Yes. Interesting. Yes. And where would you say lies their greatest output? Divergence, which is just nerd speak for it. Is there an example of something that Oxytocin does that Vasopressin doesn't and vice versa? Yeah. 
+Karen Parker  
+00:34:21
+Okay. So what's really fascinating is these two neurotransmitters or hormones were discovered for their peripheral effects, which basically means not in their brain, but somewhere in their body. And so oxytocin's involved in uterine contractions and milk let down, and so was during lactation. So people sort of always thought of it as the female hormone. And then Vasopressin has, at least in the, in the peripheral system, has been involved in urine regula, like urinary output regulation, blood pressure. And so we only knew about their, their physiological roles as their sort of classic hormones for decades. 
+Karen Parker  
+00:35:01
+And what was interesting is these like naming conventions or fascinating medicine, right? So you could name a virus after where it was first found, right? Or it could be named after somebody who discovered the disease. Like Alzheimer's, for instance, is a good example. And what was interesting, Oxytocin was only named once, Vasopressin was named twice. So it's either called arginine Vasopressin or antidiuretic hormone. And so it had two different names. And so, as you can imagine, sometimes genes are named twice. And so somebody in cancer is studying one gene and somebody in autism is studying another. And they're not even even communicating 'cause they don't even realize that they've, at least historically now we have all kinds of gene annotation sites. 
+Karen Parker  
+00:35:42
+So it's less likely to happen now. But, but what was fascinating is they were, these hormones were named Oxytocin as Greek for quick birth. So for decades people only appreciated their physiological roles. But, but there were neuroanatomists saying, Hey, so these are both made, they're made in a lot of different places, but the, the, the action sort of happens in the hypothalamus where they're made. And there were anatomists that said, wait, these sort of project back into the brain, what are these doing in the brain? And one of my favorite historical stories was I had a mentor, a colleague, like an, you know, who I didn't train with, but he was a real source of wisdom to me for many years. 
+Karen Parker  
+00:36:22
+And his name's Court Peterson. And he told me this wonderful story about this Duke zoologist named Peter Laufer. And Peter was studying ungulates, so sheep and goats. And he wrote a story, a paper in 1971 called Mother Love What Turns It On. And you know, one thing about science is I love going back and seeing where do the pearls of wisdom come from? And so he wrote this and said, you know, Oxytocin is orchestrating all these events of motherhood and there are sheep and goats in particular that have offspring, that are precocious, meaning they're basically born ready, you know, within an hour they can run with the herd. Unlike our species, which is nutritional, meaning we have very helpless infants. 
+Karen Parker  
+00:37:04
+And mom needs to bond really quickly with that baby if it's going to be running around. And you only, you know, from an evolutionary perspective, you wanna be investing in the baby that's yours, not somebody else's. Right? And he hypothesized that it was Oxytocin that was being co released into the brain. And during milk let down, that was what turned mother love on And. that was really the beginning of this whole field of thinking. And so that opened up thinking about Oxytocin in rodent maternal care and a variety of other instances. 
+Andrew Huberman  
+00:37:38
+Can I just briefly interrupt you? 'cause I find this so interesting and I know it's interesting to everyone listening as well, because you know Yes. And thank you for making it clear that Oxytocin has many different roles. Yeah. But this role of mother love and bonding to infant has me needing to ask whether or not the idea was that Oxytocin is released in the mother when she interacts with her own baby And. that leads me to the question, is Oxytocin also released in the baby in reaction to, to the mother? And how long is that effect lasting? Because in order to have a pervasive bond with that baby and not just some other baby, and of course we still have visual cues and you know, we know our baby versus another baby, most instances there are rare exceptions, or perhaps not so rare exceptions, but leaving those aside, you know, the Mechanism that would allow for mother infant Bonding and infant mother bonding by way of Oxytocin presumably is something that is literally changing their brains Yeah. 
+Andrew Huberman  
+00:38:40
+Saying it, it's, you are the are the center of my life. Yeah. Right. And the baby, of course is saying, well, you are my life because you are the source of life. Right. And, and it certainly for the early part, early part of life, And, that nowadays it seems that, that that can extend well into the, the teens and twenties for some people. Yes. But you know, how, how is Oxytocin working? Is it, is it working over the course of minutes, hours? Is there some specificity of this baby and this mom Yeah. That links them in, in some more pervasive way? I mean, how is Oxytocin doing this magic of bonding? Yeah. 
+Karen Parker  
+00:39:13
+I mean it's, it's very species specific, right? So I think that, and you need to think about like the evolutionary history of the species, right? So if you think about sheep or goats, the early studies that were done, are you, the passage through the vaginal canal was what, you know, so you had activated Oxytocin receptors that way. But if you gave an Oxytocin antagonist, meaning you would give into the brain something that blocked the Oxytocin receptors. So if the Oxytocin is being released into the brain, but you have a pharmacological agent blocking its ability to bind to its receptors, these sheep and goats wouldn't bond to their baby, for instance. So 
+Andrew Huberman  
+00:39:53
+Literally the passage of the baby out of the vaginal canal triggers the Oxytocin pathway, the release of Oxytocin, 
+Karen Parker  
+00:40:01
+Right. As in a lactation does too. 
+Andrew Huberman  
+00:40:02
+Yeah. Nature is so beautiful because if you had to pick one event Yeah. To trigger the release of Oxytocin, if Oxytocin's role is to create bonding Yeah. With offspring, that would be the event, because that's a tough one to mistake, right? Right. 
+Karen Parker  
+00:40:14
+But, but what I will say, because I think you will, you know, to avoid you getting attacked on Twitter or wherever you might get attacked, 
+Andrew Huberman  
+00:40:20
+I'm gonna get attacked anyway if not, if not for this discussion than another one. But I'm tougher than I left. 
+Karen Parker  
+00:40:26
+So, but it's really species specific, right? So if you think about our species and a lot of Primates species, we live in these extended family groups and that's how we evolved. And so unlike a goat or a sheep that might live in a herd where there's a lot of non-relatives, we lived in a community of relatives, right? And so we, and we do all kinds of care of extended relatives. And so you wouldn't necessarily expect in a Primate species where you have this long rearing history where help from the family and, and by parental care where, where sort of everybody's sort of like, it takes a village to raise the baby. We readily adopt in our, in Primate societies, right? 
+Karen Parker  
+00:41:08
+And so, you know, like I had a CI mean, I'll tell you something personal. I had a c-section and had, I had a lot of postpartum complications. And so lactation didn't work out that well for me. One of my friends would say I had massive d vts and pulmonary emboli. And so I almost died after my son was born the first time. And so I didn't have a vaginal delivery. I couldn't 
+Andrew Huberman  
+00:41:32
+Dv t's a d vein, vein thrombosis 
+Karen Parker  
+00:41:35
+Vein. Yeah. Yeah. and it was sort of like, welcome to motherhood and I was in the ICU and had to get a filter put in an inferior vena cava filter to stop me from dying. 'cause like I had scattershot clots all over my lungs. And so I didn't really, you know, I didn't, I I didn't do a vaginal delivery. I had a C-section and I wasn't really able to lactate. And man, I love that baby. Right? So, you know, I can give, you know, what I will say is it's really different in Primates and we don't really understand how Bonding occurs, but what I will say is that Bonding between a mother, you really need to think about the evolutionary selective pressure. So I was an evolutionary biologist before I found neuroscience, right? 
+Karen Parker  
+00:42:16
+And so I really, everything I do, I think about from an evolutionary perspective. So, but it, it is, many people go into the Oxytocin Vasopressin field because they have a lot of questions about social interactions, right? Like, I think if you think about us as being social is actually one of the, one of the core characteristics of our species, right? So social interactions are rewarding from infancy. They keep us alive, as you mentioned, right? And so I think it's not an accident that the way we think about disorder in our species is many disorders are disorders because of lack of social connectedness, right? 
+Karen Parker  
+00:42:57
+So it could be something like autism where, you know, there's these pervasive Social Interaction impairments. It could be something like drug abuse where, you know, you, you, a risk factor for drug abuse is feeling, you know, socially disconnected and alone, right? Social isolation or loss of a loved one is a very strong predictor of the onset of a stress related depressive anxiety disorder. 
+Andrew Huberman  
+00:43:24
+In terms of when and how Oxytocin is released, you mentioned mother infant bonding, I think you said Yes. That the infant is also releasing Oxytocin? We think so it's, it's bidirectional. 
+Karen Parker  
+00:43:40
+We think, I think most of the work has been done in mom would be, and and again, this has not been really done well in Primates, right? So we're extrapolating this information from species that have different evolutionary histories than us. Right? So it's goat sheeps, prairie Voles, mice rats. 
+Andrew Huberman  
+00:44:00
+Hmm. So what do we know about the role of Oxytocin in Humans? Do, I mean, we know it's there. Yeah. We presume based on the animal models that it's involved in mother infant Bonding and presumably romantic partner Bonding, at least you hear that a lot. It was unfortunately nicknamed the love hormone. Yes. And the reason it's unfortunate it was, is that while that might cue attention to Oxytocin, and I'm, you know, a big fan of people paying attention to biological phenomena, it, it discards the other and many roles of, of Oxytocin. But yeah. What can we say about Oxytocin in Humans if, if anything, like, do we know that it does? I mean, is it, we're just, so we're assuming based on the animal models that it does something. 
+Andrew Huberman  
+00:44:43
+Yeah. I mean this is very different than like dopamine where there's tons of animal model data, but we know, but there are brain imaging where we know where dopamine is expressed. Yeah. And do we even know where Oxytocin receptors are expressed in the human brain? Presumably that information is, is out 
+Karen Parker  
+00:44:57
+There recently, but again, there's a lot of specificity and I think if you're thinking about disorders, you would then have to study those specific subpopulations, right? And, and you need, you know, a lot of this work has been done. So you have to think about how do we study it, right? So the best way to study it would be to have radio tracers where you could then, which we do have for dopamine and, and other compounds where you would then go and see where after somebody's performed a task, do we see, you know, activation, right? Or uptake. There are some imaging studies, they're usually done giving Intranasal Oxytocin. And then you basically ask questions about, okay, we give you Oxytocin intranasally, which presumably enters the brain. 
+Karen Parker  
+00:45:37
+There's, we could talk about reasons why we think that, and then we have you perform on some task, right? And so, you know, there's evidence of you give Oxytocin, it diminishes the amygdala's response to fearful stimuli, right? So that it might have this sort of pro-social effect. And, and it was actually data like that, that caused people to start thinking initially about Oxytocin. 
+Andrew Huberman  
+00:46:00
+And those were data in Humans. That's right. It reminds me that there was this brief moment where Oxytocin wasn't just being discussed as the love hormone. It was, it was being discussed as the trust hormone. Correct. Right. Also far too simple heuristic. But, but again, I think it's cool that the, you know, that the, the press picks up on these things and it at least tells people about what's being discovered. Yeah. And we just always have to be careful that not have it lead to the assumption that that's the only role of a given of a given hormone. Right. So it can reduce, apparently it can reduce the output of the amygdala in some way, this brain area associated with threat detection. And so you could imagine how that would bias the person toward being more pro-social. 
+Andrew Huberman  
+00:46:44
+Right. Have there been studies exploring the role of Oxytocin in making Autistic children more pro-social? And behind that question, I suppose, is the assumption you can verify or or not that Autistic children are less pro-social than other children. Is that true? Or is it that, you know, Autistic kids are just maybe more pro-social with the one friend they really, really like. Yeah, I happen to know some kids with autism or however you wanna phrase it, and they have close friends and they seem to really like those specific friends a lot. Yeah. Like, they seem very happy when they show up at the door and like all, all the hallmarks of, you know, healthy social mind. 
+Andrew Huberman  
+00:47:27
+But it is true that they are uncomfortable in, in groups and where there's a lot of noise, a busy birthday party is overwhelming for them. But you see them playing with one or two friends and like, you could see all that and assume okay, it's just kind of an introverted kid. Right. Actually, it kind of reminds me of me, you know, I mean, I don't have a problem with crowds, but I I much prefer to be with a small group of friends or one close friend. Yeah. Yeah. So I 
+Karen Parker  
+00:47:50
+Hear you. I'm that way too. 
+Andrew Huberman  
+00:47:51
+Right. So, you know, how do we think about this? 
+Karen Parker  
+00:47:55
+Okay, well I would say the Social Features of Autism are interesting, right? And so you might have, there were, there was an attempt a long time ago, like 1979, there was a woman named Lorna Wing who tried to subtype the Social Features of Autism, right? And so there could be people that are socially avoidant and really just don't wanna have social interactions. There could be kids that are active but odd, which means that they have an interest in being social, but maybe they don't read social cues, right. And they interact in ways that other kids don't understand or make could cause bullying. Right. 
+Karen Parker  
+00:48:35
+and it sounds like 
+Andrew Huberman  
+00:48:35
+Junior high school. Yeah, 
+Karen Parker  
+00:48:36
+Exactly. Yeah. And and that's often why, you know, some Autistic kids do better with adults, right? Because adults know how to sort of channel discussions with somebody who might be a little socially awkward. Right? But there's different phenotypes. I mean, people having a disinterest in social interactions could be that they're highly socially anxious, right? That making eye contact makes them anxious. You could have somebody who has maybe is relatively, let's say socially intact if you will, but they have overwhelming sensory abnormalities that make it very difficult to interact with other people. Right? And so, like, so let's just say again that's caveat. 
+Karen Parker  
+00:49:19
+There have been some studies administering Oxytocin to individuals with autism. And again, these are these single dose studies. So the first studies that were, were done were looking at single dose Oxytocin in males. Because some of the, and we can talk a little bit about why Oxytocin versus Vasopressin, which Vasopressin actually would've been my choice based on the animal literature, and we can talk about that. But vaso Oxytocin was given to males partly because it wouldn't, the idea would be that the off-target effects in the peripheral nervous system, IE milk let down uterine contractions are not gonna happen in males. Right. And so it was deemed that they might be safe or subjects males are often also the, the go-to for research studies as you may have talked about on, on your podcast before too. 
+Andrew Huberman  
+00:50:05
+Yeah. Something that fortunately is changing Yes, absolutely. Thanks to a mandate by the, by the NIH. Correct? I, i, I had to just kind of smiles slash you know, raise my eyebrows a little bit at the idea that, you know, the, the assumption that Oxytocin administered to males, yes. One can see why it wouldn't cause down or uterine contractions. Right? But, but of course there could be other peripheral effects, of course Oxytocin in males, but they had to pick, they had to pick one, so they went with males. Okay. So, right. And there is this higher incidence of autism in males, so Right. It's not a terrible place to start. You just would hope that they would also do the, the experiment on females. Right. But 
+Karen Parker  
+00:50:41
+So 
+Andrew Huberman  
+00:50:42
+They're doing this by nasal spray, 
+Karen Parker  
+00:50:43
+So Intranasal 
+Andrew Huberman  
+00:50:44
+One dose. 
+Karen Parker  
+00:50:45
+Correct. Okay. And for reasons that I don't understand, it's 24 international units and I think maybe somebody did the first study using it and you know, this is how science happens, right? and it worked. And so then everyone uses that protocol. And so then there's been a lot of studies looking at, you know, there's one reading the mind in the eyes. So can you look at pictures of somebody's eyes and then ask what is the emotion that they're feeling right 
+Andrew Huberman  
+00:51:08
+After receiving this Intranasal, 
+Karen Parker  
+00:51:10
+Oxytocin or placebo? Where's your eye gaze going in a picture? Right? So one of, one of the theories is that people with autism may at least a subset of them lack social motivation. So maybe they're not looking in the places like eyes where you receive a lot of social cues that are relevant to social communication. And so some of these early studies showed that a single dose of Oxytocin in people that were had high functioning autism. So they were verbal, like you said, they could come in for studies And, that it looked like it had some potential effectiveness. And so there became a really strong interest in the field to think about Oxytocin potentially as a therapy for autism. 
+Andrew Huberman  
+00:51:51
+And is Oxytocin available over the counter or does it require prescription? I I mean you see sites that are selling it, but that doesn't mean anything these days, right? Yeah. There's gray market, there's all sorts of stuff going on. Yes. But I know people that have used Oxytocin. There, there's actually a, a market for, and by the way folks, I'm not suggesting this, but someone the other day told me that they've been regularly taking Oxytocin, ketamine, nasal inhalations as part of their work with their licensed therapist on kinda like PTSD type stuff. Okay. Relating to, let's just call it relational trauma. Okay. So that's happening. 
+Andrew Huberman  
+00:52:31
+Yeah. But let's just think about Oxytocin alone for the moment. Are parents of, of Autistic kids able to like buy Oxytocin nasal spray? 
+Karen Parker  
+00:52:41
+No. So, so it would need to be written like the prescription would be, need to be written by a, by a physician and it's not on the market. Right? So there's one thing we should say is there's only two drugs that are approved by the FDA to treat autism. And they're both antipsychotics, which they, they treat associated features like irritability and they have off-target effects like weight gain and, and, and you know, so we don't have any medications that are currently approved in the US or anywhere else for that matter to treat the core features of autism. 
+Andrew Huberman  
+00:53:16
+Interesting and unfortunate. Yeah. And hopefully that will change in the not too distant future. Do we know that children with Autism, people with Autism? 'cause I'm gonna just sort of, yeah, assume that Autism is stable over the lifespan. Ooh. Like if a child is diagnosed with Autism, are they going to be an adolescent and adult with Autism? 
+Karen Parker  
+00:53:37
+So I would say that in a lot of cases autism has lifelong impact, but there are people who outgrow their diagnosis. You know, there are people who respond well to behavioral therapy. I mean obviously it's not the cure all for everybody. There's lots of people go through intensive behavioral therapy and probably see minimal benefit. But I mean it's certainly something that occurs in childhood for the diagnosis occurs in childhood and it, you know, for most people will then be present across the lifespan. So we could say people with autism, because each study, sometimes we'll have adults, sometimes you'll have teenagers, sometimes you'll have kids. 
+Inside Tracker (Ad)  
+00:54:15
+I'd like to take a quick break and thank our Sponsor Inside. Tracker Inside Tracker is a personalized nutrition platform that analyzes data from your blood and DNA to help you better understand your body and help you reach your health goals. Now I've long been a believer in getting regular blood work done for the simple reason that many of the factors that impact your immediate and long-term health can only be analyzed from a quality blood test. Now a major problem with a lot of blood tests out there, however, is that you get information back about metabolic factors, lipids and hormones and so forth, but you don't know what to do with that information. With Inside Tracker, they make it very easy 'cause they have a personalized platform that allows you to see the levels of all those things. Metabolic factors, lipids, hormones, et cetera. But it gives you specific directives that you can follow that relate to nutrition, behavioral modifications, supplements, et cetera, that can help you bring those numbers into the ranges that are optimal for you. If you'd like to try Inside Tracker, you can go to Inside Tracker dot com slash Huberman to get 20% off any of inside tracker's plans. Again, that's Inside Tracker dot com slash Huberman. 
+Karen Parker  
+00:55:17
+Is it known whether or not people with autism, assuming they meet the criteria for being Autistic at that at that moment have lower natural circulating or active levels of Oxytocin? Because, you know, it's one thing for a nasal spray to, of Oxytocin to improve social functioning. 
+Andrew Huberman  
+00:55:36
+It's another to know that it, that the effect is addressing an underlying biological deficit. Yeah, 
+Karen Parker  
+00:55:44
+That's, it's such a great question. Okay, so we should unpack that 'cause there's been a lot of work in this area. So the first question is, where are we measuring the Oxytocin? Right? So we mentioned Oxytocin has all kinds of effects in the body as well as the brain, and it's released into the blood, but it's also released directly into the brain. And there's variable evidence about if you measure it in blood, is it a readout of the brain or not? Right? Or should you be looking at something like Spinal Fluid that's maybe a, a better biochemical proxy of the brain? Most studies. So what I will say is there were, there's been mo a handful of small studies where there has been some, you know, there's been some benefit, maybe no benefit, small effects. 
+Karen Parker  
+00:56:26
+We did a study that was a small study at Stanford and it was based on Mouse genetic data. And I'll, I'll sort of walk you through what we did. So there's multiple Mouse models of these neurogenetic syndromes where people have social Impairment, right? We can qui quibble about whether that's autism or not, but that they have social Impairment. And so that there are this fragile ex Mouse, there's a prodder Willie syndrome Mouse, which is the MAAL two gene that gets manipulated. And then there's a catnap two Mouse. And in all of those instances, when you genetically modify those mice, you see a reduction of Oxytocin in the hypothalamus. 
+Karen Parker  
+00:57:08
+And what's interesting is that in those instances where you see this genetic modification, you do see lower blood levels in these genetically defined models. What's really cool is you can give Oxytocin across development in those models, and at least in the CATNAP two Mouse, you can restore Oxytocin neuron number two equivalent of control animals suggesting that Oxytocin is doing something in these Oxytocin deficient animals. Right? So these are not an Oxytocin gene manipulation, but these are these syndromes where you see as a consequence of manipulating genes for these syndromes that Oxytocin gets knocked down, right? 
+Karen Parker  
+00:57:48
+And so our thinking when we went into our clinical trial was what if it's blood Oxytocin Levels, that they're going to be a subset of individuals that just make less Oxytocin, Humans, Humans And that maybe those are the individuals who could, who stand to benefit the most from treatment. And so we were the first group to ask, you know, across this range of individuals who showed up and we did in, in all the trials that we'll talk about today, these are done with my colleague Antonio Hardin at Stanford who's a child psychiatrist. And we always have double Blind, meaning that the investigative team is Blind And that the, or unaware, I should say they're unaware of treatment. 
+Karen Parker  
+00:58:29
+And then the families and the children are unaware. And then the randomized meaning there was an equal chance you could get either drug or placebo and they're, and they're controlled. Right? Okay. So we asked if we know what your pre pre-treatment, pre-treatment blood Oxytocin level is, who's gonna benefit from treatment? And we found a couple really interesting things. One was that the lower your baseline, so your pre-treatment blood Oxytocin level, you showed much greater benefit from the Oxytocin Intervention. These are shown one, 
+Andrew Huberman  
+00:58:59
+One Intervention, one nasal spray. 
+Karen Parker  
+00:59:01
+This was four weeks, sorry, I should have clarified this. Okay. This is four weeks of treatment being administered to Oxytocin twice a day. Okay. And, and, and so we saw effectiveness there. 
+Andrew Huberman  
+00:59:12
+May I, sorry to interrupt so much. Yeah. But just males, male and female subjects. 
+Karen Parker  
+00:59:16
+We did. But again, you know, because the autism is male biased and prevalence e even if you make this heroic effort to over recruit, try to get more girls in, in, in the study, we usually try to aim for the prevalence rate because it's difficult to get girls just 'cause there's fewer of them. 
+Andrew Huberman  
+00:59:31
+Got it. Okay. But boys and girls were included. Correct. They're taking Oxytocin over the period of, of four weeks. Several four. And if they started off with lower baseline levels of Oxytocin, you observed a benefit of the Oxytocin treatment Yes. In those individuals. Correct. What about the individuals who had normal to, to high levels, 
+Karen Parker  
+00:59:49
+You didn't see much benefit. Right. And so that was a, a cue to me to think that there may be a subset of individuals that, you know, for whatever reason they have lower Oxytocin and they may stand to benefit more from treatment. And none of the prior studies had looked at blood Oxytocin Levels. And so what we had thought was that, well, maybe if everybody had measured baseline blood, Oxytocin, Levels, maybe some of these, you know, maybe there would've been more positive outcomes. So, but there's, there's a lot of controversy in this field about whether Oxytocin is a treatment for autism, right? So after we completed that trial, there was a large multi-site, what's called a phase three Oxytocin treatment trial that was done at I think five sites. 
+Karen Parker  
+01:00:36
+And they gave Oxytocin for an extended period of time and they showed no benefit. And, and 
+Andrew Huberman  
+01:00:43
+Were they looking to see who started off with low levels of Oxytocin at pretreatment? 
+Karen Parker  
+01:00:49
+So what was interesting about that study, and there were a lot of issues with it, was that Oxytocin is something where you have to, if you look at it, it degrades. It's like, that's kind of what I joke about, right? So you need to take it, we take, when we go in, we have like these really intense protocols, right? So you go in and we have vacutainer tubes that are cold and we put them on ice and then the phlebotomist takes the blood from the child. Then we, so 
+Andrew Huberman  
+01:01:17
+A lot of technical gymnastics, right? 
+Karen Parker  
+01:01:19
+Yeah. And then we make sure we spin it in a centrifuge cold and then we pipet it onto dry ice. So like, so we have very minimal loss of the signal. And so if you don't adhere to those rigid protocols, which is very difficult to do across multiple sites, it can be very difficult to get an accurate read of Oxytocin. And so I think for me, it's still an open question. They didn't see that blood Oxytocin predicted response in that study. The data weren't provided in the paper. It was just said that they didn't. But it's still an open question to me. Like, what if there was a group of children who had low Oxytocin Levels and they could benefit, right? 
+Karen Parker  
+01:02:00
+There's other people where they'll say, no, no, no, we don't think that chronic oxytocin's a good idea that what you really should be doing is just giving it beha before a behavioral therapy session. Right? And so that, you know, maybe that is the way, so if you give it acutely, like in those early studies we talked about that maybe Oxytocin, you know, diminishes fear. We know that Oxytocin decreases the stress axis, the hypothalamic pituitary adrenal axis And, that it can diminish anxiety in animal models. So we, that's well established. And in a former life I was a stress researcher, so I've spent a lot of time thinking about this. But, but it's sort of, the sad thing is, is that once you have a negative trial, it, there isn't a lot of interest in funding the work going forward. 
+Karen Parker  
+01:02:46
+Right? And so I think it's still really an open question about if there is a subset of individuals that could benefit from Oxytocin replacement therapy, right? And it's in, and until there's money to do that work, we may not ever know the answer. 
+Andrew Huberman  
+01:03:03
+Well, it'll be, it will be important for that work to be done eventually. Hopefully the field will return to it despite whatever trends might be happening. Now, I think it's important to know for the parents of Autistic children, whether or not there were any negative effects of Oxytocin administration, in particular in the children that did not benefit from Oxytocin treatment. The rationale is the following. Well of course these things require a prescription. If a parent has a child with autism, especially if they're young enough that the behavioral Interventions could possibly stand a good chance of inducing Neuroplasticity, rewiring of the Neural circuits that underlie Social Connection, well then there's this time limited window in which, you know, those parents presumably are willing to try most anything provided it's safe. 
+Andrew Huberman  
+01:03:53
+Right? So let's assume, and I'm making up these numbers now 'cause I'm haven't seen this study, but according to what you told me, that let's say a third of the Autistic boys and girls that come in have low baseline levels of Oxytocin. They're the ones that are going to benefit from this Oxytocin Intervention. The other two thirds don't. Well, given the difficulties of measuring baseline levels of Oxytocin, most people don't have access to those kind of resources. If it's safe to give Oxytocin no matter what, well then if I were that parent, I'd be knocking on my physician's door saying, Hey, gimme an Oxytocin spray because my kid might fall into that one third category if and only if it turns out that Oxytocin is safe to give. Right. But if there's a risk profile that doesn't justify that kind of shotgun approach, well then I wouldn't do that. 
+Andrew Huberman  
+01:04:37
+Yeah. So is Oxytocin spray safe? And if so, why doesn't every physician who has a patient with autism give them Oxytocin nasal spray? 
+Karen Parker  
+01:04:48
+Right. I, it's a great question. and I, I know that, you know, I'm a parent of three children and I know the sense of like, you would do anything to help your child. Right? And so I, I think the tricky part is that, so one thing I will say is that all of the studies, and there's been many of them have shown that Oxytocin is, is relatively safe in a pediatric population. Right. The tricky part is, I don't know, there's physicians that, you know, really pay attention to clinical trials and if they don't see a benefit, they may not be willing to write the prescription. Right. So until we could identify a group of children that could benefit, you know, we need to create the opportunity for physicians to recognize that this could potentially still be a treatment. 
+Karen Parker  
+01:05:32
+Right. But that work, you know, but I, I think the tricky part, and what I will say is, and we can maybe talk a bit about Vasopressin, which, you know, my feeling is that if I was placing betts on and having to choose between these two, my my money would be on Vasopressin. 
+Andrew Huberman  
+01:05:46
+Well, we are definitely going to Yeah. Talk about Vasopressin in detail. I mean the reason I, I mentioned that hypothetical scenario is just the sense of urgency, of course. And in some cases desperation that parents feel. Yeah. And, you know, time's ticking. And if oxytocin's safe then, you know, I guess I'll put in my vote that, you know, parents should at least talk to their physician, maybe even hand them the study to consider. But I can also understand the perspective of a pediatrician who says, well, listen, it was a small number of kids that benefited. You're welcome to try it. But I don't, you know, it doesn't seem like the results are that impressive. But, you know, this gets to a bunch of larger issues about, you know, medical care and, and randomized controlled trials and the desperation of parents and kids to treat neurodevelopmental challenges. 
+Andrew Huberman  
+01:06:29
+Right. I I just want to ask, because it feels relevant in a, in a real way, you know, if ultimately the goal of improving symptom profiles and Autistic kids is about improving social cognition and Social Behavior And, that process involves rewiring of brain circuits, Neuroplasticity. Is there any reason to think that other approaches to inducing Neuroplasticity would be beneficial even if they're not in the biological Pathways that are disrupted in autism? I think for instance, about the now extensive use of SSRIs for the treatment of depression, some cases it works, in some cases it doesn't. 
+Andrew Huberman  
+01:07:13
+Side effect profiles are a serious concern Yeah. As I've discussed on this podcast before. But ultimately, we know that depression is not a serotonin deficiency in most cases, SSRIs or atypical antidepressants like Propone, Wellbutrin and things of that sort, when they work, they probably work because of their ability to induce neuro or assist Neuroplasticity. Right? Right. Also, the trials on psilocybin are not really about psilocybin, they're about Neuroplasticity, at least the trials for depression. Right. There may be other uses of psilocybin that relate more directly to the effects of psilocybin, but ultimately, you know, what we're talking about here is the, the attempt to rewire the brain in a specific way, whether or not it's assisted by Oxytocin or some other Mechanism. 
+Andrew Huberman  
+01:07:59
+So the question is, are there trials happening where people are exploring, say psilocybin MDMA, which by the way, we know increases Oxytocin, and I was gonna mention that serotonin dramatically Yes. Yes. As well as things like atypical antidepressants in kids that have autism, not because we think that those Autistic kids are deficient in any of the neurochemicals that these drugs would target, but that these drugs can help rewire the brain. And ultimately that's what these kids need. Right? 
+Karen Parker  
+01:08:29
+I I it's a really great point. and I, there might be subsets of kids, right? There might be kids where there would be a medication that would target other Pathways, but that potently releases Oxytocin. Right? That, but there might be kids that have an Oxytocin deficiency. Right. But I think that that circles back to your point at the beginning where our point is that autism is a very heterogeneous condition, and being able to know before you begin a trial, right? Like, who am I gonna put into it and what is my primary outcome? Like one measure that I think is gonna move the needle, right? Like it kind of requires a crystal ball. So there's a lot of guesswork that goes into this, but I would very much like to see, I I will say one other thing that there, I have a colleague named Adam Guastello, who's at the University of Sydney, and he published a paper a year or two ago now suggesting that Oxytocin be, may be most effective in kids at younger ages and I, I don't quote me somewhere between two and, or, you know, two and five or three and six or something like that. 
+Andrew Huberman  
+01:09:31
+We'll find the paper and put it in the show show 
+Karen Parker  
+01:09:33
+Notes. Yeah. But, you know, so it could be to your point about Neuroplasticity, that Oxytocin may be maximally beneficial in younger ages. Right. And if you're, if these studies are these hodge pges across ages and across sort of different social phenotypes, finding that signal is really important. Right. And, and maybe age as a driver or, or maybe, you know, low blood Oxytocin regardless of what age you are, or maybe an Adams case, if you recruit really young children, you're likely to see a benefit just because the bla the brain is wiring up and it's more plastic at, you know, younger ages. 
+Andrew Huberman  
+01:10:14
+Yeah. That's also a vote, in my opinion, for early examination of kids, right? Right. Like parents really need to get Autism screening and perhaps maybe the, the most important thing is to make autism screening as available and as inexpensive as possible. Right. For everyone because of the importance of Early Intervention, even if it's purely behavioral Intervention. Right. But certainly if it's behavioral and drug Interventions, 
+Karen Parker  
+01:10:38
+But the clinic wait times are really long, right? So you have to have a specialist who's capable to diagnose autism. And so you could have a clinic where, you know, you're showing troublesome features and a parent wants to get their kid into a clinic and you could have a 12 month or, or 18 month wait time, right? And so there are a lot of people that are thinking about are there, are there laboratory based tests that we can develop maybe either for detection or clinical referral, right? So could we come up with a, a biomarker panel for instance, where we might be able to say, wow, here's some, here's a panel where we think this child is at reasonable risk for developing autism. 
+Karen Parker  
+01:11:20
+Can we make sure they're prioritized for getting a diagnosis? Right? So we can get them an an Early Intervention, but right now we don't, we don't have that. Right? So having some sort of laboratory-based test, whether it could be biological or if we could do something with eye gaze, and there's a lot of companies working on these things now to say, this may not, you know, and, and also obviously again, autism is always controversial in this field, right? There's so many different stakeholders. A lot of clinicians will say, well, I don't, I don't want a 32nd video clip replacing expert clinical opinion. And there's good reasons for them to feel that way. But I think if there was a way to prioritize people that are in this line, you know, we could get diagnoses faster. 
+Andrew Huberman  
+01:12:04
+Well, you wouldn't want false positives, but I would think that a 32nd video clip provided itself something useful. It's gonna be more valuable than nothing. Yeah. Given the time sensitivity, what are some of the barriers to getting this behavioral testing to be not just more prominent, but pervasive? Like it seems to me that, well, I recall in school, they gave us the hearing test, we all marched on the bus, right? We get the beep test and you know, you know, for hearing challenges, we get vision tests. You get the bobinski re reflex test, not the moment you come out the womb. Yeah. But pretty, pretty soon after. I mean, why isn't this stuff happening for Autism for every kid? 
+Karen Parker  
+01:12:47
+Yeah. It's not scalable. Right. So you, these interviews with parents and the tests that you do can take hours, right? And, and any given clinician, even if they're working really long hours, there just aren't that many people that are, have the extensive training needed to make these expert diagnoses. Right. And so I think that there's, you know, clinicians that are doing the absolute best they can, but they can only see a certain number of, of people a week. Right. And so does 
+Andrew Huberman  
+01:13:12
+It have to be a physician? Sorry to interrupt. Yeah. Does it, or could it, could, you know, could a well-trained technician do this? 
+Karen Parker  
+01:13:19
+Yeah. Well, I mean, I I think technically it's a DSM diagnosis, right? So it's usually somebody who has a clinical degree. So it would be a clinical psychologist, it could be a behavioral pediatrician, it could be, you know, a child psychiatrist or child neurologist. But I mean, again, that requires years and years of training. And with, if we look in areas where people have fewer accesses to access to resource, I mean, particularly in impoverished areas, the mean age of an autism diagnosis is years later than in wealthy areas where, you know, there's many different medical specialists with parents, you know, that aren't working three jobs and, you know, can sit waiting around, you know, and, and really lobby and, and really advocate for their kids, right? 
+Karen Parker  
+01:14:03
+Because, you know, if they don't show up for work that day, they're not gonna get fired from their job. Right. And so I think that, you know, if there's some sort of solution that allows there to be a more democratic approach to saying, we need a really quick way, like you said, to be able to identify at risk children, especially if it's a, a blood test or something like that, you know, it could be incredibly impactful. 
+Andrew Huberman  
+01:14:29
+Are there human trials exploring MDMA, methylene dioxide methamphetamine, also referred to as ecstasy and or psilocybin for treatment of Autism? 
+Karen Parker  
+01:14:42
+So I was aware that MAPS had an MDMA trial in autism. I don't know what's happened with that. 
+Andrew Huberman  
+01:14:50
+Hmm. Yeah. Perhaps it's still ongoing. I'll check the map site. I'm in communication with them from time to time. I mean, the, the, the reason for asking it, of course, you know, but maybe in case some of the listeners don't, is that MDMA Causes, these massive increases in serotonin that seems to be the major source of the MDMA effect, so to speak, based on the, our work of our colleague Rob Lanka. And, and at least one human study comparing MDMA to very high dose Oxytocin treatment, kinda ruled out the Oxytocin spike that's induced by MDMA as the, as the source or the only source. But of course these chemicals can synergize, I mean, but based on its chemical profile, Oxytocin release, massive serotonin release, dopamine release, and a propensity to enhance Neuroplasticity. 
+Andrew Huberman  
+01:15:37
+I mean, assuming all the safety protocols were, were there, it seems like not the perfect drug, but not a bad choice if of course it's inducing the kind of plasticity that someone with autism would be seeking. 
+Karen Parker  
+01:15:52
+Right? I mean, I think the tricky part, especially in children right, is there's gonna be a reluctance to potentially give them psychedelics. Right? And so, you know, is there a way to modify, you know, the chemical compound to, you know, be something that parents might be more willing to give to their children, right? 
+Andrew Huberman  
+01:16:10
+Right. and I totally agree with that. I guess to play devil's advocate, not against you, but Well, I'll just state it very directly. Yeah. And then I'll, I'll take the heat as necessary. I mean, I've done two episodes about the, the drugs that, you know, millions, tens of millions, if not hundreds of millions of parents are already giving their kids for A DHD, which are include amphetamines, including dioxine. Methamphetamine is actually a prescription drug for a very small subset of kids with A DHD. But things like Adderall, Vyvanse, even methylphenidate, Ritalin, I mean, these are amphetamines, they induce dopamine release and norepinephrine release. And again, I'm not suggesting people give their kids MDMA to try and ameliorate symptoms of autism, but something chemically similar to it ought to be developed or at least explored in a human trial in my, in my opinion. 
+Andrew Huberman  
+01:17:01
+Well, time will tell. I'll reach out to the maps group and see, see what's happening. Let's talk about Vasopressin. Yes. Because there's a lot to discuss there. So you told us this is a molecule that chemically is very similar Oxytocin. Is it manufactured in the human brain and body? Yes. Okay. Do we know a subset of the sites that it's known to be produced and where some of its actions are? And you mentioned the kidney and the antidiuretic hormone. Right. Roles, but within the brain, like what brain areas have neurons that make Vasopressin Well, so, or have the receptors for 
+Karen Parker  
+01:17:34
+Vasopressin. Yeah. I mean, the receptors are all over, are all over the brain. And again, it varies depending on the species and, you know, the way the receptors are measured or in import postmortem tissue. Right. Which can be very difficult to get good samples. Right. And so we need to have that caveat going in. But yeah, I mean it's, it's made in the hypothalamus and it's released all over the brain and there's Vasopressin receptors all over the brain. Right. And what's really interesting about Vasopressin, I always sort of joke that Oxytocin, you know, always saw its day in the sun, if you will. And the Vasopressin was sort of the stepchild that was like left, you know, sort of behind. 
+Karen Parker  
+01:18:16
+And, and the reason why I find this fascinating is again, like I think back to my, you know, my, my roots as a, you know, evolutionary biologist, behavioral neuroscientist. And what was interesting is that there were studies in the early to mid 1990s showing that Vasopressin was critical for male Social Behavior. And so there was work, you know, there was a variety of people. and I, I think Rob Malenka mentioned this on his, on, on the podcast he did about, you know, there's a, a group of people like Sue Carter, Larry Young, Tom Insole, some of these early people, and they gave Vasopressin to male Prairie vs. And ve Vasopressin was what induced para bonding with a, a female mate and also paternal care. 
+Andrew Huberman  
+01:19:03
+And, and as I recall, those experiments were done in the context of looking at polygamy versus monogamy of these prairie Voles, 
+Karen Parker  
+01:19:12
+Prairie Voles versus like a different species. So same genus, but a different species. So it might be a Monte vol or you know, highly related, but these other species, so prairie Voles are monogamous the males for life. Well, I mean that was the mark 
+Andrew Huberman  
+01:19:28
+50% divorce 
+Karen Parker  
+01:19:29
+Rate. Yeah. That was not, I don't think it's that bad, but I think Mark, okay, they're doing 
+Andrew Huberman  
+01:19:32
+Better than we are as a species. That's true. 
+Karen Parker  
+01:19:34
+We should look to them for pointers. 
+Andrew Huberman  
+01:19:35
+And all the divorce folks are saying, wait, why'd you say better? I have some divorce friends that have said divorce is like the greatest thing. So we always say like, doing better, doing worse. Right. Anyway, that's a whole other podcast and certainly not the Huberman Lab podcast, but, or maybe it is, but or will be. But yeah, my understanding is that you have certain vols that mate with almost exclusively with one other vol for their entire lifespan. And then you have other Voles located elsewhere that in those colonies they meet with lots of different roles. So the males and females have lots of different partners, Ray's young, with lots of different partners, mating with lots of different partners, And, that if you give Vasopressin, then you can make the, I always wanna call them polyamorous, but I don't know if they love each other. 
+Andrew Huberman  
+01:20:22
+I'm gonna answer for more eyes and assume they love each other. The polygamous moles, not polyamorous, but polygamous moles then become monogamous. Well, 
+Karen Parker  
+01:20:32
+I, yeah, I would say that is probably not the take home message. So the take home message would be they had, let's say that there was like the good Voles, right, which are the prairie Voles, and they were the ones that formed these monogamous para bonds. Dad participates in paternal care with mom, they co raises babies together, and then dad chases off intruders, right? And then there's the more asocial Voles. And so these are like the Monte Voles, and it will, we will stay, it's a complicated story, but there's these Monte Voles where males and females live separately, females like maybe live on the male's territory. The male mates with a few different females absolutely doesn't provide any paternal care at all. 
+Karen Parker  
+01:21:12
+Mom raises babies by herself. Right. So that's, these are really the two 
+Andrew Huberman  
+01:21:15
+Models. This is like 1950s versus 2020s. Yes. Yes. To be to, to broadly stereotype. 
+Karen Parker  
+01:21:21
+To broadly stereotype. And if you give, okay, so for Prairie Voles, they're sort of primed to form bonds and to be the males, to be good daddies, if you will. And all you have to do is give them a single injection of Vasopressin and you know, or you can give an antagonist. And usually the way they form the bond is through mating, right? So they, you put them with a female, they may, they cohabit for a bit. There's been all kinds of parametric studies. I, I can't remember how many hours it takes to form a pair bond. But then you can do these things called partner preference tests. And then you can say, here's the guy that you m it with, here's this guy you don't know, and you can do it for males and you can do it for females. And they pick their partner, they choose to go hang out with their partner, the Monte Voles, you know, either after mating with somebody may either be equal or maybe they'll even go spend time with the new individual. 
+Karen Parker  
+01:22:11
+So the cleanest story was that prairie Voles are monogamous, Monte Voles are not monogamous, but in the prairie Voles you could give Vasopressin instead of mated cohabitation, and you could turn on a, like, you know, a bond with somebody after only living with them for a very short period of time. Right. Or you could induce paternal behavior. and I was working with a Voles species in grad school, I think the most interesting scientific experience that I've ever had. Right. And you and I both know this, right? When you're young, you're actually the person doing the work, right? As you become, you know, the head of your lab, you're mostly writing grants and giving talks, right? And then you get to hear about the super cool things that everybody in your lab is doing. 
+Karen Parker  
+01:22:53
+Right? 
+Andrew Huberman  
+01:22:54
+Eventually the, the members of your laboratory kick you out of the lab. Exactly. They literally say like, get outta here, you're leaving things in the wrong place. Whereas initially you're telling them, Hey, that's in the wrong place. Right. Within a year or two. For me, I think it took about four or five years, but by about year six, right? I was d demoted Yeah. To my office. Yeah. To just write grants and write papers. 
+Karen Parker  
+01:23:15
+I was told that one time I was back there and I tried to wait and I was like so excited what they were working on, and they basically just said, go write grants and bring in more money, right? Like that was kind of their attitude. Like, we get to be the ones who get to do the cool stuff. So back when I got to actually do the science, I remember I had this species where, and I, and again, I told you I came at this from an evolutionary perspective. So these were called Meadow Vols, and I found them very interesting. So when I showed up in my thesis advisor's lab, shes, I said, I really wanna study Oxytocin and Vasopressin and I really wanna study Voles and I know you have a Voles species. And she said, well, I don't have prairie Voles, I have these meadow Voles and I'm studying them because they're so sensitive to light and they change their behavior based on light and I. 
+Karen Parker  
+01:23:56
+She said, well, you can do what you want, but our grants basically have to have a circadian component. And so she said, you gotta work that in. But then we kind of struck this deal. So I was hanging out in the animal rooms and I thought it was really fascinating. So she had animals that were either on short day lengths or long day lengths. So the mimicking some summer and winter, and I was noticing that on winter day lengths, the, the males were hanging out with the females. And when the female had a litter, he was like participating. and I was like, whoa, these are not supposed to be monogamous animals. And so I went into the field research and they were doing all these radio telemetry studies. And so like if you, 
+Andrew Huberman  
+01:24:34
+I wish you probably explain what those are. Yeah. Putting a little transmitter under the skin, it's painless for the animal, but that allows the researcher to monitor the behavior of the animal in the field remotely without having to, you know, put them in cages and stuff. 
+Karen Parker  
+01:24:47
+So, right. And so this is like under field conditions and Voles are everybody's favorite snacks. So they have like a very limited lifespan in the wild, I mean like on the order of months. And, and so like, if you have a short lifespan, like you should just keep reproducing, right? And so what was interesting is at the end of the summer days, as you're going into winter territories collapse and males are found with females and they CORAs babies, it makes sense if it's, you're gonna have a litter and mom needs to get up to go eat, you need somebody to sit there and warm those babies, or they're gonna die because they're gonna freeze to death. Right? So I started saying like, wow, I think these vols are good dads. Like, I'm noticing this. And so I told my thesis advisor, I wanna study how Oxytocin and Vasopressin can, maybe this is involved in tracking these evolutionary mating strategies. 
+Karen Parker  
+01:25:36
+And so, again, like the coolest experience I ever had was on these males that were housed under short day lengths. So they were like winter males. I was able to put Vasopressin directly into their brains and, and it was like turning on a light switch and they ran around the cage, picked up all these babies, put them in a nest and huddled over them. And if you put a placebo into their brain, nothing happened. And so to me, I always filed that away in, you know, in the back of my mind of like, wow, Vasopressin is this really interesting hormone and maybe someday I will, I did a postdoc on something else. 
+Karen Parker  
+01:26:16
+But it was always, you know, back in the back of my mind of I really wanna return to this. 
+Andrew Huberman  
+01:26:21
+It's so incredible that a eight amino acid long peptide could basically turn these relatively negligent fathers into very attentive fathers. Yes. 
+Karen Parker  
+01:26:32
+Yeah. It was fascinating, 
+Andrew Huberman  
+01:26:33
+Right? That, I mean, it just speaks to the power of the peptide. Vasopressin also speaks to the power of brain circuitry. It also speaks to the idea that brain circuitry is often sitting latent in the background, you know, ready to be activated. That it's not just about Neuroplasticity and building up a new circuit. That some forms of Neuroplasticity are about unveiling what's Yeah. What's already there Absolutely. And that peptides can act like switches. Yeah. Which, you know, kind of makes sense on the one hand, but I've never heard of a result as dramatic as that. So I'm presuming you're gonna tell us that that then led you to go back to Vasopressin and explore its ability to induce good parenting and negligent fathers. 
+Andrew Huberman  
+01:27:17
+I 
+Karen Parker  
+01:27:17
+Haven't studied that yet. No. Well, so I think that, you know, my mom always says chance favors the prepared mind. And so I was doing my postdoc at Stanford and I got recruited to stay on the faculty. and I, you know, had been doing work in stress vulnerability and stress resilience and I really, and I love doing that work. But I still felt this tug of, you know, I, I had spent all this time in a psychiatry department where I was surrounded by clinicians and I realized that a lot of the stuff that I was doing had clinical relevance. Right? And so sometimes you sort of meet the moment, right? And so, right as I was transitioning to, to have my own lab in my department, there was a bunch of stuff going on. 
+Karen Parker  
+01:28:01
+So there were a lot of very dedicated parents who were lobbying for funding for autism research because it was horrifically underfunded, really horrifically underfunded. Wow. 
+Andrew Huberman  
+01:28:11
+I mean, at rates of one in 36 kids kids. 
+Karen Parker  
+01:28:13
+Well, not at the time, right? Right. So it was, it was one in 150 or whatever it was back then. But there were all these parents and, and I, I mean, again, they're heroes in my eyes that they advocated so much for their loved ones. And so there was, you know, they started forming parent grassroots organizations that have culminated they all started joining together, which is now Autism Speaks. And then there was a man named Jim Simons, who runs one of the most successful hedge funds in the world. And he decided, wow, I'm in a, you know, there's, let, let's put money into Autism. Right? And so there were, does he 
+Andrew Huberman  
+01:28:43
+Have a personal link to autism? 
+Karen Parker  
+01:28:45
+I you'd have to ask him because 
+Andrew Huberman  
+01:28:46
+Oftentimes, not always, but oftentimes when you hear about wealthy donors Yeah. Devoting a lot of money to one area of science, there's, there's a familial thing there. Yeah. That, you know, a member of their family or a close friend has this challenge and they, they really wanna see that challenge. 
+Karen Parker  
+01:29:03
+Absolutely. I mean, a, a lot of money I've gotten for my lab from philanthropists, and what I will say is the most impactful work I've ever done is through philanthropy. Right. They're crazy ideas that no funding agency ever touches. Right. But yeah, so they put, they both put a lot, you know, there, there was a lot of emphasis. And so because the Simons Foundation started issuing requests for applications, there was a group at Stanford that formed, and it was a clinician with a basic scientist. And my chair at the time said, well, you know, almost nothing is known about the biological basis of autism. Why don't you go, I'm gonna introduce you to the, the, the head of child psychiatry. You should go talk to this group. 
+Karen Parker  
+01:29:43
+And so as I was preparing my slides and realizing that, you know, Social Interaction impairments were a core feature of autism, I thought, wow, you know, these neuropeptides may really be, you know, a part of this puzzle. And so that's actually really how I got pulled into autism research was, was through that. and it was, I, I was, you know, everybody at the time was very interested in Oxytocin. And you know, I remember thinking, so we actually did probably the most definitive blood Oxytocin study because there was this idea, again, like this marketing campaign of like the Oxytocin deficit hypothesis of Autism. 
+Karen Parker  
+01:30:23
+And, you know, given how clinically heterogeneous Autism was, we got money actually from the Simons Foundation and we did the first study with maybe 200 kids. And what we were able to show was that blood Oxytocin was not a marker of Autism. Right. So it wasn't like there was a bimodal distribution, meaning two completely non-overlapping levels of Oxytocin in people with autism, people without autism. So the lower your blood Oxytocin Levels, actually, regardless of who you were, you could be a child with autism, you could be an unaffected sibling with autism, or you could be a unrelated control child. and it was the lower your blood Oxytocin Levels, the greater your sort of social difficulties. 
+Karen Parker  
+01:31:06
+And the slopes, you know, were different. They started at different points. 'cause the behaviors were obviously different. But that's what got us thinking about our clinical trial, which is that blood Oxytocin level is not going to be this great differentiator between people with and without Autism. Right. But we might be able to find a subgroup who could benefit from treatment. But 
+Andrew Huberman  
+01:31:25
+What I like so much about your approach, the way you described it, is that it di it sets aside, we don't, we don't wanna say discards, but it sets aside this thing that we call autism. Yeah. Which is already hard to define and diagnose. And there's all these different Spectrums and you're trying to f and just says, okay, children with autism have challenges in social cognition, Social, Behavior, social bonding, so do adults with autism for that matter. Let's just focus on that and not worry so much about whether or not somebody is diagnosed as Autistic or not. And just focus on what are some of the potential neuropeptide deficits or overexpression of neuropeptides that may in some way relate to those social challenges. 
+Andrew Huberman  
+01:32:09
+Right. And then one can circle back to the question about autism in collecting those data. But it, it also points to this idea that like when we, when we go after a disease like Alzheimer's, we can often miss the possibility that Alzheimer's, while it has, you know, deficits in cognition and memory could also be a bunch of other things like a metabolic disorder of the body. And so maybe you, you go after a particular symptomology Yeah. And try to attack that. And you might actually potentially treat or cure multiple diseases. It's a very different approach. and I, I hope people are catching on to the, the subtlety, but also the, the, the potential impact of that. 
+Andrew Huberman  
+01:32:49
+Because if I heard correctly, you said there are people who are not Autistic who have social functioning deficits and they too have less circulating Oxytocin. 
+Karen Parker  
+01:33:02
+Right. So I would say we haven't studied people where we brought them in and characterized it. Right. So these are typically developing kids, but what we did is in the abilities that are typical of a controlled child, we still saw that gradient. Right. And so I think it just sort of begs the question about, you know, what is oxytocin's role in human sociality? Right? I mean, I think there's just so much that we don't understand about both of these molecules in terms of their disease liability if they're low or their healing potential, if we're, you know, able to use them as modulators of other Therapies. 
+Andrew Huberman  
+01:33:45
+So how did you move from Oxytocin to Vasopressin? You mentioned that everyone was all excited about Oxytocin still the one that we hear the most about. Yeah. Although after this podcast episode, and when I start blabbing about Vasopressin to everybody, you know, maybe that'll change, but it's, I think it's gonna take a lot more than that. But maybe it's 'cause the name isn't as, there's something about Oxytocin that like, kind of sounds like the love looks like the love hormone, but like Vasopressin should be renamed. 
+Karen Parker  
+01:34:15
+Right. Well, and it's 
+Andrew Huberman  
+01:34:16
+Also, it should be called something else. Yeah. Like, not antidiuretic hormone, not Vasopressin. Right. I mean, you're gonna tell us how critically important it is, perhaps even more important than Oxytocin for Autism and social functioning. So I don't know, by the end of this podcast, we will, we'll come up with a new name. 
+Karen Parker  
+01:34:31
+I i it it's needed. Right. 
+Andrew Huberman  
+01:34:32
+Okay. Well I'll I'll put it out there. Okay. So how did you get to Vasopressin? 
+Karen Parker  
+01:34:38
+Okay, so it was interesting with Oxytocin because we didn't, you know, and again, I was skeptical that we would see these big group differences, but, you know, it was a little bit of like, okay, you know what everyone's saying this is not gonna be the big solution. Right? And so I actually came at it from the work that we did in monkeys. And so I think I mentioned previously at the beginning of the podcast that there were a lot of limitations that I saw. And then sometimes if you come into a field, you know, when you're, you're a little bit of an outsider, right? Like, I'm not a clinician, I don't see autism patients, but I also, I have this really strong interest in Social Behavior and the biology of it. 
+Karen Parker  
+01:35:20
+And so I, I was thinking about what are, what are things that we need to do to better address the challenges in autism? So one of 'em was why are we looking in blood, right? Like, if you look at neurological conditions, there has been a lot of progress made by doing biomarker discovery in Cerebral, Spinal, Fluid, right? So like the, the biological substrates or, or clues of markers of say, various forms of dementia or or ms were for first found in Spinal Fluid, right? 'cause it's the, it's the Fluid that baths the brain and the Spinal column. And so if you're looking for the biochemistry of an illness, that's the closest Fluid that you can get to the brain, right? 
+Karen Parker  
+01:36:03
+So blood draw just won't do it, maybe, right? So that was part of my thinking. But then there was the issue of the animal models, right? So there was drug after drug after drug that was tested in mice, and they failed in human clinical trials. And so it made me start thinking, could we develop a Primate model of naturally occurring social impairments, right? So can we, because in autism, these social impairments are, if you will, naturally occurring, right? And so, you know, this is these spontaneously occurring children. And so it made me wonder, could we identify monkeys in a large colony that have social impairments in And after talking to, to clinicians who, who treat these children, can, I spend a lot of time validating a monkey model where there will be monkeys that have features that look like they have direct relevance to core autism symptoms. 
+Karen Parker  
+01:37:00
+And so what I did was, there's a Primate center, the California National Primate Research Center. And so what we did is, so I think I mentioned earlier that there's these surveys that can be used to look at Autistic Traits in the general human population, right? And so we refined one of these and we did what we call back translates. So basically it's an instrument that's used for Humans. And then what we did is modified it to be able to, to use this rating scale in Resus MAC Hacks, which are an old world monkey and I know you're familiar with them. And, and I was interested in looking at old world monkeys because they're some of the closest relatives to human that are used in biomedical research. 
+Karen Parker  
+01:37:41
+And, and as I mentioned previously, these Autistic Traits are continuously distributed across the general human population, And, that this genetic say, let's call it genetic liability, which is a fancy way of just saying that we think that there's a, there's a genetic risk that underlies this continuum of behavioral Traits, right? So if we think that that's true in Humans and in one of our closest relatives, and we think that some of these genes create proteins that then are what sets up the developing brain to develop in the way that Autistic brains develop. So let's just assume that that's the premise. That's what we went in with. 
+Karen Parker  
+01:38:21
+Can we find Reeses Maccas that are just living in large outdoor colonies and identify animals that might be good models for Autism? And the answer is yes. We could do this all kinds of different ways. One is we could just take people and score monkey behaviors outside their cages while they're interacting with their peers. We can use rating scales. And again, the rating scale we use is called the Social Responsiveness scale. So this is called the Maca Social Responsiveness Scale Revised. It's a mouthful. But what it allows us to do is measure Autistic like Traits in monkeys, and we can also bring monkeys in for experimental tests to see where their eyes look or how do they perform, how do they respond to videos of other monkeys, you know, if they're making affiliate of overtures, do they do like, you know, you know, Mac Gogo Yeah. 
+Karen Parker  
+01:39:12
+Which is a, a positive response. Oh yeah. Well, they do that. Right? Well, 
+Andrew Huberman  
+01:39:15
+I I I'm going to apologize for interrupting you again, but I just have to tell people this because I spend time up at the uc Davis Primate Center Oh yeah. As a graduate student. And, and by the way, what we're referring to here are non-invasive observational studies. Yeah. At least thus far. So these are monkeys living in large exclosures. Yeah. Not enclosures. Large exclosures forming colonies and social relationships. And you know, I think anyone that sees monkeys at the zoo, and we all learn that monkeys go eeeeeee And, that they don't. If you want a monkey to like you, you learn this working with Maccas, first of all, they don't eeeeeee. The affiliative call is a who, who they do this really nice. 
+Andrew Huberman  
+01:39:56
+And the little ones, the babies, 
+Karen Parker  
+01:39:58
+You do that very well. 
+Andrew Huberman  
+01:39:58
+I spend a lot of time with these monkeys and the little ones, they do this thing where they go, I used to, I used to nurse the little ones. Every once in a while they go, Ooh, ooh. And they're just, you know, it just like makes your heart melt. I think there must have been an Oxytocin dump at that moment. That's probably happening right now. But if you want the monkeys to like you, you have to give an affiliative facial gesture, which is not a smile. That's actually an aggressive gesture. Right. So as Karen, Dr. Parker just showed you it's lip smacking. Right. Which is, yeah. So if you see a monkey at the zoo and you want it to pay attention to you, you're gonna have to lip smack. And if it doesn't, either you're not doing it right, or it just doesn't like you. Exactly. Right. Great. Alright, thanks. Now we'll go back to the, the study of, or the establishment of this really key experiment, right? 
+Karen Parker  
+01:40:39
+So then what we did is we identified these, these animals, and we spent a lot of time. So one, one of the things that I do as one of my areas of expertise is validating animal models. So a lot of, like I mentioned, like a lot of reason why experiments fail is people will take an animal off the shelf and say, oh, I'm going to do this. Right? But if you're, you know, if you're studying a disorder that's characterized by visual issues, is it, is it the best thing to do in a nocturnal species that has olfaction as its primary sensory modality? Or is it you're referring 
+Andrew Huberman  
+01:41:13
+To mice, right? 
+Karen Parker  
+01:41:14
+Or is it better? You know, and again, I will say all models have value. There's all, you know, there's reasons. You just have to, you know, you basically have to stand by what you're modeling. And so I think one of my, the biggest issues I have with this sort of Mouse phenotyping mafia is that, you know, there's this group of tests that they use and they use it in every single disorder, right? And then if there's a positive hit, it's like, oh, this is like, you know, this test is really for Parkinson's today, but it's for depression tomorrow. Right? And so, so my goal was to, to devise very specific tests that would allow us to evaluate, you know, core features of autism in this model. And the answer is, we found it. Right? So if you look at monkeys that spend a lot of time alone, they have a much greater burden of Autistic like Traits measuring on this rating scale. 
+Karen Parker  
+01:41:58
+They have diminished social motivation. So other monkeys will come up and interact with them, but they don't engage in social overtures them that much themselves. They do less grooming, less affiliative behaviors. They, in some of the work that we're doing, they don't lip smack back. And we can talk a little bit about that. We did a pharmacological probe and we can talk a bit about what Vasopressin does to that, which is kind of exciting. And so we spent a lot of time validating this behavioral phenotype, right? To say that we really feel like there are our core aspects of it that are allowing us to model autism, right? and I have a paper, which if you wanna put it in, it's all about creating this monkey model and, and, and the power of, of doing it and where it, it took us clinically. 
+Karen Parker  
+01:42:44
+We'll 
+Andrew Huberman  
+01:42:44
+Provide a link to that in the show note captions. and I also, just want to throw up my vote for the, the fact that you did this work, because again, I, I don't disparage Mouse model work, but we've just seen over and over again that the incredibly small fraction of Mouse models that lead to valid therapeutics in Humans And, that there's just a lot of differences between Primate brains and rodent brains. And we have a very elaborate, you know, frontal cortex, a bunch of other circuitry that mice, if they have the, that they probably use it for other things. And it's just very hard to com to draw conclusions from those models. And, and they're, they're great for probing functions that are, let's just call, call them more autonomic type functions and for doing some of the initial investigations. 
+Andrew Huberman  
+01:43:29
+But, you know, I think while I don't wanna see every research lab switch over to Primates, you know, I think one has to be really thoughtful about the kinds of experiments one does with Primates at all. Yeah. This sort of behavioral assessment and, and the identification of a, of a, a Primate model for autism seems like a, a very good use of Yeah. Of, of human resources, 
+Karen Parker  
+01:43:53
+Right? Yeah. Well, and the other thing I will say is that there were medications that were only tested in rodents that when they were, when they were tested in, people had really negative consequences. I can give you two examples. So one is thalidomide, which was a morning sickness medication that was given to women that were pregnant. And the safety testing and tox was, toxicity testing was done only in mice. I didn't know that. Yes. And that's why it went on the market. It went on the market in Europe, and there were all these children born with profound limb limb abnormalities when they went back and tested the drug in Marmosets. Neither Reese's monkeys or ous monkeys, an old world monkey, they had the limb abnormalities. 
+Karen Parker  
+01:44:36
+And so, 
+Andrew Huberman  
+01:44:36
+So all they had to do, and again, I, you know, I, I as an animal lover treat the, the, you know, the life of a single monkey or, or a single Mouse for that matter. An individual monkey, excuse me, or individual Mouse for that matter, as, you know, as critical, I am a speciesist. I do think there's a difference between their life and our lives when it comes to, you know, what study one does. But, but just the idea that these severe developmental defects in Humans could have been avoided by doing an experiment, perhaps even on one. Right. Marmoset. Right. And again, I feel for the life of discomfort of that marmoset, but the idea that that could have saved so many human lives Yeah. 
+Andrew Huberman  
+01:45:16
+Is just striking. 
+Karen Parker  
+01:45:17
+Well, and there was also that street drug, MPTP. Oh yeah. That was a synthetic heroine, right? That Causes like overnight Parkinsonism. Right. When like, I think the dopamine cells were just ablated. Right. But when you went and looked in mice, NPTP didn't have those effects. It was only in Primates and other, or Humans and other Primates. Right. So, and I agree with you, I am an animal lover. I, I think that we have to be very careful whenever we do any animal experiments, right. And so you really need to have a good justification, I think, for any science that's done. I will say that upfront and you know, we have this, you know, new generation of stem cell and organoid work, which I think is going to, you know, allow us to make all kinds of disease progress, right. 
+Karen Parker  
+01:45:59
+So 
+Andrew Huberman  
+01:45:59
+Without having to study whole animal models 
+Karen Parker  
+01:46:02
+Or in, in complimentary. Right. But I mean, I think, again, I think we need to pick the model based on the question we're asking. Right? And so if you wanna have a medication that's safe and well tolerated, you know, in people or effective, and you wanna move the needle on complex social cognition, you wanna be testing it in a species that also has complex social cognition. Look, 
+Andrew Huberman  
+01:46:26
+The Netflix show Chimp empire. Yeah. If people haven't seen it, they should watch it. When you watch it, you realize they're very much like us. Yeah. And dare I say, we're very much like them. Oh yeah. It's far and away different than watching a bunch of mice. Yes. And I'm not being disparaging of mice. I'm assuming they have, the mice also have complex social cognition. Voles also have complex social cognition, but it's of the Mouse vol type. And we don't know really even what to look for. Right. But with Primates, there's, you know, affiliative gaze, there's, you know, affiliative grooming, there's ostracization of individuals in a troop. I mean, there's a, there's a, you know, banding taking care of other babies. There's all sorts of interesting dynamics that map so clearly onto human behavior. 
+Andrew Huberman  
+01:47:08
+Yeah. And vice versa. Yeah. Yeah. So you established this colony up at Davis at the regional Primate Center. That, and where you identified some monkeys that we don't know if they have autism, but you could see that they were less socially affiliative. 
+Karen Parker  
+01:47:25
+Right. and I would never say they have autism. Like I will say that upfront, you know, they have features that resemble human autism And that allow us to model this. Right. So, so we started studying those animals, and what we wanted to do was do some biomarker discovery. So what we wanted to ask was, are there any molecules that allow us to differentiate these, what we'll call them naturally low social or low social monkeys from socially competent high social monkeys? And so we measured a bunch of different readouts of neurotransmitter systems that were either involved in mammalian Social, Behavior had been implicated in idiopathic meaning autism that doesn't have a genetic cause. 
+Karen Parker  
+01:48:06
+Or these neurogenetic syndromes that we've been talking about where there's Pathways that are really associated with them. And so if we measured a bunch of these systems with 93% accuracy without even knowing what the monkey, who the monkey was, if they were lower high social, we could just put them in the low social or high social bucket. 
+Andrew Huberman  
+01:48:24
+And was this by blood draw or Cerebral? Spinal. 
+Karen Parker  
+01:48:26
+Fluid. So this was by, it was everything. We did blood, we did CSF, and we put all these measures into the hopper. We did a discriminant statistical analysis, which was like a machine learning algorithm where we just said, here's all this information. Help me classify if this individual is high or low social 
+Andrew Huberman  
+01:48:41
+For Cerebral Spinal Fluid is collected by Spinal Tap. Correct? Correct. And my understanding, I've never had one, but that Spinal tap is of course more invasive than a blood draw, but it still is done as an outpatient thing in Humans, like you can go in, get a needle inserted into the lower spine by, by an expert. Yeah. They're gonna draw Cerebral, Spinal, Fluid. I mean, not that much more invasive and time consuming than getting a, a needle into your vein for a blood draw. Right. I mean, it's, it's, we think of it as it's technically a little bit more challenging. Yeah. But they're CSF draws in Humans all the time. 
+Andrew Huberman  
+01:49:21
+Right. So in theory, this could map to a human study, and 
+Karen Parker  
+01:49:24
+It did, which we'll talk about. Very cool. So we went out and we did this, I have this spectacular statistician who's we, we spent a lot of time together. His name's Joe Garner. And, and he is a statistical genius. And so he developed this and, and we do all of our work together, or you know, I would say 95% of it. We just love working together. And he developed a statistical winning winnowing strategy to identify what were the key drivers. And what was fascinating is in this first monkey cohort, it was the Cerebral, Spinal Fluid levels of Vasopressin that were really what was driving this classification. Right. So if we just knew your levels of your, of Vasopressin in Spinal Fluid, but not in blood, interestingly, we could pretty closely perfect to perfect classify you as high or low social. 
+Karen Parker  
+01:50:09
+And so then we replicated that again in another monkey cohort because obviously as a scientist you always wanna replicate your work. And then if it was really a biomarker, meaning it's a molecule in the body that gives us an indication of something, and in this case it's an indication of your social functioning, we were able to look at monkeys and we saw that the Vasopressin was consistent across measurement times. So there was a wide variety of Vasopressin Levels, but within an individual monkey, it was pretty much the same. Right. So that's what you wanna see with the biomarker. And then we showed that the Vasopressin Levels were closely linked to groom spent grooming, time spent in grooming. 
+Karen Parker  
+01:50:49
+And as we mentioned, or I think we mentioned earlier, grooming is in many monkey species, a critical behavior that solidifies social bonds and maintains them. And so the individuals with the lowest CSF, Vasopressin Levels had spent the less time, the least amount of time in in grooming. 
+Andrew Huberman  
+01:51:06
+Grooming other monkeys. Other 
+Karen Parker  
+01:51:07
+Monkeys, 
+Andrew Huberman  
+01:51:08
+Yes. And other, yeah. This allopathic grooming is a very interesting behavior. And from watching Chimp Empire, I can tell you that new relationships are established in many ways by monkeys, these chimps chimpanzees sort of offering their back for grooming. And if another chimp elects to Yes, groom that chimp, then it establishes some form of trust. Yeah. and it, and it all seems to have to do with proximity. Like, how close are you gonna let me get to you? Right. Vice versa. And Humans that, you know, we talk about personal space and Right. And there's a whole set of things related to consent in this whole allopathic grooming thing. And then if they, you know, if a, if a chimp misbehaves on a, on an outing, then they aren't groomed by others and they can actually get parasitic infections. 
+Andrew Huberman  
+01:51:51
+Yeah. and it can be very costly. It's very interesting, you know, to just think of allopathic grooming as a, as not a kind of a primitive of language, but a whole language unto itself. 
+Karen Parker  
+01:52:04
+Absolutely. Yeah. And, and also just critical for the species. So that was really interesting to me that we were seeing these hints that Vasopressin could be, you know, really important. But of course, you know, somebody will say, and I will say, upfront monkeys don't have autism. Right. So then the question becomes, does this have what's called translational value? So, you know, can I see this observation in an annual animal model and will it provide fundamental insights into Humans? Right. And so I wanted to get Cerebral Spinal Fluid from people to test this hypothesis because we had in parallel done a study looking at blood Vasopressin Levels in people within without autism. And we didn't see a group difference there. 
+Karen Parker  
+01:52:45
+Unlike this really profound difference that we saw when we looked at Spinal Fluid in the monkeys. And again, I think I mentioned the blood Vasopressin Levels were indistinguishable if you were high or low social monkeys. So there was something about looking more proximate to the brain that was giving us more information than say the blood alone. And so I said I wanted to get Spinal Fluid, and like you said, people do this all the time, how would we, but we're, you know, it's not gonna be a first pass, especially when we don't really have any evidence in people to go in for what we would call a research lumbar puncture. Right. And so I had to get really creative about how do I get Spinal Fluid from children. And what we did was we piggybacked onto a clinical indication for a Spinal Fluid draw. 
+Karen Parker  
+01:53:31
+So, and, and we did this. So I tried to get funding for this. This is like, you know, again, I, I mean I think this is important for people to know how science is done, right? And so I wrote all these grant applications, nobody would fund it. They said that this is really interesting. It's too high risk, you won't be able to pull it off. And you know, I don't usually back down from a challenge. Like if I think something's a good idea and I wanna do it, I'm gonna find a way to do it. If somebody, if it's impossible, that's one thing. But if it's hard to do, it doesn't mean you shouldn't do it. You just have to figure out how to do it. And so I always try to see bridges where other people see barriers, right. And so it's like, well, how can I access Spinal Fluid? And so I went around talking to all my friends who were on, and Stanford's really wonderful because it's such a small school, right? 
+Karen Parker  
+01:54:12
+And so you're on all these different committees with all these different people. And so 
+Andrew Huberman  
+01:54:16
+Lot of committees. Lots of committees I can attest. Lot of committees. Yes, 
+Karen Parker  
+01:54:18
+Exactly. But it's really cool 'cause you're on them with people from all different departments 
+Andrew Huberman  
+01:54:22
+And Oh yeah. I know people in departments that I wouldn't otherwise know. Yeah. And you get very, you get to know these people Well yeah. In, in these many committees and, 
+Karen Parker  
+01:54:30
+And where we live, it's a small community, right? So like, maybe 
+Andrew Huberman  
+01:54:32
+We're the experiment Karen, maybe there's a, I always wonder whether or not there's a larger experiment, like not on monkeys, not on the the patients or the clinical trial, but like we're maybe we're the experiments. Yeah. Right. I mean, yeah. And they're looking at how we interact on committees. Anyway, please continue. 
+Karen Parker  
+01:54:46
+So I started going up to people that I knew and said, Hey, if you're taking Spinal Fluid, can I get a little bit of extra? Right? And of course we got, you know, IRB approval, meaning we had ethics approval and all this. And or you could get the remnant sample and obviously again, get consent from the families so we could either get a little bit extra when it was being drawn for a research indication. So, so they were getting a Spinal tap no matter what. And then we were just, either we were getting a little bit extra or we were gonna get the remnant that they were gonna throw out, right? So you usually take more than you need because you don't wanna have to do another Spinal tap. Right? And so we were able to go around and I hustled around and got all these people involved to help me. We put hot pink stickers on the lumbar puncture trays so that in the emergency room, so somebody was doing a Spinal tap, they would call us. 
+Karen Parker  
+01:55:34
+So we knew about it and we could get, you know, samples again under people's consent. So we got all these people involved and we finally got samples from children with autism and children without Autism. And then we also made sure that whatever they were being worked up for was negative. Right? So we got the, the sort of healthiest people we could, given that everybody was coming in for a medical reason to have a lumbar puncture. And in this, in this first study, we had seven children with Autism, seven children without autism. And we could nearly perfectly classify 13 outta 14 individuals by just knowing their CSF Vasopressin level alone. Which is pretty remarkable given that there isn't a biological indicator that we, a robust biological indicator that we know. 
+Andrew Huberman  
+01:56:20
+So basically in this relatively small cohort Yeah. Having low Vasopressin Correct. Is a biomarker of autism. Correct. 
+Karen Parker  
+01:56:28
+And, and again, and what I will say is in our monkey studies and in our human studies, CSF Oxytocin level became our control, right? So in our monkeys, there were no difference in CSF Oxytocin by group. And then in this first study, there were no differences in CSF Oxytocin Levels, a sample size of 14 is intriguing, but given autism so clinically heterogeneous, we wanna replicate it. And so I knew that there was a professor at the NIH named Sue Sweeter, who was collecting Cerebral Spinal Fluid in as part of a research study because she was interested in immune parameters and folate deficiency. 
+Karen Parker  
+01:57:09
+So she had children that were medically healthy and they were getting, you know, just like at NIH get these huge workups, right? So they were very well characterized participants. So we were able to look at, and again, we also, this is the first time we were able to look at girls. So we had a small sample of girls and we had boys and we basically just asked the question, can we replicate this? and I was very interested in, well, well Oxytocin be what's different in the girls, right? So maybe there will be some sex specificity here and it will see low CSF Vasopressin in the males and low CSF Oxytocin girls. That was not the case. What we found was that if in the individuals with autism, regardless of their biological sex, that they all had CS Vasopressin Levels than the individuals without Autism. 
+Karen Parker  
+01:57:56
+And because they were so well characterized, we were also able to show on a gold standard research diagnostic assessment of Autism. So it's a, an assessment that's used to, in a research situation, to validate an autism diagnosis by an expert clinical opinion that the lower your Vasopressin Levels in Spinal Fluid, the greater your social symptom severity, your clinical symptom severity. And then we asked, it's like, well, Vasopressin is involved in Social Behavior, but it's not really that involved in restricted repetitive behaviors. And, that was actually the case. So it was the CSF Vasopressin track, the social symptom severity, not the repetitive symptom severity suggesting that there might be other biological measures that could be included as a way to, you know, have a more powerful way to differentiate people with and without autism. 
+Karen Parker  
+01:58:49
+And so then I was really, so, so that was really exciting to replicate that. And then I had a colleague named John Constantino, who is now at Emory, but he used to be at WashU and I knew that John, I had been at a meeting in, I think it was 2010. and I found out that he had what I will call liquid gold. So he had this minus 80 C freezer that was, had a bunch of neonatal infant CSF samples that he had from human, from human infants. And he had collected them. And again, this was under ethical approvals. and it was basically they, these infants came in for something that needed to be worked up that was very rare. 
+Karen Parker  
+01:59:29
+But if they had it, they would, you know, they, they could die. So they needed to get a medical treatment for it. But the, the vast majority of these children ended up being healthy. So it was a pretty healthy sample, if you will. Right. And so I knew he had all these samples and I said to him, wouldn't it be really interesting if we teamed up and we look at this CSF a suppressant finding in children before the period when behavioral symptoms first manifest. Right. And so, yeah, 
+Andrew Huberman  
+01:59:56
+So sorry again to, sorry, am I getting too jargony? I'm apologize every time. No, no, I just, but I think it's important 'cause this was a question that I was thinking about earlier and I, imagine many other people were too, you know, you find these monkeys that have social interaction deficits. You find kids that have Social Interaction deficits, and you see that there's low Vasopressin in both groups. This extends to male and female children. Yeah. But then of course the question becomes, well maybe they have low Vasopressin because of so many years, or even months of Social Interaction deficits. Right, right. That the, the direction of causality isn't clear. And so yeah, when you said liquid gold, you know, referring to the CSF from these infants taken prior to any opportunity for Social Interaction beyond just, you know, whatever interaction they had with their, their mother up until the point the, the CSF draw was taken, this really gets at the issue of causality. 
+Andrew Huberman  
+02:00:47
+Right. 
+Karen Parker  
+02:00:47
+So it's a quasi perspective, you know, 'cause it was banked and then a lot of time went by. Right. And so what we realized we could do was, and this was a heroic undertaking on John's part. So these were, this was, these samples were collected back on paper medical records. So he had to trace 2000 paper. Paper. What's that? Yeah, exactly. So he had to trace 2000, I think, paper medical records to an electronic medical record. And then what we did is we, he looked to see who went on to develop autism and who didn't. Right? So then what we had was Spinal Fluid samples that have sort of been waiting in the freezer, if you will. And then we could ask, you know, do individuals who later receive an autism diagnosis many months or even years later already have low Vasopressin Levels as infants? 
+Karen Parker  
+02:01:34
+And the reason why this was a compelling question to ask is there's evidence to suggest that behavioral Therapies are more effective the younger the child is. Right. And if you think about it, if if behavioral characteristics of autism emerge across development, you know, what if, and this was my, this is sort of my, we haven't, we haven't substantiated this yet, but this is like sort of my big question. What if all these autism susceptibility genes summon, interact and converge upon a few common Pathways in the brain, right? And so for years, people have talked about this excitatory inhibitory balance theory of autism. But what if Vasopressin is one of those Pathways because it's so critically involved in social functioning. 
+Karen Parker  
+02:02:16
+And so what I was interested in, and so let, let's just say for a moment, you know, your genes are set at birth. What if the Vasopressin is already low in the brains of these infants? And so it puts them on this very different trajectory where you have this cumulative effect of there may be a little bit less socially interested and maybe they're not making the eye contact. And if there was a way to intervene really early, even potentially with a Vasopressin replacement therapy, that you might be able to put them on a different developmental trajectory. So that was my big what if question. And what was really remarkable was, so I had been asking John, Hey, can I have your Spinal Fluid samples? And, and he finally agreed after he saw a couple of those papers, understandably, he wanted to make sure that we already had shown something in people and animals that were sort of, if you will, symptomatic with social Impairment. 
+Karen Parker  
+02:03:05
+And what we found was, yes, this was the case. So it was a small sample, it needs to be replicated. But individual is, so infants that went on to have an autism diagnosis later in life already had low CSF Vasopressin, Levels, Oxytocin Levels did not differ between infants that received a subsequent autism diagnosis and those that didn't. So suggesting that we have a biomarker that, you know, might really be a good readout for, you know, clinical referral or risk management monitoring. 
+Andrew Huberman  
+02:03:36
+Incredible. So you're telling us that levels of Vasopressin correlate with social cognition deficits, that right. I think that warrants a brief discussion about Cerebral Spinal Fluid. I teach neuroanatomy to medical students. So forgive me for, for having to asked this, but you know, I think of Cerebral Spinal Fluid as the stuff that exists in the ventricles and down the central canal of the Spinal cord and provides essential nutrients and for neurons and other cell types in the brain. But it's also a reservoir for chemicals coming from the brain, which is why the Spinal tap is useful, right? 
+Andrew Huberman  
+02:04:18
+But in the context of a Cerebral Spinal tap, and you're measuring CSF and you're seeing, okay, lower levels of Vasopressin in these individuals with these challenges with social deficits, does that mean that they're making less Vasopressin? Does it mean, I mean, it could have gone the other way too. Like they're dumping too much Vasopressin into the CSF and it's not able to function in the brain. Like, you know, what do we know about CSF and what does it mean? 
+Karen Parker  
+02:04:47
+Right. Well, I mean, it's a great question. So I, I think this is just the tip of the iceberg, right? So I think of the CSF is as sort of like the kitchen sink of the brain, right? And what we need is real specificity. And so, I mean, my working hypothesis, and we'll talk a little bit about pharmacology, is that there's a deficiency in, in vaso product, Vasopressin production in individuals with autism. But there's a lot of elegant experiments that need to be done to be able to answer this question. So we have funding currently to look in postmortem human brain tissue to look at in both blood CSF and hypothalamic tissue, where Vasopressin is made to look at inner relationships, right? 
+Karen Parker  
+02:05:33
+Which is very difficult to do, but also to see if there's a fewer number of Vasopressin producing cells and if Vasopressin gene expression is diminished, right? Because that would help us begin to answer is this a production issue, right? So if you think back to the prairie roles, they're sort of primed to be parental, right? Or in, in my case the meadow Voles, right? But you can do this in any vol species, or at least the two that I'm thinking of. And you put Vasopressin into the brain and then all of a sudden it, it unlocks this behavior, right? So is it possible that children with Autism, or at least a subset of them, all you have to do is replace Vasopressin And that there might be a subset of these kids minimally that could benefit from Vasopressin replacement, if you will. 
+Andrew Huberman  
+02:06:20
+Is there any evidence for excessive Urination in kids with autism? Which if anyone's going, what, what, why is he asking that? If you recall? Vasopressin is also antidiuretic hormone. I suppose the other question is, could you, has anyone looked at levels of Vasopressin in the urine of Autistic kids versus non-autistic kids? Because it's acting peripherally. And you said blood draws don't reveal any differences, right? In, in circulating blood, we know that urine is filtered blood fair enough. But seems at least worth, worth the look. See, that's 
+Karen Parker  
+02:06:54
+It. Okay. So I have this awesome medical student in my lab named Lauren Clark, and we with three different physicians from different backgrounds. So wrote a perspective piece that's currently under review and it actually asks this question. So, you know, given all these weird medical naming conventions, it's possible that this information is existing in information silos in different disciplines, right? So it raises this idea of if you have low Vasopressin, so there's a, if you really don't have, you're not making Vasopressin, you have a disorder called central diabetes insipidus, right? Which is characterized by excessive thirst, lots of Urination and, and you know, bedwetting potentially. 
+Karen Parker  
+02:07:41
+And so what we wanted to do was ask, has this been missed? Right? So shouldn't there be a subset of kids with autism where we might be able to look at these other physiological features and say, yeah, this is the subset we wanna be giving Vasopressin to. And so she wrote this perspective where we did a little bit of a review, and the answer is, there's some intriguing studies that we reviewed in this paper where it looks like, and, and what's funny is when you read the discussion section, it'll be like, wow, there's all these kids with autism that are drinking lots of water and we don't know why. Or wow, there's a lot of bedwetting, but it's not tied to intellectual disability where you might see a lot of bedwetting or something. So all of these studies kind of raise this point of like, wow, this is really interesting. 
+Karen Parker  
+02:08:25
+And there's been no big epidemiological study done on this. And certainly not any study where people who come at it from brain science and then the, the practitioners who are like an endocrinologist for instance, was, which is where some of these people could show up are, are really connecting the dots. So I think that remains to be determined, but we are actually about to launch a study to investigate this. Right? I was meeting with Lauren yesterday about it. So it's a really good question and I hope to have information on it in the not too distant future. 
+Andrew Huberman  
+02:08:57
+As I recall, alcohol is an antagonist of Vasopressin. 
+Karen Parker  
+02:09:01
+So al there's a lot of different drugs that could interact with VA Vasopressin. And so one thing I'm interested in is are there any drugs that release Vasopressin as a side effect? And could some of them be mobilized to treat autism? We also know that like a acupuncture can release Vasopressin. There's been some studies done in rats on that. And so one question would just be, are there any Alternative Therapies where we can be releasing Vasopressin naturally or do we need to, you know, do a replacement study where we give, you know, Intranasal Vasopressin to children with autism? Right. And of course I'm, I'm not, I wanna say I'm not advocating that people go out and do this on their own. Right? Like I'm, I, I'm a big proponent of randomized clinical trials where you assess safety, right? 
+Karen Parker  
+02:09:46
+And efficacy science Yes. 
+Andrew Huberman  
+02:09:47
+Science, science, science and medicine. Right. But I appreciate you saying that. Yeah. Some years ago, so this would be mid nineties, there was a small but very active subculture that I was not a part of. Okay. I swear that were combining GHB Gemma hydroxybutyrate and Vasopressin as combination quote unquote sex drugs. Really? Yes. Huh. Yeah. and I don't know what the rationale for including Vasopressin was. In any case, whether or not that's by way of enhancing social bonding or a direct effect on sexual arousal itself Right. 
+Andrew Huberman  
+02:10:28
+Is still unclear. But in any event, since we're talking about Vasopressin, maybe you should tell us about the actual science of Vasopressin. Sorry, maybe I should allow you to tell us about the actual scientific study of Vasopressin. In other words, what happens if you give people Vasopressin in a controlled environment? Right. Exactly. Not the sort of environment I'm talking about. Right. But a 
+Karen Parker  
+02:10:47
+Controlled, and the one thing I will say, 'cause I have people contact us all the time saying, where can I get Vasopressin? And what I would say is Vasopressin means, you know, you're having effects on blood pressure, you're having effects on really important 
+Andrew Huberman  
+02:11:01
+Right. VA ode, 
+Karen Parker  
+02:11:02
+Right. And people VA vasculature. Yep. And the dosing has to be appropriate. You know, you don't want people just going and trying this 'cause there could be really severe adverse effects. Right? So that's why we've been studying this in a, in a controlled clinical trial. Right? So I teamed up with Antonio Hardin, who's the child psychiatrist that I've been working with for years. And we did the first sort of first in class Vasopressin treatment trial in children with autism. So again, this was, everyone was unaware of who was on Vasopressin, whether it was the family or the clinician who was doing the evaluation. And then it was randomized placebo controlled. And then we basically gave Vasopressin, again, twice a day for four weeks to children. 
+Karen Parker  
+02:11:45
+They were about six to 12 years of age. And then we had a primary outcome measure, which was the Social Responsiveness scale. We could get into discussions about what a primary outcome measure should be. You know, wouldn't it be great if there was a biological measure? But this is sort of what had been used in the past and something that the FDA approved us using. I was partly interested in using the SRS because we had used it in monkeys, right? And we had shown, at least in monkeys, we've never looked at this in people because of, you know, the lack of available samples. But that in monkeys, in this general population that we've looked at, there was a continuous distribution of these SRS scores that relate to the CSF Vasopressin Levels. 
+Karen Parker  
+02:12:29
+And so what was, I wanted to know if we use the SRS as an outcome measure and we're administering Vasopressin, can we change, you know, the scoring on this instrument based on our animal data? So 
+Andrew Huberman  
+02:12:40
+SRS is so Social Responsiveness scale. Correct. Without going into a lot of detail, because we can always refer people to the paper. Yeah. and I think most people just wanna understand the top contour. The SRS presumably has to do with how often the kid interacts with another kid, how often they initiate that interaction versus on the receiving end, things like affiliative play, how often they look at one another Yep. Versus averting gaze, these kinds of things. 
+Karen Parker  
+02:13:08
+Yep. And then there's also a, a little bit about restrictive repetitive behaviors. So even though it's called the Social Responsiveness scale, there's also an assessment of other features of autism in it. But you can sort of think about it as a quantitative way to assess features of interest in autism. And this was related to our biology and the monkeys. And so then we use this as this outcome measure in our trial. And, and, you know, as a, as an experimentalist, I have this sort of trust but verify, right? So you wanna, you wanna see the same thing over and over and over again, right? Like scientists, like repetition. And so we had parents fill out their impressions of what the child's behavior was, you know, before and after being on the medication. 
+Karen Parker  
+02:13:55
+We also had a clinician make an evaluation, but we also had the kids perform laboratory based tests where they would see, like I mentioned, that the reading the Mind in the Eyes test, or we would show them a picture of a, a face and say, what emotion is this? And so we were able to have what's called convergent validity, right? So it's a fancy scientific term to say, do all these measures that we think should be related, are they related? And are we seeing the same thing? And the answer was yes. So that when we gave children with Autism Vasopressin versus kids with autism, a placebo, the kids who were treated with Vasopressin showed increases in social abilities on parent report clinician evaluation and child performance on laboratory-based tests. 
+Karen Parker  
+02:14:42
+Wow. 
+Andrew Huberman  
+02:14:43
+Was that in, was that immediate? Like they, they did the nasal spray and they immediately started receiving and, and initiating more social engagement? Or was this a buildup over time? And what I'm getting at here is whether or not this is the reflection of short or longer term Neuroplasticity. Like were there structural changes in the brain? Yeah. Or, or is this something that was more acute? 
+Karen Parker  
+02:15:06
+We don't know the answer to that. So we basically looked at dosing with the idea that we would, you know, and I, and again, I think we've mentioned this about limitations on like, there's so many things that a scientist would like to do, but you were always limited by a budget, right? And so when we started this work, again, it was like philanthropic shoestring budgets, right? And so you had to really be laser focused on what are the things that we can do on the budget at hand. So unfortunately we didn't do like EEG or brain imaging or other things that would be, I think, potentially very interesting to do because you might be able to see an early signature of response, right? So maybe after the first dose, let's say Wow, like there's some interesting changes that are predictive of somebody who would be a responder to the medication. 
+Karen Parker  
+02:15:49
+And we don't know that yet, but we do know after this four week period that we, we saw, you know, these changes and, and then in a subset of kids we actually saw diminished anxiety and also diminished restricted repetitive behaviors. So suggesting that the Vasopressin effect may not only be on Social Behavior, 
+Andrew Huberman  
+02:16:10
+Have you ever just wanted to try or try Vasopressin? You 
+Karen Parker  
+02:16:15
+Know, I haven't, but I 
+Andrew Huberman  
+02:16:15
+You're in a psychiatry department after all. And I'm not suggesting that members of the psychiatry department are constantly testing the drugs that they use on their patients with themselves. But, but I've had several members of this department of which I'm a courtesy member, right? Member by courtesy any event, and we'll see if I'm still am after what I'm about to say. Dr. Carl Deisseroth, who's a clinician, our first guest on the Huberman Lab podcast, also a phenomenal neurobiology researcher, David Spiegel, Rob Lanka, and others that I've spoken to, you know, I think all of whom said, you know, that they felt as clinicians, Rob's not a clinician but a anymore, right? 
+Andrew Huberman  
+02:16:57
+But as a clinician, that they felt almost a responsibility to understand the effects and side effect profiles of the drugs that they were giving their patients, which I saw not as renegade or experimental, but rather as a very compassionate, like seeking empathy. So I'm curious, have you ever just snuck a little rule? No. 
+Karen Parker  
+02:17:15
+No, I never have. But there a long history in medicine of people trying out, they believe so much in their solution that they go and vaccinate their family with the new Vaccine that they've created or they try the medication themselves. Right. So I don't, 
+Andrew Huberman  
+02:17:30
+Well, MDMA was developed by Sasha Colgan in a laboratory in the East Bay, first by a pharmaceutical company in the early 19 hundreds. Right. But then kinda disappeared. It did disappear, and then it was resurrected independently in the, in the 19, I think seventies and eighties. And then now it's one of the sort of hot topic items for the treatment of PTSD. Still in late phase clinical trials still illegal, but self-experimentation is, is one of the central themes of psychiatry, frankly. Right? 
+Karen Parker  
+02:17:57
+Yeah. I mean, I guess I, you know, it's, i I prob I got in trouble in class for being too social. Right? So, so I guess I've never 
+Andrew Huberman  
+02:18:05
+It might send you over the other side. 
+Karen Parker  
+02:18:06
+Yeah, yeah, yeah. Exactly. Who knows? But no, I, I never, no. And the thing is, is that these Oxytocin and Vasopressin, and again, these are done, and this is, this is something that I think we've hit on over and over again in the podcast, is you need to know who's you're studying, right? What's the species, who's the individual? You know, most of these have been done in, you know, neuro, I mean, a lot of the Oxytocin and a little bit of the Vasopressin work, the single dose work was mostly done in, in what we'll call neurotypical people. Right. Just asking can we move around Social Behavior by just giving the single drug administration? Most people that are neurotypical didn't say that they could tell if they were on the drug or the placebo. 
+Karen Parker  
+02:18:46
+Right? Interesting. So I think the question really becomes, you know, drugs have different, you know, they work differently based on the individual who's taking them. So if you have a neurotypical individual and you give them Vasopressin, you know, maybe they'll self-report that they don't see a difference. But if you had somebody who isn't producing enough Vasopressin, maybe, you know, they would self-report after a period of time, or maybe even after the first dose, wow, I really see something different. Right. 
+Andrew Huberman  
+02:19:15
+Did any of the kids report how they felt? They just said like, wow, I, I like playing with other kids more. Were they self-aware in that way? And also feel free to mention if it feels right to you, any, let's, let's consider two outlier cases, one spectacular result if that Yeah. You know, a kid that went from very socially isolated to, you know, maybe very gregarious and Yeah. But let's also balance that with another outlier that, that kid with low Vasopressin who took Vasopressin, who for whom there was no significant shift. Yeah. I'm presuming that within the dataset you probably observed something like each of those. 
+Karen Parker  
+02:19:52
+Yeah. So I mean, what I'll say is that, so yeah, I mean, there were definitely kids who didn't respond to the medication. I mean, one thing I think it's important to say, and again, this was a small pilot trial, right? Were in the process of replicating this in a much larger sample. So, you know, as a scientist, again, you wanna say, okay, this is really intriguing and interesting and I've invested a lot in, you know, this monkey model and then doing all the CSF work in patients to suggest that there may be a there, there here. But I wanna see it replicate. We did have an article that Stanford medicine, I can send you the link. They, they were able to, I think, interview a family that had been in the trial. 
+Karen Parker  
+02:20:32
+And so obviously there's patient privacy and you know, you have to, they have to say it's okay to talk about it. But this is a family that was contacted and I think they were anonymous, but this is in this report. And they basically said the, the dad said that his son was walking around the, he was on Vasopressin and his son was walking around a grocery store and he like was looking for him. And he turned around and he said he was gobsmacked because his child was, you know, just talking to making chitchat with somebody like in an aisle. And he said he had never seen that happen before. And so, you know, we do have anecdotal reports like that. and I think, you know, the tricky part is are we, we didn't stratify anyone going into this trial, right? 
+Karen Parker  
+02:21:15
+And so the concern always is did we get really lucky in the first trial and we somehow got the, the quote unquote right. People that entered the trial that were gonna be the ones who would respond to the medication. Or is this a medication that has sort of broad use in this population? And we, you know, the second trial will be positive. 
+Andrew Huberman  
+02:21:37
+You used nasal spray to deliver the Vasopressin, and presumably that gets into the blood circulation of the brain and supplies neurons with Vasopressin. But it's very non-specific. and I'm not criticizing, but if you think about it, you're just sort putting a bunch of VA Vasopressin into the brain. And if people wonder why this is that, it's 'cause basically you have neurons of your central nervous system are part of your olfactory system. And believe it or not, right behind your, where your nose meets your forehead, you, the brain is right there, right? There's a little bit of bone, and then the brain is, is is right there, right? So one of the reasons you can get in there and it's easier than an ocular injection or something, that wouldn't be a good approach and it's easier than peripheral infection injection into the vein. 
+Andrew Huberman  
+02:22:21
+But at the same time, I have to presume that this, I'm imagining this Vasopressin just kind of like perme through the brain binding to whatever receptors happen to be there. You said the receptors are everywhere and then this significant improvement in social cognition, right? So that raises all sorts of interesting questions about like what are, what relevant circuits are impacted, right? Or is it some global incr, could it be some global increase in kind of awareness of surroundings? Although some Autistic kids are overwhelmed by their awareness of surroundings. So yeah, what are some thoughts about how Vasopressin might be working to exert this, this really impressive and frankly important effect. 
+Karen Parker  
+02:23:02
+Right? So I mean, could it increase social motivation? Does it in, you know, like, so let's talk about like how sort of complexity of social sensory processing is it that we're directing attention to social cues where there wouldn't have necessarily been as much attentiveness, right? Are we increasing social motivation, which would suggest from some of the animal studies may actually be happening, right? We don't know. and I think that's partly when you have other models or if you're able, you know, to do imaging studies. I mean, one thing that's been a, a little bit of a holy grail in this field is that if we could get tracers that are basically like a, you know, a molecule that would allow us to inject it into somebody and then visualize the brain. 
+Karen Parker  
+02:23:47
+Like if I'm thinking about a pet trace or a radioligand where you could then ask questions about, you know, what's happening in the brain. Can we, can we give Vasopressin in the context of a, you know, functional brain imaging scan and ask like, where is the Vasopressin binding? What kind of circuits are involved? Like that needs to be the next step of the work to know like where, where our targets are. And you, you can do something like functional proteomics, right? Where if you know where Vasopressin receptors are, you can overlay that with studies of functional brain imaging, right? And that would allow you to say these areas are dense in Vasopressin receptors. And do we see similar responses in what we call bold signal on a, on a brain scan? 
+Karen Parker  
+02:24:31
+So let's, let's be more colloquial about this. Like do certain areas of the brain light up, if you will, where we know Vasopressin receptors are, are densely distributed in ways that we know are tied to social motivation or social salience or other things that we think could be moving the needle here in the trial. How is this happening? And, and I think, you know, one thing, the reason why we did this work is, and I think it speaks to what you said earlier, is there is an urgency on the part of parents to say, you know, my child's brain is developing, right? And, and there's a sense of that the, you know, by the sort of western model has failed a lot of people, you know, they look to doctors and say, what are, what are the solutions? 
+Karen Parker  
+02:25:16
+And doctors will say, well, we have a limited number of tools in the toolkit here. We just don't know. Right? And so, you know, one of of the reasons why they did that big Oxytocin study was that people were trying to get the Oxytocin anyway. So it was like, let's just make sure that this is safe. Let's see if it's effective. And so some of our thinking was, you know, as soon as some of this work hits, you know, like it get, and some of the work has been covered by the media. And so, you know, our feeling was we can give this intranasally and we can do it under safe monitoring ways. And so people are gonna think about doing these things anyway. So let's just make sure that this is safe and let's test this in a rigorous way. 
+Karen Parker  
+02:25:59
+So we don't know the mode of action. But then our feeling is, is that, you know, at, at least from the initial safety data, it looks pretty safe. And you know, and so the idea would be, and there's a long tradition in psychiatry of we don't know the, the Mechanism of action, but if we have a medication that can be impactful and improve the lives of people with autism and we can diminish suffering and people can more readily reach their full potential, you know, to me it actually seems unethical not to move forward in a way that's scientifically sound. 
+Andrew Huberman  
+02:26:33
+Amen to that. This seems like a good time to raise the topic of the Microbiome and not as an unrelated topic. And, and here's why. I've seen a fair number of studies in Mouse models arguing that in a Mouse model of autism, which now frankly I have to kinda wonder about the, the power of that model. But anyway, the models are out there in the field. One can t take the Microbiome basically let's be direct fecal transplants from a, and here I'm using air quotes non-autistic Mouse or a Mouse that doesn't have Social Interaction deficits and put that fecal transplant into a host that does have social deficits and rescue some degree of social deficits. 
+Andrew Huberman  
+02:27:25
+Yeah. I don't know if this has actually been done in Humans as well. And for those of you that are cringing, yes, they do fecal transplants in Humans for treatment of obesity and a bunch of other things. This isn't because scientists are obsessed with fecal matter. It's because fecal matter contains a lot of the Microbiome elements. So the microbacteria of the, of the Gut of, and the reason I'm raising this now is, you know, one possibility and it it's not mutually exclusive with a brain Mechanism, is that the administration of Vasopressin somehow rescued a Vasopressin deficiency in the Gut. So the questions are as follows, is there any evidence that Vasopressin is manufactured in or impacted by the Gut Microbiome of Humans? 
+Andrew Huberman  
+02:28:12
+Okay, we'll just start with Humans. Okay. Since I think most, and because that would, that wouldn't be a smoking gun, but it'd be an interesting detective story. 
+Karen Parker  
+02:28:20
+Well, okay, so the one piece of evidence that I will say that I find provocative and fascinating, and one thing I wanna say is I, I think there's really great work done in mice. I don't wanna be a Mouse bashers, so I wanna just like sort of go on the record that I'm not bashing other models if it's a conserve. So I think about everything from an like an evolutionary perspective. If a Mouse shares a brain structure with a human and it's highly conserved, you know, Mouse work can be incredibly important and very impactful, right? 
+Andrew Huberman  
+02:28:49
+Yeah. My ma my lab did years of Mouse work, some Primate work where necessary. Now I only work on Humans. Yeah. But it absolutely, it has has its uses. Yeah. But clearly the Primate model for social deficits as it relates to autism, you, you at least have me convinced that that one has a lot of power, right. Let's just say that. 
+Karen Parker  
+02:29:10
+Exactly. Okay. But I mean, I now say there is a really cool Mouse study that was done that I found, and there's been, you know, lots of different studies. So there has been mice. So there's these, like I said, these genetically modified mice that have genetic syndromes that are, you know, where the individuals have social impairments. And some of these individuals, and again, here's a, here's a problem with a field. Often they will measure Oxytocin but not Vasopressin. Right? So like they're not often both measured together, which I always do now. But there's been some really interesting evidence that in these Mouse models that, and, and again, multiple studies, but like certainly low blood Oxytocin Levels in these Mouse models. 
+Karen Parker  
+02:29:54
+What, and, and with the sense that maybe they have some sort of abnormal Gut Microbiome. And then what they've done is they've given a probiotic to these mice, normalize their social functioning And that in there's an increase in Oxytocin and in a recent study also Vasopressin at the level of the hypothalamus. So by giving a probiotic, you, I I believe the Oxytocin Levels were increased in the blood, you saw more species, typical Social Behavior. And this was all driven by this upregulation of Oxytocin gene expression and also Vasopressin in this very recent study. 
+Karen Parker  
+02:30:35
+And what's interesting is there's this nerve called the vagus nerve, which is, it's, I think i it means the wandering nerve for 
+Andrew Huberman  
+02:30:43
+Vaga. It's for vagabond. 
+Karen Parker  
+02:30:45
+Yeah, exactly. Yeah. Right. And even it's in the Gut, but it actually has a direct projection to the nuclei and the hypothalamus where Oxytocin and Vasopressin are made. Oh, interesting. Yes. And so when you sever the vagus, you then, in this one study, it's a neuron paper, I think it's like 2020, it's a super cool paper. And then what you do is you decrease the gene expression and you don't see the rescue of the Oxytocin Levels or the Social Behavior in this model. 
+Andrew Huberman  
+02:31:15
+So, so in other words, if I interpret this correctly, and I'll go look up the paper and provide a link to it there, there, by increasing the diversity of Gut microbiota. 'cause that's really what a probiotic does exactly. Sort of across the board increases the diversity of Gut microbiota. No one specific ills as I always say. 'cause they all seem to end in ills, you know, multiple illes illes illis. Here we go again, you upregulate gene expression and thereby action of Oxytocin and Vasopressin in the hypothalamus. But that's a Neural mediad thing. It's not as if the microbiota travel to the brain. Something changes in the Gut, which activates the vagal pathway from Gut to the specific nucleus in the brain. 
+Andrew Huberman  
+02:32:00
+And we know that the vagal pathway is involved because it seems at least partially necessary. If you sever that, you give a vagotomy, then yeah. The, this effect is, is blunted right or eliminated. That's very interesting. And, and ties the Microbiome to Oxytocin Vasopressin production in a Neural and somewhat causal way and makes the data on fecal transplants make a lot of more sense. Because I was wondering, okay, so you take a, you know, taking the Microbiome from one animal, put 'em into another animal. Yeah. You're creating, you're transferring the milieu of the Gut, but it doesn't say anything about Mechanism. 
+Andrew Huberman  
+02:32:40
+Right? So this, this is a really cool paper. 
+Karen Parker  
+02:32:42
+It's fascinating. And there's also a study I've always wanted to do is you can get a vagal nerve stimulator, they used to do them as implants, right? But you can also get one that you sort of clip onto the ear. And I've always wanted to ask if we, we use this in Autistic individuals and you know, could we increase, like can we alter Social Behavior, right? And would that be something that we could actually measure in the blood? Especially if we're seeing this, this change in these blood levels, 
+Andrew Huberman  
+02:33:09
+Right? Are you doing that experiment? 
+Karen Parker  
+02:33:11
+No, but I've always, I've, I've always said it would 
+Andrew Huberman  
+02:33:13
+Be so cool, we gotta get, we, we, we, we have to get you the funding to do that experiment. And, and I know a a few times you've raised the issue of funding. It's not something we spend a lot of time on this discussing on this podcast. But I think what should be abundantly clear to the listeners throughout the course of this episode is, as you mentioned earlier, you're very determined to get work done. You'll figure out a way, right. But the way I describe finances and and research is that it's absolutely necessary, but it's not sufficient. You of course have to have the right people and the right lab head directing the work, but no money, no no project. and it, and it is disappointing to see that despite the federal budget for research being, you know, still reasonable, it's not what we would like it to be. 
+Andrew Huberman  
+02:33:54
+It's still very hard for amazing world-class labs like yours to say, Hey, you know, listen, there's this vagal thing and clearly there's a rationale. It's not like you're pulling this out of outta nowhere. Yeah. And you wanna go to this study, but what we're really talking about is three to five years of grant writing before you could even initiate that. Exactly. Study. Meanwhile, Autistic kids are going from age two to five to six. These are critical windows. So if ever there was a, there was a rationale for, you know, moving a lot of funding to, you know, I don't wanna even call it high risk, but you know, logically sound hypothesis testing for the treatment of autism, it's, it's now. So I'm gonna, I'm gonna get active on, on this front. 
+Andrew Huberman  
+02:34:36
+So I won't get into how, but you know, when I get something in my, in my Neural circuits for, for talking, they tend to not shut down for a while. So, 
+Karen Parker  
+02:34:44
+Well there will be a community that is going to be immensely grateful. 
+Andrew Huberman  
+02:34:47
+Yeah. Well it seems like the parents of these kids and the kids themselves could greatly benefit. So you mentioned that the first study on Vasopressin administration that saw these improvements in social functioning, you said a small cohort. Yeah. How many, how many kids was it ultimately that you could use data from? 
+Karen Parker  
+02:35:03
+Okay, so we had, I mean you screen a lot. So I think our, you know, 'cause we had very rigid criteria, so we ended up with 17 kids that were on active drug and 13 that were on placebo. And then 
+Andrew Huberman  
+02:35:15
+So not a tiny study. 
+Karen Parker  
+02:35:16
+No. And the placebo chil that we, we always have like a humanitarian open label extension arm, which allows for anybody who is in placebo can get access to the drug. So both Antonio and I feel very strongly about making sure that if we're doing a medication trial, everybody can benefit from it. Right. So 
+Andrew Huberman  
+02:35:34
+Afterwards, if they say, okay, I was in the placebo group, yeah, but I really want the chance to try this thing. Yes, they can't. But then you also get more data 
+Karen Parker  
+02:35:40
+We get, right? So I think when the families are now aware that their child is on Vasopressin and the clinicians are aware, you know, you really want, there's a huge placebo response rate, right? And so, and I mean it's not a placebo response rate here, but, but we really would want to make sure that our evaluation of the Social Behavior is done unaware to the medication. But you can get good safety data, right? So, so you can have those, you know, 13 children who were on placebo, we can then also make sure that their blood chemistry labs look good, that their electrocardiograms look good, right? And so that also allows us to assess safety parameters in a greater number of children 
+Andrew Huberman  
+02:36:23
+In a fairly broad literature search. I was able to find, okay, Microbiome, so fecal transplant is something that people are excited about, as weird as 
+Karen Parker  
+02:36:32
+That. And there are trials in people with autism ongoing 
+Andrew Huberman  
+02:36:35
+In fecal using fecal transplants. Yes. Okay. Oxytocin nasal spray presumably still being investigated by some groups or it's been abandoned? 
+Karen Parker  
+02:36:44
+Well, I think it's mostly been abandoned because there's no funding priorities for it, right? So, so I know that maybe in Australia because of Adam's positive findings that I, I don't know what his plans are, but maybe he's doing work there. There might be a little bit of work with behavioral therapy and Oxytocin, but this is the problem when there's one big trial that fails, the funding just completely dries up. So even if there's promise, I don't know a single funding agency that's gonna touch it. 
+Andrew Huberman  
+02:37:14
+Got it. And then there's the Vasopressin administration work that you're doing. Right? I think it's worth contrasting that work with the fairly large trial that was done by a major pharmaceutical company exploring the role of Vasopressin for the treatment of Autism. You could tell us what they did because it's basically the opposite of what you did. Right. And you can tell us the outcome, right? Because I think that if anything, that study inadvertently provides support for the results that you observed, which is that administering, let's say increasing Vasopressin Levels in the brain seems to ameliorate some of the social deficits, right? 
+Andrew Huberman  
+02:37:56
+Of autism. 
+Karen Parker  
+02:37:56
+Right? So Roche had a compound called B aptan, which was a Vasopressin V one A receptor antagonist, which basically means there's, i I think I mentioned there's these four neuropeptide receptors and Oxytocin Vasopressin bind to each other's receptors. But the V one A receptor is the one that is most implicated in Social Behavior. And so they had, and this is the tricky part about when medications are developed in, in pharma versus in academics, right? In academics there's definitely this transparency. We write grants, the abstracts are, are publicly available, we register our trials, they do too. But a lot of the, shall we say, early development is all put out in publications, right? 
+Karen Parker  
+02:38:41
+And then it's also peer reviewed and there's, you know, an open trail of why we're doing what we're doing. But in a pharmaceutical company, you know, they have the ability because also they have all the funding to be able to do all kinds of development that may never see the light of day because of the proprietary basis of it. Right? And so, you know, when you go back to, so it's not, it's, it's still is not clear to me why they took the approach of using an antagonist to the main Vasopressin receptor in the brain. What's interesting is if you go back and you look at the animal literature, there are hamsters that if you give them Vasopressin, they become aggressive, right? 
+Karen Parker  
+02:39:22
+And if you give male prairie vs Vasopressin, they can become aggressive. But let's think about the context that they're doing this in. These hamsters that show aggression are asocial, they live by themselves. If you give them Vasopressin and the only social repertoire they have is to, you know, have sex with a female or to fight a male that they see they have a very limited social repertoire. Right? And when the prairieville male is be, is being given Vasopressin, it's often in the context of proma, like protecting his mate and his offspring. And so then it's actually species appropriate for him to attack a, a maring male on his territory who's going to, you know, kill his babies, right? 
+Karen Parker  
+02:40:03
+And so, so my thinking in reading the Preclinical literature, the animal literature, was that, alright, that makes a lot of sense in the context of those species, but we've never seen any evidence in our trial aggression didn't change. We also have an aggression measure in this current, in the current trial as well. But you know, for me, the vast majority of evidence from the animal literature suggested that Vasopressin was pro-social And. that, you know, especially given our, our CSF findings like over and over, across species, across studies, across ages, that we, we should be giving Vasopressin, especially given the correlations between Vasopressin in CSF and symptom severity and Autistic Traits, you know, the former and people in the latter in the monkeys. 
+Karen Parker  
+02:40:51
+And so they had some preliminary studies that I believe were maybe single dose one that they published, but then they had a trial where the primary outcome measure the Social Responsiveness scale was negative. And then they had a, some secondary measures that maybe showed some promise and then they were conducting another trial and then they did a futility analysis and I know they stopped the trial. and I don't think it was for safety reasons. But again, you know, a lot of this isn't made public right, because it's a pharmaceutical company. So, you know, we, we will see because we are going to be completing our larger trial, you know, this year. 
+Karen Parker  
+02:41:31
+And you know, as they say, the proof is in the puddings. So we will see if, you know, we can replicate our initial pilot findings. 
+Andrew Huberman  
+02:41:38
+Well it sounds like they got it backwards that blocking Vasopressin Pathways would just make things worse. And that augmenting Vasopressin makes things better, although that last statement needs to be supported by this more extensive right 
+Karen Parker  
+02:41:52
+Population. Well, I think, you know, there's been a lot of speculation and maybe there are people closer to the trial than me who might be able to speak to Mechanism. But you know, I would meet the Roche people at conferences and they would come to my talks and I would always ask him like, what's the Mechanism of action? Why are you antagonizing the system when we're giving, you know, a Vasopressin agonist, if you will. And you know, some people had said, well, maybe by blocking the Vasopressin receptor, you know, there's a way to have Oxytocin meat be more bioavailable. 
+Andrew Huberman  
+02:42:21
+That sounds like some gymnastics to 
+Karen Parker  
+02:42:22
+Me. Yeah, I totally agree. Yeah. And so I've never had a, I I've never received a compelling response from anybody about why they did their trial. And then, you know, the differences, I mean, when, when this was ongoing and, you know, there was potentially room for both, right? You know, maybe I thought that maybe there's some, some optimal band of Vasopressin signaling in the brain, right? And so maybe there's some people where they have too much Vasopressin and some who have too little, right? And so this was a lot of maybes, but it, it doesn't to me seem like that's the case, especially if our current trial has a positive readout. 
+Andrew Huberman  
+02:43:00
+I'd be remiss if I didn't ask for your stance and read of the landscape on the data about vaccines and autism. I'm not talking about covid vaccines here. Yeah. I wanna be really clear about that. But there was a theory running about, not just in the press, but in the scientific literature for a while, that vaccines could cause autism. Yeah. That was proposed. My understanding is that was debunked. That idea still lives on the internet. But what is the evidence? Or let, let's say, let's go through this sequentially. 
+Andrew Huberman  
+02:43:41
+What was the idea, what was the evidence for that idea? And then what caused the demise of the, the, at least the scientific support for that idea, leaving open, of course that new data may come. Right. But let's talk about what is known now. 
+Karen Parker  
+02:43:56
+Right. and I think, what I will say is being evidence-based is, is sort of like something that all scientists should strive for. Right. And so, so the, the backstory on this is there was a guy named Andrew Wakefield who published a paper and he basically said the preservatives in vaccines are causing autism. 
+Andrew Huberman  
+02:44:16
+So not the specific Vaccine, but the adjuvant, the stuff that's preserving, like 
+Karen Parker  
+02:44:20
+Mercury 
+Andrew Huberman  
+02:44:20
+Was one of the stuff that's keeping the, the vaccines bio effecti. 
+Karen Parker  
+02:44:24
+Right. At least that was my understanding. 
+Andrew Huberman  
+02:44:26
+Right? Yeah. That's mine as well. 
+Karen Parker  
+02:44:28
+And so, and, and then it turned Right. 
+Andrew Huberman  
+02:44:30
+I wanna be clear. 'cause the internet is a, is a, is a cruel and diabolical place. My stance is that that was the hypothesis. I don't agree with that stance. Right. Okay. 
+Karen Parker  
+02:44:41
+Right. And so, or if we wanna just back up a little bit broader. There was this idea that something about vaccines were causing a on Autism, but the study was debunked. He lost his medical license and the paper was retracted. Right. 
+Andrew Huberman  
+02:44:55
+Well, he lost his medical license on the basis of the fact that the study was wrong. Or was there ever I think he faked 
+Karen Parker  
+02:45:01
+The data. There 
+Andrew Huberman  
+02:45:01
+Were, that's what I recall as well. Yeah. That there was evidence of him literally making up the data. Right, right, right. So it wasn't a case of like sloppy technique. It was a case of Right. Of intentional fraud. Right. 
+Karen Parker  
+02:45:12
+That's my understanding. Again, what 
+Andrew Huberman  
+02:45:14
+What was his, does anyone ever like look into what his motivation for what, what it was like, why someone would, I mean, threw away his whole career? 
+Karen Parker  
+02:45:22
+Right? Yeah. I don't, I don't know. But, but I think the hard part about that is understandably people got very frightened, right. That we're doing something to our children that could have, you know, un unanticipated consequences. And, you know, when something like that happens, then we dump a, you know, we, we spend a lot of money investigating it. And so the, the, the good news is at this point there have been multiple, multiple studies that haven't shown a correlation between, you know, vaccines and autism. I do believe the preservatives have been changed as a result. So that's something we should check that, you know, that might be something where, you know, there's been a public health change on preservatives that are in vaccines. 
+Karen Parker  
+02:46:04
+That's 
+Andrew Huberman  
+02:46:05
+Interesting in its own right. I mean, we don't want to cause alarm if, but that's, that's interesting. You know, that, that in this data fraud case, it might've queued people to the idea that certain things might've been needing change, even though it wasn't the specific issue that this, this fraudulent researcher was focused 
+Karen Parker  
+02:46:22
+On, or the change was made to make sure people would vaccinate their children. Right. Like, so this is something I see that I think we should have lots of caveats here. Like, you know, post the, post the studies, like make sure that what we're saying is accurate. Right. Of course. But I, but I think that my concern is that we've spent, you know, so the good news is that, you know, the maj like every single study that I'm aware of does not show a relationship between vaccination and Autism. Right. And so I think that most scientists and medical doctors that I know that are part of like the, you know, standard biomedical research community, do not believe that vaccines cause Autism, they vaccinate their own children. You know, they recommend vaccinations to other people's children. 
+Karen Parker  
+02:47:06
+And, and so I think that's where we are. You 
+Andrew Huberman  
+02:47:09
+Know, could, could I just ask a question? Yeah. and I feel more than obligated to do this because I thi I don't, you know, I think I have a pretty good finger on the pulse of the listenership of this podcast, but I think there's a range of, of stances on this where some people have a lot of trust in the standard medical establishment, others have less Right. Trust in the standard medical establishment. and I wouldn't be doing my job if I didn't try and represent Yeah. All, all those sides. And you know, one thing that I've heard, okay, is that over the last 20 or 30 years, there's been a dramatic increase in the number of vaccinations that kids get. and I don't know if that's true, but when we say vaccinations, we could be talking about, you know, measles mumps for Bella, right. 
+Andrew Huberman  
+02:47:54
+Polio, we could also be talking about measles mumps for Bella Polio flu shots every year. Right. Rabies Vaccine te this Vaccine, HPVH, HP HPV. Right. With one that wasn't even available when I was in, in college. Right. You know, as a, everyone in college who was, was well aware or there wasn't an HPV Vaccine didn't change people's behavior a whole lot, but, you know, there's, there's a Vaccine there's multiple vaccines, and then there's, you know, all the vaccines. Yeah. Right. and I think that one of the concerns that I hear about is that the idea that, okay, there's some critical vaccines, but then which ones are perhaps less critical, if any, and these are the kinds of discussions that are starting to surface Yeah. 
+Andrew Huberman  
+02:48:39
+And that, you know, have parents and potential parents, you know, rightfully thinking about this stuff. Right. And, and no one really knows where to get the information. Right. Like, I'm, I, I've tried and I can't find a pediatrician that says, Hey, listen, these, but not those. Or you can certainly find board certified physicians that say many and certain board certified physicians that say none. You actually can find those. The none category tend to hide themselves a little bit more than others for obvious reasons, but it's hard to get a sense of like, which, which vaccines are critical and which ones aren't if you're a parent and you're not versed in this stuff. Right. And so you could imagine that like people are, you know, kids are taking many more vaccines and only some of those are critical, and maybe all of them are critical. 
+Andrew Huberman  
+02:49:22
+Well, 
+Karen Parker  
+02:49:23
+I think, and I guess the way I would maybe turn it on its head is that, you know, because of this, this study that did in some ways so much harm, right? Like, we spent the Wakefield study, we spent, I i I don't even wanna hazard a guess about how much money worldwide went into studying, you know, the, the, you know, vaccines and autism based on a fraudulent data. Right. Like that's to me a real tragedy because 
+Andrew Huberman  
+02:49:49
+But at the time they didn't know it was fraudulent, 
+Karen Parker  
+02:49:51
+Right? No. Right, exactly. 
+Andrew Huberman  
+02:49:51
+So, so they went after this thinking it was true. Right. 
+Karen Parker  
+02:49:54
+Okay. But I think, I think the thing, the consequence of all this that I think is also extremely sad is that everybody, because everyone got so riled up and so fearful, there has been historically until recently, many researchers who are like, oh man, I don't wanna touch Immunology and Autism with a 10 foot pole. Right. And Yeah. 
+Andrew Huberman  
+02:50:18
+You know, and I I wouldn't consider myself fearless, but like my lab never had any reason to work on those Yeah. On those important problems. But I'll tell you, like, that seems like a, it's not a kettle of fish. It's, it's a ball of barbed wire with a bunch of, you know, napalm burning around it. Totally. You know, and I mean you say one thing, your your career is ending, you say the opposite thing. Your career's also ending, you know, it's, it, it's, it's a, it's a mess. 
+Karen Parker  
+02:50:42
+But, but I think this highlights that there are so many parents, you know, again, and I think we need to listen to parent stakeholders. Right. Like, you know, there's, there needs to be a dialogue whenever anybody's studying any illness to, to talk to the people who are involved. Right. And, and I think that there are parents who will report. Wow. Like there are, there is immune system dysregulation in my child. And, but because of this historical issue with vaccines, it's only been very recently that I think people, scientists, medical doctors have said, okay, we're hearing a lot about this from parents and are there a group of individuals who have, you know, immune issues that could be driving their autism? 
+Karen Parker  
+02:51:28
+Right. We don't know. And everything should be evidence-based. But I think that, like you said, with this cancel culture and all this fear, scientists sometimes will pick topics very judiciously based on, you know, like, Hey, I just wanna be left in peace and I am trying to help this community. And if there is areas of the enterprise that you think are gonna cause all kinds of grief, then people are gonna be less reluctant to study them, even if it's critically needed. 
+Andrew Huberman  
+02:51:55
+Well, that's a, a perfect place to say thank you. I realize you're not addressing the Vaccine autism issue directly, but you're so clearly going after v Target trying to figure out what are the biological mechanisms that are disrupted in Autism, and by extension, other deficits of social function in kids and adults. You've identified this incredible relationship between Vasopressin, which should have more prominence in my opinion, than Oxytocin. It's lesser cousin. Just kidding, Oxytocin lovers. But also have shown, you know, yes. In a small study, but you're now extending this to a larger cohort, as you mentioned, a causal relationship. 
+Andrew Huberman  
+02:52:40
+When Vasopressin is administered to these low Vasopressin slash low social functioning kids, their symptoms improve. So I, I know I speak for many people when I say that I truly appreciate your doggedness in, in going after this problem, especially on the complicated landscape of lack of funding for doing novel and truly high risk work, especially on the backdrop of the sociopolitical landscape around autism. It's a complicated thing even to discuss, you know, as I mentioned in the introduction, you know, we had to have some fluency around autism. So we sometimes said Autistic, sometimes we said people with autism, you know, I mean, it's, it's a, it's a tough one. 
+Andrew Huberman  
+02:53:23
+But in order to make progress, real progress in this area, we need people like you. We need you. And you're doing it to get in there and just go, okay, you know, let's get at the biological functions, let's get at the novel treatments. And you're making amazing progress. So I'm so grateful that you're doing it, And, that you'll continue to do it, And that you came here today to teach us what you've been up to. I'm also grateful and I just wanna say thank you for that And, that we absolutely have to get you back here to give us an update on your progress really soon. Awesome. And, and again, and again and again. Thank 
+Karen Parker  
+02:53:56
+You so much. I love being here. 
+Andrew Huberman  
+02:53:57
+Alright, well I've loved this conversation and I'll sign off by saying, folks, this is how diseases are cured. Thank you for joining me for today's discussion with Dr. Karen Parker about the biological basis of social functioning and autism. To learn more about Dr. Parker's research, please see the links in our show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero-cost way to support us. In addition, please subscribe to the podcast on both Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review. If you have questions for me or comments about the podcast or guests you'd like me to consider on the Huberman Lab podcast, please put those in the comment section on YouTube. 
+Andrew Huberman  
+02:54:39
+I do read all the comments. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. 
+Momentous (Ad)  
+02:54:47
+Not so much on today's episode, but on many previous episodes of the Huberman Lab podcast, we discuss supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them for things like improving sleep, for hormone support, and for improving focus. To learn more about the supplements discussed on the Huberman Lab podcast, go to live Momentous spelled OUS. So live Momentous dot com slash Huberman. 
+Andrew Huberman  
+02:55:10
+If you're not already following me on Social Media, I am Huberman Lab on Instagram X, formerly called Twitter, LinkedIn, Facebook, and Threads. And at all of those places, I discuss science and science related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content covered on the Huberman Lab podcast. So again, it's Huberman Lab on all Social Media channels. If you haven't already subscribed to our Neural Network Newsletter, our Neural Network Newsletter is a zero cost Newsletter that comes out every month. It includes podcast summaries as well as protocols in the form of short PDFs of maybe just one to three pages where I list out the specific protocols, for instance, for improving dopamine functioning or for improving your sleep or for deliberate cold exposure, deliberate heat exposure, or fitness protocols, and on and on, all of which are presented in brief fashion. 
+Andrew Huberman  
+02:56:01
+Very direct, just the protocols listed out. Again, completely zero cost. To sign up, you simply go to Huberman Lab dot com, go to the menu function, scroll down to Newsletter and enter your email. and I should point out that we do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Karen Parker. And last but certainly not least, thank you for your interest in science.

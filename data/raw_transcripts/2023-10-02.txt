@@ -1,0 +1,1106 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Chris Voss: How to Succeed at Hard Conversations
+Published: 10/2/2023
+10/2/2023 - 2h 53m 28s
+ - 
+US
+Downloaded:
+(in RSS feed: 2h 51m 1s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+1  
+00:00:00
+Welcome to the Huberman Lab Podcast, where we discuss science and science based tools for everyday life. I'm Andrew Huberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My Guest today is Chris Voss Chris. Voss spent more than two decades as an agent with the FBI or federal Bureau of investigation, where he was a lead crisis negotiator and a member of the joint terrorist task force. Chris is also the author of a phenomenal bestselling book entitled Never Split the Difference. In addition, he has taught courses in negotiation at Harvard, at Georgetown, and at the University of Southern California as a world expert in all forms of negotiation. 
+1  
+00:00:43
+Today, Chris teaches us about how to hold hard conversations where we are seeking particular outcomes, or perhaps where we don't know what the optimal outcome could be. He talks about this in the context of business, in the context of relationships including romantic relationships, but familial and work relationships as well. And he talks about how we should think about ourselves in the context of negotiations so that we can all arrive at the best possible outcomes indeed, During. Today's episode, you'll learn to pay attention to emotions, not just other people's emotions, but your own emotions in order to determine whether or not you are processing the information you're hearing accurately and equally important, whether or not you are being heard accurately when you are in a discussion of any kind, but especially heated discussions. 
+1  
+00:01:29
+In addition, we discussed the role of both physical and mental stamina in the context of difficult conversations, negotiations, and decision making, because in the real world context, oftentimes those can take place not just within a single conversation, but over the course of several days or even several weeks, months or years. Chris also teaches us about deception. That is how to determine if somebody is Lying by asking particular types of probe questions. Thanks to Chris Voss both breadth and depth of expertise in the negotiation process that he gleaned during his more than two decades service in the FBI as well as his Generosity in sharing that information, by the end of today's episode, you'll have an excellent understanding of what the negotiation process is really all about and how to better carry out those negotiations so that they can best serve you and others. 
+1  
+00:02:18
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the Sponsors of today's podcast. 
+PLUNGE  (Ad) Huberman 
+00:02:34
+Our first Sponsor is Plunge. Plunge makes what I believe is the most versatile at home self cooling cold Plunge for deliberate cold exposure. I've talked numerous times on this podcast about the many benefits of deliberate cold exposure. Deliberate cold exposure, especially deliberate cold exposure done up to the neck in water, can be used to achieve a number of important endpoints related to mental health, physical health and performance. Plunge uses a powerful cooling filtration and sanitation unit to give you access to deliberate cold exposure in clean water whenever you want. I've been using a Plunge for more than two years now. I can tell you that it makes it very easy to get your deliberate cold exposure at home. It doesn't require much cleaning. In fact, it's very easy to keep clean, which is essential. You don't want bacteria and other things growing in your cold Plunge. Basically, everything about the Plunge is made easy so that anyone, including myself, can get their deliberate cold exposure on a regular basis at home. If you're interested in getting a Plunge, you can go to Plunge spelled P L U N g.com/ Huberman and get $150 off your cold Plunge. Again, that's Plunge dot com slash Huberman for $150 off. 
+ROKA (Ad) Huberman 
+00:03:39
+Today's episode is also brought to us by ROKA. ROKA makes eyeglasses and sunglasses that are the absolute highest quality. I've spent a lifetime working on the biology, the visual system, and I can tell you that your visual system has to contend with an enormous number of challenges in order for you to be able to see clearly in different environments. ROKA understands the biology of the visual system and has designed their eyeglasses and sunglasses so that you always see with crystal clarity. Originally, their glasses were designed for performance that is for running and cycling and for sport. And indeed they can still be used for performance. They won't slip off your face if you get sweaty. They're extremely lightweight. But I should mention that ROKA, eyeglasses and sunglasses come in. Some of the aesthetics more typically associated with performance glasses like those cyborg style glasses, but they also have a number of styles that you'd be perfectly comfortable wearing out to dinner or to work. I wear readers at night or when I drive and I wear sunglasses during the day if I happen to be driving into bright light or outside and it's just overwhelmingly bright. I do not wear sunglasses when I do my morning sunlight viewing to set my circadian rhythm. and I suggest that you do the same. If you'd like to try ROKA eyeglasses or sunglasses, you can go to ROKA ROKA dot com and enter the code Huberman to save 20% off your first order. Again, that's ROKA ROKA dot com and enter the code Huberman at checkout. 
+1  
+00:04:56
+And now for my conversation with Chris Voss Chris Voss, welcome, 
+4  
+00:05:01
+Andrew pleasure man. 
+1  
+00:05:03
+I've been wanting to talk to you on record for a while. You are quite the, what we call in science end of one. When somebody is a true sample size of one, I realize that yes you are because you have this incredible skillset from your time in the FBI, but you, but you also have an incredible understanding and knowledge of how to communicate about that skillset so that people can glean useful information from it. You are also the guy that I text or call every once in a while when I've run myself into a jam or when I think I might be in a jam and I won't reveal details, but you tell me whether or not things are okay. And fortunately, the last couple times I reached out, you said you're good. 
+1  
+00:05:45
+So thank you. I'm always happy to help, man. Thank you. Well, I have a lot of questions today, but what I'd like to start off talking about is negotiations take many forms, but if we could break those down into their broad categories, that will be useful. But before we do that, I wanna know about the mindset that you have when you go into a negotiation and whether or not there are any sort of practices. I realize you've been in this profession a long time and so it perhaps became reflexive to you at some point, but all of us at some point are going to go into negotiations, business negotiations, relationship negotiations, et cetera. 
+1  
+00:06:25
+Is there a process of getting one's mind and body right for a negotiation, you know, Shifting from more listening and less talking or what, are there any tools that you use on the regular that could be useful for us to keep in mind as we extend into the different categories of negotiations and ways to approach those negotiations? Yeah, 
+4  
+00:06:48
+There can, there can be a couple different, first of all, just trying to figure out what re what's really going on is, is the real issue. And then how can I get an approach where I'm most likely to get the best possible outcome? So there's always more than meets to eye and there's a certain, there's a certain few cliches, but the real issue is there's always a better deal or there's no deal at all. So first of all, trying to, my first thing is I wanna find out whether or not there's a deal at all or whether or not it's a bad deal. And then I'm gonna walk away really fast because those are gonna be complete waste of time. 
+4  
+00:07:31
+It's not a sin to not get the deal. It's a sin to take a long time to not get the deal, or it's a sin to take a long time to get a bad deal. So I, you know, I want to know, I'm gonna try to figure out real quick whether or not is there a cutthroat on the other side of the table? Is it somebody I could trust? I'm, I'm getting, I'm leaning a little more inclined to dealing with the difficult people now as long as I don't give in. So I gotta, I want to diagnose early on what the possibilities are now if I'm curious, if I'm actually interested. Now, another aspect of the mindset is I, if I'm in a great mood, like if I'm just gonna be playful, A couple of really huge personal negotiation wins recently was when I was just trying to be playful. 
+4  
+00:08:19
+I mean, I was just, I was in a great mood and I'm joking around and great negotiation is not exciting. It's astonishing. I'm in a con, we're in conversations right now with a possible non-scripted TV show. And so I was telling the producers, you know, this ain't gonna be real Housewives for, to make this show properly. There ain't gonna be any screaming, it's not gonna be Bar Rescue where we're yelling at people. We're not gonna be Hell's Kitchen where we're yelling at people. It's never gonna be exciting, but it is gonna be astonishing. Like you'll get outcomes where suddenly you find yourself in a place like what in the world? 
+4  
+00:09:00
+How did that just happen? And so I, I lose a suitcase in an airport the other day and I'm walking into the lost luggage place and I'm in a great mood 'cause I'm home and I'm happy to be home and I'm gonna get a good night's sleep. And even though it's late in the day, I'm just happy and I get ready to walk into this, the Lost Luggage store where these people are battered children like they expect you. They know that you expect them to wave a magic wand and poof, your luggage is gonna be there. So for whatever reason, that's what I say, say when I walk in the door, this young lady says, how can, how can I help you? Well, first of all, how you could help me is obvious 'cause I'm in a lost luggage. 
+4  
+00:09:42
+There's only one reason I'm in here. So that's kind of a silly question. and I go, I need you to wave a magic wand. And she just laughs. And she looks at me, she ends up walking me out to the carousel, climbing up on the carousel, and she walks down a ramp the luggage comes out of, and I guarantee you they're not supposed to do that. And she sticks her head and she looks around, she comes back out and I've never seen any of these people leave the office, let alone walk back to the carousel. And she says, wait here. And she, she disappears into the bowels of the airport, which like looks like a super highway down there, right? Like God knows what it looks like underneath the airport. And pretty soon the carousel starts up again and my bag and another bag pops out. 
+4  
+00:10:26
+This other Porsche schmuck is sitting there waiting and I'm like, I have never seen anybody do this ever. Like normally they say, here, here's the number. We'll call you in 24 hours. It might show up at your house. and I and I look around at the, there's another young lady there and I say, you know, please tell her thank you for me. I, I gotta go. 'cause she, she doesn't come back out for like almost 10 minutes. And on my way out she, she comes out the door and she high-fi me and she says, how's that for waving a magic wand? and that was the magic phrase. and I never would've said it to her if I wasn't playful in a moment. And I've got a couple of others, like when I was just playful and I'm joking with people almost at my expense, it's shocking, astonishing where you can get people to do if you, if you hit 'em the right way. 
+1  
+00:11:19
+So, interesting. I wonder what it tapped into, but it Sounds Like, it might have tapped into her sense that everybody's always asking me for a magic wand kind of ability, but finally somebody just said it directly. and that would be kind of fun to, to actually play that role because normally they're restricted to their keyboard and their phone. Yeah. You know, I love that. On the opposite side of that spectrum, if ever you're feeling tense, stressed, jet lagged, angry, you know, I can think about negotiations where like people are trying to keep their egos in check. They wanna be right, you know, their breakups negotiations, there's those not necessarily romantic breakups, it could include that, but also professional breakups, you know, the, the dissolution of a, of a contract or something like that. 
+1  
+00:12:09
+Do you ever have to check yourself like, okay, I need to, I need to, I mean, I imagine being calm is better than not being calm for most, most all things. Do you have a process of doing that? You seem like a pretty steady guy. I've never seen you loo 
+4  
+00:12:27
+Overall I'm pretty steady. Well, the late night FM DJ voice that I'm not sure that I coined the phrase but kind of famous for to calm you down also calms me down. So if I get bent outta shape, I will, and I conversation gets heated, I'll switch into that voice with the intention of, of calming you down. 'cause it, you know, that's the, that's the hostage negotiator's voice. But it'll calm me down too. Like intentionally going to that voice tamps down the negative emotions, which I'm convinced make me dumber in the moment, interfere with my capacity to process information. 
+4  
+00:13:14
+Got reasons for that. Layman's reasons, no scientific academically rigorous studies that have been in any journals. 
+1  
+00:13:20
+Well, after you, you're done. I'm gonna tell you something that will perhaps be astonishing to you as to why there's real neuroscience behind that late night FM DJ voice having an impact on other people's brains. 
+4  
+00:13:32
+But I, yeah, and, and I'll do that 'cause it calms me down now if I can, if I can make the shift, the hard part is a shift into a positive mindset if I can make that shift. But I can only make it from a Calm Voice. I also think it's, the emotions are kind of a rock paper, scissors sequence. I don't think you can go from sadness to elation directly sad, depressed down. I think there's something to getting angry to pull you outta sadness and I think if you're angry, you've gotta go to calm next. And so, but if I can get out of anger and go to calm, then I can say something to myself like, the reality is this is a luxury problem. 
+4  
+00:14:21
+Or I was in a negotiation with a counterpart that I knew was deceiving Lying to me. and I remember saying to myself, you know, I'm lucky to be in this negotiation. I mean, they wouldn't, they wouldn't be trying to hustle me if we weren't really good if we didn't have a product that was phenomenal I wouldn't be targeted at, at all. So I'm actually lucky to be in this conversation. So if I can make that next shift emotionally, then I'm good. The hard part is making those shifts. 
+1  
+00:14:52
+I'm gonna just share with you what I learned recently about sound and emotion. I'm researching an episode on Music in the Brain. Fascinating topic. Yeah. believe it or not, there's a lot known. And the auditory system has this property where of course there are neurons, nerve cells that respond to different frequencies of sound. Low, low frequency, you know, deeper tones and high frequency squeals and that sort of thing. Right? Right, right. Okay. That's pretty straightforward. Just like we have neurons that respond to different, different colors or different, you know, angles of light in, in the room. Right. But what I learned and I confirmed with a good friend of mine who's a auditory neuroscientist and, and neurosurgeons name's Eddie Chang, who was a Guest on this podcast previously, is that low frequency sounds of the sort that your voice is that late night F M D J voice are responded to in the brain by neurons no surprise there. 
+1  
+00:15:52
+But the frequency that those neurons fire is also low frequency, In, other words, when you speak in your low voice right. The other person's brain hears that and starts firing in a low frequency tone. Sure. Right. In other words, it entrains to your voice, not just the timing, but it's actually like you're essentially playing an emotional piano down in the low keys of their Oh, right. Of their mind. Now when you go up to the high frequencies, the neurons can't follow that high frequency. So there's something special about low frequency sound that actually changes the emotional tone of the people that hear that low frequency sound. 
+1  
+00:16:37
+This is wild, right? I mean, I mean, of course the content of the words matters too. But anyway, there's, there's real neuroscience to support the voice that you were endowed with and that you, that you employed for your work. 
+4  
+00:16:49
+Well then, and then also, the point then too is it's not, if the other side's not making a choice, it's an involuntary 
+1  
+00:16:54
+Reaction. That's right. This is not something one can override except by perhaps plugging their ears. Right, right, right. If they're hearing that their, their mind is getting shifted toward a state of low frequency oscillation, which is one of more calm. 
+4  
+00:17:09
+Yeah. 
+1  
+00:17:10
+So that, yeah. So that's a real thing. And, and were you to have a, a high squeaky chipmunks voice, you might not have been the negotiator you had, although who knows, maybe there'd be another tactic there. I mean, I I think back to the, what I guess it was during one of the Gulf War campaigns, whether they weren't they trying to squeeze out Saddam and some of his people by playing like Milli Vanilli at high volume for hours and hours, is that tactic actually used? 
+4  
+00:17:39
+So that that was, that was Panama when they were trying to get Noriega. Okay, so I'm only, 
+1  
+00:17:44
+I'm only a few, I'm only a few countries over. Well see, 
+4  
+00:17:46
+You know, I, I got and one ocean or two, I got the truvia, you know, I was telling you before, and the wacky, fascinating, useless information around terrorism and stuff like that. I tried that at, at Panama and, and for whatever the military guys they were playing music at and sounds, and then also among the many stupid things that the FBI did at Waco and late at night, they tried that in the Waco compound too. And it was just, that was one of the things that the hostage negotiators were adamantly against. Adamantly against. But they got overruled by on scene command among the many stupid things that were done at Waco that was also done at Waco. 
+4  
+00:18:27
+It was stupid. It's counterproductive hostage negotiators were always against it. 
+1  
+00:18:31
+So for those of you don't remember Waco, Waco was Branch Davidians David Koresh. Right, 
+4  
+00:18:36
+Right. Yeah. There was a Netflix series that was out about it recently. That's fair. About the how, how it went down. 
+1  
+00:18:46
+Yeah. Sad ending. He eventually set the, the building ablaze killed himself and everybody else and that and, 
+4  
+00:18:50
+And people inside set the building on fire. 
+1  
+00:18:52
+Yeah. Including a lot of children. Perish, 
+4  
+00:18:54
+Including some children. Yeah, some, there are some FBI agents that have still not gotten over that. Hmm. 
+1  
+00:18:59
+I'd like to talk about some different types of negotiations. Oftentimes, I think because you're a former FBI negotiator, anti terrorist task force, this kind of thing, we tend to focus on the negative negotiations. Right. Get the Hostages away and we'll talk about that stuff. Breakups, business deals that have gone wrong, people Lying cheating. What about negotiations that are Benevolent? Let's say that two people want to come to a, a true win-win around, you know, what they each see to be their best interests in let's say friendship. Two friends taking a trip together, vacation, who's gonna pay for what, who's gonna pay up front? 
+1  
+00:19:43
+Are people gonna pay each other back? Or a romantic relationship? Two people are considering, you know, fussing finances to some extent or moving in together. What sorts of questions should people be asking themselves prior to those negotiations in particular? Is it very important that people know exactly what they want going into a negotiation or, I I can recall many times when I've gone into life circumstances knowing I wanted a certain set of feelings or outcomes, but not being extremely specific about, you know, I want this salary I want to live in, you know, in a west facing house on this particular location. You know, an exploration can of potentials I think can also take the form of negotiation. 
+1  
+00:20:29
+So yeah. How, how should people think about approaching Benevolent Negotiations? Like where we're not talking about something tragic happening. If it doesn't go through, it might hurt, it might be a little bit high friction, but let's talk about how to get to a win-win. 
+4  
+00:20:45
+Yeah, well there's, there's a couple interesting things there. First of all, you know the phrase win-win because win-win is just great collaboration. I mean, I point of fact it should be win-win, which might only be emotional, win-win. Now the phraseology win-win, I know that if someone opens a negotiation with me and they say right off the bat, look, I wanna do a win-win deal with you, that correlates extremely highly with someone who's trying to pick my pocket. So I, if you use that phrase in the first five minutes, I already know where you're coming from. You're trying to get me to drop my guard, it's you win, I lose. 
+4  
+00:21:28
+So, and this came up on an Instagram post I put up recently, which is essentially watch, watch out for the person that says win-win. Now, I didn't say win-win is bad. I said, watch out for the person that says it. Also, you gotta be cautious if, if you like some of the win-win mindset and people set themselves up to just get slaughtered by the person who's expressing a desire for win-win and look in to pick their pocket. Like if I feel win-win in my heart, you go, let's do a win-win deal. If I don't watch it, I'm like, okay, what do you want? And then I find myself giving away the store. So there's a lot behind the win-win phraseology that you have to have a complete understanding of. 
+4  
+00:22:13
+And point of fact, both sides should feel good about the outcome. And isn't that the definition of win-win? Well, kind of sorta, but it's how they feel about it more than really what they got. So in a Benevolent negotiation among friends, where are we gonna go to eat? Where are we going on vacation? What route are we gonna take? People really just want to be heard out more than anything else, which operationally seems to be, I don't understand how it's gonna make any difference, makes all the difference in the world. And how, what's the best way for somebody to feel heard out? Well, I'm gonna start out by telling you, describing to you, not telling you, but describing to you what my best guess is on your perspective. 
+4  
+00:23:03
+Because it's really calibrating me actually finding out what your position is. And the only way I can find out what your position actually is, I'm gonna, I'm gonna increase you telling me if I start taking a guess at it first. 'cause you're immediately right away, you either you immediately gonna tell me either I'm right or I'm wrong, you're gonna correct me. Correction is, is a satisfying thing to do and you're gonna be much more candid with me if you're correcting me than if I'm asking you so i'll, and you'll feel good about correcting me. So it's going to, there's all these great emotional lubricants to me getting you to correct me. 
+4  
+00:23:44
+So I'm gonna start out by saying like, here, here's, here's what I think you're thinking. Here's how I think you're approaching this. Here's what I think you're wanting out of this, out of this. Not what you should be, but what you probably are based on your perspective. And that's gonna accelerate the conversation exponentially. Like it's ridiculous how much faster things are gonna go. And then it becomes both an in information gathering and a Rapport building process simultaneously instead of separately, which is what makes this approach faster, even though it seems more indirect. So if we're getting ready to, let's say you and I gonna take a car trip to ca to San Francisco from here, and I'm gonna say, alright, so my guess is you want to take the most direct route because you hate wasting time. 
+4  
+00:24:31
+And you're probably gonna say to me, no, no, no, no, no, I wanna go up to the Pacific Coast Highway because there's a beautiful stretch of country. Like I realize it's gonna be a waste of time if we go up the Pacific coast 'cause we gotta jump off it at some point. But I really wanna see a scenery. You would've, I've taken a guess at what you want and you're gonna come back real quick and correct me. And then maybe I'm thinking time on the trip, but I've forgotten how beautiful it is to roll up the coast. And so when you throw that out, I'll be like, oh yeah, it is a beautiful ride and we might not get another shot. Like who knows what's gonna happen? So yeah, no, now, now that we're having a conversation, I'd rather run up the Pacific Coast Highway before we, before we go inland and make the trip and that. 
+4  
+00:25:17
+And that's how we get to, we collaborate for a better, a better outcome, maybe a better idea than what I had in mind in the first place. 
+1  
+00:25:26
+I love that because what you just described is Hypothesis Testing. Yes. 
+4  
+00:25:30
+It's 
+1  
+00:25:31
+The way scientists are training you. Many people don't know this, but they teach us in science not to ask questions, but to start with a question like, you know, I don't know, how does this, how does the brain develop or something. And then you, you say a Hypothesis and you test hypotheses and then you figure out if they're right or wrong and that takes you through a set of decision trees and you eventually get at what you hope is some core truth and then hopefully others arrive there as well and you get a consensus. So I love the idea of Hypothesis Testing. In fact, when you said take the most direct route from where we are now in Los Angeles to San Francisco, I like to take 1 0 1, not the five, the five is faster. So immediately think, but I like 1 0 1, first of all, there are a couple really great taco and hamburger spots along the way that I used to stop with my bulldog and get Right, right. 
+1  
+00:26:16
+Also, you get to see it the coast and it makes those extra two hours completely worth it. And so you're exactly right. And in that working through the decision tree doesn't necessarily mean presuming that the the Hypothesis is right, it Sounds Like, you'd be equally okay with the Hypothesis being wrong because really what you're trying to do is just learn and in learning set up this collaboration. Yep. 
+4  
+00:26:44
+I love that. A couple things. First of all, when you talk about Hypothesis and when, when my son Brandon was involved in a company he's on, he's out on his own now, but he used to always say, Hypothesis test your Hypothesis. He always used that term. And then even now, like if we were talking about it and you just said you knew some hotdog and hamburger places, I'd be like, holy cow, I didn't even know that. Yeah, I, yeah, I wanna check those places out. So that's how you discover new stuff in a conversation. 
+1  
+00:27:10
+I love it. So, and also I'm sure people are noting to not say the words win-win when approaching any kind of negotiation. What, what do you think it is about those little catchphrases that that signal lack of authenticity or trustworthiness? Because you could imagine that somebody, you know, I come to you and say, you know, Hey Chris, like let, let's, I dunno, let's do some collaborative thing for Social Media or for podcast and this is gonna be a win-win for both of us. Now I know to never say that with you, but you could imagine that somebody really means that. Yeah. But for you it Sounds Like, it's a flag that they're trying to pull one over. 
+4  
+00:27:45
+It's, it's, it correlates really strongly with the people that are definitely trying to cut your throat. And I've had, I've had 'em admit that to me candidly. Amazing. Like I'll be, I've, I experienced it. Like if somebody throws win-win out early to me, I'll say, all right, I think I know where this is going, but let me explore it. And they'll say, yeah, you know, this great opportunity for you. That's another towel and we're gonna put you in a room with all these billionaires and there's gonna be all this opportunity for you if you just come in and speak. And you know, we don't have a budget. 
+1  
+00:28:21
+Yeah. Well I've gotten that one before. Yeah. The, the famous, the famous the world, world would just work out in your favor because Yeah. Magic. 'cause it's gonna work out in my favor, 
+4  
+00:28:30
+Right? Yeah, yeah. Exactly Right. Exactly. 
+1  
+00:28:32
+I've been, I've been on the receiving end of those offers many a time. Fascinating. Conversely, what sorts of openers do you think establish the best Rapport and, you know, Benevolent discovery of a topic? 
+4  
+00:28:48
+Well, what I'm saying correlates real strongly with people I wanna do business with. If, if they figured out something that they know is valuable for me and they've just done it and they've just offered it like right off the bat, no strings attached, they, they found a way to drop something on me that's valuable. They didn't approach me with their hand out. They approached me with some sort of Generosity, like a friend of mine, Joe Polish runs this outfit called Genius Network, Joe. He says, life gives to the giver. Like Joe did a bunch of favors for me before I ever joined and he was trying to help me out and get my book sold. 
+4  
+00:29:28
+And he asked me to come in and speak and he'd, he'd done a, he'd emphasized my book on his podcast and in different conversations and I, you know, I, I finally paid the fee to join 'cause he had done so much for me. Like, there's not much Joe could ask me for right now 'cause he's done so much for me that he gets a blanket pretty much yes right away. What do you want? What, what do you want? What do you need? Because he's just generous. And the Generosity approach universally, I'm seeing a lot of really successful people that lead by Generosity. And so if, if you start out that, you know, if you, if you've given me a five star review of the book on Amazon, no strings attached or anything like that goes a long, long way to somebody who wants to establish a long-term relationship, a collaboration. 
+1  
+00:30:20
+When I first opened my laboratory in 2011, I had a technician at the time who had been a technician for a lot of years. And there's this culture in science of people borrowing things from laboratories and not giving them back or breaking them. These can be little things like a, you know, a small instrument or a a forceps, but you know, as a student or a postdoc, these are the things that you covet. Like a really nice pair of forceps is like a great thing. You know, you drop 'em once, they're not, they're not good anymore by the way. It's like they're, they're, oh wow. You have to treat them with respect. Surgical tools have to be treated with respect. They, these are very fine instruments and people used to come by our lab all the time and borrow stuff from us and he'd always lend it out and I was like, what are you doing? 
+1  
+00:31:02
+But anytime I went to go borrow something, he'd say, do not borrow anything from anybody else because then we're gonna owe them right now. Everybody owes us everything. and I was like, you're running up our budget, giving away these instruments. They come back with the forceps dented and stuff and he said, just trust me, this is the way to do it. and I don't recall ever quote unquote cashing in on any of that, but he was exactly right. When I eventually decided to move institutions, we'd given away so much and we had asked for so very little, maybe nothing that, you know, it's when you leave a place, typically there can be a little bad blood. Right? And all we got was sorry to see you go kind of stuff. Yeah. Had it been me, I would've been in a kind of a, an exchange of oh, we ask for things, we give things, you know, it's kind of a neighborhood. 
+1  
+00:31:45
+I grew up in a neighborhood where you'd borrow eggs or milk from the neighbor. Remember those days? Yeah. I don't know if people do that any longer, but I think it falls well into what you're describing that you know, when when you just do things for people out of goodness then you know, sure you sort of have a a, a history where you could return to that they owe you. But there's also just something good about just doing things out of goodness. Yep. And also not asking for so much and expecting people to provide that. So I, I love that. and I actually I love providing good Reviews for things. I like, you know, on the phone when you know the airline that we don't do this anymore, we book our own flights. 
+1  
+00:32:27
+But anytime I get help on the phone and you know, if it's really great help, I'll say, how, how can I help? And they'll say, oh, it would mean a lot if you would send an email to this to my business just saying I did, I did a great job. Or something like that. Yeah, yeah, yeah. and I actually really enjoy doing that. So I love the points you're making because they're very actionable. 
+AG1 (Ad) drinkag1.com/huberman 
+00:32:46
+As many of you know, I've been taking AG one daily since 2012, so I'm delighted that they're sponsoring the podcast. AG one is a vitamin mineral probiotic drink that's designed to meet all of your foundational nutrition needs. Now of course I try to get enough servings of vitamins and minerals through whole food sources that include vegetables and fruits every day. But oftentimes I simply can't get enough servings. But with AG one I'm sure to get enough vitamins and minerals and the probiotics that I need. And it also contains adaptogens to help buffer stress. Simply put, I always feel better when I take AG one. I have more focus and energy and I sleep better. And it also happens to taste great for all these reasons whenever I'm asked, if you could take just one supplement, what would it be? I answer AG one. If you'd like to try AG one, go to drink AG one.com/ Huberman to claim a special offer. They'll give you five free travel packs plus a year supply of vitamin D three K two. Again that's drink AG one.com/ Huberman 
+1  
+00:33:43
+Shifting slightly into the more, let's call them high friction negotiations or the types of negotiations where there is the potential for a truly bad outcome. Right. I know you've been asked this before, but some of our listeners are going to be learning about you for the first time. Do you recall of the many negotiations that you did while in the FBI, any one particular negotiation that felt like, if this doesn't work out, this is really catastrophic and would you be willing to share that with us? 
+4  
+00:34:17
+Well I learned, you know, they tried to teach us early on that not everything's gonna work out. And the second negotiation I had in the Philippines, the first one, a young man named Jeff Shilling was grabbed by terrorist group Abbu and he ended up walking away. 'cause we, we stall the bad guys long enough that we just, you know, sometimes if you can slow it down, you wait for something good to fall out of the sky and it will. and that ended up happening in that case. And a bad guy ends up calling the negotiator that I coached on the phone after it was over to basically tell him that they still had a good relationship. 
+4  
+00:35:05
+Like it was nuts. Why does a bad guy called the negotiator that was responsible for him losing everything and say, you know, you did a good job. Which is exactly what happened. So we roll into a case and I hadn't had anything go bad at that point in time. The very next case, a Burnham Berro case by a different faction of the terrorist group 13 months later ends up in two to three remaining Hostages shot and killed by friendly fire on along the way. Hostages had been executed, American had been executed early on and it was, it was a train wreck and lots of people got killed all along the way and just really ridiculous bad things happening and that that was bad all the way through. 
+4  
+00:35:56
+So we learned, you know, learned a lot from it. Went back and checked everything we did and we didn't do anything wrong that we felt based on our strategy, didn't, didn't miss anything. and that was why I ended up going collaborating with the guys at Harvard because my reaction was, if this, if we did everything we know how to do and it wasn't enough, that means we're not smart enough, we gotta get better. And so that case taught me a lot about the dynamics that really happened on the other side and the difference between, you know, whether or not people are really on your side. The US government was not highly collaborative. 
+4  
+00:36:37
+The Philippine government was not highly collaborative. That everybody wanted to get their pound of flesh out of the other, out of the other side. I mean, just everything bad that you can imagine. Early on when Guillermo Subro was murdered by the Abu sef, it was a national holiday in the Philippines and the bad guys had a history of killing people on national holidays and we weren't from the Philippines and we had no idea that that day was a national holiday. And we showed up at Philippine National Police headquarters in Manila and it was closed. Now we got an on, I got an ongoing hostage case with bad guys threatening to kill Hostages. 
+4  
+00:37:18
+And we show up at the gates and the gates are closed and we're like, what the hell's going on here? And well, it's the national holiday, nobody's working Today. I'm like, first of all, nobody told us that. Secondly, I don't think the bad guys really care that it's a national holiday and nobody's working. Our negotiator is nowhere to be found. We got, we got a, we got a guy there that the previous negotiator we worked with, Philippine National Police was not that happy that they didn't have him under complete control. So they give us a guy that will not tell us anything until after he is told them. So he is having conversations with the bad guys and we're actually hearing about him secondhand. He didn't show up that day. 
+4  
+00:37:59
+And then And, of course that day the bad guys announced they're gonna kill, kill a hostage and give it as a gift to the country of the Philippines 'cause it's a holiday. And then they go, oh by the way, they like doing this on holidays. And we're so, and, and Germa ended up getting his head cut off with the, because of all the warring factions on our side of the table, not telling each other what the hell's going on. So I had assumed at that point in time that people would tell us the stuff we need to know. We didn't need to ask. And, and after that I got like, look, there ain't nothing here that I don't need to know. I don't, if it's a holiday it's coming up, then you assume I know you, you gotta tell us. 
+4  
+00:38:42
+So really learned a lot about collaboration on our side of the table. And also the lack of collaboration on the other side of the table. Just 'cause we're a mess doesn't mean they got their act together and the bad guys didn't have their act together. And ultimately the Hostages, one of the reasons someone didn't come out because internally they, they had double crossed each other. So learned a lot about what really fundamental Human Nature dynamics are on teams. And your team has not got its act together and the other team does not either. So what can you do as a communicator to make up for that? Really learned a lot about that in that case. I had cases subsequent to that involving Al-Qaeda when Al-Qaeda was killing people on a regular basis. 
+4  
+00:39:25
+But we saw those coming and we did everything we could do to keep the train from smashing into us. You see a train coming down the tracks, you know, it's coming down the tracks and you do the best you can to derail it and sometimes you can't. 
+1  
+00:39:40
+I've heard it said that when people take somebody captive that they either want their money, their body or their life or some combination of those. 
+4  
+00:39:51
+Yeah, it's, that's probably one of those three. Yeah, that's very true. 
+1  
+00:39:56
+And as the negotiator trying to rescue the hostage, is it important to identify early on which of those three or which all of those three thereafter, like how serious they are, are they willing to actually kill the hostage? Are they, you know, will they go for any amount of money above x number of dollars? Right, right, right. Trying to figure out their threshold. Right? I mean, because the person is on the other side is gambling, right? They're gambling their, their freedom, their gambling, their reputation with whoever their reputation matters to. Is it important to get into the mindset of the person you're negotiating with quickly using the Hypothesis generating method? 
+1  
+00:40:42
+Yeah. And if so, could you give an example of of how that played out in, in your previous work? Yeah, 
+4  
+00:40:50
+The, the indicators are really there. I mean, once you sort of lose your illusions about how you think, how you think things should play out, then the Patterns of behavior are generally pretty quick and clear and just 'cause you don't like the Patterns, like with Al-Qaeda, we recognize the Patterns and knowing what they are doesn't mean you can change what they are. And Al-Qaeda in 2004 ish timeframe was very clear about killing people on deadline. And we had to recognize that. So there, there, there becomes a pattern of behavior and it's usually Specificity in what they say. And this is, this is all, this is all Human Nature. 
+4  
+00:41:31
+Like if, if, if you're in a business negotiation and they say, you know, we're gonna do something horrible here, you know, we're gonna walk out, you know, that's fairly nonspecific. And if they say, look, if we don't get this by this specific deadline, if we don't get these specific things met by this specific time, that's pretty specific that it's Specificity, you're looking for it. I learned to look for it in kidnapping negotiations. We working a case again in the Philippines and the bad guys say, you know, if, if we don't get a ransom for the son, 17 year old boy at the time, his kidnapped, you know, you tell his father he's gonna lose an egg and that's a euphemism for losing a child. 
+4  
+00:42:17
+And early on when that threat came through on our side of the table, everybody's like, oh my God, they're gonna kill him. You know, this is really bad. We gotta make sure the family can pay the ransom. I'm like, no, no, no, no it didn't, it didn't say when it was gonna happen. They didn't say how it was gonna happen. They didn't say who was gonna do it. You know, the basic Specificity of who, what, when and where. Like they left themselves an out here a very clear out. We never said we were gonna do it. We never said when it was gonna happen. We never said which child. You know what, they're just trying to scare you. They're throwing out something vague. I said, we got, we got plenty of time to play with this. We gotta, we gotta push this all the way through the process and to the end. 
+4  
+00:42:59
+Now later on in that case, when the family tried to deliver a ransom and it was screwed up by God knows who, the bad guys came up back on the phone and they said, if we don't get paid tomorrow, your son dies. and I said, all right, now that's specific and these guys sound like they mean it and so we're gonna have to make sure this thing goes down tomorrow or that's the end of this kid. And at that point in time we allowed the family, we were in a, a position to allow or disallow, we were in a position to offer thoughts and our thoughts were, they mean it now and you need to do something now or likely something bad's gonna happen. 
+4  
+00:43:46
+And now that they're this serious, 'cause you always gotta worry about what we used to refer to as a double Dip. Do they take the money and then and they come back and say, nah, that was a down payment. That wasn't the ransom, that was just a down payment. You gotta make sure you don't get double dipped if you let the family pay and you gotta give 'em your honest opinion as to whether or not they're gonna let the hostage go if you pay now, and our our thoughts were you pay him tomorrow, your son's coming out and he did 
+1  
+00:44:18
+The double Dip is a scary thing to hear about at a much lower level, meaning more minor level people sometimes get shaken down online, you know, like their password will get taken. There are people everywhere who go for the click on this link. You know, you get a text message, you know, we've identified that your account has, you know, in change verify. You click on the link, takes you someplace where you put in your login and password and boom it's gone. And then they try and sell it back to you typically through cryptocurrency because it's not traceable. 
+4  
+00:44:52
+By the way, those, those negotiations can be a lot of fun if you let 'em. 
+1  
+00:44:56
+Well I'm hoping that our discussion about this now is going to save some people the trouble of having their, their accounts hacked. I've known people who've had their accounts hacked and these are some smart people, but what's interesting is that I've also observed those situations where somebody gets to the point where they say, you know, I'm just gonna give 'em what they want. and I, I remember in this one particular instance saying, no, no, no, do not give them the money because then they're just gonna say they want more. There's no, there's no guarantee that they're gonna give you back what you want. Right. And why would they, right, right. If you think about it, why would they, the money funnels in and like they just can pivot and go to the next thing. So how do you gain confidence that you are likely to be double dipped or not? 
+4  
+00:45:41
+Well, first of all, I gotta find out if, you know, if they're in a position to carry out the threat or if they're in any sort of legitimate position to begin with. You know, for lack of a better term, it's proof of life and there are a lot of people that are trying to scam you, but they don't really have the ability to scam you. So you gotta find out, you know, do do some confirmation. Do they, do they have access to your account? Do they, do they have your data? They have your money? Do, do they have it in a position? Are they just trying to make you believe that they have that position of influence on you? There are a lot of, a lot of the bad guys out there that are just rolling a dice styling for dollars if you will. If if they don't scam you when they have no leverage on you, they'll find somebody else that'll give in. 
+4  
+00:46:24
+So there's a bit of, you know, authenticity or, or are they in a position to do it? And the same rule applies in any negotiation. The other side is gonna give in when they feel like they've gotten everything they can kidnappers, I'd be asked by an ambassador asked by an FBI commander, when's this gonna be over? When the bad guys feel like they've gotten everything they could not when they did, but when they felt like they did. So our job is just make 'em feel it sooner. So, you know how, how hard you make it innocently on the other side, everybody, everybody wants to feel like they did a, they got a good day's pay for a good day's work. 
+4  
+00:47:10
+So if you let them feel like they're in charge and you make 'em work by asking them innocent how and what questions, which are very hard and fatiguing to answer, then you're gonna get to the point where you're gonna get a solid outcome where you don't get double dipped and they're gonna be happy that it's over. 'cause they felt like they got everything they could. It could be your data, could be your bank account, could be anything. The other side is gonna be satisfied with the outcome when they feel like they worked for it and, and, and business negotiations. You're selling your car and some you put a price tag on your car and the guy walks up to you and says, I'll give you full amount right now. 
+4  
+00:47:54
+What's your reaction? I should have asked for more. Maybe I won't sell my car. You know, every human interaction, the other side wants to feel like that they earned what they got. And so the idea of empathy and hostage negotiations is really just to make 'em feel that sooner. 
+1  
+00:48:15
+We're gonna come back to empathy because it's such a big and important topic, but I've heard it said before that if somebody you don't know, but maybe also somebody, you know, places a real sense of Urgency on, you know, need the money now or I need you to do something right away or else not a threat of physical violence, but that any request for expediting something is a red flag. Yeah. That it's likely to be a scam. You know, very seldom do you need to click on the link within 24 hours. Right? I mean, how could that possibly be? 
+1  
+00:48:56
+Right? Right, right. But we, but that's one way in which people are exploited. Yep. That some request comes in by phone or by, you know, email or text or maybe even person, somebody says, you know, you need to do this right now or else something bad is gonna happen. Capture people's sense of Urgency. Right, right, right. Get them to make a, a mistake and then they're, they're left reeling because that request for something right now or else I think hits a a, a fundamental nerve in us. Yeah. You know, 
+4  
+00:49:24
+They wanna help to be a rescuer. 
+1  
+00:49:26
+Right. So is that a good rule of thumb for people to keep in mind to, to not, 
+4  
+00:49:31
+I think that's a great rule of thumb. I mean, I I, a friend of mine, somebody got a hold of his phone number not that long ago and I got, I was getting texts from his number, so I'm like, look man, I got some real problems. Look, I I need some money from you. Now. It was a friend, a friend's number and I remember when I first saw it, actually, when I first saw it, I was really busy and I felt bad that I didn't get back to him that day. And then I didn't hear from him again. And so I thought, well, whatever it was, he worked it out. So a couple weeks later, I, I get the text again, you got a real problem, you gotta get it back to me right now. So I'm, I'm, I decide, mm, if it's really my buddy, I am gonna help him right now. 
+4  
+00:50:14
+I gotta make sure it's really my buddy and I said, Hey man, you know, you didn't raise this at all last time I saw you in Vegas. 'cause I'd seen him in Vegas recently. And he's like, yeah, you know, I was busy, I couldn't bring it up. And something like, alright, so there's no direct confirmation or denial. We had, we had breakfast together in Vegas. So then I shoot back, I said, like, and man, I gotta tell you something, that was such a crazy night and I still owe you money from them. So, you know, that night when we were gambling, I I still owe you money, I'm happy to help. Now it wasn't a crazy night, it was breakfast and I didn't owe him money. And his next response was like, yeah, don't worry about it. 
+4  
+00:50:56
+You know, you can make that up for, for to me with this. So I'm like, all right, cool. So now I start making stuff up and I said, you know, and when we were with those strippers and that dog and that clown and the pony, I'll never get over that. And so now the guy's, what are you talking about? and I said, by the way, and then I started throwing in some stuff about his wife and his mother, and the guy got insulted and called me names and stopped texting me. And then I, then I sent all those text messages to the real guy, including, you know, what I'd said about his mother. And he texted me back, he's got a great sense of Humor. He says, by the way, my mom does think you're attractive. 
+1  
+00:51:37
+Oh man, I think, but 
+4  
+00:51:38
+I start, I started it all by just checking the source. If it was my friend, I would've helped him immediately and I need to throw something at him that's gonna confirm that it's him and that I'm there for him. But I'm also gonna have put a little bit of a curve in there that if that, if he doesn't catch, I know it's, I know it's a con and then I'm gonna have fun with it. 
+1  
+00:52:01
+Incredible knowledge that, you know, people will hear this and they might think, oh, you know, that's never gonna happen to me. But like I said, I had known Family Members and friends who, they make the mistake, they take the bait of clicking on the link and then now they're getting the shake down. Actually, a good friend of mine said that her parents called, at some point, her parents are probably in their late seventies now. Someone had called their house and told them that their child, this woman had been kidnapped, right. and that they needed to send money. Right. and that if they called the police, they'd kill her or harm her in some way. 
+1  
+00:52:43
+Right. So they started sending money and they were afraid to contact her. And you can see like what a bind a, a, a loving parent would be in. Right? They obviously don't want to get this child of theirs hurt and they obviously are willing to do whatever it takes in order to get them back. Turns out it was total scam. Right. Because eventually there was communication that made them realize that, that their daughter was perfectly okay. Right. And never even interacted with kidnappers. So those kinds of Scams happen pretty often. Actually, 
+4  
+00:53:10
+I had that happen to a friend also. Yeah. 
+1  
+00:53:12
+So the sense of Urgency should have been the first flag. 
+4  
+00:53:16
+That's a, that's a great point. Yeah, absolutely. Yeah. And, and look, look, even if they've got your loved one, the secondary issue is if you do what they want, are they gonna let 'em go? Which is actually a legitimate question. Like if there really are bad guys, one of the things we learned in hostage negotiation that apply to business negotiation, there are legitimate questions that it's okay to ask you. You're not being disrespectful, you're not pushing back. There's, there are fair, you know, to use the f-bomb fair, legitimate questions that you can ask under any circumstances, which is basically, you know, if I comply, is this gonna work out the way that you're articulating it? 
+4  
+00:54:04
+Anything that adds communication into it, which gives you more information to find out what the ultimate outcome looks like, even in kidnappings, how do you know that? How do you know that if you pay, they're gonna let 'em go, that's a legitimate question. 
+1  
+00:54:21
+There are examples somewhere in between, you know, getting your Instagram account hacked, your bank account hacked, and your, God forbid, your child kidnapped For instance. There's a whole practice within the legal profession of probing to see whether or not somebody is gonna give up money to avoid a lawsuit. For instance. Right. This is a, actually, a lawyer friend of mine recently described their job very well. He said in his words, first person, he said, I scare people for money. The operative word being scare people. 
+4  
+00:54:56
+That's being, and that's being honest. Yeah. 
+1  
+00:54:57
+He's being very honest. He scares people for money and he's very good at it. And, and he understands how other people scare people for money. And he works both sides, you know, and plaintiff for defense type situations. But, you know, it made me realize that, you know, a lot of the legal profession is not okay. The lawsuit slid across the table. It's the, okay, here's what the lawsuit would look like. Here are all the statutes that potentially were, were violated. And then there's a probe of like, what somebody's finances are, and you know, how much they're willing to pay. And do they have liability insurance? Do they have an umbrella policy? All the sorts of things that are, that are really, it's not necessarily an illegal shakedown, but it's, you know, a probing as to whether or not, you know, there's, it's worth the effort 
+4  
+00:55:41
+Diagnosing the other side's ability to pay. You're 
+1  
+00:55:44
+Right. And so that happens really often. I can give a specific example where somebody had a incident at a dog park where their dog allegedly ran into somebody maybe charged at somebody, you know, dog part. People are standing around and the person moved and, and, and apparently injured their knee. But rather than sue the owner of the dog, what they typically do is deliver some set of documents that say, you know, I was injured, your dog was responsible for this, and if you don't settle up for X number of dollars, you're gonna be sued for usually an exorbitant amount above that. 
+1  
+00:56:26
+Right? Right, right, right. And then there's this question that the, the lawyers have to figure out, like, is it puffery? Right? Are they saying, well, I'm gonna sue you for $4 million. Is there any basis for that? And good lawyers will say, that's puffery. They're, they're trying to scare you with a big number. But a lot of people see that number and go, oh my goodness. Yep. What do they want? You know what, like, I don't even know if they were injured, if they were, that's terrible. I'd want that taken care of if my dog's responsible, I'd want that taken care of. But what do, what do they need in order to make this this go away? Right? and that happens millions of times a day throughout the country. And a good portion of those probably happen here in California because there's a, that's kinda the way the legal system is arranged, right? So this is not somebody, you know, it could be somebody manipulating the law. 
+1  
+00:57:09
+It could also be somebody who's being entirely honest about their experience of being injured by somebody else's dog. So under those conditions, I mean, it Sounds Like, the same set of rules apply. Yeah. You want to know how serious they are. Do they have a case, so to speak? That's the, the work of the lawyers. But in assessing how serious somebody is, you said you, it's fair, you called it the F word. I like that. I'll never forget that. It just ask a fair question. Like, like, how much money do you think you deserve? Or is that, would that be a good example of a very direct question? Or is it, how likely are you to walk away if we don't give you the money? Like, you know, is there, I mean, 'cause I could imagine there's all sorts of reasons why people would be dishonest about, about answering those questions. 
+1  
+00:57:53
+Well, 
+4  
+00:57:53
+And then how much money do you think you could deserve? You deserve is, is a really good question. Not necessarily what the answer is, but how they answer it. Like, you, you, you're gonna get how quickly they fire back and whether or not they stop and think about it, how, and what questions typically are best to judge the other side's reaction. And the answer is secondary. 'cause the how or what question causes what we would refer to as deep thinking, slow thinking. Danny Kahneman, behavioral economics, thinking fast and slow. 
+4  
+00:58:34
+Slow thinking is in depth thinking. You ask a how or what question to make the other side think first and judge their reaction to how they think about it. And do they actually, do they actually think about it? Or do they fire right back at you? That gives you a clearer picture of who you're dealing with, where the outcome is gonna go. How much money do you think that you deserve? If they immediate, you know, $10 million, right? So this is, I got a shakedown artist on the other side. Or they say, all right, if they stop and think about it, and they give you a thoughtful answer, that's a completely different person on the other side. You're asking a question to get a, to diagnose how they respond. 
+4  
+00:59:15
+First, the answer is second. And sometimes I, if it's a cutthroat on the other side, I'm gonna start peppering 'em with how and what questions just to wear 'em out. That's passive aggression. If I, if I got a cutthroat aggressor on the other side, I'm gonna drop into passive aggressive behavior to slow 'em down and wear 'em out. One of my hostage negotiation heroes, a guy named Johnny Pico was John Domenico Pico. Not, not Johnny, like Johnny Rockets Italian. Johnny John Domenico, got all the western Hostages outta Beirut in the mid eighties, wrote a book called Man Without a Gun, negotiated in person face-to-face with Hezbollah. 
+4  
+01:00:05
+The only guy that ever did that got everybody out. And in his book, he wrote, one of the great secrets to negotiation is learning how to exhaust the other side. I, and when you've got a really dangerous adversary on the other side of the table, you don't go nose to nose, you don't argue, you don't, you're not combative. You wear 'em out, exhaust 'em. And if you get somebody really combative or cutthroat on the other side, start peppering 'em with how and what questions. 'cause even think about the answer, tires 'em out, and it's passive aggressive and it's deferential and it really works. 
+1  
+01:00:44
+So if the person on the opposite side of a high friction negotiation is aggressive, the goal is to slow things down, fatigue them Yeah. And get them to just either relent or to reveal something that's, that's a loophole. Yeah. Is that 
+4  
+01:01:02
+Right? Yeah. If, if I have to make the deal, then I'm gonna wear 'em out. 
+Inside Tracker (Ad)  
+01:01:09
+I'd like to take a quick break and acknowledge our Sponsor Inside Tracker Inside Tracker is a personalized nutrition platform that analyzes data from your blood and d n a to help you better understand your body and help you meet your health goals. I'm a big believer in getting regular blood work done for the simple reason that many of the factors that impact your immediate and long-term health can only be analyzed from a quality blood test. However, with a lot of blood tests out there, you get information back about blood lipids, about hormones and so on, but you don't know what to do with that information. With Inside Tracker, they have a personalized platform that makes it very easy to understand your data. That is to understand what those lipids, what those hormone levels, et cetera mean, and behavioral supplement nutrition and other protocols to adjust those numbers to bring them into the ranges that are ideal for your immediate and long-term health. Right now, Inside Tracker is conducting a giveaway valued at $6,000. This giveaway includes a full year of Inside Tracker tests, a consultation with a registered dietician and a hydro indoor rowing machine. To learn more about Inside Tracker and to enter this zero cost giveaway, go to Fitness fuels longevity.com to enter. That's Fitness fuels longevity.com to enter. 
+1  
+01:02:18
+I'm interested in drilling a little bit further into this process of wearing them down and the passive aggressive way of reducing the aggressor's stance. and I, I wanna highlight for people that, you know, what we're talking about here isn't, you know, manipulation to extract something. We're actually talking about the reverse. We're talking about a bad actor who's aggressive, right? Right. And trying to defang that bad actor. Yeah, yeah, yeah. What does that process of, of wearing them down look like or sound like? Could you give us a couple of examples of, let's say I'm the bad actor, we could play this game. I won't be very good at this. and I am saying, look, I want X number of dollars by this date, or You're not gonna get what you want, they're gonna die or disappear. 
+1  
+01:03:11
+Is that simple? And I'm, you know, a stonewall kind of approach. What is the approach that you take to wear that person down? 
+4  
+01:03:20
+Well, what, what are they're gonna be how and questions that are mostly how and what, and they're gonna be legitimate questions, which is, how do I know you're gonna follow through? What does that look like? Like if I do what you want, how do I know you're gonna follow through? 
+1  
+01:03:44
+So get them to talk about the alternative. Okay. So if you were to, well, if you deliver by that date, I'm gonna pass them to you without fail. Like, if they're just getting kind of brief answers where the person is just again, this kind of like rigid stonewall approach. 
+4  
+01:04:01
+Yeah. Well, and so there's a phrase that we use all the time, Vision, Drives, Decision. So if, if you are really gonna comply, if I, if I give in, and when I said, how do I know you're gonna, you're gonna follow through. I'm not talking about the threat. I'm not trying to get you to clarify the threat. I'm trying to get you to clarify what implementation looks like. So I need to know, I'm based on your reaction to that. If you plan on following through, if I comply, you will already have that in your head or be open to it. Vision, Drives, Decision, you've fought it through in advance. What does letting the Hostages go look like? 
+4  
+01:04:44
+If you, if you have no intention of ever release releasing the hostage, if I follow through, then you're not gonna be able to answer the question, or, and you're probably gonna throw it back on me really quickly. And so then now I'm, I know like, all right, so you got no plans on complying. If I give in, you're not gonna comply. So I, but you still want the money, then I'm gonna ask, well, how am I supposed to pay you if you don't have any plans for compliant? And if you're willing to entertain a conversation about what compliance looks like. There was a kidnapping that my unit worked just before I was in it in Venezuela, where they weren't entirely sure that the bag guys were gonna, the far I think had had the hostage. 
+4  
+01:05:37
+They agreed on an exchange point to let the hostage go. That was some distance from where they had a pretty good idea, the hostage was, was being held. So they figured they're not gonna drag the hostage all the way to this river crossing if they're not gonna let 'em go. It's just too much effort. And then it was one of the few times there was gonna be a simul, theoretically a simultaneous exchange, but they're gonna have to send the money across the river before the hostage was let go. So if we agree to this, all right, so they're not gonna drag this, this guy all the way to this river crossing. If they don't plan on letting him go, and if it's a long way to drag 'em and they got their money, do they wanna drag 'em back? 
+4  
+01:06:17
+Like even if they're ambivalent, once they get there, if they've gone through all the effort to get to the meeting location and the Hostages there, we've now just increased the chances significantly. They're gonna go ahead and comply. 'cause it's a pain in the neck to take 'em back. This is all Human Nature stuff. Human Nature investment. How do you get 'em to engage in actions and behaviors and then verbal commitments that actually mean something to them? When I was working kidnappings, the very last thing, we'd always have the family get the bad guys to say it last, not first, but last, was we'd actually get a verbal promise to let 'em go again at the end. 
+4  
+01:06:58
+Because we've been talking to 'em long enough at this point in time, we got a pretty good idea of what they sound like when they're Lying and what they sound like when they telling the truth. If somebody tells the truth, they pretty much tend to tell the truth the same way every time. If they tell the truth, you talk to somebody long enough, you got a line on do they ever tell the truth? And if they do, what does it sound like? People lie 20 ways they tell the truth one way. So we've been coaching in negotiations with the kidnappers long enough that we know what they sound like when they tell the truth. So when, when they ask at the very end, if we, if we paid you promise to let 'em go, it's not that they answered, but how they answered it. 
+4  
+01:07:41
+and that that'll be the last thing to seal the deal. You know, how do you continually stack the odds in your favor for implementation? 
+1  
+01:07:47
+Do you have a bodily, like a somatic sensor for Lying? The reason I ask is, years ago I had the experience of knowing somebody and they turned out to be a generally good person, but I sensed early on that something was like off. I couldn't relax around them, right? I just couldn't relax around them. And, and I could not tell you why, but it was as if my, I couldn't even identify the neuroanatomy of it. You know, I might say it was the vagus nerve or something, but I teach neuroanatomy and I can't point to one pathway in the body. There was something about my autonomic response that would just start cranking up when I was around them. Like, something is off, something is off something off. 
+1  
+01:08:28
+and I and I kid, you not, five years later, five years later, I discovered a series of lies that all ratcheted together that were actually pretty meaningless in the total context of things. But I remember thinking at that moment, oh my goodness. Like my, my system knew like new and I, you know, for all my knowledge of neuroscience, I, I can't tell you to this day like what it was in, in the, in my biology, but it had something to do with my bodily response. It wasn't just a thought like, that doesn't quite add up, or I feel like I'm getting the runaround or, or this, it was, it was a physical sensation. 
+1  
+01:09:11
+Are you familiar with that experience? 
+4  
+01:09:12
+Yeah. Well, it's a little bit what you guys and your colleagues are still discovering the science behind the Gut and what we are actually teaching. You know, my company now, we're teaching people learn the difference between your Gut and your amygdala, for lack of a better term, your fear centers, and know which one is which. And listen to your Gut. Your Gut is ridiculously accurate. Now, where, where does that information come from? One of your podcasts recently I was listening to, we were talking about olfactory cues, right? The smells like, I never thought of that. Of course. You know? Yeah. There are the, the was the term for the, the, the molecules that you're putting off that, that Oh, pheromones. 
+4  
+01:09:54
+Oh, oh pheromones. What are the, what are the pheros powerful molecules then get kicked out. Like, of course. And that's why some of the great investigators I knew would say, I can just smell it. I can smell it. So what all is feeding your Gut, and what, what are the senses that the science hasn't yet discovered? You know, you can't, you can't make me believe I'll, I will never believe that the life force stops at the surface of our skin. That there's energy and that we can pick up on the energy. I mean, our Gut is being fed by all these different inputs that we're aware of, or that we have yet to be made aware of. The tone of voice doesn't match their, their words. The, the, the head tilt. 
+4  
+01:10:36
+You've got a supercomputer in your brain. Your Gut is incredible if you could listen to it instead of your fierce centers. And as soon as you start listening to your Gut, you can't explain it at the time, but you got a, you got a bad feeling in your Gut. And later on, then you saw it all, it all came together where your brain was picking up these cues. Your, your brain was probably, when you're in their presence, there's gotta be an odor somebody gives off when they're, when they're intentionally deceiving. You don't, you didn't know that, that that was a smell. And maybe you, you couldn't have consciously smelled it, but you're still picking it up. So, long answer to, I'm a very big believer in, in the Gut, I think there's science that we know and yet to discover that tells us that the Gut is just ridiculously accurate if we listen to it instead of our fear centers. 
+1  
+01:11:24
+Well, I completely agree that there are energetic exchanges that neuroscience can't yet explain. The field of neuroscience that is, is starting to explore some of these things. There's basically three apex journals, the, the most competitive journals to publish in science, nature, and cell. And I only mentioned that because there was a series of articles written in Science magazine about magneto reception in humans. You know, the idea that humans can detect magnetic fields, Sounds, Like quackery, right? Turtles can detect magnetic fields. They migrate by them actually long distances. But the idea is that humans can't do that. And yet there are some well-controlled studies where people have to guess about the orientation of a magnetic field. 
+1  
+01:12:09
+And they do it better than chance. Not everyone can do it, but some can do it better than chance, in a way that cannot be predicted by anything else except some inherent form of magneto reception in their nervous system. So there are capabilities of the nervous system that are starting to be revealed for which we don't have a lot of evidence, but there's enough evidence to suggest that these things are really happening. The other example, which you might find interesting, is a little bit more, little less esoteric, but there was a beautiful paper published in one of the cell press journals a couple of years ago, showing that when people listened to the same story, the distance between their heartbeats tends to be very similar. Now, it doesn't mean that their exact heart rates are similar, but if you look at the distance between their heartbeats, they all entrained to the same rhythm, the same song, and get this, they're in completely separate rooms. 
+1  
+01:13:01
+The experiments are being done on completely separate days. And yet, if I were to line up just, you know, the, the distance between the, the heartbeats for you, they would line up like a set of columns Wow. For dozens of individuals listening to the same story. So, you know, clearly there's a passage of energy from things we hear and things we see that goes into our nervous system at a level that's below our conscious detection. Here's the last thing I'll say about this. We have a series on mental health coming out, not mental illness, but mental health by, I think, to be among the very finest psychiatrists in the world, Dr. Paul Conti. And he said, you know, we all think that the fore brain is the supercomputer, right? He said, no, the subconscious is the supercomputer. 
+1  
+01:13:44
+Yeah, yeah, yeah. That's where the real knowledge processing is happening. That's the iceberg below the surface where all the real heavy lifting has taken place. and that people who learn to tap into the subconscious can learn to use that information in very meaningful ways. and I think that's what what you're describing. 
+4  
+01:14:02
+Yeah. He's been on with you before. Right? 
+1  
+01:14:04
+He has to talk about trauma in particular, and he was on Lex Friedman's podcast as well. The series that we're doing with him is not about trauma per se. It's really about the subconscious and the self. I, I think you'll find this series really interesting. Oh, yeah. And it has a number of very practical questions that one can ask themselves about their subconscious and, and kind of work the process of psychiatry. We're excited to release that series. But it, 'cause I don't know of anything like it that's been put out there into the public, but, but I was so pleasantly surprised to hear him say, you know, we all hear that the, the forebrain is the supercomputer. It's what drove our evolution. He is like, no, no, no, no. It's the, it's the subconscious. That's where our real wisdom resides. And the forebrain is just the implementation device. 
+1  
+01:14:45
+So it's, you know, it's 
+4  
+01:14:47
+How we con convinced ourselves that, that we're in charge. Right? 
+1  
+01:14:50
+Yeah. I mean, I can't think of a time that my Gut told me, a, and it turned out to be b more often than not, though I've suppressed my response to the Gut. I override it thinking, I think I made the mistake that you guys train your negotiators to avoid, which is I thought, well, this is making me anxious and the anxiety must be like me, right? Like, this must be my fault, or I'm not able to calm myself in this situation, not sleeping well, et cetera. And, and therefore, like this mu must represent some deficiency on my part. Right? And then, and it lord knows as your shirt points out, I am, I'm a very flawed person. I have many flaws. I always say I have 3000 pet peeves and at least as many flaws to match those pet peeve, the one-to-one at least relationship. 
+1  
+01:15:34
+But the point being that I, I think our bodies really do know. They know. Yeah, 
+4  
+01:15:40
+Yeah, yeah, yeah. I would agree. 
+1  
+01:15:42
+So when you're doing negotiations and you're hearing somebody's voice on the phone, there are a lot of cues when you're face-to-face, there are additional cues. There's their face. And then of course, if the negotiations are being done by text over a computer or a phone, it's a very diminished environment for information. So maybe we could talk about each of those because we live in those landscapes. If we're face-to-face and we're negotiating, you're listening of course to what I want, what I'm insisting on. You're working that process from your, your side. What are you paying attention to visually? 
+4  
+01:16:22
+It's more are things in alignment. There's layman's data, you know, the words, the way it's said and look on people's face and how are they weighed and how they play out. There's a ratio out there that very unscientific, 7 38 55, 7% words, 38% delivery, 55% body language. People won't argue about it all the time. Whether or not that's accurate, as a rule of thumb, we throw that out there. But I tell people the most important issue is do they line up. So I'm not gonna look for like, when do you raise your eyebrow or when do you look up into the left. I'm really just gonna try to get a Gut feeling whether or not I think these things are lining up, whether they're in alignment or whether they're outta line. 
+4  
+01:17:08
+And then I'm gonna be real careful about what meaning I assign to that. You know, Affective, Cues changes in your tone of voice, changes in your movement. And that's one of the reasons why we don't teach reading people's body language because it's completely contextual to you and the moment. So I, if I convince myself that, you know, a raise of the eyebrow means this, it's outta context. I was in a negotiation once where I threw out a figure to somebody and I some kind of look off to the side and look back and accepted my offer. 
+4  
+01:17:49
+and I made the mistake of not saying to them the appropriate thing for me to say at the time would've been, seems like something just crossed your mind. 'cause you only completely true observation. If they looked to the side and looked back, something crossed their mind. Now I read it at the moment of saying that they had more money. And I found out after the fact that was wrong. They were stretched to the limit. The look of hesitation didn't mean that they were holding stuff, they were holding stuff back. But I read it wrong. and I didn't bother to check on the Affective cue that I saw. 
+4  
+01:18:32
+So what am I babbling about? What I'm babbling about is if we're in a negotiation and whether or not I'm listening to your tone of voice or watching your body language or your words, if I see you shift at all, I should pay attention that there was a shift in your Affective behavior. But I need to find out what was behind it as opposed to making an assumption as to what it meant. So yeah, I'm gonna watch and I'm gonna get my Gut feeling and I'm gonna say, Sounds, Like, there's some hesitation. Or it looks like something just crossed your mind. Or even if I can't attribute it to a specific Affective move, I might say, it feels like there's something in the way. 
+4  
+01:19:18
+That's me listening to my Gut. I'll throw out an observation on whatever any of those might be, just to go back over the ground a little bit and double check. 'cause the other thing about negotiating in person is you are gonna give me more information physically than I can actually process. And if you say something that's thought provoking, I'll stop and think about it. And while I'm stopping and thinking about what you just said, I'm missing all your cues. So all the skills that we teach, the labels, the mirrors, the open-ended questions, which seem like we're going back and plowing the ground again, we are, because I didn't pick up all the information the first time. 
+4  
+01:20:03
+There's just more there than I can get. And so I need to go back over it a couple of times with you just so I get it right, without making you feel interrogated. You actually feel heard and you actually get to go back over it again. So it be comes what seems to be an inefficient process, but it's actually me just double checking my information. So if we're face to face, I'm gonna, I'm gonna ask you to repeat, but I'm not gonna say, would you please repeat that? I'm gonna get you to repeat without asking you to repeat. 
+1  
+01:20:37
+Is the same true in online or text communications? 
+4  
+01:20:41
+The same thing is true. The, the, the problem with online and text people try to bundle everything into one communication. The best analogy I can think of is if you were playing chess by text, would you put seven moves in your, in your text? No. You'd only put one move in. So only try to get one point across in a text. Don't explain. Don't throw a whole bunch of stuff in text or emails. They're all almost always too long and it's going to come off as cold. So do what you can to soften, soften it. There's a documentary film that's been done on my company called Tactical Empathy. 
+4  
+01:21:21
+Nick won 2223 Emmys, the filmmaker, D N F D N A films. It was finished last year. It's not out yet for a variety of reasons. We haven't put it out. So the, we screened the thing in Vegas last year. I see it, I love it. I'm not a good judge of a film about me. I'm gonna love it no matter what. It's about me. But I tell Nick that night, oh man, I love it. This is great. Two days later I find out, I realize there's a huge problem. I've already told him it's okay. So I gotta get him. I gotta, I'm gonna text him and then I'm gonna call him and we gotta fix it Now. 
+4  
+01:22:03
+It's a Sunday text message. I sent him a two line text. It's now a bad time to talk. I got something. You don't want to hear two lines. Now, what were my other options? I could have called him. Nick and I got a great relationship. I call him if he's in a position to pick up the phone. Doesn't matter what he's doing, he's gonna answer the phone. He was in the middle of a Zoom call. If I'd have called, he'd have picked up during the Zoom call and both conversations would've been bad. He immediately fires back to me. I'm in the middle of a Zoom call. I'll call you in a half an hour. 
+4  
+01:22:44
+He already knows he ain't gonna like what he's gonna hear. I'm prepping him for bad news. Get him on the phone like, look, I know what I said. We got a problem. We gotta get Derrick on camera. Derrick is guy in my, in my team and I, I'm shocked that I haven't made him part of the documentary. This is gonna be incomplete without Derrick. We gotta get Derrick on on film. We can't show this to anybody else until we get him on film and make a part of it immediately. He's in problem solving mode. He goes, okay, I gotta get a crew to Derrick or get Derrick to a crew. I need to know when we can do that. I need to, we gotta, we got another showing of the film scheduled in LA less than a month away. He says, I, I gotta get Derrick on camera and we gotta edit it and it's gonna take three weeks of editing. 
+4  
+01:23:29
+I said, I'll get you access to Derrick's camera. He goes, done. Or Derrick Derek's calendar. He says, done. It's done. We go through this whole conversation in less than 10 minutes. Now think of the normal negotiation. Hey Nick, how are you? What's going on today? Are you in a good mood? Hey, hey, hey, how the kids doing all this time-Wasting conversation if I'd have set him up with that normal, he would also, he, he could've legitimately said, are you outta your mind? We've been working on this for a year. You didn't bring this up in a year. Not only that, you already told me two days ago at the, at the showing in, in Vegas that you loved it. 
+4  
+01:24:10
+And now a a year, year and a half into this project, you're bringing up all these new problems. That would've been the normal negotiation. But since I, since we got a highly collaborative relationship, I two line text we're done in 10 minutes Now since Nick's a very generous guy when he gets done and he says, by the way, you understand how much this is gonna cost me? This's just three weeks of editing. This is three hours of shooting and three weeks of editing. I go, yeah. He goes, but I'm happy to do it. Calls me back the next day. He's got a favorite asking me, you got it. It doesn't matter what, it's because we'd gone through what would've been a very complicated negotiation that started on text and I sent him a two line text on a Sunday, and we gotta solve that fast. 
+1  
+01:25:02
+So if I understand it correctly, by setting the context in a very direct and succinct way, right, he goes into it in a problem solving mode with you. Whereas if you do the, the tour of all the things that are going well in life, yeah, hey, how 
+4  
+01:25:16
+Are you? 
+1  
+01:25:17
+And then yeah, the sort of the, we'll keep this pg you know, the, the the mud sandwich approach. You know, you know how they teach you that, you know, when you get a laboratory, you know, most scientists have no skill running a business, right? You get a laboratory, all you've done is experiments, and then suddenly you're in charge of people managing budgets and all this stuff. I mean, I mean, most scientists, 99% of scientists are completely unqualified to do the job they do at the level of running a laboratory. When they start, you learn it on the job and eventually you end up having to let somebody go. And they, and so the typical thing they teach you in these online training things is you tell somebody something nice, then you give them the bad news and then you tell something them something nice on exit, right? Right. That's kind of the, the, the mud, so to speak. 
+1  
+01:25:58
+Sandwich, right? Alright. This is not that. What you're talking about is saying, Hey, this is the problem. You're not gonna like the problem or there is a problem, you're not gonna like it. So that they show up with the context of solving a problem as opposed to giving them the tour of all the things that are going well. And then the, the problem is really in contrast to that. And then it's like, ugh. You know, so, so you, what I love about what you're describing is it's, it's just, it's direct, it's honest. You're not doing the, the tour of the garden before you take them down to the, to the septic tank. 
+4  
+01:26:36
+It's what I would call the difference between being blunt and being a straight shooter. A straight shooter tells you the truth. They just tell it in a way that lands softly. 
+1  
+01:26:47
+Let's talk about breakups, business breakups, romantic breakups, right? 
+4  
+01:26:53
+You breaking up with me? 
+1  
+01:26:55
+No, no, but thanks for the Hypothesis test. No, in fact, in fact, I'm enjoying this conversation so much as I always do. I'm learning a ton from you that if anything, I'd like to expand and deepen our relationship. Chris, There you got a lot of knowledge outta me. Platonic and, and professional, but expansive. What is the process of ending a relationship? And again, this could be a romantic relationship, could be business relationship, could be employer, employee, could be individuals could be telling a whole group or an entire group telling an individual. 
+1  
+01:27:41
+You know, the reason I raise this as a particular example is that un I'm assuming that both sides don't want the same thing. One side wants to continue, the other side wants to end, right? I'll avoid the use of the word win-win or the words win-win, excuse me. And just ask, is there a way to have that conversation in any of the contexts I just mentioned in a, as you so beautifully described at a straight shooter manner where it's direct, it's honest, but it lands soft. Because what we're talking about here is feelings of rejection and nobody likes feeling rejected, right? 
+1  
+01:28:23
+I don't know anybody that likes being fired, even from jobs they don't like. People's egos suffer, right? So is there a, maybe a more specific way of asking the question is, is there a way to encourage the person getting the bad news to get their Ego out of the way and see that if both parties don't want it, it's best for everybody involved. 
+4  
+01:28:48
+I almost wanna say no, but first, what are the caveats? Most of the time when people are struggling with this, they're not trying to save the other side. They're trying to save themselves. So who are you really trying to save by postponing it? Softening it, you know, trying to act like it's, it's something that, it's not like there. I don't know that anybody has ever been fired that didn't have a sense that it was coming. The person that was getting ready to fire him opens up by saying, how are you? They know how the other person is. And, and a person getting ready to get fired has got some Gut instinct that things are going wrong. 
+4  
+01:29:29
+Like you said, the gut's very powerful. So you gotta, you gotta lower the boom as quickly as you can, but also as gently as you can. I was involved in a nonprofit a number of years ago, affiliated with church and we're tr struggling with whether or not to let the executive director go. I go to the minister of the church, Norman Vincent Peel's protege guy, a guy named Arthur Cadro, one of the best human beings I've ever met in my life. Phenomenal guy. And I'm struggling with, I thought firing, letting this woman go was gonna be bad. and I thought Arthur was gonna counsel me a way out. And, and he looked at me and he said, you know, there's, there's no gentle way to cut somebody's head off. 
+4  
+01:30:12
+and I thought. Yeah, the humane thing here is how do you to, to bring it to conclusion as quickly as possible. 'cause there's no humane way to cut somebody's head off. There's no humane way to terminate the relationship. Now what are the caveats? Maybe there are First caveat, if you're gonna fire somebody, never fire somebody on a Friday. Fire 'em on a Monday, fire 'em on a Monday. They gotta work week to work their way out of it. You fire 'em on a Friday, they got a weekend to be miserable and feel horrible and they can't do anything about it. Caught off guard or not on a Monday they can pick themselves up. They can start looking for a new job no matter who you are. 
+4  
+01:30:52
+Fire 'em on a Friday. They can't start looking for a new job on a Saturday. It's two days of misery. So yeah, if you're gonna fire somebody, fire 'em on a Monday, not on a Friday. If you got bad news to give somebody, warn 'em it's coming. The people are ridiculously resilient to pain if warned and then that you lower the boom, you're not gonna like what I have to say. It's gonna be heartbreaking. You're gonna hate me. Hesitate no more than three seconds. They got their guard up. Let 'em have the bad news. That's the humane way to cut somebody's head off. Don't make, don't linger. 
+4  
+01:31:33
+Don't make 'em think that. How are the kids? How are you? I care about you. You're a great human being. None of the stuff at the beginning warn 'em bad news is coming and hit 'em with the bad news. Rip the bandaid off. The pain is not, if you try to rip the bandaid off slowly, that's excruciating. You're trying to save yourself. So if you gotta terminate a relationship, regardless of what it is, the quicker it you do it, the less painless it is. The sooner people can move on. Stop trying to save yourself. Realize how human beings handle pain. If anything, human beings are incredibly resilient if given the opportunity to brace themselves first. 
+1  
+01:32:16
+And I agree. Thank you for that. There's a concept that a lot of people haven't heard of and I, I'm confident in saying that because I hadn't heard of it until recently. Despite spending a lot of time in the literature around dopamine and motivation. And it's a term from psychology that is being used a little bit more now and it's Ego. Depletion. Ooh. Yeah, it's an interesting concept. and I, I've been wanting to run this by you for a while, but I saved it for our discussion today. It turns out Ego Depletion is a lot like decision fatigue. You know, we've all heard the Steve Jobs thing, you know, he wore a black turtleneck every day because it, you know, he didn't have to make that decision less so he had more energy to make other decisions. 
+1  
+01:32:57
+I've been accused of doing the same because of my black long sleeve shirts. But there's a whole other reason for that that some people might know. But anyway, it's unimportant in the moment. But Ego Depletion is a little bit different than decision fatigue or decision budget. The idea with Ego Depletion is pretty simple. It's that the molecule, dopamine does many things in the brain, but one of the things that it absolutely does is it holds us to goal-directed behavior that's associated with our sense of self. Like, I want to accomplish this, I want to get to that. And the whole notion of Ego Depletion involves the, the idea, and this has been a data substantiated observation that when people have to fight to be right or to defend their position for a period of time, eventually that depletes. 
+1  
+01:33:46
+And it seems to be, at least in part, dopamine mediated because defending one's position takes work. Right? You, earlier you talked about running somebody down, you know, wearing them out. And I wonder as I just throw this concept out to you cold here, whether or not that calls to mind. Any examples from your work where you felt like, okay, like this person could really hold, but if I just kept pressing, eventually they'd tilt. Right? You know, and it's different than the kind of fatigue that comes from a conversation that starts at three in the afternoon and ends at two 30 in the morning. We've all been there, right? I've been in those conversations. 
+1  
+01:34:27
+Usually they're not very pleasant. And at three in the morning everyone's peeling apart. You just, I've learned over the years, you know, like you clip it at nine 30 and you try and shift, right? Right. You know, one of the worst pieces of advice I've ever heard is you'd never go to sleep angry. It's like, no, actually, actually get sleep. Wake up and then revisit the problem if the situation allows. That's my, that's my, I would agree. Yeah. Yeah. Trying to stay up all night trying to work something out is just counter biology. So Ego, Depletion, I have a feeling a lot of what you did in your profession was running down their dopamine to the point where then they are operating from a different place where they're not defending the Ego, they're actually thinking more practically about the whole situation. 
+1  
+01:35:13
+Does it, does it have any kind of texture of meaning to you? Yeah, 
+4  
+01:35:16
+No, I would, I I would agree. and I would draw the distinction. First of all, in hostage negotiation, there's, there's two kind of hostage takings. If there's a demand and there's gonna be contained. And uncontained, which is just literal definition contained, is bad. Guys in a bank, like at the Chase Bank in Brooklyn, way back when you got 'em surrounded, they can't get away. And uncontained is a kidnapping. You don't know where they are. Uncontained, unknown location. We're gonna try to get our way in a contained situation, probably by Ego Depletion wearing 'em out, getting 'em to the point where they just, they're just, they're just gonna give in 'cause they're, they're tired 'cause they're gonna come out and we're gonna put handcuffs on 'em. 
+4  
+01:36:05
+Which means that if the Ego gets recharged, they're gonna go back and they're think they're gonna think back over the deal. So wearing somebody out in a business negotiation, it's basically uncontained because even if you come to an agreement, there's a whole implementation phase they're gonna use. Did you, did you get the agreement? 'cause you warm out 'cause they get tired 'cause they just gave in at some point in time they're gonna get recharged and they're gonna get recharged while you're in implementation. So they're either gonna not gonna follow the terms of the deal or it's the slightest opportunity they're gonna deviate. And so, yeah, I think Ego Depletion is, is a real thing and it's a bad way to get a business deal that's gonna stick. 
+1  
+01:36:54
+'cause they rest and then they come back. Yeah, a different person. 
+4  
+01:36:57
+Yeah, yeah. They're gonna be recharged, their ego's gonna be recharged. And if you get the, if you get the agreement based on a Depletion of their Ego, that battery's gonna get charged back up again. Whether it's a business deal, whether it's a personal negotiation, you know, you have a disagreement with your significant other who, and you, you follow that bad advice. Don't go to bed angry. And so you stay up till three in the morning and you think you come to a resolution. Everybody gets a good night's sleep the next day. They feel completely differently about what they said the night before. 
+1  
+01:37:27
+Yeah, I might've heard of that happening once or twice. 
+4  
+01:37:31
+Saw it in a movie, right? 
+1  
+01:37:31
+Yeah, I saw it in a movie. A friend explained that situation to me earlier. You mentioned approaching a conversation in a playful way, right? Like, alright, you know, this might even be life or death, but let's play this like a game because you can see more opportunities now. We know that when we are relaxed, we see the big picture. When we're tense, everything narrows. Tunnel vision, vision tunnel, vision, tunnel thinking, tunnel everything. We lose access to the full toolkit. So You obviously take really good care of yourself. You're fit, you're in shape. You always seem calm. I'm sure you have your moments like anybody else, but what are some of the things that good negotiators do all the time so that when the bell goes off and they have to respond, they are ready. 
+1  
+01:38:22
+And the reason I ask this is because, you know, we've been talking about negotiations in, in kind of a vacuum, like it's happening and then how does one handle it? But like any athlete, like any teacher, like any parent, like any kid, everybody has to be ready for real life circumstances. And we don't always get the warning. We don't get the memo that it's happening in two weeks. And sometimes the conversations around courtroom drama or the big day, you know, it implies that we, we get the warning, but more often than not, it's a phone call or a text and it comes in and boom, it just hits us. And suddenly we are in negotiations and we didn't get time to prepare. Right. So maybe we could talk about Readiness and then we could talk about again, like maybe this is sounds trivial to you, but for me, I'd be very curious to know whether or not you have any practices of stilling yourself, what those look like, what you've seen other people use to, to be able to get themselves into the moment of, of being able to show up their best self. 
+4  
+01:39:23
+Yeah. Well, Readiness small stakes practice for high stakes results. Like I will occasionally find myself in the middle of a negotiation that I didn't expect. Like if I've been throwing out stuff on a regular basis on my way during the day, verbal observations, what we refer to as labels. 'cause the label seems like something just crossed your mind is a label in the middle of a negotiation. When I see you hesitate or look to the side, how do I get ready for that? You know, I'm, I'm, I'm on my way over here to this interview. I'm both talking to my Lyft driver the whole way, getting him to talk. Also being careful about not tapping the gas tank out completely so that I'm fatigued when I get here. 
+4  
+01:40:10
+Like I talk, I talk up to Lyft drivers on a regular basis. I the interactions. T ss a guys in the airport, I'll throw a label at 'em. Seems like a tough day, tough day. Seems like you're in a good mood. And whether right or wrong, I'm, I'm getting in, I'm trying to stay loose, I'm trying to keep the mental muscles limber and it just becomes a bit of a habit on a regular basis. Occasionally I'll throw something out. Now I'm talking about Lyft drivers. I, I, if I'm in a bad mood, I, I get into a Lyft a couple of weeks ago on my way home. Lyft driver is not helpful. 
+4  
+01:40:50
+I mean, I'm coming outta the airport, I'm struggling with my bags, not lifting a finger doesn't open up the rear. I gotta open up the rear of the vehicle myself. I gotta load the bags, everything I get in and he's just seething unhappiness. Now I know that if I say, what do you love about what you do for a living? I immediately trigger what Tony Robbins would call a state change. And I'm annoyed at this guy and, you know, our, our pheromones are combative, but I'm thinking like, I just, I just don't need this. And so I go, what do you love about driving for Lyft? This guy proceeds to unload on me on all his personal struggles that I feel like a complete jerk for being angry at him at, at everything that he's going through. 
+4  
+01:41:37
+And I'm just trying to get myself out a bad, out of a bad mood. And to keep from sending him a really negative vibe the whole way so that he doesn't drive 45 miles an hour in a 65 mile an hour lane and make it, you know, inflict me with a longer and more expensive ride because I'm so annoying as a customer. But I've got a habit of small stakes practice for high stakes results. And who do I get a practice on? The Lyft drivers on a regular basis? The guy behind the counter at the hotel, the t s a guy. I'm going through t ss a, the grocery store clerk, the Starbucks person. The only way I'm at my best in my negotiations is just trying to keep my negotiation mu muscles limber by interacting with people throughout the course of my day. 
+4  
+01:42:20
+And then ideally, you know, leaving 'em better than I found them. You know, trying, trying not to leave negative karma in my wake, trying to leave as much positive karma in my wake as possible. 
+1  
+01:42:31
+I love that. And I'm very familiar with the feeling of needing to conserve my voice for podcasting or energy for things. And yet I I'm somebody who's I think, genuinely curious about what people's experiences are. So i'll, I I like the question, you know, how's your day going? It's pretty open-ended. It's, I suppose if somebody was really upset, that would be perhaps the worst question I could possibly ask from what you just described. But, well, 
+4  
+01:42:59
+And I'll put a fine point on it too, because like, I've manipulated him with What do you love about, because there, there's it, you watch them change in the moment to immediately to shift into this concept of love, which is more than like, what do you like about driving for Lyft? What do you love about driving for Lyft? I I can trigger a state change in you instantaneously no matter what kind of mood you're in. 'cause this guy was in a very bad mood. Plus, additionally, the download from that typically is so quick. I'm gonna get a real clear picture on who you are really, really fast. I'm talking to a c e o of a company a couple of months ago. 
+4  
+01:43:38
+They're, they're the, you know, for lack of a better term, they're delivering clean water to the world. And I'm like, that's a cool mission. Like, I dig this as an entrepreneur, an entrepreneur wanting to make a, make a dent in the universe. I dig that. Like I'm trying to make a difference in the world. So I say to him, what do you love about what you do for a living? He immediately fires back at me. I love leading teams, I love leading teams and I love giving shareholders a great return on their investment. It's really important for me to give shareholders a great return. And then, yeah, you know, we deliver water. And then he said a fourth thing and I thought this guy could be doing toilet paper. 
+4  
+01:44:19
+He, he doesn't care about the mission of the company at all. He's a great c e o probably because you want a c e O to lead teams. You wanna c e o deliver a corporate c e o to deliver a return on investment for shareholders. But that's why he's a great corporate, c e o and not a great entrepreneurial c e o. So by him giving me that download real quick, that was blatantly honest. Like, do I think this is a great guy? Yeah, do our core values line up? My mission is more important to me than his mission is. Or his mission is making money now I like making money, but it's not number one, it's a strong number two. 
+4  
+01:45:02
+But that question instead of how are you today to what do you love about you immediately put 'em in a better place. Plus you get some ridiculously candid answers that tells you who they are real fast. 
+1  
+01:45:17
+What is the best way to approach our response to somebody who's asking to be heard? Perhaps they've got complaints, maybe about us, maybe about somebody else. You know, people are Venting, right? People seem to vary on the propensity to vent spectrum. Some people are just, you know, they vent all the time. This happened, that happened. And you know, and they want to complain. You know, they, the way it's sometimes described is they love to take other people's inventories. They love to take inventories of everybody else's mistakes. They did this, they did that. Right. You know, it's, it's a lot easier some often than taking our own inventories of, of what we could be focused on and do better. 
+1  
+01:45:59
+That's, that's a universal truth in my mind. But, you know, people approach other people that they trust and they want to vent presumably to get over whatever it is that is bothering them. But all too often it seems to just amplify the feelings of frustration. What do you do when somebody you care about and that cares about you, comes to you to vent? Is it just you let them, you let them vent? Or do you, do you try and let them negotiate with themselves a little bit in a way that could help them more than if you were to just let them vent? 
+4  
+01:46:36
+I'm really leery of letting people vent because a lot of times it just, they never, it seems to be a spiral that just spirals outta control. So how, how do, why is somebody Venting? They don't feel heard. They feel ignored. They feel like they've been wasting their time talking, they're frustrated. That's the feedback. I'm gonna give you feedback on what I'm guessing cau is causing you to vent in just an observation. I, it, it Sounds Like. This is, it is driving you crazy 'cause nobody listens to you. It Sounds Like, you've been struggling with this for a long time. Sounds Like, this is very frustrating for you. What's the emotion? The particular negative emotion Frustration is about somebody being denied a goal in the future. 
+4  
+01:47:22
+Anger is about somebody's upset about something happened in the past. The type of negative emotion begins to focus you in on where they, is it forward thinking or is it backward thinking? And frustration and anger can be two very different versions of the same negative emotion, but they're focused on different points in time. So I'm gonna try to intuitively, if I don't, if I don't know from what you've told me, I'm gonna start taking educated guesses on making an observation on what it is that's driving you. If you need to vent, you've been talking and people have been ignoring you or you've been taking actions and people have been ignoring you. 
+4  
+01:48:04
+It's a, it's, you need to vent because your communication, your actions have been ignored. There are some clues here and the sooner that I get at the heart of what's bothering you, the sooner you're gonna be able to let it off. So I'm gonna encourage letting the steam off without trying to correct you, without giving you advice, without frustrating you by not listening to you, by trying to recognize verbally what some of the motivators are, which will deactivate the anger much more quickly. It's the whole basis for a crisis hotline to begin with. People are Venting. And so how do you most effectively vent somebody so that instead of going on a rant for an hour and the rant introduced toxins into their system where they're poisoning themselves. 
+4  
+01:48:49
+I think negative emotions put toxins in our system. You know, how do I deactivate that as quickly so that you're not hurting yourself as much and, and you, you feel heard, you feel relieved, you feel listened to. So I'm gonna, and if it involves me, if it's a close friend who's Venting to you, you're involved in a situation to some degree and I might even say, boy, it feels like you're probably frustrated 'cause I haven't listened to you up to now. You know, I'm gonna start, start taking some emotionally educated guesses on what I think is driving you. And I'm gonna put it in the form of a label, which is just an observation. Seems like Sounds, Like looks like. Then if I get it wrong and you go, well, that's not it at all. 
+4  
+01:49:31
+I can say, well, that's just the way it seems. It just seems that way. It puts you in a position to, to just let somebody know you see 'em and you're doing your best to understand. I'm, I'm not a fan of Venting. I if, if I go on a rant, personally, I always feel worse. So I want to deactivate that negativity so I can get, get my feedback under me emotionally. 
+1  
+01:49:58
+Very useful knowledge you just shared with us. Do you meditate? 
+4  
+01:50:06
+A tiny little bits. I mean, I'm in trying to make my day more effective. I have a gratitude exercise that I do almost every morning. Other ways to make myself effective. I actually, I'm looking at the nons sleep deep rest practice over the, because I, you know, I, I like to make use of my time. So, and, and I'm spiritual, so I'm, I'm talking to the Almighty on a regular basis. You pray? I do, yeah. 
+1  
+01:50:36
+The morning and night when you need to. Both. 
+4  
+01:50:40
+Yeah, both. I mean, I think, you know, whether or not you believe in one God or, or the universe or whatever it is. I think spiritual Spirituality is an important component of health. Whatever your Spirituality is, and you should recognize it, and, and you should, you'll be better off if you engage in some sort of a spiritual practice. Doesn't have to be any of the three major religions, you know, but Spirituality is a component of who we are. So yeah, I practice it on a regular basis. 
+1  
+01:51:07
+So a sense of higher power, or to better define higher power, it could be, as you said, with aligned with conventional religion or just aligned with the idea that there are things outside of us that are important to pay attention to, that we can all do better by being in recognition of or service to, or, or both. Yeah, something like that. Yeah, 
+4  
+01:51:28
+Pretty much, pretty much like that. And, and then leaving it as, as open and as as possible. 'cause there, I think there's a spiritual nature to us, period. 
+1  
+01:51:38
+I agree. What about your physical training? I, I must say, you know, you're, you're in excellent shape. I imagine that went along with the FBI thing. I mean, I saw Silence of the Lambs at the beginning. She's running around with other quantify agents. Yeah. Shooting targets and running and lifting and doing their sit ups and their, you know, that was a, I think it was a 1980s film, so it was a little bit dated now, probably now they're, they're doing other stuff as well, but, you know, nothing, nothing works like the basics. So was the FBI the first time you got serious about Fitness? Or prior to that, were you, were an, were you an athlete and into Fitness, and what are you doing nowadays to maintain your frankly impressive shape? 
+4  
+01:52:21
+Well, thank you for the compliments. I w sports, athletics Fitness was always a part of my life. I was in into sports, but not particularly good at 'em. Football, basketball, the, you know, I'm a last century guy, so what, long before the conditioning is invol is evolved as it is now with interval training and, and the rest of this stuff, which is phenomenal. You know, weightlifting was introduced to my high school and my senior year, you know, I, I lifted weight, some continued through college, little bit of time in the martial arts, ripped my knee apart in college, in the martial arts. But yeah, Fitness has always been a part of my life is much for liking to be in condition and, you know, the spiritual regeneration of it, whether I knew what it was or not. 
+4  
+01:53:13
+These days, you know, I'm looking for every hack there is. I know you don't like the term hack. No. Well, 
+1  
+01:53:17
+We 
+4  
+01:53:18
+Like, we like mechanisms. Scientists like mechanisms. 
+1  
+01:53:20
+Yeah, yeah. Hack sort of implies that we're using one thing to accomplish something different. I like mechanisms, but at the end of the day, if people wanna call something a hack because it gets them the result they want or that they're more, it's more appealing to, to apply the tool. That's what matters to me, you know, tools, sitting in a box don't do anything. So people are using them then I'm good with the term. Yeah, yeah, 
+4  
+01:53:38
+Yeah. So what these days, cold Plunge sauna, principally I'm struggling with issues with a couple of joints that I know science will eventually help me regenerate. So in the meantime, good diet, you know, the basic pillars, diet, not a, not a perfect diet, but by and large, overall my diet's pretty good. And then, you know, the, the little, little things spiritual keeps me in shape. Physically, the hitting a cold Plunge is, is challenging psychologically and physically. And the sauna, 
+1  
+01:54:16
+The stage shifter there, that's for sure. Yeah. You don't need science to know that 30 seconds or a minute in that cold water is gonna change your chemistry for a long while afterwards and for the better, I believe. Yeah, once you get out, people forget this. They're like, I hate the cold. The whole, the point is not how you feel while you're in it. You can feel proud of how you navigate that portion, but the point is how you feel afterwards. 
+4  
+01:54:38
+Well, that's the old, the old saying, why do you hit yourself in a, in a hand with a hammer? 'cause it feels so good when you stop. 
+1  
+01:54:44
+I like that. I like that spoken Like somebody who worked in New York City for a long time out here, we'd probably say something different. You know, it's like crystals in lava lamps or something. Although there aren't many lava lamps anymore. I think that the idea that California is all hippie dippy, that that's not true anymore. I think it's been overrun by, by other, a different ethos in any event, thanks for sharing that. Because I think that we can't separate the physical from the psychological, right? I mean, we've been talking about the mental and fatigue status of the people you're negotiating with oftentimes during this conversation. But then of course there's how you show up to the job. I mean, if you're run down three days and you've been in a fight with your spouse and that's still in the back of your mind and you're, and you're hungry, tired, sick, what, you know, not connected to your higher power, all those things that you, there's no way you can be as effective at any job. 
+1  
+01:55:38
+So it, it's great to hear and not surprising to hear that you have bedrock practices that you, you implement especially. 
+4  
+01:55:46
+Yeah, it's an interesting point. Almost everybody I knew that it was really good at anything they did for a living. They probably took pretty good care of themselves. 
+1  
+01:55:53
+Yeah, I agree. You know, there's this, the, the language around self-care I think gets really distorted. I'm gonna editorialize for a second here. I think it, but I'm gonna editorialize in line with, with what you just said. You know, I think self-care, Sounds, Like, navel gazing where people think that it's all about self, but it's actually taking care of oneself so that we can show up better for everybody else. More energy, more capacity, more staying power to have those hard conversations with the people we care about and that move our life forward. So it's really refilling the, the fuel tank in my mind as opposed to the kind of egocentric, narcissistic, you know, stance that a lot of people take towards that they and, and I understand why they do. 
+1  
+01:56:41
+You know, people scroll through Instagram and they see people, you know, selfing every, every muscle and like, and all this stuff. And listen, I'm not disparaging what people want to do, but, but at the end of the day, self-care is about being more ready to do better for the world if you're, or if you're mission oriented. Agreed. 
+4  
+01:56:59
+Completely agree. 
+1  
+01:57:01
+Do you think there's been a change in the FBI over the last three 40 years around that? You know, I have this image in my mind of agents, like sitting in cars for 20 hours eating hoagie sandwiches and, you know, and looking through binoculars and running themselves into the ground with like this kind of bulldog like persistence to, to solve the puzzle. I mean, put differently. I imagine there were some negotiations that were very long and fatiguing. So do you recall one of the longer negotiations that you had and how do you sleep at night midway through a hostage crisis? 
+4  
+01:57:38
+So the longest one that I was, I was directly involved in on almost day to day and hour to hour one went, went about three-ish days. Washington DC 2003 started of the second Iraq war guy named Dwight Watson rolled a tractor into the middle of DC and claimed he had four bombs and he left four bombs scattered around the city. 
+1  
+01:58:00
+Had he actually done that or he was just calling? He was 
+4  
+01:58:02
+Bluffing. He was bluffing. He, he hadn't done either and started on St. Patrick's Day. Interesting. A couple, you know, like, like 
+1  
+01:58:10
+The, like the thing in you said in was in for the Philippines, it's like national holiday 
+4  
+01:58:15
+Yeah, yeah. Holiday. Right. Interesting. For a whole bunch of reasons. Now I, and, and I had to go home and go to sleep when one night and when we were in the middle of that. And then it was just, I don't remember having trouble going to sleep because I felt like I did a good job and that we handed, I handed the shift off to another hostage negotiator from the Bureau was effectively the team leader of Vince Alfonso. And Vince was a brilliant negotiator. So, and the team that he was with, I, you know, everybody was in good hands. As a matter of fact, Vince almost kicked me outta the scene 'cause I didn't want to go. And he just kept saying, go home, get some sleep, go home, get some sleep. 
+4  
+01:58:58
+And finally the fifth time he said it to me, I went home. So I felt like I was leaving things in really good hands. And when working kidnappings, we expected them to go for long periods of time. And you just, you just kind of gotta it. If you have faith in the process, you feel like that you're doing the best that can be done, then, then I think you could sleep at night. I guess to answer that question, you, you have to be careful whether you're working a, a, a case, a siege or anything in, in the, in the Bureau that you don't run yourself into the ground. And there was some cases I worked in the nineties where, I mean like we, we knocked ourselves out. 
+4  
+01:59:43
+Like we would, we worked harder than anybody we ever saw, but we occasionally we took time off too. You know, I worked with guys that realized that sometimes you gotta go out and have a beer and kick back and blow off some, some steam. So I think everybody that I ever worked with were occasionally cautious enough to recharge the batteries. And then depending upon the nature of the challenge in front of you, it was a siege in St. Martin's parish and went six days. I don't think those guys got a lot of sleep. But the nature of those siege sieges, that particular type of siege only last five or six days. Anyway, you just gotta Gut it out. 
+1  
+02:00:19
+Were there ever instances where you're just trying to keep the person on the line so they can just raid? You know, 
+4  
+02:00:25
+I never, I never had to do that personally. You had to be prepared to do that from the very beginning of any siege that you might have to get some, you, you might have to orchestrate an assault of some sort. I was fortunate enough, early on in my training, there's kind of a famous siege in, if you know, hostage negotiation history in London called the Princess Gate Siege, where a legendary British hostage negotiator, David Van Ness had the bad guys on the phone while the s a s was hitting, hitting the building. and I remember that we were shown like, look, there may come a time when you have to keep somebody on the phone when SWAT comes in, that goes with the territory. 
+4  
+02:01:12
+So expect that's a possibility from the very beginning. And it was a great siege. The bad guy sali the photos of him after he was shot. The phone is within his reach. David kept him on the phone. I've heard the tapes, the breaching explosions were going on. And Celine says, I gotta go, I gotta go. There's suspicious noises. And David Venice in his classic British accent said, Salim, there are no suspicious noises. Now let's get back to talking about how many people are going on the bus to the airport. 
+1  
+02:01:51
+Bam. 
+4  
+02:01:51
+And, and I went in and, and I caught up with David a number of years later. I had a FBI pre I had a presidential intern from the White House interning with me in the Bureau, we're drinking in a bar with David Van Ness. I got a lot of stories where I'm drinking in a bar with somebody and the intern walked around everybody and tapped David on the shoulder and, and he says, Chris says, you kept the terrorist on the phone up to the moment that the s a s came in the door. And David says, yeah, and I'd have kept him on the phone even longer if the ss a s had hadn't come in so soon. So why am I telling that story? If you're gonna get into that line of business, you gotta accept all the things that go with it and realize that it's not you that made the decision somebody else did. 
+4  
+02:02:37
+You gotta implement the strategy. 
+1  
+02:02:40
+Do you remember a case in Sacramento where I think it was a youth gang maybe took over like an electronic store? A 
+4  
+02:02:51
+Good guy siege? 
+1  
+02:02:52
+Yeah, I remember this when I was a kid. Yep. Yeah. There are two things that ring that stand out in my mind from when I was a kid. One was the 
+4  
+02:02:59
+Good guys was the name of the electronic store, 
+1  
+02:03:01
+Right? Good guys was the electronic store and bad guys, so to speak. Went in there, took them hostage and I, I must've been a kid, this must've been like late, this was a late eighties. Eighties or something like that. I remember that case. 
+4  
+02:03:15
+It was about 19 90, 90. It was either 89 or 90. Okay. I I knew one of the negotiators that was there. 
+1  
+02:03:20
+Yes, that was 15. So I was born in 75. So, and as I recall, they ended up opening fire on a bunch of Hostages who were laying down on the ground. Is that right? 
+4  
+02:03:29
+They, they, they knew that they were getting ready to execute the Hostages because they put bags over their heads and that whenever the bad guys do anything to dehumanize a hostage, it's easier to shoot somebody with a bag over their head than it is not, 'cause you can't see their face. And so the bad guys had begun that process and they knew they needed to assault. 
+1  
+02:03:55
+God forbid anyone should ever be taken hostage. I realize circumstances differ, but you just mentioned putting bags over their heads. There's this notion of sheep will that, you know, people will describe post hoc after something about how, you know, somebody walks into a building, tells people that, you know, put zip ties on their own ankles or go into a back room that nobody resists. and that in retrospect, had somebody caused a commotion, they might have caused enough of a commotion to either run out or be let go. And yet of course, there's a very logical part of everybody's brain, I would hope, that thinks, listen, this person is an aggressor. 
+1  
+02:04:37
+There's a gun in my face, don't be an idiot. Right? 'cause we also have heard of the case in New York City that I read about this in the newspaper. So presumably it's true where someone was held up at gunpoint and one of the women in the group that was held up said, what are you gonna do, shoot us? And the person shot them. Right? So that happens too. So, you know, I don't know if there's a, a fair and safe answer to give people on this, but if you're told to do something by somebody and it's all happening in real time, I mean, you have to ask, do they want my money, my body, my life, or some combination of the three right, in real time while under presumably significant duress. 
+1  
+02:05:17
+But for Hostages, like if they, if they disobey, cause a commotion, is that extending their life or is it shortening their life? I guess it, it's very context dependent, right? 
+4  
+02:05:29
+The only thing that I could, without knowing the context, anything you could do to humanize yourself and comply with what the bad guys want increases your chance of survival. So let's say you got ordered to go in a back room, you could look at the hostage taker and say, I'll do whatever you say, I'm Chris, you know, drop your name on them in a way so that you go from being a faceless person to somebody with a name that increases the chances of your survival, Humanization, whatever you can do to comply simultaneously become more of a human being. Because it's the opposite of what I was talking about before. If you're easier to kill, if you've been dehumanized, you're harder to kill. 
+4  
+02:06:10
+If you've been humanized, you're harder to harm. Like maybe they're not gonna kill you. They're just gonna, they're just gonna hurt you. They're less likely to harm you if they know your first name. How do you get 'em as a hostage negotiator? If they, if they talk about a hostage, I'll, I'll say, you know, you mean you mean Sheila, do you mean Rex? You know, I'll, I'll I'll find a way to drop the person's name into the conversation. So as soon as if, if you can humanize just by getting them to know your name, you increase the chances of survivability, you increase the chances of being treated better and and comply. I'll do what I'll do. Whatever you say I'm Chris is gonna, is gonna start to move the odds in your favor. 
+1  
+02:06:55
+You know that what you descr described extends to science. You know, I've talked before about my stance on animal research and why I choose to no longer do it. I do think it has its place in making important discoveries that cannot be made on humans, but that eventually extend to, but 
+4  
+02:07:15
+You don't wanna do it. 
+1  
+02:07:16
+I don't wanna do it personally, I don't wanna do it. and I don't wanna do primate work or large carnivore work or small carnivore work. But on the point I was going to make is that when you do primate work, they strongly discourage, near forbid you from giving them names. 
+4  
+02:07:31
+Right. 
+1  
+02:07:32
+They give 'em numbers. 
+4  
+02:07:34
+Right. Right, right, right, 
+1  
+02:07:35
+Right. So it it all falls in line with what you were, what you were talking about. 'cause the moment something has a name, it moves from being a research animal to a, a pet of sorts. and that makes it a relationship. Right. So interesting how a name turns something from a, you know, it elevates something to a relationship, however insignificant it, it's up a notch and into our empathy circuitry. Yeah, 
+4  
+02:07:59
+Yeah, yeah, yeah. 
+1  
+02:07:59
+Yeah. Which is perhaps the appropriate segue to talk about empathy. This is a topic that you spend a lot of time about. You, you, you mentioned Tactical Empathy, right? This documentary, by the way. When is that going to be out or do we have some sense? 
+4  
+02:08:14
+My guess is we'll finish jumping through all the hoops and probably have out at the beginning of next year. We're, I'm currently working with William Morris Endeavor on a couple of different projects. They've been enormously supportive. Great. And we've asked for their guidance on how to, how to the best time to get the documentary out and very happy with the people I'm dealing with there. And actually stroke a universe was looking out for me, funny set of circumstances and just really enjoyed what the people that I'm working with there. So probably first part of next year. 
+1  
+02:08:48
+Fantastic. What's your take on empathy? I think of empathy in the pop culture sense of, you know, somebody's feeling pain and we feel their pain, but of course empathy extends way beyond that. 
+4  
+02:09:03
+Yeah, yeah, yeah. and that was Rob Malanca. 
+1  
+02:09:07
+Yeah. My colleague at Stanford who's, yeah, 
+4  
+02:09:09
+I was, I was really fascinated by the conversation that you, you had with him on that recently. And so, and he said a lot of people use empathy a lot of different ways, sort of for their own meanings. So my take on empathy, Tactical Empathy also to keep throwing names out because people gimme thoughts and I wanna source 'em out. I'm, I'm very close to Steven Kotler's perspective on it. And Steven would say empathy is about the transmission of information. Compassion is the reaction to the transmission. I 
+1  
+02:09:40
+Like that. And by the way, I'm a, I'm a fan of, of Steven's work. I think he, I think he's quite astute and a boy is he a hard worker? He writes like a beast. Yeah. I think he's up at like four in the morning. He also has like 50 chihuahuas or something crazy. Like, 
+4  
+02:09:51
+Well he's away in the dogs. Yeah. and 
+1  
+02:09:53
+I know that apparently, well you can fit more chihuahuas in a room than any other. Gotcha. Steven. 
+4  
+02:09:59
+But yeah, so, and, and that was what when I was with the FBI, we started collaborating with Harvard because the Harvard definition was empathy was not liking the other side. It was just demonstrating an understanding of their perspective. Bob Minuchin's book Beyond Winnings chapter, the attention between empathy and assertiveness. He says empathy is not agreeing, disagreeing, or even liking the other side. Which sort of falls into what Steven talked about. You know, it's about the transmission of information. Now empathy is a very compassionate thing to do, but it doesn't necessarily equate to Compassion itself. 
+4  
+02:10:40
+If I'm, if I, if I let you know, if I make you feel heard by me saying to you what your perspective on something is, you're gonna feel cared for, you're gonna feel understood, it's gonna land with you really well. I don't necessarily have to feel Compassion for you. I know it's a precursor to Compassion. So I would separate it from sympathy clearly. and I would even sym separate it from Compassion, although I know it's a very compassionate thing to do. It's about Tactical. Empathy is about me actively demonstrating verbally to you that I understand where you're coming from. 
+4  
+02:11:20
+Tactic from the experience and hostage negotiators backed up by neuroscience is that people largely react negatively. So the smarter move for me, instead of trying to reinforce a positive is to first deactivate the negative by simply calling it out. Calling the elephant a room out. Don't deny the elephant. Don't ignore the elephant. Call the elephant a room out, say it probably gonna sound like I'm greedy. If I expect that you're gonna think I'm overreaching, I'm not gonna say I don't want you to think I'm greedy. I'm gonna say it's probably gonna seem greedy. So simply well-educated emotional intelligence influence, Gut instinct, influence on what the other side is thinking and feeling. 
+4  
+02:12:07
+If I can define it in that way, then it becomes an unlimited skill. If it requires me for to have Compassion for you, when I don't, then that limits my ability to use empathy. And I'm not interested in having that ability to be limited. I want it to be an unlimited skill. So if you just, if you just define it strictly in terms of transmission of information, then it's not sympathy or Compassion or liking or green. It has a very powerful effect. It at least feels like Compassion to the other side. It reacts with the emotional circuitry, the neurochemicals that everybody has to some degree. If they're alive, even if they're on this, the spectrum, they have some of that going on inside. 
+4  
+02:12:53
+And of what I've read on even, even the mental illnesses in my last century training, I saw people who were paranoid, schizophrenic is effectively be more of a wiring problem than a chemical problem for, for a layman's description. And a lot of what I've read said, empathy is even effective with paranoid schizophrenics. People, regardless of how disarray the circuitry in their head is, it's, it helps 'em on some level to feel understood. So empathy is just about letting somebody feel understood. Example, when I'm, I'm working terrorism, we had a lot of Arab Muslims testify in open civilian court against a, a legitimate Muslim cleric who was also a criminal, who also committed crimes. 
+4  
+02:13:46
+and I would sit down with him and I say to 'em right off the bat, 'cause I know where they're coming from, you believe that there's been a succession of American governments for the last 200 years that have been anti-Islamic. And they'd look at me and they'd go like, yeah, I never said I, it was true. I never said I agreed, I never said I disagreed by me simply articulating what their perspective on the interaction was. They were so startled by it, it was empathy. And, and we were so good at that empathy frequently in that, in that timeframe they would say, are, are you, are you Muslim? 
+4  
+02:14:29
+And I'd say, no, I respect the religion. You know, if you need to know, you know, I'm a Christian, but I respect your religion and I, I got no problem saying to you where you're coming from. That's empathy from my definition. And then it becomes an unlimited skill. I don't, I don't have to feel it. I don't have to necessarily wanna do anything about it. You know, Goldman says there's cognitive empathy. Me just recognizing where your emotions are coming from. There's emotional empathy, me feeling your emotions, and there's empathic concern. Me wanting to do something about your distress, my version of Tactical Empathy probably brings those into play in sequence on a continuum of sorts. 
+4  
+02:15:17
+But none of them are precursors. It's just me showing to you that I understand where you're coming from and it has a phenomenally favorable impact on the interaction. 
+1  
+02:15:26
+Tell me about Mirroring as a tool. 
+4  
+02:15:29
+Yeah. Mirroring is one of the simplest, easiest, and most effective of the skillset. Takes the least amount of brainpower. It's just repeating one to three-ish words of what somebody has just said can be one. It should never usually be more than five. Hostage negotiators learn it by repeating the last one to three words that somebody's just said. It doesn't have to be the last one to three words. And the Mirroring is not the body language mirror. It's not mimicking anybody physically. And it's not mimicking their tone of voice or their affect or anything about 'em. It's just repeating one to three-ish words. 
+4  
+02:16:10
+We found that access is for whatever part of brain you that you gotta energize to do it. It's, it's a different part of the brain than Labeling. People are usually either good, really good at Labeling. Like I, I label almost everybody on my team labels a lot. Sounds, Like, this is bothering you Sounds. Like seems like you're just not really sure where this is going. And the, the mirror, I gotta consciously make it a point to mirror. And what's a mirror used for? It's in place of, what did you mean by that? Or would you please go on or, I don't understand. Could you repeat that again? So I'll listen for stuff that either I don't understand or I need you to talk more about. 
+4  
+02:16:54
+And instead of saying, could you say some more about that? I'll just mirror the words now. For whatever reason it connects the thoughts in your head, the message, the way that lands is, I heard what you said, the words, I got the words 'cause I just repeated them and I still don't understand. So I need a more in depth explanation without using the same words that you just used. Because if you say, I think op rasm is useless, and I might say, what do you mean by that? 
+4  
+02:17:34
+And you go, OPM is useless. You repeat the same words only louder. You figure that saying that louder will make it penetrate my cranium. That doesn't work. I need you to re to explain, to go into more depth, to expand using different words. And for whatever reason we found as hostage negotiators and I find in business that if I mirror you, you'll expand and you'll connect. So it's, I use it in that context. I might use it to get you to hear yourself out loud. Like if what you just said doesn't make sense, I'll repeat it back word for word one to three words and I'll upward inflect, I'll say that. 
+4  
+02:18:19
+That doesn't make sense. You know, use, use my tone, make it land with my tone. So you can hear yourself out loud. Somebody else just pointed out to me the other day that if you're talking to somebody and they're in mid thought and they kind of, their voice trails off because they sort of lost their train of thought. If you mirror them there, that helps 'em get their train of thought back and expand. So it's a, it's a ridiculously effective communication tool to get people to expand and feel heard. Its simplicity puts some people off. There are some people that say, yeah, it sounds stupid. I don't, I don't see what good that will do. 
+4  
+02:19:02
+I always notice if somebody really wants to know about Mirroring, my description is they're both high IQ and high eq. And why does that work? A high IQ guy's gonna wanna know something that's really simple that doesn't take any effort to do. And that's what Amira does. It, it's really, really effective and it's almost no effort on your part at all. 
+1  
+02:19:23
+Interesting. I must say that neuroscience has a, an unfortunate dearth of knowledge about how brains interact. This is starting to change, but most of what we know about how brains work is from putting people into functional magnetic resonance imaging machine, so-called M R i, exposing them to movies or games that they have to play, et cetera. And then looking at brain state activation. There are a few laboratories starting to look at how people interact in real time with both people in separate m r i machines that hopefully will be able to parse some of this. and I, I'm certain that somebody hearing this will use this knowledge to go do the experiment. 
+1  
+02:20:06
+If not, I'll, I'll run up the flagpole to some highly qualified people at Stanford who could, who could do this because it'd be fun to see what's happening. But I have the sense that what's happening is that there is a real merge of cognition when one hears their own words. Right. Spoken back to them that, well it's, you know, you now got two brains processing the same information and that has to lead new places. So I don't have any insight as to where, what exactly is happening, but certainly that something is happening there. Right, right. Yeah. Evidence by the real world results that you're getting results. We don't need any experiments to tell us that. But it'd be interesting to, to see and learn a bit of what's happening. 
+1  
+02:20:48
+If there's a fusion For instance of a co reactivation of emotional centers, co activation of, right. There's something about hearing our own voice is very different than hearing other people's voices. Most people cringe when they hear their own voice on recording. Right? Most, not all, some people are in love with their own voice. We know these people, but we know that our auditory system cancels out the hearing of our own voice. Did you know that as we're talking now, our auditory system is suppressing our own voice. We don't really hear ourselves speak the same way that when you speak Interesting. I hear you speak. Yeah. So it's an active neurochemical inhibition of the response. 
+1  
+02:21:30
+And it's amazing too because as we grow up, our voice changes puberty and so forth and other ways too that the vocal cords change in thickness, et cetera. And our voice changes. But we always know self from other in terms of voice and we cancel out our actual auditory perception of our own 
+4  
+02:21:46
+Voice. That's fascinating. 
+1  
+02:21:48
+And breathing and heartbeat, we shut down our response to self actively within the brain. 
+4  
+02:21:53
+That's fascinating. 
+1  
+02:21:55
+So maybe hearing back some of what we just said allows us to actually hear what we just said. 
+4  
+02:22:01
+Yeah, well true. and that, and that's why people, sometimes all somebody needs is a sounding board. So they can, they can, somebody else can hear, hear, they can hear themselves out and get it repeated back to 'em and then they go like, wait a minute. Did I just say that? Yeah. Interesting, 
+1  
+02:22:17
+Interesting. 
+4  
+02:22:18
+Useful 
+1  
+02:22:20
+Indeed. proactive listening. Tell us about proactive listening. We're all told that we need to be better listeners. You know, the other day someone said, we got two ears in one mouth. As if that's supposed to remind us. Most people have two ears in one mouth, but I get the point they were saying, Hey, there's value in listening. And more often than not, we default to broadcast, but no reception or mostly broadcast, less reception. Right. Hence the, the call for nasal breathing. It's useful in a lot of circumstances. 'cause it keeps us, it keeps our mouth shut. 
+4  
+02:22:58
+Yeah. 
+1  
+02:22:58
+What is proactive listening? How do we do it? What's, what's it good for? 
+4  
+02:23:02
+I'm really trying to get people out of the notion of active listening. Just because active listening has been so overused that people have lost track of it and it, most of it is taught poorly and it's interactive or it's proactive. And so we learned as hostage negotiators, first of all, just to label the presenting emotion. And we just assumed that. And the presenting emotion was always anger of some form, anger upset on certain rare instances, the guy was under control, but there were almost always negative emotions. So we just assumed that it was defined to what was confined, to what was driving hostage takers was negativity. Now, if I may, 'cause now I feel like an an imposter talking about neuroscience to you. 
+1  
+02:23:45
+No, your knowledge of neuroscience is, is, is spot on. Voss, I I wanna say numerous times you've, you've asked me about things in neuroscience and you, you've never been off the mark, so Oh yeah, you, you've clearly done your homework too. Oh, 
+4  
+02:23:58
+We keep trying to learn about it. But layman's terminology, the survival brain is largely negative. Ballpark, I would say 75% negative. Your reactions are gonna be negative. So number one, I believe that's principally backed up by the experiments of neuroscience the FMRIs have, have used, alluded to. And so then in hostage negotiation, we were taught to basically label the presenting emotion. And then I've seen experimentation or reporting of experiments. I think that first time I read about it was in a book called The Upward Spiral. and that book is a good 10 years old, I think, which means, you know, the neuroscience is evolving, but primarily the experiment there that I remember reading about it and read about in other places, that if people were undergoing a negative emotion in my layman's paraphrase of the experiment is they, they're shown a picture that induced a negative emotion in their head and then they asked people to simply call out what the emotion was. 
+4  
+02:25:04
+And when they self labeled, then the emotion diminished. Now the degree of diminishment varies, but the percentage of time that it diminishes by simply by calling it out is just darn near all the time. So for largely 75% negative and we can deactivate the negativity by calling it out. Well, let's be proactive. If you're a human being and we're engaged in, in a negotiation, there's gonna be certain very predictable negativity that's going to be there. and I should be proactive in calling it out. Anticipating the negativity's gonna be there based on a circumstance is highly predictable. 
+4  
+02:25:50
+And your Gut instinct before that, you're referring to when you wanna say, look, I don't want you to think I'm being greedy. Your gut's telling you it's highly predictable, you're gonna come off as greedy. So let me be proactive and say it's probably gonna seem like I'm being greedy. And that's the dialing over to what is eminently predictable in the interaction. And just being proactive to deactivate the negative emotions that either are taking place or what our experiences found. and I haven't seen any science that has yet that has had the opportunity to back this up. It inoculates, I can create a barrier if I call out a negative that it's not there. 
+4  
+02:26:31
+It doesn't plant it, it actually inoculates you from it. If, and I've done this in practice, I've, I was given a lecture a couple of years ago, anybody asks a question, I try to find the value in the question no matter how bad the question is. This poor guy asked me a question that I just cannot find a single component in his question that demonstrates that he was listening or paying attention. There was nothing about it that I could congratulate him on. And so I said, this is gonna sound harsh because I know the answer I'm getting ready to give him is gonna make it sound like to the group that I think he's stupid. 
+4  
+02:27:11
+I just, I can't think of a way to respond to this without saying effectively like, what are you thinking about? That's got nothing to do with what we're talking about. So I go, this is gonna sound harsh and I answer the question. And he just kind of goes, okay. and I start answering somebody else question. And he goes, that wasn't harsh. Now if I hadn't said this is gonna sound harsh and answered the question, I guarantee you my answer would've embarrassed him. And embarrassment is one of the worst negative emotions you can inflict on anybody. And he would hate me to this day for embarrassing him. 
+4  
+02:27:51
+So I got a moment coming at me that is predictably negative and I can let it, I can let that train run me down or I can call it out in advance and get a reaction where the guy says it wasn't that bad. And that's what being proactive about the emotions is about. 
+1  
+02:28:10
+I love it. And I'm recalling an instance during graduate school where my graduate advisor, who sadly has passed away, but was a phenomenal scientist, I mean, just so pure insisted on getting the answers could emotionally detach from the answers. I mean, she's just was a, was a ninja. She used to come into the laboratory when we were working on a paper and she'd sit down and she'd say, you're gonna hate me for what I'm about to ask you to do. And I'd think, oh no, like I'm gonna have to redo all the analysis or I'm gonna like some, you know, monumental thing. And then she'd say, you gotta change the like fonts in figure two, I'd, oh my God. 
+1  
+02:28:52
+Like what do you mean? I don't wanna hate you. But it, but it was relief. But I wanted nothing more than to make her happy with my work because I, I respected the standard that she held so, so greatly. I mean, she could have asked me to, you know, stand on my head and do, do the experiments 50 times. I would probably would've done it if I thought they would make the the project better. And as a consequence she would've been pleased because she was the standard for me. And in many ways still is. But I'm wondering if she read your book because she used to press it, these requests with like, you're gonna hate me. And then she'd ask me for something, I'm like, oh, I hate you. Like that's nothing. But now I wonder if, if I would've been taken aback if she had just said, you know, Hey by the way, figure two needs redoing. 
+1  
+02:29:37
+I might have been kind of bristled by that. So maybe she read your book. Chris, these are great tools, Mirroring and proactive listening and thank you for sharing these. Of course. Did you ever employ the Family Members of kidnappers friends of kidnappers as a means to kind of tap into a different aspect of their psyche? You know, 'cause I think that we are all as human beings, very context driven, right? So I can imagine that the person who kidnaps somebody or who's trying to steal somebody's resources is in a particular groove of the of person and, and I. I do think there are people in the world who are just evil, but I also know, because I've read about it and I trust the sources that there are people who have done horrendous things who love their dog and genuinely love their dog and wouldn't harm an animal. 
+1  
+02:30:28
+But I'm not trying to give these people a pass, but I could imagine that those other facets to somebody represent really good entry points for allowing them to see the kind of incongruence in their behavior. Or is it the case that when these are high stress situations, that you just have to basically, you know, you have to attack the, you know, disarm the aggressor and you're just focusing on the person as the bad actor, not considering the other context of their lives. 
+4  
+02:30:56
+Alright, so let, let's draw a distinction between hostage takers in a contained situation and kidnappers uncontained unknown location. So you're probably asking about somebody in a contained situation, bad guys in a bank, Dwight Watson in, in his tractor in Washington dc So very counterintuitively, if they're in a contained situation, there's a saying out there that says A system that you're employing is perfectly designed to give you the outcome that you have. So bad guy, Dwight Watson is on his tractor in dc the family's part of the system that put 'em there. 
+4  
+02:31:42
+The blunt, harsh reality of that is now at that siege that went on long enough and it was so high profile, some of his Family Members showed up. Now we can, we could and, and did try to use them. I'm, I'm walking, I'm walking from one place to another from the negotiation operation cell component on the way to command post hostage negotiator stops me, a couple of people with them, it's Watson's family and they see I am in a hurry and then I'm not interested in being stopped. And they gotta say to me something to stop me and get my attention. And they go, look, our brother's just hurting in his heart. 
+4  
+02:32:24
+He's just hurting, you know, things have gone bad for our whole family and he's just hurting in his heart. Don't kill him over that. and I looked at the negotiator and I said, get that on tape and we'll play that for him because if we can get that on tape exactly the way they said it, that'll land. But if we put 'em on a phone with them, they're gonna try to reason with them and they're gonna say stuff to 'em that didn't help, which they don't very well inte, but it's gonna be counterintuitive and it's probably gonna make it worse. So you have to understand family can be extremely important if you can get 'em to say exactly the right thing. 
+4  
+02:33:09
+And it's probably gonna need to be highly orchestrated because you know how it's gonna land. And unfortunately, if they, if you get 'em in a direct conversation, it'll probably renew an old wound. You know, Family, Members have heard each other in ways that they have no idea even happened. And so the other, you know, a family member, my son to this day remembers when I told him Santa Claus wasn't real. and I have No, you what? 
+1  
+02:33:36
+You're 
+4  
+02:33:37
+Tired. I have no memory of conversation. I'm, I came here and I blew it for you. Right, 
+1  
+02:33:41
+Man, wait, we got, oh my goodness. No, 
+4  
+02:33:42
+But Family Members have heard each other over the years that they have no idea which comes up in these live conversations. And you don't know what, what wounds, you don't even know what wounds are there that you caused. Right? And so in, in a contained situation, a family member can be extremely helpful, but it has to be, it's, it's a surgical shot that you have to be really, really, really careful with. Otherwise it can go the other way because the wounds and people don't even know are there. 
+1  
+02:34:09
+Gosh, that's such a psychologically astute way of viewing it because I'm a big fan of the so-called family systems model of psychology. I mean, you can't look at any human being's psychology positive meaning adaptive or maladaptive psychology and not look at the family system at which that evolved. Which is not to say that some perfectly healthy families occasionally don't have issues with a child having mental illness and, and I mean that happens. But I'm told that 99.9% of the time you can identify a family system, organization or a lineage, a genetic tie, et cetera, that, that makes things start to make sense when somebody's really struggling. 
+1  
+02:34:50
+Right, right, right. And, and as you pointed out, sadly oftentimes that that involves pains of past. Wow. Well thanks for sharing that because I, I think that in my mind the movie version of it is, you know, they bring the mother in and it's like, Billy, don't do it. You know, and then as you said, Billy might like, that might be the time when Billy's really gonna let his mother know, you know, childhood sucked for Billy. Right. And that's not what you want. Yeah. Goodness. What a complex job. What a complex, high stakes, high consequence job. What did you do to unload some of the heaviness and I don't, I'm not just talking about getting a good night's sleep or having a, a beer with your coworkers afterward. 
+1  
+02:35:37
+Although those things sort of, you know, important roles for, for people, I realize, you know, do you think we can dump the heart stuff in our head and our hearts in a way that, you know, allows us to be functional? 'cause you know, people in your line of work and I think just anyone in the world, you, you live long enough, you're gonna, you're gonna experience loss. 
+4  
+02:36:00
+Yeah. You're gonna get kicked in the, in the Gut. 
+1  
+02:36:02
+Yeah. And you're gonna see people you care about get kicked in the Gut. Right. That, that's, there's so much beauty to life as well. But, but that's the reality. So did you, do you have tools, processes that you use to kind of dump the baggage so that you can lean into your relationships and your relationship to yourself with, with restored sense of optimism? 
+4  
+02:36:29
+Yeah, I think mostly most of the people that I've always worked around, we've been very reinforcing of one another. Comedically, emotionally, friendship-wise. You know, being able to laugh with each other, taking it easy on each other. Getting people, you know, laughter and genuine understanding with, without, you know, somebody trying to tell you that you, you did wrong. I've been lucky enough to either find myself in those groups most of the time or we, we just evolved it. That's just the way that we were, we were attracted to one another emotionally, psychologically because of that. 
+4  
+02:37:15
+That's probably it mostly. I mean, I've tried to parse some of these emotions out recently. Like, I'm not particularly proud of anything I've ever done, but I always felt like it was a privilege. Like, you must be a proud of your accomplishments. Eh, I don't know that it's pride, but there's, there's other satisfaction and that I get out of it. And so thinking about what Drives me also now you know that I'm running a company and I'm, and, and I got people, also entrepreneurs that are trying to do the best for their employees. You know, what do we encourage in one another so that whatever we're doing, people feel good about it. And I've tried to take a lot of that from what I learned as an FBI agent and a hostage negotiator and the people that I was around and, you know, we did joke with each other a lot and we did play tricks on each other. 
+4  
+02:38:05
+You know, good, good natured Humor, avoid the people that are running you down, but be able to, you know, take, take some good natured ribbing every now and then and I and I. Think Humor is, is one way or another combined with hard work and an appreciation for what you're doing has probably been most of the mental health along the way. Occasional bourbon. 
+1  
+02:38:31
+Love it. We did a whole episode on alcohol and so people are gonna hear me say, love it and think, oh wait, here I'm supporting Al Listen the data, say as long as you're not an alcoholic, as long as you are of age, probably two drinks a week is or less is safe. Make 'em, make 'em good. High quality drinks if you're gonna have them consume them in the right context or don't consume them at all. But, but that's what I said. Love it. I, I I support your, your love of bourbon. I'm not a bourbon drinker, but tell me a little bit more about what you're up to lately. You alluded to it a moment ago that you're running teams that are doing a lot. So you're, you're in charge of a lot of people now helping people, help people providing a lot of service in the world through a lot of different channels. 
+1  
+02:39:17
+First of all, I wanna say that your book Never Split, the Difference, one of my favorite books. Thank you. I don't say that lightly. I don't endorse books very often, but the books I do endorse. I love, love, love. I also have to say that it's a toss up between your book Never Split the dis Difference. And the Body keeps the score for the award for best titles of any book. Those are just like amazing titles, amazing, amazing titles. Tall 
+4  
+02:39:44
+Roz, our ri co-writer came up with the title. Yeah, 
+1  
+02:39:47
+It's a phenomenal title that in the Body Keeps the, keeps the score just like, because it's, there's so much contained in in the title and then the book exceeds expectations. So really amazing book. People should listen to it, read it if they haven't already. But you're doing a lot more right now than than just writing. Although I wanna hear about your other book projects as well. But before you list off the number of things that you're doing, tell me first about Fireside. 'cause this Sounds Like a really interesting endeavor that frankly I haven't heard of before. What's Fireside Brand new Social Media platform. It's essentially an interactive podcast. 
+1  
+02:40:27
+It's a subscription service founded by Fallon Fatter and Mark Cuban. Fallon and I have been friends for a number of years. She was Google's youngest employee. She's an entrepreneur, dynamic, smart, hard charging person. And it's sort of grew out of what's inadequate in some of the Social Media apps that are out there trying to combine the best ideas of a a few different things. And Fallon suggested it to me and I thought I'll jump in because she's a visionary. And what it's turned out to be is it's effectively weekly interactive group coaching. And you, you get the app off your iPhone or your Android, whatever platform your phone is on, and then you log in, we do an hour once a week and it's, you're getting group coaching and then you get asked questions and it's got a video component to it. 
+1  
+02:41:22
+So if you want to ask a question, we we're gonna bring you up on quote stage and I get to see you and talk directly to you, and you get to see me and talk directly to me. Or, and I interviewed Mark Cuban a couple of weeks ago and people got to come on and a ask mark questions or ask me questions. And what it has turned out to be is it's one of sort of the th the next level of how to get better at negotiations after you've read the book and probably taken a masterclass, you know, where do you go next? One of the people that came on the podcast the other day, the, the the Fireside episode, they said, well, I don't have enough money yet to go to your in-person training events 'cause those are expensive and this is how I'm gonna get better in the, in a meantime and, and work my way in that direction. 
+1  
+02:42:13
+And so the monthly coaching, if you were to sign up for group coaching from us on a regular basis, on a monthly basis, it would probably easily cost you for what we're providing 25, $30,000 a month. And this is a thousand a year. So at scale it's an opportunity to interact directly with me and the members on my team once a week and get group coaching. And it's, and it's just kind of fun. We're getting a kick out of it and people that really, really care about interacting well with people. Guy comes on the first episode I did and he said, besides the fact that you helped me make a lot more money, you helped me save my marriage. 
+1  
+02:42:56
+And he just needed to know how to talk more genuinely and honestly with his wife in a way that made her felt heard. And he didn't really have a, a good way to do that beforehand. and I, I was just like, that's a lot. I don't, I don't, I don't know how to respond to that other than just be grateful that people can say stuff like that to us. So the Fireside thing is kind of cool. We're still experimenting with it. It's an interactive podcast group coaching. 
+4  
+02:43:30
+It's fun. 
+1  
+02:43:31
+Great. I mean, I would say you're changing lives there. I mean, the saving of marriage is no, is no small deal. And, and I think that the ability to communicate directly with people also, I imagine gives them the opportunity to implement the, the tools that you're providing in real time, right? It's one thing to hear about something and, and try it, but then you can get feedback in real time. Are you on these, these Fireside chats directly or members of your team? 
+4  
+02:43:56
+No, I, I do, we do one every week and I'm once a month. And the other thing too, like I can explain something one way and if for whatever reason it doesn't land in your context, you can't quite get it. So that's what we found about the interactive nature of it. Somebody comes on and a and asks a question in their context and then I'll answer it and then they'll go like, oh, oh, oh, oh, okay, alright. That helped. So you get, you get to hear people like you who are struggling with it the way you are, but I haven't put it in your context yet. And that's the other thing that's great about a q and a a life q and a, 
+1  
+02:44:33
+We had a Guest on here who told me that there are amazing data supporting the fact that people follow the medical and health advice of doctors that they can relate to far more than they follow the medical and health advice of physicians that they feel aren't like them. And oftentimes this can include the physician or healthcare provider being someone that they would aspire to be like, but oftentimes it's just some common Rapport like they both like baseball or they both like to cook or to garden. and that sets a bridge, right? Where then the patient is willing to do all these things that ordinarily they would be resistant to, right? And, and there are really good data to support this and I I that, that really stuck with me. 
+1  
+02:45:18
+'cause it says that it's, it's not just about the information or the, the delivery route of the information That the context and that Rapport is even along something as like, oh, you, you're a by the way, I'm not a major, you know, a, a major sports fan on most things, but you know, like, oh, you're a Bills fan or something like me too. Like that can be the difference between somebody doing all the things to lower their blood pressure the day in changing their diet, all that, all those things versus not making the changes at all. 
+4  
+02:45:46
+Rapport is a magic. Yeah. It's kind of a magic component that changes, changes everything. 
+1  
+02:45:52
+Well, Fireside, Sounds Like a great opportunity for people to not just ask questions, but to build Rapport with you and members of your team. Yeah. So I'm gonna check it out. Lord knows, I I I need help improving my communications in cer certain domains of life. Believe me, I get the memos fact. What other Writing Projects are you involved in, if any? 
+4  
+02:46:19
+We we're, we've been toying with this companion operations manual for Tactical Empathy, which getting it right is important. So it's sort of a companion book to Never Split the Difference that's probably at least a year and a half out from being done. So in the meantime we just do, we do a lot of online training. You know, we got a, we got a Newsletter we put out weekly for, for people to get our latest cutting edge application thoughts as much as possible. We're putting information out that we charge for a lot and we put out a lot of free stuff. You know, I'm I, I'm throwing out ideas on Instagram, but we're constantly trying to put information out there so that, so that people can collaborate better. 
+4  
+02:47:07
+So specific, we just finished a book for residential real estate agents. A friend of mine, Steve Shoul, we put that out last November. That's sort of niched, but it's mostly the Black swan method for real estate agents. 'cause every conversation they're in is a difficult emotional conversation. Sale of a house is one of the most stressful moments of anybody's life selling or buying. So we just put that out. In the meantime, you know, we're spreading the gospel as much as possible. 
+1  
+02:47:37
+Well, we'll certainly point out the various places people can find you and, and the different venues for, for learning more. I, I want to say that numerous times throughout today's conversation, you threw out the words Sounds Like. Mm. Yeah. As an opener. and I have to say, I have this kind of crazy idea in the back of my mind. You know, I, I believe that simple field tested tools are immensely powerful. Not just for resolving the negotiations, but really for changing the way that people interact with each other and themselves. And, you know, if I have one wish for the world on the basis of our conversation, how amazing would it be if kids learned early on to talk to one another from that Sounds Like perspective? 
+1  
+02:48:26
+Because I think that would naturally orient them toward listening, 
+4  
+02:48:30
+Right? 
+1  
+02:48:31
+Or at least offering a Hypothesis of what they heard and how poorly they might be listening, and then getting a defensive stance response that informs them about the AC accuracy or lack of accuracy and on and on. I feel like the, the Sounds Like question, Sounds Like, you feel blank or Sounds Like, you believe blank just seems to me like the, like one of the, one of the most potent tools in the universe. and I sure wish that all adults would implement it, but that kids would learn about it too. 
+4  
+02:49:06
+Yeah. That's that, yeah. That's a, that's a great thought. You know, how, how do, how do we teach 'em at a younger age that, that listening is actually an effective thing to do? It's actually a way to think things through also. So I, yeah, I agree. I mean, wave of magic wand. Right. 
+1  
+02:49:23
+Exactly. Well, Chris, I want to thank you so much for your time, Today I. I mean, you've joined us on this tour of so many different facets of your work prior and present, and you've let us get a little glimpse into the, the portal of your future work too, which I'm eagerly awaiting. I also just want to thank you for everything that you do. You've always struck me as such a giver of knowledge. And, you know, you, you can't put a value on that. You're constantly putting knowledge into the world on Instagram. Your book Fireside and courses and on and on gleaned from your experience in very, very intense circumstances, but really with an eye toward people getting the most outta that for their, their daily lives, which hopefully don't involve hostage negotiations unless they're a hostage negotiator. 
+1  
+02:50:14
+So I just wanna say thank you ever so much for what you do and for being such a phenomenal communicator. And also thank you for doing into that late night fm BJ voice. 
+4  
+02:50:28
+Yeah, I, you know, I've been, I wanted to be here sitting with you, being interviewed on your podcast since I first discovered it. You thank you several years ago. And it's a privilege to be here. I really, really, and I love what you're doing in getting actionable, usable tools into the world so people can navigate more effectively. 
+1  
+02:50:50
+Thank you. Right back at you. Come back again. Alright, 
+4  
+02:50:53
+Thanks. 
+1  
+02:50:53
+Thank you for joining me for today's discussion with Chris Voss. I hope you found it to be as interesting and as actionable as I did to find links to Chris's website and to his excellent book, Never Split the Difference, as well as to his Social Media handles. Please see the links in the show Note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero-cost way to support us. In addition, please subscribe to the podcast on both Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review. If you have questions for me or comments about the podcast or topics or guests that you'd like me to cover on the Huberman Lab podcast, please put those in the comments section on YouTube. I do read all the comments. 
+1  
+02:51:34
+In addition, please check out the Sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. 
+Momentous (Ad)  
+02:51:41
+Not on today's episode, but on many previous episodes of the Huberman Lab podcast, we discuss supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them for things like improving sleep, for hormone support and for focus. The Huberman Lab podcast has partnered with Momentous supplements, and we did that for several reasons. First of all, their ingredients are of the very highest quality. Second of all, they tend to focus on single ingredient formulations, which make it easy to develop the most cost-effective and biologically effective supplement regimen for you. And third Momentous supplements ship internationally, which we realize it's important because many of you reside outside of the United States. To see the supplements discussed on the Huberman Lab podcast, go to live Momentous spelled o u s. So it's live Momentous dot com slash Huberman. 
+1  
+02:52:27
+If you're not already following me on Social Media, you can do so by going to Huberman Lab on all Social Media platforms. So that's Instagram, Twitter, now called X, LinkedIn, Facebook, and threads on all of those platforms. I cover science and science related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content covered on the Huberman Lab podcast. Again, that's Huberman Lab on all Social Media platforms. If you haven't already subscribed to our Neural Network Newsletter, the Neural Network Newsletter is a zero cost monthly Newsletter. That includes podcast summaries as well as toolkits. So toolkits for sleep, toolkits for learning and plasticity, toolkits related to dopamine regulation, and much more. Again, it's all zero cost. 
+1  
+02:53:07
+You simply go to Huberman Lab dot com, go to the menu tab, scroll down to Newsletter, and simply enter your email and we do not share your email with anybody. Thank you once again for joining for today's discussion with Chris Voss. And last but certainly not least, thank you for your interest in science.

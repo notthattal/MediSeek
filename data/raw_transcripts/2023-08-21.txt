@@ -1,0 +1,830 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. David Linden: Life, Death & the Neuroscience of Your Unique Experience
+Published: 8/21/2023
+8/21/2023 - 2h 36m 47s
+ - 
+US
+Downloaded:
+(in RSS feed: 2h 33m 8s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+1  
+00:00:00
+Welcome to the Huberman Lab Podcast, where we discuss science and science based tools for everyday life. I'm Andrew Huberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine Today. my guest is Dr David Linden. Dr. David Linden is a professor of Neuroscience at Johns Hopkins School of Medicine. His laboratory has studied Neuroplasticity. That is how connections in the brain change in response to experience Much of that work focused on a structure called the Cerebellum, which is also sometimes referred to as the mini brain because it looks like a mini brain in the bottom and back of the human brain. And it's responsible for an enormous number of basic functions that we use in everyday life, including our motor behavior. 
+1  
+00:00:44
+That is our ability to walk and talk, but also dance play instruments. And it's responsible for an enormous number of basic functions that we use in everyday life, including our sense of balance, our ability to learn new motor behaviors, as well as our sense of timing. Today we will discuss the Cerebellum, And What, it does, but Dr. David Linden will also teach us about the important sense of touch as well as what makes us different as individuals. The reason today's discussion encompasses so many important topics is that Dr. David Linden's laboratory has focused on many of those topics, and he's also the author of five excellent popular books about Neuroscience that focus on, for instance, our sense of pleasure and where it originates from And What controls it in the brain as well as our sense of touch. 
+1  
+00:01:30
+And today we start off our discussion by talking about the recent discovery of a set of neurons that have been known about for a long period of time, but that only recently have been characterized that are involved in sensual touch in particular. And it's a fascinating conversation, I assure you. In addition to that, Dr. David Linden informs us about what makes us individuals, how each and every one of us perceives the same things differently. And it's an absolutely fascinating conversation, which tells you, for instance, why some of you think a smell is putrid, Indeed smells like vomit, whereas others perhaps are not bothered by that smell and why others still are attracted to that smell or something that you look at or something that you hear. 
+1  
+00:02:12
+We also talk about nature versus nurture and how we come to be who we are, not just through our genes and epigenetics, but also through our early childhood experience and adult experience. And then in the latter third of our conversation, we shift to talking about the so-called mind body connection and the science underlying how our thoughts inform our bodily health or lack thereof, as well as how the organs of our body control the chemicals Hormones and thoughts within our brain. Then we shift to discussing Dr. David Linden himself and the fact that in 2020 he was diagnosed with a form of heart cancer that led his physicians to tell him that he had six to 12 months to live. 
+1  
+00:02:53
+Now obviously because he was in our studio to record this conversation, he has outlived that prognosis, but he lives day-to-day with the knowledge that his death may very well come soon, although it isn't clear exactly when that day will come. Of course, he tells us how the initial prognosis of his cancer as well as outliving, that prognosis has informed his day-to-day life as well as his thinking and his relationships. And, that leads to a very direct and frankly, emotional conversation that includes advice on how all of us can get the most out of our daily living and out of our overall life. It's an extremely powerful conversation that I believe everyone, regardless of age or health status can benefit from. 
+1  
+00:03:38
+And it's one that makes clear that not only is Dr. David Linden a spectacular scientist, but also a spectacular educator, a spectacular popular writer, a spectacular family man, including husband and father and friend to many people and his colleagues, but he is also a courageous and spectacularly generous human being. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. 
+ROKA (Ad)  
+00:04:15
+Our first Sponsor is ROKA. ROKA makes eyeglasses and sunglasses that are the absolute highest quality. The company was founded by two all American swimmers from Stanford and everything about ROKA, eyeglasses and sunglasses were designed with performance in mind. I've spent a lifetime working on the biology of the visual system, and I can tell you that your visual system has to contend with an enormous number of challenges in order for you to be able to see clearly ROKA understands those challenges and the biology of the visual system such that they've designed sunglasses and eyeglasses that always allow you to see with crystal clarity. Now, initially, ROKA, eyeglasses and sunglasses were designed for sports performance, and as a consequence, all of their glasses are designed to be very lightweight and to not slip off your face if you get sweaty. However, the design of the glasses include some that are specifically for sport and others whose aesthetic really allows you to use them for sport as well as out to dinner or to work, et cetera. And that's how I use them. If you'd like to try ROKA eyeglasses and sunglasses, you can go to ROKA dot com, that's ROKA dot com, and enter the code Huberman to save 20% off your first order. Again, that's ROKA ROKA dot com and enter the code Huberman at checkout. 
+Levels (Ad)  
+00:05:21
+Today's episode is also brought to us by Levels. Levels is a program that lets you see how different foods and behaviors affect your health by giving you real-time feedback on your diet using a continuous glucose monitor, one of the most important factors impacting your Immediate and long-term health is the way that your body manages its blood glucose or sometimes referred to as blood sugar levels to maintain energy and focus throughout the day. You want to keep your blood glucose steady without big spikes or dips. Using levels, you can monitor how different types of foods and different food combinations as well as food timing and things like exercise combine to impact your blood glucose levels. I started using levels a little over a year ago and it gave me a lot of insight into how specific foods were spiking my blood sugar and then leaving me feeling tired for several hours afterwards, as well as how the spacing of exercise and my meals was impacting my overall energy. And in doing so, it really allowed me to optimize how I eat, what I eat when I exercise and so on, such that my blood glucose levels and energy levels are stable throughout the day. If you're interested in learning more about levels and trying a continuous glucose monitor yourself, go to Levels Link slash Huberman right now Levels is offering an additional two free months of membership. Again, that's levels link L i k slash Huberman to get two free months of membership. 
+1  
+00:06:40
+We are always striving to make the Huberman Lab podcast better. And to that end, we need your help. Over the next month, we are going to be carrying out a survey. The purpose of the survey is to improve the Huberman Lab podcast. According to your feedback, we put together a brief survey to understand what you love about the podcast. Hopefully you love a few things at least, or maybe just one thing as well as what you think could be improved or perhaps the many things that you think could be improved about the Huberman Lab Podcast. Basically what we are asking is to get your feedback so that we can improve any and all things about the Huberman Lab podcast. The survey does not take long, and every single response will be reviewed. As a thank you for completing the survey, we are offering two months free of the Huberman Lab Premium channel. 
+1  
+00:07:24
+If you're already a member of the Huberman Lab Premium channel, do not worry. You will get an additional two free months for carrying out this survey. You can find the link to the survey in the show notes for this podcast episode and on our website, Huberman Lab dot com. So if you would be so kind as to take a few minutes to fill out the survey and help us continue with bringing you the best possible content here at the Huberman Lab Podcast. And as always, thank you for your interest in science and now for my discussion with Dr. David Linden. Professor Linden, welcome. Thanks so much for having me. I've been looking forward to our conversation and we have a lot to talk about. We do lots of different aspects of science, lots of different aspects of personal journey, And What you're confronting now as it relates to your health and your future. 
+1  
+00:08:13
+I wanna start off with a question that I learned from the one and only the great Carl Deisseroth who was the first guest on this podcast, my colleague at Stanford. And for those of you that don't recognize Carl's name, he is a absolute phenom. He's a active clinical psych psychiatrist, so he's an MD and he also is a bioengineer who's developed a lot of the modern tools for probing the brain. And anytime I've met with Carl, the first thing he says is, what are you most excited about lately? That's a good question. It is. So I'm going to steal that approach and say, what are you most excited about lately? 
+2  
+00:08:54
+Lately? Well, very, very lately, the most interesting thing that I read in Neuroscience is the answer to a, a scientific problem that I think is really dear to a lot of people's hearts And. that is what are the nerve endings in the genitals that are responsible for sexual Sensation? And you know, if you think about it, right, people can feel sexy from being touched on lots of different parts of the body, but there's something special about the genitals, doesn't matter, male or female or intersex or gay or straight or bi or whatever you are. 
+2  
+00:09:35
+You know, the genitals are, are a hotspot. And why, and you'd, you'd think as biologists we'd know this by now, this would be something we could just answer. But, but it's been a mystery for a long time. And if, if you go back to to 1860, there was a German neuroanatomist named Krause and he cut thin sections of tissue from the penis and the clitoris and he looked at them under the microscope and he saw a particular kind of nerve ending there that has since been called the Krause Corpuscles. And there were lots of them in these two places. And so he thought, well, maybe this is the cellular basis of sexual Sensation. 
+2  
+00:10:17
+Maybe these are the particular nerve endings that are responsible for this. But there were some things that that were in favor of that and some not. So these nerve endings are also in some other places that people can find more or less sexy. Like they're in the nipples and they're in the lips and they're in the anus all places that get popular in, in that domain. But they're also in places like the cornea or the lining of the joints. So distribution doesn't quite make sense. And so it was never known. And so if you wanted to really test as a scientist whether these nerve endings are responsible, you want to record their electrical Signals while the genitals are being touched, you'd want to inactivate these Cells and see if you could interfere with syn with sexual Sensation. 
+2  
+00:11:14
+And this in a preprint from David Ty's group at Harvard is just what they have been able to do in mice. They found a way to label and record from and activate and inactivate artificially the Krause Corpuscles. And so you see a nerve ending in the skin. It could be conveying all kinds of information. It could be tuned for hot or for cold or for itch or for pain or for in or for inflammation or for mechanical Sensation stretching vibration indentation. And sure enough, when they recorded from these Krause core puzzles, they relied our mechanical sensors as you would expect if they were involved in sexual Sensation. 
+2  
+00:12:00
+So that was good. And then the other thing then that they did is they, they tried to artificially turn them on. And so the way they did that is they use genetic tricks to express one of Carl Deros a molecule that activates neurons when they're, when blue light is shown on them. And they found that if they express this artificial protein in the Krause Cells in a, in a male mouse and then shine blue light, the mouse gets an erection. Alright, so far so good. What happens if you turn them off? Well, if you turn them off in a male mouse, it's just as interested in females when they're in heat, but it won't mount and thrust and ejaculate as much. 
+2  
+00:12:50
+And if you turn them off in a female mouse during the time of her cycle where she would normally be sexually receptive, you find that she is much less interested, she's much less likely to let him mount. She's much less likely to let him finish. So this is the remarkable results that finally, after all these years since 1860, now we know what the nerve endings are that convey sexual Sensation and like all good science. Then, you know, there are a lot of questions that are really interesting to our everyday lives. Like, you know, people like different things in bed and have different propensity for orgasm or, or like, like to be touched in different ways. 
+2  
+00:13:36
+Well, is part of that reason because of individual Variation in their Krause core puzzle structure. We know that sexual Sensation diminishes with aging is that in part because krause's core puzzle density is lost from the skin of the genitals. And that's a reasonable idea because we know for example, that fine touch sensors in the fingertips so-called Merkel and Meisner endings also named after German anatomists, like so many things are, are also loft with age. So that's a reasonable idea. So, so this finding from GT's lab has opened up a whole world of science. 
+2  
+00:14:19
+And I've been, my, my own lab doesn't work on touch, but I've been a fanboy of touch for, for many, many years. Mostly because where I work at Johns Hopkins Medical School, there have been many terrific touch researchers. It's been a world center for it and I hear about it over lunch and I got all fired up. So years ago I wrote a book about it and I still follow the field and this is the most interesting thing in that field recently. 
+1  
+00:14:44
+Yeah. And as I recall, Gente was your neighbor at Hopkins before he moved to Harvard? 
+2  
+00:14:48
+That's right, that's right. He was one of the ones gti Steven xo, Michael Katarina, Xinjiang Dong. There have been a number of world leaders in the, in the cellular basis of touch Sensation at Hopkins. 
+1  
+00:15:04
+Do you recall if in the pre-print that you were describing there was an experiment where they activated these Krause core les in females? 
+2  
+00:15:14
+It's funny you should mention that. I sent that exact email to David Gente and they said they are in the process of doing that right now and they don't quite know yet. And so I asked him, I said, so for example is erection of the clitoris even a thing in mice? And he says, well, we're really not sure, so we're activating the Krause Corpuscles in female mice and we're just kind of staring at it and looking and see if anything happens. Does there, you know, does the, you know, does, does, does the the the body change shape, is there a color change? They don't even quite know what it is they're looking for 'cause it's that much on the leading edge of things. But it's a good question. Yeah. 
+1  
+00:15:52
+Or perhaps the female mice would be more willing to mate outside of the usual timeframe of receptivity if these Krause corp les are, are stimulated. That's 
+2  
+00:16:02
+Possible. My suggestion, my my guess would be not because I think that the hormonal regulation of receptivity is like a sledgehammer and very hard to overcome, but they might be more willing to continue mating or mate for longer during their fertile time. 
+1  
+00:16:22
+And I just wanna remind people, because we had a, a guest recently, Dr. Rena Malik, who's a urologist, reproductive, and sexual health expert. She's an md and she made clear that the, the clitoris and the penis come from the same embryonic origin. They are analogous tissues Yes. In different individuals. I do have one more question about this sexual touch thing. These are peripheral nerves, right? Yes. So these are not of the brain and spinal cord. They're in what we call the periphery. And my understanding is that peripheral neurons regenerate and can remodel themselves extensively in ways that neurons within the brain and spinal cord tend to remodel less, especially as one gets older. 
+1  
+00:17:14
+Out of the so-called critical period, is it possible that these Krause Corpuscles and their patterns of innervation within the genitals change according to the stimulation that people experience? In other words, is sexual Sensation experience dependent? 
+2  
+00:17:32
+That is a great question. And so we don't know because monitoring this in people is not technically possible, right? It requires cadaver tissue. So you can only do it once in animals. It, it, it it will be possible and it, it could be for a couple of different reasons. In other words, it could be, I think what you're imagining is that there's actual structural plasticity if you looked at these Krause core puzzles or that you would actually see them changing their shape or their size or their, or their density as a result of experience. 
+2  
+00:18:12
+But what can also happen is a phenomenal like desensitization that is to say when there's stimulation for a long time, then the receptors transiently can become less sensitive to touch. And it's well known, particularly in males that that chronic masturbation can produce desensitization of sexual Sensation in the penis And. that could be as a result of a physical change, a morphological change in the krause's core puzzles. But it's more likely to be a change in their function that you wouldn't be able to simply see by looking at an outline of their structure in the microscope. 
+1  
+00:19:00
+Such an interesting topic. Thanks for opening things up with, with that, and I'll have to check out this pre-print. I'm also a huge fan of David Ty's work and, and colleagues. There are many people involved in that domain of work. Of course. I'd like to talk about your recent book and the sort of underlying basis of what led you to write it. And What intrigued you about this idea of Human Individuality. The book unique is one that we'll provide a link to in the show note captions. And it's a very interesting idea that we are all different, especially coming from a neuroscientist who we were trained at least similarly to learn that sure, the bumps and ripples of the brain and the fine wiring of the brain is different. 
+1  
+00:19:48
+And we are all unique and different that we have different shapes, AK morphologies, but focusing on Human Individuality is not something that modern Neuroscience or classic Neuroscience has really done much of. It's really focused on how people do X or people do y this way. Tell us about unique and tell us about Human. Individuality. 
+2  
+00:20:11
+Yeah, well, I mean you're absolutely right. So when I look at the experiments in my own lab, how do we do them? Well, we work on mice. Do we work on mice with genetic Variation? No, we work on highly inbred mice that are designed to be as genetically similar to each other as possible. And then we raise them basically in prison in little, little Cells, which may not be a good idea. And we try to give them as similar experience as possible. 
+1  
+00:20:39
+They are given toys and food and water, but I agree it, it resembles a prison of sorts. They aren't free to roam. 
+2  
+00:20:45
+They're, they're, they have nothing, nothing like the experience of a wild mouse, let me put it that way. They're, and, and yes, there are, as you said correctly, there are plenty of experiments where there is enrichment for mice and they love it. So for example, in our lab, when we put running wheels in the cages or mice and let them run overnight, they're active at night. Your average mouse will run two kilometers in a night for a little tiny mouse. And some of the mice are so intense they'll run 20 kilometers. Imagine a mouse doing 20 k, but, but it will happen. They really, really like it. They don't like being in prison. 
+2  
+00:21:25
+They, they want to exercise and they're really bored. So yes, to get back to your general point, so much of science is designed to try to find general principles of, of function of the brain, of physiology, of genetics and to ignore individual Variation. But individual Variation is so important to our human experience and actually is so important to, to the process of evolution and natural selection and how, how species make their way in the world. That, that it's, it's something that, that requires a lot of attention. 
+2  
+00:22:09
+And to me what's really fascinating is that when you look at the Variation in the way sense organs function, it's almost a miracle that we can agree on a common reality at all, even within the human species. And this is true of, of more of, of, of, of some Senses more than others. Obviously in your world, in the retina we have various kinds of, of loss of color vision that are well known and some other more complicated phenomena having to do with impairments in the perception of motion or form. 
+2  
+00:22:53
+But the place where this really happens is in the olfactory system. So we have approximately 400 functional receptors for different odorant molecule smells in our nose. And if you sequence the genomes of many people, you find that the, that the, the d n a that encodes for these odorant receptors is unusually variable from individual to individual. As a matter of fact, if you take two different people on average, they will have functional differences in 30% of their Odor receptors. 
+2  
+00:23:41
+And if you do as Leslie Vassal and her colleagues did at Rockefeller University and give Odor tests where they give people different things to smell and then they dilute them and find the threshold which they can detect them, you find enormous changes from people, people both in term in general terms, some people are just better smells than others. But in terms of individual odors as well, there's some odors that some people can't detect and other people smell one way. For example, there is a, there's a secreted hormone called androstenone andro. There are some people who can't smell it all. 
+2  
+00:24:23
+For some people it smells like rather pleasant, like cut grass. And for some people it smells foul like urine or sweat. And it just depends on genetic Variation. In one particular odorant receptor, 
+1  
+00:24:41
+Sorry to interrupt, another phenomenal researcher who studies olfaction among other things, Katherine Dulla, I once heard say that some people have a gene that for them makes the smell of microwave popcorn, they experience that smell as vomit and other people who lack this gene like the smell of microwave popcorn, or at least for them it's not aversive. So it can really be a binary response. 
+2  
+00:25:11
+Well, it can, and actually that's a very particular funny case. So the, the relevant Chemical there is butyric acid and also isovaleric acid. And so there are researchers, I think Rachel Hertz is one of them who have given a mixture of these two chemicals to people. And if they say this is Parmesan cheese, they go, oh yeah, that's Parmesan cheese. And if they give it to other people and say, this is vomit, they'll go, oh yeah, that's vomit. And if they tell people, they give them one vial and say, this is Parmesan cheese, and they go, yeah, and they give another one, they say it's vomit. They go, yeah. And then they say, well actually we fooled you, it was the same vial. 
+2  
+00:25:51
+They say, no, you didn't, you must have made a mistake. They're convinced that they couldn't have been the same thing. So this points out not only is there genetic Variation that is responsible for our individuals perceive Odor, but we are incredibly suggestible in terms of odors. And we, we are very dependent upon them in terms of cultural context. And, and this can be, and this can be learned and, and this is central to our humanity in the sense that that we humans are what I like to call the anti pandas. 
+2  
+00:26:34
+Pandas live in one spot in, in southern China and they eat one thing bamboo and that's it. Humans are the opposite. Humans can live in any ecological niche in the world from the tropics to the poles. And humans eat a wide, wide, wide variety of foods. And as a result it means that we have to have a very plastical factory system. They have to be very few things that we find innately aversive. There are only a handful of odors rotting meat odors molecules with the evocative names like cadaver and Racine are things that even babies when they're newborn find aversive, but other things happen that they need to be learned. 
+2  
+00:27:23
+For example, pretty much every adult finds poop odors unpleasant, but babies hap happily play with their own poop. They have to learn, ugh, that that's disgusting. It's not 'cause babies have a different nose. It's because they have to learn culturally. 
+1  
+00:27:39
+It's not innate. 
+2  
+00:27:40
+It is not innate. There are only a few innate Odor aversions and a few innate taste aversions that we're we're born with. And the other things are elaborated culturally. And we can think about this in terms of how we, we we, we talk about odors. So for example, we might say vanilla smells sweet. Well that's weird. That's like, those are two different Senses. How come something smells sweet? That's like saying it sounds red, right? 
+1  
+00:28:12
+It's like a, it's a statement about synesthesia, right? 
+2  
+00:28:15
+And but, but how did it come to pass? And do people say that vanilla smells sweet everywhere in the world? Well the answer is no. So in places in the world where vanilla is used with sugar in, in sweet foods like desserts, then people say that vanilla smells sweet or mint similarly smell sweet if it is typically used together with sugar. But if you go to a place like, like Vietnam where mint is mostly used in savory dishes, people won't say that mint smells sweet. So there's 
+1  
+00:28:52
+A paired association there that at least at our level of conscious understanding feeds back onto what we call olfactory or smell perception. But really it's a, it must be a paired association at some point in development. Yeah, 
+2  
+00:29:07
+It is. It absolutely is a paired association and it's something that goes on continually through your life, right? I mean lots of people, for example, have stories of foods that they wouldn't eat as a child, but they came to like as an adult. A good example of that is coffee. A lot of people have to overcome bitter aversion to, to become coffee aficionados. So you know, this, this, this feeds into the more, the more general theme that there is no pure perception. 
+2  
+00:29:47
+Perception is inference. It's not like there is a purely objective world that can somehow make its way through the Senses. And we can perceive that as the truth. All of our perception through all of our Senses, both the outward pointing Senses of the world like smell and taste and sight and hearing and the inward pointing Senses like balance and is my stomach full and things like that. All of them are based on experience and expectation and the situation of the moment, 
+AG1 (Ad)  
+00:30:25
+As many of you know, I've been taking a G one daily since 2012. So I'm delighted that they're sponsoring the podcast. A G one is a vitamin mineral probiotic drink that's designed to meet all of your foundational nutrition needs. Now of course I try to get enough servings of vitamins and minerals through whole food sources that include vegetables and fruits every day. But oftentimes I simply can't get enough servings. But with AG one I'm sure to get enough vitamins and minerals and the probiotics that I need and it also contains adaptogens to help buffer stress. Simply put, I always feel better when I take AG one. I have more focus and energy and I sleep better. And it also happens to taste great for all these reasons whenever I'm asked. If you could take just one supplement, what would it be? I answer AG one. If you'd like to try AG one, go to drink AG one.com/ Huberman to claim a special offer. They'll give you five free travel packs plus a year supply of vitamin D three K two. Again that's drink AG one.com/ Huberman. 
+2  
+00:31:22
+Are there any examples of uniqueness of visual perception that come to mind? I recently did a Social Media post that involved, it was essentially three rings, a a blue ring, a red ring, and a blue ring in the center. Perhaps it was the other way around, excuse me, it was red, blue, red. And I asked which ring is in front or are they all at the, in the same plane. 
+1  
+00:31:50
+Now of course it's a two dimensional image, right? And interestingly it splits out into about thirds. Some people see the blue ring in front quite a bit. Others see a red ring out in front. Others see them all in the same plane. And this we think has to do with differences in two things between individuals. One is the distribution of the cone photoreceptors, which we know is essentially random between individuals, maybe even between the two eyes. And then And that gives rise to this phenomenon of chromatic aberration. Yes. Which is the displacement of the visual image according to the wavelength of the light. 
+1  
+00:32:30
+And we won't get into the physics of it. Now I'll soon do a post that hopefully distills it in a manner that's simple enough that people will understand. But clearly some people see certain colors in front of others and the person right next to them could see the opposite color in front. And others say, what are you talking about? All the colors are in exactly the same plane of of vision. So that's the one that I know. I'm guessing, you know, some others and I perhaps some more robust ones. Well 
+2  
+00:32:58
+I think, you know, perhaps this is maybe not what you had in mind, but one way in which experience modifies the visual world has to do with how much light you are exposed to in the first five years or so of your life. And so kids that don't get outside are much more likely to be myopic and it actually is nearsighted. Nearsighted, yeah. Yes. When they grow up than kids who got outside. And we now know that at least part of the story is that light seems to stimulate the expression of a class of molecules called trophic factors that you're well acquainted with that actually change the shape of the eyeball. 
+2  
+00:33:49
+So it's not really the structure of the retina or the lens of the cornea, the actual degree of elongation of the eyeball changes changing the way the the retina sits relative to the lens And that seems to be light dependent early in life and which gives rise to, to a higher incidence of myopia. And and to me this is really, well first of all it's, it's, it's news you can use, you should get your kids outside for absolutely all kinds of reasons. And 
+1  
+00:34:23
+You should get outside too, especially in the morning. Yeah. Set that circadian rhythm. Yeah, I 
+2  
+00:34:26
+I know that's a famous Huber Mosque points. 
+1  
+00:34:30
+They're gonna be putting me in the grave David, and I'm gonna be telling people to, or it'll, maybe it'll be on my tombstone, it'll say get, get sunlight in your eyes. Hey got, especially on, especially on cloudy days. 'cause there is still sunlight. Yeah. Even if you can't see the physical object of the sun on cloudy days. 
+2  
+00:34:48
+Well, you know, I think this whole idea of having traits that are dependent upon early life experience is fascinating because there are a number of situations where you would guess that something is genetic, but it isn't. It's actually dependent on early life experience. And there's a, there's an amazing story about this having to do with the early days of World War ii. So in the early days of World War ii, the Japanese army just swept through Asia. They defeated the, the, the British and Malaysia and Singapore, they over in Thailand and Burma and they were knocking on the gates of India and everything was going great except the Japanese army had a problem. 
+2  
+00:35:34
+There were an enormous number of their soldiers who became incapacitated with heat stroke. They got their core temperature got too hot. And when the army doctors examined them, they found this was much more likely to happen in soldiers who came from the northern part of Japan, Hokkaido, where it's, where it snows in the winter as opposed to the southern part of Japan. Like Shu, which is a semi-tropical environment. And the classical explanation, the biologists like us would guess, would say, oh, alright, well this has happened genetically over many years. 
+2  
+00:36:15
+You have a family that's been in Kyushu for many generations and you've selected four gene variants that allow you to tolerate the heat better. And we know actually what this is, so if you're a more heat tolerant, it's because you have more of a particular class of sweat gland called the rine sweat glands, the sort of salt water, sweat glands, not the lipid stinky armpit, sweat glands called the arine ones. The rine ones. You have a higher fraction of them that are innervated, meaning that the Signals from your brain that say your core is too hot can then make you sweat. So the total density of sweat glands between northern and southern soldiers in Japan wasn't different, but the southern soldiers tend to have a higher degree of innervation. 
+2  
+00:37:01
+Alright, so you say, oh, okay, well this happened genetically over many generations. But if you look at those rare cases where you had soldiers from a long established northern family and their parents moved south and then they grew up in the southern location, they had high sweat gland innervation, they were well tolerant. Conversely, if you had a well established southern kishu family and they moved to Hokkaido and then had their child, that child developed the northern sweat gland innervation pattern, 
+1  
+00:37:34
+So meaning less nerve innervation of those sweat glands, as you mentioned before, just as many sweat glands, just less nerve innervation. Therefore those sweat glands could not be activated. They couldn't dump heat as well. Their Heat Tolerance was lower. Correct? 
+2  
+00:37:44
+Exactly. Right. And, and what's what's what's wonderful is that this gives an advantage that you can't get through evolution And. that it, it can happen right away in this, in in one generation, right? Evolutionary change is slow, right? And you can adapt as a species and as a family over over many, many, many generations. But when you have a phenomenon that is set by early life experience, well then you can benefit from that early life experience within your own life. It's not that your great-great great great great grandchildren will ultimately benefit you benefit. 
+2  
+00:38:27
+Another wonderful example of this comes from field mice voles. And we were talking earlier about how we both worked with the scientist Irv Zucker at, at Berkeley, who was a, a specialist in, in, in, in voles. And what people found is that if you take wild caught field mice and you have pregnant mothers and you have 'em in the lab, but you manipulate the lights so that you have artificial spring, in other words, day length is getting longer day after day during the pregnancy, then what happens is when their pups were are born, they will have a low density of fur anticipating summer temperatures. 
+2  
+00:39:19
+If you however, put them in artificial fall where day length is getting shorter, they will be born now with high density of fur anticipating winter temperatures. And of course you can do this no matter what the season actually is in the world by manipulating these lights in the lab. And so like the sweating Japanese soldiers, this is a great example of early life plasticity and just the sort of trait that if you ask someone they would probably guess is heritable but actually is not. 
+1  
+00:39:55
+Thanks for mentioning Irv Zucker, who as you also mentioned, was an advisor to us both who's done incredible work in circadian biology, seasonal rhythms, Hormones and behavior. I have such reverence for Irv and the experiment you mentioned made me smile wide because it's but one of, gosh, maybe hundreds of incredible studies. So if people are interested in seasonal rhythms and circadian rhythms and biology of the most interesting kind, definitely check out Irving Zucker's work at Berkeley. We'll, I'll provide a link to to his PubMed there, since we've been taking a tour of individual Variation in olfactory perception, visual perception, and now Heat Tolerance, I have to ask, are you aware of any examples off the top of your head in the Auditory domain that particularly intrigue you? 
+2  
+00:40:46
+Yeah, well I would say one really interesting example has to do with Perfect Pitch. So Perfect Pitch as a trait that is to say you have the ability to, to hear a note played and say, oh, that's a C sharp, right? This is a pretty rare trait. So even if you look among highly trained musicians, if you went to Peabody Conservatory at my University of Johns Hopkins and tested people there, you would find a higher incidence of Perfect Pitch than you would in the general population. But still maybe one in 10 trained musicians have Perfect Pitch. And parenthetically, having Perfect Pitch doesn't necessarily make you a better musician, but it's an interesting phenomenon. 
+2  
+00:41:30
+And so the question is, well, is Perfect Pitch heritable? And the answer is when you look at Twin Studies where, which is what we use to estimate Heritability, the answer is it's kind of low. It, there's a heritable component, but it accounts for my recollection is on the, on the order of 30 40% of the Variability in Perfect Pitch. However, if people receive ear training starting at a young age, the chance that they will develop Perfect Pitch can improve drastically. 
+1  
+00:42:08
+In your book unique, do you cover aspects of Human Individuality that extend beyond the perception domain into the cognitive domain? 
+2  
+00:42:20
+Well, yeah, absolutely. And you know, I think, I think it's good to set the stage here if we're gonna be talking about Heritability and Human Individuality and, and so if I can go off on a little bit of a riff for the benefit of your, of your listeners and viewers here please. So if you look at human traits, whether they're Behavioral traits like shyness or very straightforward morphological traits like height, what you tend to find is that there are very few traits that are entirely heritable where all their Variability can be predicted based on the gene variance you get from your mother and father. 
+2  
+00:43:04
+And there are a few traits that are absolutely un heritable, but that most fall in between. So let me give an example. Everyone in the world has either wet or dry earwax, and it turns out that this is determined by Variation in the single gene. The name of the gene is boring, it's a B c C 11, it's a ion transporter and there's a Variation in this gene gives rise to either wet or dry earwax. It doesn't matter how your parents raised you, it doesn't matter what foods you ate growing up. Doesn't matter what, what diseases your mother had when you were in the womb, it's 100% heritable. 
+2  
+00:43:49
+Well, does this mean that a, b, c C 11, we should call it the earwax type gene? Well, no, because it's not there just for that like this, this gene is expressed in Cells in all parts of the body doing all kinds of things. Earwax is just something that we notice. Genes don't code for traits, they code for proteins. And so we have to be careful about how we refer to them in that way. For example, the wet earwax gene variant of the A B C C 11 gene also confers a slightly higher risk for breast cancer. Hmm. So clearly it's not just for ear wax, it's, it's for a bunch of things, most of which we don't yet know about. 
+2  
+00:44:35
+But in the case of earwax, this trait is 100% heritable at the other end of the scale. Speech accent is 0% heritable. It is entirely dependent upon the speech that you experience in your childhood. And interestingly, it's the speech of your peers more than the speech of your family, which is why the children of immigrants sound like the place where they wound up, not like their parents. And there is no evidence for any degree of Heritability. Now, just to be clear, I'm talking about speech accent, like whether you have a high or a low voice or it's nasal or more or less resonant. These are physical things having to do with the vocal Tract and they are in part heritable. 
+2  
+00:45:19
+Okay? So we've got one thing that's a hundred percent heritable and one thing that's 0% heritable, but where do most things fall? Most things fall in the middle. One of the most heritable traits that we know about in humans is height. And in the United States, height is about 85% heritable. 85% of the Variation in the trait of height can be explained by what you inherit from your mother and your father. Well, what's the rest? Well, it's nutrition, it's the diseases you fought off. It's also random Variation, which we'll talk about a lot later. 
+2  
+00:46:00
+Now you might say, okay, well that's an estimate for people in the us. Is this true all over the world? Well, no. If you go to a place where people routinely don't get enough nutrition and are routinely fighting off infectious diseases like this has been studied in rural Bolivia, for example, or rural India now height is no longer 85% heritable. It's only 50% heritable. Why? Because people in these situations where they don't get enough nourishment, where they're fighting off these diseases can't live up to their genetic potential for height. 
+2  
+00:46:44
+If you want to make things better for the people of the world, then everyone needs to have basic things like the ability to learn in enough nutrition and, and decent medical care and schools in order to fulfill their genetic potential for positive traits. And height I've used as an example because it is very uncontroversial, but we could apply the very same analysis to intelligence, general intelligence. Now there are people who argue about do things like IQ tests really measure anything real? 
+2  
+00:47:28
+And there's been a lot of fighting in the scientific literature about this, but I think intelligence tests aren't perfect and they are sometimes culture bound, but they're actually quite predictive of, of, of, of later success and much more so than say SS a t tests or g r e tests or MCATs or other standardized tests. 
+1  
+00:47:53
+But presumably those correlate in some way. 
+2  
+00:47:55
+They do by do, but, but, but the IQ tests are better actually. 
+1  
+00:47:59
+Are you talking about the, the, the classic IQ test? 
+2  
+00:48:02
+I am talking about the modern variance of the classic IQ tests that are administered by trained psychologists and aren't just a paper form. And so they're not perfect and no test will be perfect, but they're pretty good. And so then if you ask the question, well, what is the Heritability for IQ test score? Well, the answer tends to be different depending upon the population. If you look again in, in countries like the US or in western Europe that are fairly affluent, where where people tend to have good access to, to nutrition and medical care and schooling, and kids get to play and they're not, and they're not traumatized by war, then then IQ test score is heritable in the ballpark of 60, 70%. 
+2  
+00:49:01
+But if you look at people who don't have those benefits who are poor, and this can be in the United States as well, if you look at communities that, that face discrimination and have consistently poor, poor healthcare and schools, then IQ is less heritable. Why? For the very same reason that it is in height. Because people can't live up to their genetic potential when they don't have the basic things that everybody needs. 
+1  
+00:49:35
+So presumably if two identical twins, and I realize they aren't identical, but you're familiar with twins, you have Twin children. If two identical twins are raised separately, the correlation in their IQ is can only, is it that only 60, I think you said about 66% of their IQ can be predicted on the basis of their genetic makeup alone. I mean, it makes perfect sense to me as to why if one of those twins went to schools that were demanding of, you know, a lot of different topic matter and the other one went to schools where the the instruction level was really deficient, that one would perform far less well on an IQ test. 
+1  
+00:50:24
+Unless of course the IQ test isn't tapping into school-based knowledge, it's tapping into some other thermometer of, of so-called intelligence or iq. 
+2  
+00:50:36
+Well, you know, the thing is that good schools correlate with many other things, right? So the students that go to good schools aren't just benefiting from good schools, they tend to also have good medical care and safer, less traumatizing neighborhoods, and they're more likely to have books, parents with books in the home and, and, and a whole number of things that are all beneficial. Sure. So when you try to do epidemiology on this, you have to be aware that things are very deeply interconnected. But, but you bring up a good point. So it turns out that the way we get these estimates of Heritability, there's two ways. One way is to compare so-called identical or monozygotic twins with so-called fraternal or dizygotic twins. 
+2  
+00:51:24
+So the identical twins will share nearly a hundred percent of their gene variants. And on average fraternal twins share 50% of their, of their gene variants. And generally speaking, when people do these studies in order to avoid confounds of sex, they'll compare same sex fraternal twins, so boys to boys and girls to girls. And when you put these incidents into a formula called fisher's equation, then you can come up with an estimate of the Heritability of the trade. But there is an assumption present in that, and it's called the equal environment assumption. 
+2  
+00:52:10
+You're saying, well, two kids raised in the same family have the same environment. Well, that's not always true. Hmm. Right? That can be violated by a number of, of different situations. So it turns out that a more powerful but much more difficult way to estimate Heritability is by looking at twins reared apart, either identical twins or fraternal twins reared apart. And there was a landmark study called the Minnesota Study of Twins Reared Apart, which is abbreviated misra that is really the gold standard for assessing the Heritability of many different human traits, both Behavioral traits, but also disease incidents. 
+2  
+00:53:02
+But of course, it's a small n because, you know, the population of identical twins reared apart that you can get into the lab isn't isn't that large. They had something, I don't remember the exact numbers, but they had something like 80 some identicals and 50 some fraternals in their, in their sample. But by doing this, they were able to come up with a lot of interesting estimates. And so for example, most personality traits, what the psychologists use the acronym ocean to mean openness, conscientiousness, empathy, agreeableness, and neuroticism. 
+2  
+00:53:43
+I think I got that right, spelled right, that these traits on average tend to be about 50% heritable. And so, okay, you say, right, well, 50% of those personality traits is heritable. The rest has gotta be like how you were raised, it's gotta be in your family. And so everyone was shocked when they actually did the analysis and found that family has almost nothing to do with it. Oiled And, What. What are, are you kidding? It's, it's, it's, it's, it's got to, and I think the important thing to realize is these traits I just listed, you know, we call these personality traits, but they're not the sum total of the way you are in the world. 
+2  
+00:54:32
+Parents can inculcate many things in their children. They can demonstrate traits. So people are much more likely to go into an occupation if their parents did. They can inculcate moral ideas and religious ideas. But in terms of these ocean personality traits, they have astonishingly little to do with it. So then this brings up the question, well, if 50% of the Variation in these personality traits is not from your genetics and it's not from your family, where does it come from? And the answer seems to be is that it comes from the random nature of the development of the body and the nervous system. 
+2  
+00:55:23
+And this is, this is a point that I think many people don't understand. This is something that biologists know, but we've done a very poor job of communicating to the general public, the genome, all your d n a all 3 billion basis of d n a, all 19,000 or so genes in a human don't make a blueprint for making your body and brain there. It's not a schematic diagram that connects everything to everything, particularly in the nervous system where we have these hundreds of trillions of connections, rather, it's a rather vague recipe. 
+2  
+00:56:05
+So the, the genome doesn't say, oh, okay, you glutamate using neuron in the brain region called the thalamus, you know, grow for 200 microns towards the top and then, and then, and then cross the midline and then grow towards the ear for, you know, another distance. No, it, it says something like, Hey, you bunch of glutamate neurons in the thalamus over here in this area, about half of you cross the midline. And so what does this mean in terms of individual Variation? Well, it means, well for, for, for some individuals, 40% of their axons will cross the midline of the brain. And for another individual, 60% will, even in identical twins, And, as you correctly said a moment ago, identical twins aren't really identical either in their bodies or their temperament. 
+2  
+00:56:53
+So if you take newborn identical twins and you give them a CT scan just to measure the shape of their organs, they're not the same. You might have one Twin whose spleen is 30% larger than the o than the other twins, or whose liver is 30% smaller than the other twins, even though they have the exact same d n a and they were lying right next to each other in the womb and presumably had the same or very similar fetal environment. And the reason is the random, or as we say, stochastic nature of Neural development. A great way to study this is with nine banded armadillos. 
+2  
+00:57:34
+I know we're getting weird here, but 
+1  
+00:57:36
+I love the armadillo because I've been told, tell me yes, I don't want to interrupt you too long, but as far as I know, the only animal in North America that carries leprosy. 
+2  
+00:57:49
+That is, that is true. Yeah. 
+1  
+00:57:51
+And, and there's a lot of twinning going on in armadillos, right? Well, 
+2  
+00:57:56
+What there is is actually quoting so armadillos or the nine banded armadillo in particular, and they're different armadillos. I'm not really an armadillo specialist, so I don't know if this holds for all of them, but the nine banded armadillo is born as identical quadruplets. 
+1  
+00:58:14
+Awesome, 
+2  
+00:58:15
+Awesome. So you can take these identical quadruplet, newly born armadillo, I don't know, you think you'd call them pups? I don't know what a baby armadillo is called. I'm sure there's some particular word for it and someone 
+1  
+00:58:27
+Will tell us. I'm, someone will tell in the comments on YouTube, what is the name of a baby armadillo? I know like a ferret baby ferrets are kits, the moms are Jills, the dads are bobs. I used to be obsessed with this kind of naming, you know, it's a, it's a business of ferrets or a a what is like a gang of raccoons or whatever. So if you can tell us what the name is for the baby armadillos as well as what do you call a group of armadillos, you win the pride associated with being right. 
+2  
+00:58:55
+That's right. Right. One of my favorites is an, an ostentation of peacocks 
+1  
+00:59:00
+Amazing 
+2  
+00:59:01
+Or a murder of crows 
+1  
+00:59:03
+Who comes up with this 
+2  
+00:59:04
+Stuff? Yeah, I know it's, it's good. Or 
+1  
+00:59:05
+A raft of otters. I think that I, I think that's correct. But 
+2  
+00:59:09
+So if you have four newborn identical, nine banded armadillos, then this is a great model system that biologists can use to study stochastic differences in development. And, and sure enough, their brains are wired slightly differently. Their bodies are slightly different. If you test them behaviorally even very, very early in life, they have different propensities, some are bolder and will explore more. Some are will tend to hide in the corner more. And you know, we know this from the lab, you know, you get a box of mice that are inbred from the breeder and you pluck them out and they're not behaviorally identical. Some might try to bite your hand, some will run away, some will stand stuck still. 
+2  
+00:59:54
+Where does this Behavioral Variation come from in mice that are nearly genetically identical? Well, it comes from a bunch of things. They don't always have exactly equal experience, but mostly it comes from the pseudorandom stochastic nature of development. 
+Inside Tracker (Ad)  
+01:00:12
+I'd like to take a quick break and acknowledge our Sponsor Inside Tracker Inside Tracker is a personalized nutrition platform that analyzes data from your blood and d n A to help you better understand your body and help you meet your health goals. I'm a big believer in getting regular blood work done for the simple reason that many of the factors that impact your Immediate and long-term health can only be analyzed from a quality blood test. However, with a lot of blood tests out there, you get information back about blood lipids, about Hormones and so on, but you don't know what to do with that information. With Inside Tracker, they have a personalized platform that makes it very easy to understand your data. That is to understand what those lipids, what those hormone levels et cetera mean and Behavioral supplement nutrition and other protocols to adjust those numbers to bring them into the ranges that are ideal for your Immediate and long-term health Inside Tracker's ultimate plan now includes measures of both A P O B and of insulin, which are key indicators of cardiovascular health and energy regulation. If you'd like to try Inside Tracker, you can visit Inside Tracker dot com slash Huberman to get 20% off any of inside tracker's plans. Again, that's InsideTracker dot com slash Huberman to get 20% off. 
+2  
+01:01:19
+And is the Pseudorandom stochastic nature of development, one of the major, major, excuse me, driving forces for evolution because you know, we hear about mutations and we always think, or people tend to think rather that mutations are bad, but of course mutations provide the Variation that can also subserve adaptive traits. I mean, if you're a fan of the X-Men as I am huge fan of the X-Men, the entire series, every single one, including the Wolverine movies, you quickly come to learn that genetic mutation is at the heart of Variation, which is at the heart of Individuality, which is what we're talking about, Right? And so genetic Variation is at the heart of Individuality, but there is also, there are also these other things, right, that we've talked about. 
+2  
+01:02:04
+There's the effects of early life experience and there is the stochastic nature of development because if you, through the randomness of development happen to have like a particularly great liver, you're not gonna pass that on to your children, right? That isn't in your germline, you won't pass that traits along. 
+1  
+01:02:25
+Just a brief insert here on germline, we had ODed rash shafi on the podcast who studies epigenetic transmission and, and an inheritance of, of of, it's not la marcian, we have to point that out. But inheritance of, of sort of acquired traits. It does happen. And the germline, it's the genes that are present in the, the sperm and in the eggs. All the other Cells of your body have genes of course. But the best way to put this is simply going to the gym and getting fit does not make your children more fit because the germline, as far as we know, is not modified in a direct way. In other words, the d n A within sperm and eggs are not modified according to your behaviors in most, but not all cases. 
+2  
+01:03:10
+That's right. And And, as you, as you correctly said about Odette's work and, and other people's work, there is what's called Transgenerational Epigenetic Inheritance, which means that you can have traits that are passed not from one generation to the next, but even two generations to the grandchildren that don't require modification of D N A. But to date, that has been shown very convincingly in, in worms and in plants. The evidence in mammals is, is really not there yet in, in my opinion, and most of the claims for that. And it's a very popular thing to say, I epigenetically inherited my grandmother's or great-grandmother's trauma. 
+2  
+01:03:57
+The evidence at presence is, is poor. Actually, a lot of it comes from epidemiology, most of which came from famines in the Kos region of northern Sweden. And they had very good medical records. And they said, oh, well, if your grandfather went through the famine, then you're more likely to have this trait. If you're male or if your grandmother went through this, then if you're, if you're male, have this trait and you're female, have that trait. And I mean, there are two problems. One is that there's not a biological mechanism. But the other problem is that the way these things were discovered is by something called harking or hypothesizing. 
+2  
+01:04:39
+After the re results are known, they did very many statistical comparisons to try to find something significant. And you know, from your work in the lab that when you do many comparisons, you are gonna get some things that look significant just occasionally randomly through, through, through luck. And you have to apply a statistical correction called a bon ferone correction when you make many particularly post hoc comparisons after the experiment comparisons to set the bar much higher for accepting that data. And most of those studies, they didn't apply that correction. 
+2  
+01:05:19
+And I remain unconvinced of Transgenerational Epigenetic Inheritance in mammals. Now let's be clear, just because it hasn't been shown convincingly now doesn't mean that it won't be. There are some good people working very hard on this, and they may well describe a mechanism and show this convincingly in the years to come. But right now you may well inherit your grandma's or great grandma's trauma, but you're probably doing it socially, not through marks on your d n a that changes how your genes are expressed or not expressed. 
+1  
+01:06:03
+Yeah. So I subscribe to the idea that there is absolutely, certainly Transgenerational inheritance of parenting and upbringing, right? I mean, your grandparents raise your parents who raise you. Not always people can be adopted. In fact, I have adopted members of my family, but if I understand what you're saying correctly, the evidence that, for instance, some stress related gene was modified during a trauma in my grandparents or great-grandparents. And the idea that that was passed to me through my parents, that the evidence there is is far weaker. Right? 
+2  
+01:06:41
+And when, when you think about it, well, like how did that happen? That had to get into your, your grandparents' sperm or egg cell, and then produce that effect in the brain of your parents, and then it had to get into their sperm and egg or egg cell and then contribute to producing it in you. But d 
+1  
+01:07:00
+But fragmentation of D N A in sperm is, or in eggs is, is a, is a common thing, especially as people age, d n a sperm and eggs fragment. And it's possible that some of those mutations still allow for viable embryos. So it's in theory the germline could be changed by environmental events. Well, 
+2  
+01:07:22
+Right, but now I think you're starting to talk about things that are heritable, right? You're not talking about marks on d n A, you're talking about the structure of the dna, right. Itself And that is its own separate issue. Now, I think I, I wanna be really careful about this because what is now I think, fairly well established is that you can transfer things epigenetically over a single generation if as a result of experiences that the mother has during pregnancy. So for example, we know that during the 1918 pandemic flu, many women were pregnant and got the flu. 
+2  
+01:08:14
+And if you look at their children, you find interesting statistical anomalies. And those children, for example, the males wound up going into the army for World War ii. And of course the army does a complete physical, and the records are very good. So you can go into that database and you find that the male children that were in utero during the winter of 1918 during the pandemic flu are on average a millimeter or two shorter. And you might say a millimeter or two, that's nothing. But in a huge statistical sample of millions of people. That's enormously significant. 
+2  
+01:08:54
+More interesting is that the incidence of schizophrenia went up about fourfold from about 1% to about 4%. And even though Autism wasn't a term in 1918, yet, I I think came along later, what we now retrospectively would call Autism also went up by about fourfold. So there's something about mom being stressed and carrying the fetus at a particular stage that seems to impact brain development in a way that then makes that child more likely to be schizophrenic or autistic when they grow up. 
+1  
+01:09:37
+Do we know that it's stress? And my recollection of this, and I believe this was the late Paul Sternberg's work as well, I maybe have that name incorrect, but in any event that it is, if pregnant mom gets the flu in the first trimester, you see this higher incidence of schizophrenia and autistic offspring. And but do we know that it's stress per se, because it's stressful to have the flu, but the flu's a bunch of other things, could be fever, could be some breakdown in the immune barrier. I just want to open up the, the number of variables that this could be, or do we know that it's something in the hypothalamic pituitary so-called stress axis that is adrenals, so hypothalamic pituitary adrenal axis, like is it elevated cortisol or could it literally be an immune Neural interaction of some other sort? 
+2  
+01:10:33
+It's probably the last thing you mentioned an immune Neural interaction. And the reason I say that is that Gloria Choi at m i t together with her collaborators has made a mouse model of this phenomena. So she takes pregnant female mice and she injects 'em with something that, that it's, she doesn't actually infect them with virus. She puts a Chemical in that is on the code of viruses that mimics viral infection. And then what happens is that in a way that interestingly is an interaction with the, with the bacterial content of her, of her gut produces a surge of a immune signaling molecule called interleukin 17. 
+2  
+01:11:21
+Interleukin 17 can pass through the placenta into the fetus. And if it's present, just as you said at a particular point in development, doesn't work anywhere during pregnancy, but during something that is sort of the mouse equivalent of the first trimester, if that occurs, it causes disordered development of the layers of the cortex. Instead of it looking alike layers of a cake, you see balls and clumps of Cells and parenthetically in some, but not all post-mortem tissue from autistic people. You can also see those balls and clumps of Cells 
+1  
+01:12:00
+Are those balls and clumps of Cells thoughts reflect alterations in cell migration. 
+2  
+01:12:06
+They are, yes, some, some, i, I don't know if it's entirely known how much of it's cell division or migration, but certainly migration is a part of it. And it's very likely that that critical moment to disrupt this ordering of the brain and produce these increases in schizophrenia or or Autism vulnerability are coming at a point where neurons are migrating during development. And so what choice group did is they did all the things you would want to do as a biologist. So they gave things to block the function of, of this interleukin signaling molecule, and it blocked the phenomenon. 
+2  
+01:12:49
+They artificially injected the signaling molecule into fetal brain when the mom hadn't been stressed and they could, they could reproduce it. So I'm not saying that there aren't effects of stress Hormones from the hypoth hypothalamic pituitary axis that are important that you mentioned, but in this mouse model system work, it seems that you can produce it through this immune signaling pathway. And, and so then the question is, well like are these mice autistic? Well, how do you know if a mouse is autistic? And and the answer is, it's actually a little vague, right? There are behaviors that neuroscientists say are analogous of human Autism, and one of them is if you give a mouse a marble in its home cage, it will bury it over and over again compulsively or bury many marbles. 
+2  
+01:13:46
+And people say that that is somehow analogous to some of the compulsive behaviors you see in Autism. It's a bit of a stretch, right? I mean, it's a challenge to interpret mouse behavior in, in human terms, but it's a reasonable first step. 
+1  
+01:14:03
+Incredible. And I hope more will continue to be done as it surrounds the first trimester influenza Hypothesis. 'cause it, it's been around a while and, and obviously there's a spectrum of what we call Autism Asperger's. And nowadays people refer to it as sometimes as neuro atypical, there's some high functioning people with Autism, there's some low functioning people with Autism. And for that matter, there's some high functioning and low functioning people who don't have Autism. So, but it is something that I think demands our attention and And that hopefully will be resolved at some point because also influenza is but one immune insult. 
+1  
+01:14:50
+And presumably pregnant women are being bombarded with all sorts of viruses and bacteria and fungal Infections and fighting them off or not fighting them off. And who knows what the Variation in neuro immune interactions exist in there. They give rise to, you know, good Variation and let's call it, you know, debilitating Variation. 
+2  
+01:15:16
+Well that's, that's absolutely right. And so for one example is that we don't know what the effects are on the children who were in utero while their mothers were fighting off covid. Right? We won't know for, for a while 
+1  
+01:15:35
+Or the common 
+2  
+01:15:35
+Cold. And there might, I mean, there might be nothing, or there might be something serious lurking there like there was for pandemic flu. And it'll be very interesting and and important to find out. 
+1  
+01:15:50
+Agreed. I'd love to talk with you about mind body. But before we do that, I would be totally remiss if I didn't ask for your broad top contour understanding of the mini brain, the Cerebellum, right, the so-called mini brain. And here's why I've been a practicing neuroscientist for, you know, close to three decades. I know where the Cerebellum is. I've dissected a bunch of them. I, I could tell you where a few things are in there, and I certainly have read about what the Cerebellum does. But whenever I do a PubMed search on Cerebellum, I see an ever expanding set of things that the Cerebellum is implicated in, not just balance as most people hear, but also timing, also cognition. 
+1  
+01:16:44
+I hear about timing in particular of motor behavior, but then I also hear that it's involved in learning and not just motor learning. And it certainly is involved in motor learning. Perhaps that little mini brain is doing 50 or a thousand different things. But how should we think about the Cerebellum? What is it doing? And, What are some of its core operations that inform both what it's doing and perhaps what other areas of the brain are doing as well. Because I can point to the retinas or to Auditory cortex or the thalamus. And yes, there's some mysterious nuclei in the brain, but to me the Cerebellum is one of the most cryptic and complicated structures to understand. 
+1  
+01:17:24
+And I know you spent some time in there. So what's the Cerebellum do? 
+2  
+01:17:29
+Well cerebellar researchers like to joke that the Cerebellum is a counterweight to keep your head from falling forward. Oh, perfect. 
+1  
+01:17:36
+Well, with all the texting nowadays, people need bigger Cerebellum. 
+2  
+01:17:39
+That's right. That's probably over many generations then that will happen along with the expansion of the thumbs. So, but of course everybody's gonna text with their mind in about another 10 years. Right. You'll have Elon's implant and you won't need your thumbs at all. 
+1  
+01:17:53
+Yeah. Or maybe just five or my friend Eddie Chang who's a neurosurgeon and works on the Auditory system, he's been on this podcast before. He was saying that if you, in theory and actually in practice, you could just record the Neural output to the muscles of the speech system. Yes. Essentially. And you could just amplify that and you could text without actually speaking. In fact, when we read, he told me we are actually receiving the Signals as if we were going to speak the words we're reading, but they don't quite arrive at the place where you could get a full blown postsynaptic potential. So you're not actually moving the vocal machinery. 
+1  
+01:18:36
+So that means the motor Signals are getting sent out there. And so you're speaking what you are reading, but you just don't know it. 
+2  
+01:18:43
+That's right. And it's very analogous to what happens during the REM phase of sleep, right? When you have commands, your brain is issuing commands to your muscles to, to do things like behave in your dreams to to run away or go here or go there. But those Signals actually are blocked in the brainstem prevented from, from reaching your muscles because the nerves that don't go through your brainstem, like the ones that control your eye movements aren't subject to that blockade. That's why you can produce the rapid eye movements in r e m sleep. But yeah, this is a, a general theme in the brain. A lot of times you have the output, but then you shut it down. 
+2  
+01:19:27
+And there are REM sleep behavior Disorders where people thrash and move in their sleep during, during rem and it's because this outflow that's normally blocked isn't, isn't blocked. Have 
+1  
+01:19:42
+You ever had the reverse happen? I have. Where you wake up and you're still in so-called re etonia, you're still paralyzed. Yes. And there's that split second that feels like eternity, where you are wide awake and you cannot move. And I'll tell you, it's terrifying. 
+2  
+01:19:54
+Yeah, it's Sleep Paralysis and actually, you know, it's been known forever. You can actually find ancient Greek depictions of people lying with a demon on their chest, paralyzing them And that is actually from Sleep Paralysis later Hogarth did a drawing of exactly that. So yeah, this is a well-known phenomenon. But to get back to the Cerebellum as we started, so the Cerebellum is, as you said, definitely involved in motor coordination. So people who have damage to the Cerebellum aren't paralyzed, but they tend to be clumsy. 
+2  
+01:20:40
+They tend to not coordinate their movements. They have a disturbed ga if they're reaching for an object, they often overshoot it and have to make successive approximating motions to get back to their target. So that's well understood. But if you look through evolution, the Cerebellum is connected to this brain region called the thalamus. And it's connected from there to many regions, including the frontal cortex where phenomena like, like planning and decision making and moral sense and many aspects of personality seem to be encoded. 
+2  
+01:21:24
+So then the question becomes, well, that's very far away from being clumsy. What are these connections doing? And as time has gone on, I've been in this business from over 40 years now I'm an old guy. And so initially we said, oh yeah, Cerebellum movement control, motor coordination, that's what it's for. As time goes on, as you correctly said, the Cerebellum has been implicated in more and more functions, many of which are far removed from the motor system. And if we're looking for a theme about what the Cerebellum does is that it is there to predict the Immediate future, it's trying to determine what's going to happen in the next second or two to best guide behavior And. 
+2  
+01:22:16
+as you can imagine, this kind of general computation could be applied very well. You can see why it's important for, you know, motor systems and doing sports and you know, if you're trying to hit a baseball and looking at what the pitcher is doing and trying to anticipate what the Pitch is. But it also comes up in a social realm. If we're trying to read someone and predict what they are going to do is this person, friend or foe, which is one of the first things that we try to assess when meeting someone. Are they competent? Which is the second thing we try to assess when meeting something. A lot of this depends upon predictive Circuitry and it depends in part on the Cerebellum. 
+2  
+01:22:56
+And it seems to be at least partially impaired in people who sustain cerebellar damage. So it seems as if interestingly the Cerebellum started out for Prediction related for motor control. And through evolution its basic computation has been applied to other non-motor behaviors. Now I'm speaking in generalities and a lot of the details of this remain to be worked out and understood. But I would say that is in a nutshell, the modern conception of the Cerebellum. 
+1  
+01:23:34
+Thank you. Finally, somebody explains to me at a top contour, but highly informed way what the Cerebellum does, I couldn't be more grateful. 
+2  
+01:23:45
+My pleasure 
+1  
+01:23:47
+In all aspects of biology and life, the term nature versus nurture is relevant, but never so much as when thinking about the nervous system, and I know this firsthand because I've studied Neural development, both the nature side, the so-called hardwired stuff that genes just set up, neurons, wire up to that neuron, et cetera. The cerebellums in the back, the eyes are in the front, the hardwired stuff, and then the soft wired stuff, the nurture stuff is the stuff that can be modified by experience. What are your thoughts on nature versus nurture? And should there even be a versus in there? 
+2  
+01:24:29
+Yeah, I don't think there should. And and I have a lot of problems with nature versus nurture as, as an expression. It was popularize by Francis Galton in the 19th century, a colleague of of of Darwin's. And I think it's wrong in or misleading in a lot of ways. So of course the nature in nature versus nurture is meant in this case to mean inheritability, right? What you inherit in the gene variations from your mother and father and nurture means like how your parents or your community raised you. 
+2  
+01:25:14
+The problem I have with nurture is that it is too narrow a term that really it should be replaced with the word experience and experience in the broadest possible sense, not just social experience, but the foods your mother ate when she was carrying you in utero, the diseases you fought off or your mother fought off while she was carrying you in utero, the bacterial population of your guts. So experience meaning anything that impinges on you, starting from the earliest stages of fetal developments continuing to the last day of your life, I think it should be very expansive. 
+2  
+01:26:07
+Much, much more than social experience in the family or the, or the community. And as you mentioned, I have a problem with a versus because there's this idea that these things are, are essentially in opposition. Well, is he that way because of, of, of his gene variance or is that way because of what, what happened to him? And I think the thing to realize is that experience and heredity interact in all kinds of interesting ways, some of which are oppositional and some of which are reinforcing. 
+2  
+01:26:48
+A classic one from genetics has to do with a genetic disease called phenylketonuria or P K U, which is an inability to, to metabolize the dietary amino acid phenylalanine. And so in order to have this, you have to inherit broken copies of this gene from both your mother and your father. So it's a so-called recessive traits. And here's where the experience comes in. It only matters if you eat foods rich in phenyl alanine. If you don't, it doesn't matter that you inherited these things, right? 
+2  
+01:27:29
+So that's a way in which genes and experience, interact and idea of in ways in which then they interact positively. Think about athletic ability, right? So a lot of athletic ability is, has a heritable component. If you are born fast for example, then you're more likely to do sports and practice them and get better sports as a result of your experience. So here, genes and experience are feeding back on each other in a positive feedback loop. So there really isn't a ver a versus at all. And then of course the last thing is that this isn't the entirety. 
+2  
+01:28:13
+So we talked earlier about the pseudorandom nature of development, stochastic development. And so if I were to take the phrase nature versus nurture and reconfigure it, I would change it to read Heritability interacting with experience filtered through the random nature of development. Now that doesn't fall off the tongue as elegantly as nature versus nurture. You know, nature versus nurture is like if the gloves, the gloves don't fit, you must quit. You know, it's got that kind of snappy snare drum beads. But I think it's, it's a more accurate, 
+1  
+01:28:55
+So Heritability interacting with experience filtered through the randomness of development. Yeah. So we can shorten that up and, and we'll just call it the Linden Hypothesis, 
+2  
+01:29:11
+You know, I i i I don't think I can take credit for that. That's, it's, it belongs to other people. 
+1  
+01:29:15
+Sure. But, but there's a long history and science of of things being shortened up and coined. And that's as important. And I'm not, we're not trying to rob attribution here. And the good news is perhaps you can't call it the Linden Hypothesis, but I can, alright then And What I've found is as with the galpin equation, which is now out there as a, a hydration, it's a formula. A formula that gives broad, but research informed parameters as to how much water one should drink in order to maintain proper hydration for physiologist Dr. Andy Galpin, who's a PhD in physiology and and an expert in all aspects of exercise science. 
+1  
+01:29:58
+There's the galpin equation, there's the sober principle. So I'm naming these things left and right, alright, where appropriate. And so I'm naming these things sparingly and where appropriate. So from here on out, Heritability interacting with experience filtered through the randomness of development is the Linden Hypothesis. And I'll be damned if anyone's gonna rename it faster than I'm gonna propagate it. So, 
+2  
+01:30:25
+All right, well I think all the, the, the geneticists will be gnashing their teeth about this being named after someone who isn't actually a geneticist. 
+1  
+01:30:33
+Quite all right. And their dentists will thank me. Let's talk about mind body. Okay, I'm fascinated by this for a couple of reasons and I promise to keep this brief. But when I was growing up, I was very interested in animals and biology, and my father's a scientist and I got very interested in neuroscience early as people perhaps know. And so much of Neuroscience as I was coming up through the mid nineties, two thousands, 2010 to 20 stretch was focused on the brain piece, very little on the body. There was nothing about gut brain axis in the early discussions and coursework in parallel to all of that, I've been interested in mental health, physical health, and let's just call it performance. 
+1  
+01:31:19
+And got interested in meditation, respiration based practices, things like yoga nidra, things that by way of experience I understood immediately had a profound influence on the nervous system states of mind and body. Nowadays, there's an entire institute at the National Institutes of Health for complimentary health and medicine, essentially exploring things like yoga, nira, respiration practices, even supplements and things of that sort. And there's this understanding that, oh my goodness, the nervous system extends into the body and the body sends Neural Signals back into the brain. And so this whole notion of mind body has fortunately migrated away from kind of California counterculture, Essent institute only, you know, hippie new age magic carpet stuff. 
+1  
+01:32:14
+By the way, that's not what I believe. That's, but that's often how it was looked at in the past. And now people at every level of science and medicine at every major university and in every scientific journal are starting to publish papers about the interactions between bodily organs like the breathing apparati, the diaphragm lungs, the heart, heart rate, Variability. We hear about the liver, the gut brain access in particular. And so mind body, the idea that our thoughts could influence our body And, that our bodily state could influence our thoughts is fortunately not just understood, but it seems to be both accepted and appreciated. 
+1  
+01:32:58
+So what are your thoughts on mind body, what does that mean to you, And What do you think is the potential of the mind Body Interaction? It seems to me we've just barely scratched the surface. 
+2  
+01:33:11
+Yeah, well, I'm glad you asked 'cause I think it's a, it's a really fascinating situation and where things are changing very, very quickly. And I think to me, the most important thing for people to understand is that when you have a Hypothesis, let's say you have a Hypothesis, that meditation can attenuate chronic pain. All right, well there is a temptation to think that this operates outside the realm of science and biology that is in some airy fairy realm in the clouds that this happens. 
+2  
+01:33:57
+And, and, and I mean for for good reason, there are a lot of people who will describe it in exactly that way with auras or they, they coop scientific terms like resonance and energy, but they don't actually use them in scientific ways. So, you know, there's a lot of very fuzzy language that surrounds this, but it shouldn't obscure the fact that when you have a Hypothesis that say some mental state like meditation or, or, or guided breathing affects some process in the body that you should be trying to understand this in terms of a biological Hypothesis, not in terms of some, some, some indistinct realm that that is, that is different 
+1  
+01:34:49
+Like manifestation. Yeah. 
+2  
+01:34:51
+And you know, I really learned this initially from my father. My father was a psychiatrist, In fact, kind of a talking pure old fashioned psychoanalyst who had his practice in Los Angeles. And we would have dinner together every Wednesday night. And he would always tell me about his patients. He was very careful to keep confidentiality, right? He wouldn't break confidentiality. But you know, I would say, oh yes, how's your narcissist doing? Oh, we had this dream, you know, so this was, you know, this was, this was normal conversation when I was 14, 15 years old with my dad. And one day I said, dad, it's really clear to me that through this talking cure, a large fraction of your patients feel better and they conquer their depression or, or, or their obsessive thoughts or things that are blocking them. 
+2  
+01:35:44
+How do you think it works? And he says, well, we don't really know the mechanics, but ultimately when it works, it's not working in some area fairer realm. It is working by changing the biology of the brain. And when he said that, it was like a lightning bolt went off in my head and I thought, well, I don't have the kind of personality to be a talking pure psychiatrist. I'm not nearly nice enough, but I could understand the underlying biology. Maybe I'll do that. And so as you've correctly pointed out, when you say the phrase mind body, you're talking about two directions. 
+2  
+01:36:27
+You're talking about mental functions affecting the body, and then you are also talking about how phenomena in the body affect, affect the mind. And we're understanding so much more about how that happens. And I think the general thing for your, your listeners to appreciate is that we have some culprits here, right? And generally speaking, there are, there are two classes of culprits. So if you want to get Signals about the body to the mind, there's two ways to do that. 
+2  
+01:37:08
+One of them is through neurons that reach out into the body and sense things. And this is referred to as introception, right? So as opposed to extra ception, your your outward pointing Senses, these are the Senses that monitor your own body. And, and while we can consciously be aware of a lot of that information, a lot of it's happening subconsciously, like your breathing is happening automatically most of the time without you thinking about it. And, that depends upon sensors about your blood chemistry and the state of your lungs and a number of other things that are regulating that process. And it's all happening in the brain, usually below the level of your conscious attention. 
+2  
+01:37:53
+In addition to the Neural Signals, there is also a whole realm of hormonal or diffusible immune Signals, And, What. These are, is that these are chemicals that are released into the bloodstream And that move throughout the body, And that can activate neurons in the brain or in other parts of the nervous system to produce changes in, in mental, in mental function. And I think the real thing that is exciting, a lot of people right now has to do with immune signaling molecules. So there's a class of molecules called cytokines. 
+2  
+01:38:36
+And cytokines are basically the signaling Hormones of the immune system. And they, they can flow through the bloodstream and through lymphatic fluid and reach many parts of the body. We've known for a number of years that the specialized receptors for these cytokines are found throughout the brain. And yet we know very, very, very little about about what they do. And that's gonna be an astonishingly fruitful area of scientific research. But, but to give one, one exemplar, there are a lot of things these days suggesting a link between inflammation in the body, whether it be in the gut or in other places to depression. 
+2  
+01:39:29
+Well, how might that work? Well, it could work either through inflammation sensing neurons sending electrical Signals to the brain, or, and it's not either or, it could be both. It could be immune signaling cytokine molecules produced at the cy of inflammation that then travel through the bloodstream and the lymphatic system to then reach the brain bind receptors and have effects. And so, you know, one of the mysteries about depression is that it's not that tractable to pharmacological therapy. So if you look at people who suffer with depression, about a third of people see significant benefit from modern S S R I and related antidepressant drugs about a third see very tiny benefit and about a third see no benefit at all. 
+2  
+01:40:27
+And part of the reason is because maybe our term depression is too big a bucket. Depression is actually many different biological Disorders and only a subset of those are, are helped by SSRIs and we'll need different therapies for the other ones. That's certainly part of it. But part of it might actually have to do with inflammation. So if you think that inflammation is a, a risk factor in depression, well you could do something very simple, right? You could, you could gobble an ibuprofen, right? There's a whole bunch of anti-inflammatory drugs that are very well understood. And so well what if you just say, all right, you know, let's have a study where we have a bunch of depressed people and we have 'em all eat anti-inflammatory drugs for a few weeks and we see if this relieves their depression. 
+2  
+01:41:15
+And the answer seems to be no, it doesn't. Well, and that's, that's a little bit hard to understand because there are definitely links between inflammation and depression. So for example, one of the early treatments for, for hepatitis C that's since been superseded by more modern drugs was a pro-inflammatory cytokine molecule. And when you gave it to people to treat their hepatitis C, almost everyone became depressed on this drug. So you thought, oh, well this really seems like, like, like a link. Likewise, there are certain Urological diseases like multiple sclerosis. 
+2  
+01:41:58
+It turns out the incidence of depression as a comorbidity in multiple sclerosis is enormous. And you might think, well there's a trivial reason for that. If you're paralyzed from ms, you're bummed out about life and that's the reason. But if you look at people who have spinal cord injuries from accidents, they actually have major depression at a, nor at a, at a rate from people who are uninjured. So that doesn't seem to be it, it's not just that you're bummed out from being paralyzed, although of course it's reasonable to be bummed out about being paralyzed, but that's not it. So what happens in ms? Well there's a bunch of cytokines including one called interleukin six i L six that's elevated massively if you, if you take a spinal tap and you look at cerebral spinal fluid. 
+2  
+01:42:41
+And so that could be causative for depression. So all these real re reasons to think that inflammation is involved, but yet the idea is still a bit messy. So now what if instead of looking at the general population of depressed people, you look at the subset of people that don't respond to S S R I antidepressants, are they helped by anti-inflammatories? And there there's a bit of a hint that maybe they are, it's not definitive yet. There are a couple of studies it's it's, it's right on the edge. But I think this is a really good example of how we are gonna see progress very soon in the body to mind part of mind body medicine that is going to be of enormous benefit to people. 
+1  
+01:43:35
+So interesting. Could I get your thoughts on one candidate Hypothesis that I've been thinking about? I've covered depression on a few episodes and I've had Robin card Art Harris from U C S F, And Dr, Matthew Johnson from your very own John Hopkins University, both of whom work run laboratories studying psychedelics for the treatment of depression, the clinical trials on psilocybin. And to be clear, psilocybins still illegal. It's been decriminalized a few places, but we're not talking about recreational use. We're talking about several therapy sessions and then two without psilocybin then two 2.5 gram approximately dosages of psilocybin given separately, again with therapists present and then follow-up therapy sessions seem to lead to relief of depression in approximately somewhere between 65 and 80% of people. 
+1  
+01:44:29
+In some cases total remission in some cases, some relief without remission. Okay, so we can kinda set that result on the shelf. It's been repeated a number of different times. Compare that to the results of SSRIs, which seem to help a third of people a third minimally and a third not at all. And of course there's the side effect profiles of the SSRIs and associated drugs, not just the SSRIs but Propone and the other antidepressants that are taken in prescription drug form. And then there's this inflammation piece. So could we hypothesize that relief from depression has something to do with Neuroplasticity rewiring of Neural circuits, And that psilocybin we know can encourage Neuroplasticity And that perhaps SSRIs can encourage Neuroplasticity in some people not all And, that inflammation is a barrier to Neuroplasticity. 
+1  
+01:45:25
+To me this is the only thing that can reconcile the, the current status of the, of the results. And then there's Ketamine based therapies and so we have to also kind of set that on the shelf. But let's set that aside on the shelf for now. To keep it simple, it seems to me that based on the time course over which SSRIs work, the fact that they increase serotonin very quickly, but the relief from depression comes from much later the fact that neuromodulators like serotonin are intimately involved in Neuroplasticity. They can in some cases gait Neuroplasticity that it all centers back to changing Neural circuits. And so what we're really trying to do, whether or not it's transcranial magnetic stimulation or now we can throw Ketamine in there or psilocybin or SSRIs, that treating depression is about rewiring the brain. 
+1  
+01:46:07
+It's not about Chemical A or B per se, although serotonin seems involved to me, what I'd love to see is are more studies about the interaction between Neuroplasticity and inflammation and are we seeing that kind of work out there? And because these results sort of sit as disparate, somewhat conflicting, but it seems like inflammation is, is anti Neuroplasticity. And broadly speaking here, I realize there are many interleukins, there are many, you know, some of which are inflammatory, some of which are anti-inflammatory. But is that, is that a meaningful Hypothesis? And it can do, do you think there's any hope whatsoever to actually cure depression if we, if we sort of start to unify the, the, the, the results in these different camps? 
+2  
+01:46:54
+Yeah, I think it's a completely reasonable Hypothesis and I would be broader and I would say honestly the relief of any neuropsychiatric condition ultimately is from Neuroplasticity in some form or another. And I think it's worthwhile to step back a bit and talk about what Neuroplasticity means to date. There has been a focus on synapses on the context between neurons as the site of Neuroplasticity and that's warranted. Synapses are plastic, they change as a result of experience, as a result of hormone changes, as a result of exercise, as a result of lots of things. 
+2  
+01:47:35
+But synapses are not the be all and end all of Neural function. So for example, neurons work by sending electrical Signals along their lengths and and between neurons and intercon converting those with Chemical Signals and the processes of generating those electrical Signals, the ion channels that are involved, that are embedded in membranes, that are involved in that are also plastic. They can also change as a result of experience. That's what we call intrinsic plasticity as opposed to synaptic plasticity. In addition, there are literal morphological changes. 
+2  
+01:48:15
+So when we talk about the wiring of the brain, sometimes we're talking about literal wiring like cell A wasn't connected to cell B and now it is And that changes. And then sometimes well actually cell A was connected to cell B, but cell B wasn't responsive enough and now there's a change in cell B. So now cell A can fire cell B And, that could have been a result of a change in its synapse, making it more receptive to a transmitter released from cell A. Or it could be something intrinsic in cell A that makes it fire its electrical signal, it spike more easily. I think that one of the key cell types that's going to be important for your Hypothesis linking inflammation to synaptic plasticity is going to be a cell called a Microglial cell. 
+2  
+01:49:09
+And Microglial Cells are non neuronal Cells in the brain. They're motile, they can crawl around, they have long processes and they can gobble things up. They can literally sort of chew away and digest bits of the extracellular scaffolding that surrounds neurons and synapses and thereby renders them plastic. They can destroy synapses. And there is a lot of indication that certain disease states may involve over exuberant microglia pruning synapses to a degree that they shouldn't. And we know that microglia are chock-full of cytokine receptors and so are responsive to inflammatory Signals. 
+2  
+01:49:59
+When we're talking about inflammation and we're talking about drugs, it's worthwhile to mention that there are a lot of Behavioral things that also can influence the signaling. So we know, and I know you've discussed on your program the incredibly salubrious effects of physical exercise on mental function. So exercise is about as good an antidepressant as SSRIs are and the side effects are only good side effects as opposed to the bad side effects of SSRIs. And again, this isn't working through some airy fairer realm. The reason that exercise works to relieve depression and the reason that exercise works to maintain your cognitive function as you age is because of biological pathways that we are now uncovering some of which will involve Microglial, Cells and neurons and other types of Cells in the brains. 
+2  
+01:50:56
+Some of which will involve not the neurons in the brain at all, but the brain's vasculature. So we know that exercise is very salubrious for keeping blood flowing to the brain. And when you're young you have a super abundance of blood flowing to your brain. So it doesn't matter if it's reduced transiently, you're fine But, as you get older your blood vessels become more occluded and less elastic and you're closer to the, to the, to the trouble spot. And if you exercise regularly, you can dilate and make your blood vessels including those in your brain more elastic And that is almost certainly protective against both depression and cognitive decline as we age. 
+1  
+01:51:48
+Well I am a fan of exercise but I'm fortunate that I enjoy running and some forms of resistance training. So I always assumed that the good side effects were just the positive mood effects until the recent literature that as you mentioned, improved vascular vasculature, blood flow and re reduced inflammation if not during the exercise when inflammation actually increases. Yeah, decreases inflammation. I'm delighted to hear you say the word microglia and my postdoc advisor, the late Ben Barris would be especially delighted. People can look up Ben, I'll provide a link to his biography in the show note captions because he really championed to the point of of, I don't know if champions even a sufficient word. 
+1  
+01:52:34
+I mean Ben was beating the drum saying we have to pay attention to glia, we have to pay attention to glia. For the longest time, glia were relegated to these other journals. They even had their own journals. And in the last, what is it, 10 years, there's been a a kind of explosion of research exploring the role of microglia and other glial cell types. And it's, it's really fantastic to see that this actually the most abundant cell type in the brain is the, the glial cell are getting the attention they deserve. 
+2  
+01:53:02
+It's absolutely true and you know, we scientists like to think that we're very rational creatures and we're not subject to Fads, but we totally are. Right. When I started out in this field in the early eighties, everything was about opioid peptides. Hmm. And then there was a period where gaseous neurotransmitters like nitric oxide, oh yeah, were all the rage. And you know, right now glia are in the spotlight for good reason. I'm not trying to say sure that, that it isn't worthwhile, but there is this phenomenon of things being faddish and people jumping on bandwagons. And it happens both in terms of the subject we study, but also in terms of the techniques we use. 
+2  
+01:53:48
+And right now the technique that is most fetish involves single cell expression profiling. That is creating a list of what genes are turned on and how strong they're turned on in single Cells and seeing how that changes in different cell types and with experience. And it's a very, it's a very valuable technique, but one could argue that it is perhaps a bit overused And that 15 years from now people will go back and say, gosh those folks in 2023 were really overdoing it with the single cell profiling. 
+1  
+01:54:26
+Yeah. And, and if anyone's thinking about getting into the field of Neuroscience or another area of biological or other research, I can just tell you that if you're starting your PhD or your postdoc, take a look at whatever fad is happening now and just know that in five years it'll be something different and it takes you about five years to finish your PhD or postdoc. So pick something different than what's faddish now and you'll, you'll land right on the money that 
+2  
+01:54:49
+There's always a lot to do. You don't have to do what everyone else is doing. Yeah. 
+1  
+01:54:52
+And and Indeed the deletion test becomes relevant here. The deletion test as it was described to me by my colleague EJ Linsky at Stanford is if you look around and you see one or more groups doing what you want to do very well, just pick something else, your life's gonna be a lot more pleasant. 
+2  
+01:55:12
+Absolutely. I agree with, with EJ on that entirely. 
+1  
+01:55:16
+Let's get back to mind body. There are a bunch of different domains of mind body as you so aptly pointed out. It's bidirectional mind informs the body, body informs the mind. But we could probably break this down into respiration. So breathing conscious patterns of breathing, emphasizing inhales or emphasizing exhales, cyclic, hyperventilating, et cetera. Could also be be thought patterns a little bit harder to break those down. But many, not all but many forms of meditation involve having a very still body, not all there's walking meditation et cetera, but still body focused mind kind of a not a state that we are in a lot of times unless we direct that state. 
+1  
+01:56:04
+There are still other mind body patterns of communication through very still body deep relaxation. Things like yoga nidra, non-lep, deep rest. There's hypnosis, there's touch base body mind communication. If we're gonna talk about mind body also we should refer to as body mind. How do we dive in and think about this? 'cause this is involving clearly a thousand different Neural pathways, not just the vagus nerve as it's, you know, typically people just kind of hang their hat on mind, body must be vagus nerve and of course it involves the vagus, but the vagus is an extensive set of pathways. So how do you like to frame up mind body and what's most intriguing to you about mind Body Communication both in terms of the biology and its practical applications? 
+2  
+01:56:53
+Well I think just as we talked about how there are two potential pathways in Signals from the body to the mind, there are also two potential pathways, at least two potential pathways to conveying Signals from the brain to the body. And they are the, the, the Neural Signals that are conveyed by neurons that actually get there. And they are Hormones and neurotransmitters and cytokines that are released from the brain. And I should mention that, that Hormones are actually produced by neurons including, for example, some of the Hormones that you think about as being produced as as sex Hormones. 
+2  
+01:57:34
+Like estrogen is produced by neurons in your brain, for example. So let me give an example that I think is a bit out there but I think is really, really fascinating. And this comes from, from the cancer world. And so melanoma is a, is a is a bad cancer, it kills a lot of people, it can spread, it's highly metastatic and we know that melanomas often become innovative. That is to say they become contacted by neurons and wrapped and receive Signals from 'em. 
+2  
+01:58:16
+And we also know that if a melanoma becomes innervated then the prognosis for that patient is worse, it's more likely to grow, it's more likely to spread. Well how does that happen? Well, recently there have been some reports that show that neurons that innervate the melanoma don't act directly onto the tumor Cells. Rather what they do is they secrete a signaling molecule that has a receptor on immune Cells that are patrolling the edges of the melanoma tumor and nibbling away at it. 
+2  
+01:59:02
+And they, when that signaling molecule is released from the neuron, it shuts down or reduces that immune patrolling function and then as a consequence the tumor can grow and spread and butt off more readily. 
+1  
+01:59:22
+So the signal that comes from neurons is sending the ambulances home, so to 
+2  
+01:59:27
+Speak? Yeah, exactly. And the, and the signal is something called calcitonin gene related peptide or CG R p, 
+1  
+01:59:36
+I'm familiar with C G R P from the domain of touch and its involvement in I think like itch perception. Do I have 
+2  
+01:59:44
+Pain perception and itch perception? Right. Interesting. Yeah. And so, alright, so if neurons can, can affect the progression of cancer through their activity and these neurons in the periphery are ultimately connected to the brain through a couple of different hops, then is it reasonable to hypothesize that mental processes could affect cancer progression? So let's say we have a Hypothesis and it's a wild Hypothesis and I want to just emphasize that there is not evidence for this, but let's make the Hypothesis that says that through meditative practice you can slow the progression of certain tumors that tend to get interated. 
+2  
+02:00:44
+Right? Well, right now this is just kind of a wild idea. But I think the important thing, as I've said before, that this is a wild idea with a biological substrate. It's not like you meditate and magic happens and force fields open and the angel sing and then your tumor shrinks. This is, we are saying that activity in certain areas of the brain is increased by this meditative practice And, that this sends Signals to this neuron and this neuron that actually go to the tumor and make something happen through this biochemical pathway that we have defined. 
+2  
+02:01:24
+Right. And to me, this is speculative, but it's also extraordinarily exciting, right? It opens a kind of investigation of mind to body signaling that has received very little attention up to now. 
+1  
+02:01:47
+Incredible. And I say incredible because while you're giving an example of C G R P and nerve innervation and metastatic tumors, I, I absolutely love the idea that a phenomenon involving some practice that could be put under the umbrella of mind body or body mind becomes something entirely different when we're trying to hang that on the hook of a biological process. It's like something fundamentally changes there. Right? You know, it's amazing to me for instance, that early on psychedelics and breathwork, conscious breathwork were lumped together, cost people their jobs at major universities. 
+1  
+02:02:35
+I won't name the universities 'cause we're all, you work at one, I work at another and there's a third one called Harvard, I guess I just named them. But nowadays there are laboratories at every single one of those institutions studying deliberate respiration on health as well as psychedelics and meditation for that matter with the goal of understanding what cytokines, what neurotransmitters, et cetera, change through defined pathways including vagus, but phrenic nerves and frontal cortex and all the stuff that is considered, you know, classic rigorous Neuroscience. So I do think we, we've entered a new era, so it's not costing people their jobs anymore, it's actually giving people their jobs and it's federally funded, which itself is also fantastic in my opinion. 
+1  
+02:03:25
+So we are in a new era. What what do you think needs to be done to really nail down the idea that how we think influences our biology, even though it's a total duh because everyone knows that chronic stress, for instance, can be detrimental. Short-term stress can actually be beneficial, but, and stress is a mental process that essentially deploys chemicals in the body that then create other issues in the body that then create shifts in mental process. It's, you know, it's so, it's so obvious when it's spelled out, but it's just remarkable to me how this has just been lumped in the category of like, woo science and I can't quite figure out what needs to be done in order to convince people that their nervous system includes stuff outside the skull and spinal cord. 
+1  
+02:04:16
+And of course, of course, of course it would work this way. 
+2  
+02:04:19
+Well, right. And I, I I think it is the job of biomedical researchers right now to reclaim a lot of this from, from the realm of nonsense. And the problem is there has been a lot of nonsense and you know, there's, there's sort of a visceral reaction, you know, when when someone says, oh yeah, well you can do breath breathwork and it'll realign your chakras And, that is, you know, what will reduce your anxiety or your gut inflammation? And I'm tempted to just go, oh, shut up. 
+1  
+02:05:00
+But what if the chakras are collections of nerve innervation of, of, of bodily sphincters? You know, it could 
+2  
+02:05:06
+Make sense, right? It could. But it's gotta, there there's gotta be some, some biology. In some cases these analogies are rooted in something real and in some cases they're just made up bullshit. Right. And I think the challenge is to have really rigorous scientific tests of these things to take it back and to be willing to say, all right, there have been a lot of claims, for example, made about how mental processes can influence the body and only a subset of those are gonna be true. And of that subset, it is our job to understand how they work, both to rationalize them, but also to optimize them and, and make them better. 
+2  
+02:05:55
+I mean, there's no question that mental processes affect the body. I mean, we know, for example, that if we just keep you awake and don't let you sleep long enough, you'll die. And What will you die from, you'll die from sepsis because the, the barrier between your gut contents and, and your peritoneum will, will, will, will break down. Right. Well, so how does that happen? Right? We're just starting to understand like there's a really dramatic example, but there are gonna be many more subtle examples. So you've, you've mentioned breathwork a couple of times, and I think this is really interesting. 
+2  
+02:06:38
+My colleagues who are interested in respiration tell me that you can record in many different places in the brain, many different places in the neocortex and in other regions, and find a signature of the breathing rhythm, sort of as a background to Neural activity. You can find it in the Cerebellum, you can find it in the frontal cortex, you can find it in the ula, which is implicated in many things, including depression. You can find it lots of places. So the idea that conscious modulation of your breathing could have manifold effects on Neural function, I think is reasonable given that kind of observation here, here, let's talk about 
+1  
+02:07:34
+You a bit more. You've been so gracious in covering this wide array of topics and with such eloquence, and I must say I've been delighting in all of it. You are in a unique position these days because if I understand correctly, you've been diagnosed with a fatal illness. I suppose we've all been diagnosed with a fatal illness of sorts because we're all gonna die sooner or later. Yes. If you're willing, could you tell us the story of how that diagnosis came to be, what your initial reaction was and where things stand now? 
+1  
+02:08:15
+And and perhaps we can explore some of the, well, let's just say pleasant surprises that have emerged since that initial diagnosis. 
+2  
+02:08:24
+Well, sure, I'd be happy to. So in the, the summer of 2020, in the dark days of Covid when things were looking really bad, I developed profound shortness of breath. I couldn't get up a flight of stairs without, without huffing and puffing. And I thought, oh, well I've got covid, but I took covid fists and there was, they, they, they were all negative, but I thought, oh, I must have covid. I've got the symptoms of covid, I have respiratory issues, I'm feeling weak, it's gotta be covid. And after a while when this didn't go away, my wife said, well, you gotta go into the doctor. This is crazy. 
+2  
+02:09:04
+It's, you gotta find out what's going on. And I did. And they, they hooked me up to an electrocardiogram and they said, oh, you've got Atrial Fibrillation meaning that your heart is doing two beats every time it should do one. So I have a very high heart rate. And when the heart beats that fast, it can't work very effectively. There's enough time to recharge before the next beat comes. Now it turns out that there is a very straightforward therapy for this Atrial Fibrillation comes from electrical signaling in the heart, sort of swirling about in a circle and, and reactivating part of the heart muscle faster than it should. 
+2  
+02:09:46
+And so if you thread through a catheter in your, in your, in your, in your groin, up, up through blood vessels, you can put in a little needle and use that to cauterize and to ablate a tiny little strip of Cells in the heart that will produce a barrier that will prevent that abberant return of electrical activity and will cure Atrial Fibrillation. So I had that process, that ablation surgery, and sure enough, it, it cured my Atrial Fibrillation and I was feeling terrific. And they said, oh, as a follow-up, come back a few months later and we'll do an echocardiogram to see how your heart looks. 
+2  
+02:10:29
+And they did and they went, oh my God, there's this huge mass pressing against your heart. It's like the size of a Coke can, oh, here's what we think it is. We think it's a haal hernia. We think your stomach has poked up through the diaphragm muscle and it's nestling next to your heart. So the way we diagnose this, it's kind of humorous. They say chug this can of diet Dr. Pepper. And then quickly get up on the table and we'll do the echocardiogram. And in the echocardiogram we can see a signature of the popping c o two bubbles in your soda. And if we see those in the mass, then we know it's your stomach. So I did it, I chugged it, I got up, they, oh, nope, it's not your stomach. 
+2  
+02:11:13
+I said, oh, okay. Well what we think this is is a teratoma. And a teratoma is a developmental anomaly that you carry usually from fetal life where there's a group of different Cells that gets in a place where it shouldn't during development and then grows, you've probably heard about people who sometimes get like a, a tooth that grows hair in their abdomen. Sometimes women have these around their ovaries and they're not malignant, they don't spread. It's a fairly easy thing. But I have this enormous Coke can pressing on my heart. It may have, we don't know, have been the source of my Atrial Fibrillation to start with. But in order to deal with this, I had to have open heart surgery. 
+2  
+02:11:57
+So I had the surgery and it was a big hairy deal. I was told it would last about five hours. It turns out it lasted two days. Wow. They had me on the heart lung bypass machine longer than you're supposed to, because you're very likely to throw a clot and get a stroke. Fortunately that didn't happen. I had very skilled surgeons at Johns Hopkins. It was bleeding so much that they couldn't close the chest. So they had to do all the surgery and then just leave me anesthetized with my chest open until the bleeding stopped and then go. So the surgery was a bear, and then I'm waiting to get the pathology report back on the tissue. They removed and it came back and it was bad news. 
+2  
+02:12:38
+Sorry. It's not a teratoma, it's not benign. It is a kind of cancer called Synovial Sarcoma. And Synovial Sarcoma is a moderately rare cancer, and it usually affects the synovium, which is the lining of the joints or some other places. It's pretty rare to have it happen in the heart. There are a few examples. If you look in the biomedical literature for common cancers like test testicular cancer or breast cancer, there are huge tables of statistics from millions of patients on what's been tried. And What works. And What. The prognosis is for Synovial Sarcoma of the heart. There are only individual case reports. Oh, there's a guy in Kenya and he got it, and this is what happened. 
+2  
+02:13:20
+There's, there's there, there's, there's a woman in Minnesota and this is what happened with her. Right? There are no statistics because, because it's that rare. And, and, and the oncologist said, well, I think you've got six to 18 months to live now. This was about now 27 months ago. So I've fortunately exceeded that lifespan estimate. And I think we gotta be clear also that, you know, being an oncologist has gotta be a terrible job for many reasons. But one of them is that you gotta give a lifespan estimate, even if you really don't have the data to do it in a very informed, you can't just say, I won't do it. 
+2  
+02:14:04
+Right. You gotta do it. People expect it. So, you know, I'm not saying like, oh, the oncologist was incompetent because I've outlived my estimate. You know, he was trying to do something based on very little information. Made his best guess. So. So, you know, I got this information and I was furious. I was so angry. Heart cancer, who the hell gets heart cancer? Is that even a thing? Have you ever heard of somebody with heart cancer? Not until now. No. No. Heart cancer. What the f I've got heart cancer. This is, this is crazy. The time I was 59 years old, I was, I've got a lot to do. I can't have heart cancer. 
+2  
+02:14:45
+And What was, I think transformative for me is that at the same time that I was feeling a white hot, angry with the universe, I was also feeling a deep sense of gratitude for what I've had. I've had a terrific life. I'm not that young. I've had a lot of it. And I had great parents, wonderful friends growing up. I've had a good career. It's been a fairly easy run of it. 
+2  
+02:15:26
+And I think the ability to have a job where you follow your own Curiosity every day. There's nothing like that. So few people in the world get to live that way. I feel incredibly grateful and I feel incredibly grateful to my family. And I have a wonderful wife named Dina, and she's just the best. How do I deserve this? I don't deserve her. You know, honestly. So, you know, in Neuroscience we often think, oh, well there's a, you know, you have a state, you have a set point. Are you anxious or are, are, are you relaxed? Are you fleeing or are you approaching, you know, it's, it's like a single axis. 
+2  
+02:16:09
+Well, but it isn't, you know, and I think most people understand that. But, but dumb me, I I, I didn't until that moment really understand that I could feel profoundly grateful and profoundly angry in the very, in the very same moments. And, you know, having cancer and getting the kind of treatments, the chemo, the radiation, you know, it's famously deeply unpleasant. And I had all that, and it was just as unpleasant as anyone's cancer story that, that, that you've heard. That radiation burned my esophagus. I couldn't eat for weeks. It was months. It was painful to swallow, you know, bad stuff. 
+2  
+02:16:50
+Lots of people have, have had to have bad stuff like this. And And What, I, it realize, you know, this is, it's a deeply unempowering situation to be a medical patient, particularly when there's something serious. You have, you have a limited sense of agency. Things are being done to you. Drugs go in, you that make you feel really bad, and there isn't, there isn't that much to do. When I realized that, for me, the sense of agency came from being curious, from being a total nerd about things. 
+2  
+02:17:35
+And part of what it made me curious about was my own mental processes as they related to my cancer and my cancer diagnosis. So, for example, I'm getting the chemo, and I should just say as background, I'm fortunate, I, I don't have a tendency for depression. I'm a pretty upbeat guy. I don't take any credit for that. I think I was just born lucky and and raised lucky, right? But day after day of feeling bad in your body from chemo, boy, it's hard to be positive. 
+2  
+02:18:15
+It really is. I could not overcome it. My mood got really, really low and I could tell myself, this is gonna be over. It's not gonna go on forever. You won't feel this way forever. And you would think that as a rational person, I could talk myself outta that mood, but I couldn't, you know, probably because there was, my brain was awash in interleukin six and I couldn't overcome it. I felt really low. But at the same time, I was sort of outta remove being a nerd about going like, huh, I bet these cytokines are messing me up right now. I bet that's what's going on. And. that gave me some sense of agency in a time where otherwise I really wouldn't have it. Another thing it really brought home to me is this issue that we were discussing earlier about how malleable perception is and perception of time. 
+2  
+02:19:04
+In particular, if someone had said to me when I was healthy before I was diagnosed, you're gonna die in five years, I would've gone, oh, no, no, no, no, no, no. I'm 59 years old. I should get way more than five years. I got a lot of things to do. Professional things, personal things, family things. I got a lot of things to do. No, that wouldn't be right. I'd be very upset. But you know, if you told me after my diagnosis of six to 18 months, oh, you get five years, I'd be like five years. Yeah, that's pretty good. I can do a lot in five years. I can finish up in the lab and I can, I can do some good work and I can spend time with my family and travel and savor life's pleasures and do all kinds of things. 
+2  
+02:19:49
+Five years, great. And of course it's the same five years, right? The only thing that's different is the, is the context. But I think the thing that really I realized the most is that I really couldn't and still can't engage with the idea of myself being gone. So yeah, I can do practical things. I can update my will. I can write letters for my people in my lab. So you know, if I kick off, you know, they've got that to take to their next job, you know, I can do all these nuts and bolts things, but in terms of genuinely engaging with my own demise, I really find that as much as I try, I really can't do that. 
+2  
+02:20:44
+And at first I thought, well, that's just your own lack of imagination, Linden. It's just because, you know, you're not very good at this. But the more I thought about it, I thought, actually, no, this is a human thing. This is a fundamental human thing. And, and one of the things when I look back on the 40 plus years I've been doing Neuroscience that's different, is that when I was first trained, the brain was really described as a reactive structure. Something happens in the world, you know, it comes to your sense organs, your eyes, your ears, it goes into your brain. It triggers some things. You've, you think you make decisions and then you make an action that goes out to your muscles, or, or, or, or, and that's the loop. 
+2  
+02:21:28
+And that's what the brain does. And What, we have known in more recent years is that actually when the brain is waiting for something to happen, it's not just idling and spacing out that the brain is at every moment subconsciously trying to predict the near future, predicting the near future pre is predicated on the idea that there will be a near future. That is to say that you won't be dead and gone. Right. That there'll be a, a future for you. And so I think that my ability, which I think is actually a human, I mean not my ability, my failure, which I think is actually a human failure to truly engage with my own demise, is a feature. 
+2  
+02:22:15
+It is, it is a side effect of the fact that the brain is always trying to predict the future. And so that was interesting to me just as a way that my illness was revealing something about the brain, but it also made me think a lot about the world's religions, right? Religion is everywhere in the world. If you ask anthropologists, is there any society that doesn't have religious ideas? They'll say no. They say, they don't always have the word Religion. They might just say, well, yeah, in this place everybody knows that. You know, the world's on the back of a turtle, And, that you know, this and this happened. There are these rules, they may not call it Religion, but every place in the world has Religion. 
+2  
+02:22:57
+Not everyone is religions, but it is cross-cultural universal. And most religions, not absolutely every single one, but almost every single one has stories of Afterlife or reincarnation in which your consciousness endures. Well, why would that be? And and, and, and, and many religions they've gotta deal, right? Follow these rules in life and then you'll be rewarded in the Afterlife. And that's a, that's a very, a very general idea 
+1  
+02:23:27
+Or punished in the Afterlife, or 
+2  
+02:23:29
+Punished in the Afterlife, right? And you know, in some of religions you meld with the divine. In other religions, you're reincarnated is this or that, heaven or hell, right? There's, there's variance, but, but they share that your consciousness endures. And so why is this so popular all over the world? Well, I would hypothesize that it is a side effect of the fact that the brain can't help but always trying to predict the future. When we can't imagine the world without us in it, then we are forced to concoct stories of the Afterlife. 
+1  
+02:24:15
+Fascinating. And makes me want to ask about this feature of Time Perception. My undergraduate graduate, and postdoc advisors all sadly died earlier, early really by a, pretty much any standard. And I was fortunate enough to be in communication with the, the last two. As they were going through that process. Both of them described a heightened sense of gratitude, especially for things that previously they had not paid attention to. So we call this noticing the little things. 
+1  
+02:24:56
+Yes. But that makes me conclude that something about the knowledge of one's impending death, however far off that might be, shifts our attention, at least temporarily, leads to this sense of slowing down a bit. Because in order to shift our attention to quote unquote the little things or things that we previously overlooked, there's this sense of slowing down. And we know from basic videography, photography that slowing down means an increase in frame rate, right? That, you know, you know, shooting at strobe frame rates, it gives you the perception of strobe shooting at very high frame rates, allows you to see things in very slow motion. 
+1  
+02:25:44
+You're noticing subtle variations that normally you overlook. I'm not trying to be overly reductionist about this, this process of enhanced gratitude that's, that you describe and how it was alongside intense Anger. But have you noticed a shift in your perception of time? Because you were given initially this okay, X number of months, and then now with the, you're still here fortunately, and with this kind of open-ended, well, it wasn't the Prediction that was given to you by your oncologist, but it's unclear how long you're going to be here, right? 
+1  
+02:26:27
+Right. Which is how most of us exist. You have the sense that it's sooner rather than later, but you don't really know. So I'm curious as to how the idea that okay, you have 12 months more to live versus more than 12 months, but not infinite. But of course I know that I've hopefully have more than 12 months, but it's not infinite. Yes. So, you know, this, this idea of, of the, the finish line, the cliff leaving aside, whatever might happen afterwards, I don't know, haven't been there. It, it changes what we notice by way of changing our perception of time. I mean, this is a, this is a profound tuning of our perception. 
+1  
+02:27:11
+What are your thoughts on that? And, and do you notice the each sip of coffee? You probably don't notice each step across the kitchen floor in the morning. You're probably paying attention to your lovely wife and kids and things that day, but presumably it's dynamic. But what is your perception of time like now with the understanding that yes, you made it through the past, the gate that was predicted, but what's lies ahead is, is uncertain? 
+2  
+02:27:39
+Yeah. So that's really interesting. And I would say definitely my perception of time is slower. And it seems like an age since I was diagnosed, but I think part of that is because it's been action packed. In other words, since I was diagnosed, so many emotionally salient things, non-trivial things have happened. So many intense discussions with my wife and my friends and the people in my lab. You know, my wife and I have taken a lot more vacations than we normally do. So, you know, we're running all over the world. And there's a certain sense of, of packing it in that I think influences Time Perception. 
+2  
+02:28:25
+But I would say actually for me personally, the gratitude isn't about the little things. The gratitude is about the very biggest things. The gratitude is gratitude for being a sentient being and having that blessing. The gratitude is for being able to have a life where I can follow my own ideas and creativity. And my gratitude is for choke up the profound love that I've felt from my wife and my children. 
+2  
+02:29:12
+You know, it's stuff, the little stuff, it's the big stuff that I think about when I think about gratitude. It's not noticing the sip of tea. It's, it's the big issues. And you know, for me, I, you know, I don't, I wanna delay my death as much as possible, of course. But when I think about it, the part that makes me upset is leaving people behind. 
+2  
+02:29:53
+It's not for myself. I've, I've had a great life. I've had a lot of it. I'm 61. I like to go longer. But that's, that's a pretty good run. I've gotten to do lots of things in those 61 years and, and have wonderful, loving, interconnected experiences. And so the negative part is about what I leave behind. 
+1  
+02:30:20
+Well, certainly what you've left behind is enormous and has been the consequence of actions long before your diagnosis, which I think is a, is a clear lesson to everyone. I can't speak for you, but don't wait for the diagnosis. You've mentioned the sense of agency that you felt by being able to pay attention to and explore your experience of, Let's call it what it is, impending death. And at the same time, you've, as you mentioned, you've amplified and accelerated the number of things that you've put into the world recently writing incredible articles about your experience of life and death. 
+1  
+02:31:09
+And we will of course link to those so people can read them. I've read them all, and they're profound. And they don't just feel important. They clearly are important. Thank you. So very few people have your insight into the nervous system at the mechanistic level, but also at this more holistic level that you've clearly displayed to us here and in your, and in your research and in your book writing and public speaking. You know, I think it's a, it's a risky thing to ask somebody for advice, but I can't help myself because I think it's a, it's a real opportunity if you had advice to give to any and all of us based on the whole experience. 
+1  
+02:32:02
+Yeah. All of it from go as they say, right? If, if you're willing and feel free to pass, but if you're willing, I, what is your advice? 
+2  
+02:32:13
+Well, I would say the advice that is really universal is what everybody already knows and is a bit trite, but I'll say it anyway, And, that is, appreciate what you got while you got it. And you know, this isn't any big secret and everyone knows it. I would say for a subset of people, the way of the nerd is very empowering. I don't think that's the case for everyone. I think for a subset of people who are deeply curious as their nature, turning that Curiosity to your own mortality and your own medical situation can be empowering and, and useful. 
+2  
+02:33:10
+But I don't think that should be broad advice. I think that's only for a fraction of people. That's probably the worst thing they could do. And there's nothing wrong with that. Everybody's, everybody's different, right? Not everyone should adopt the way of the nerd, but for a fraction of people, it's a really, really good thing to do. 
+1  
+02:33:33
+This is normally the portion of a conversation with a guest where I list off the many, many things they've done and how grateful I am. And, and all of that is absolutely true in the case of you being here today in the work you've done. But I think it's self-evident how much you've not just accomplished, but how much knowledge you've put into the world. And not just scientific knowledge, but knowledge about the human experience of others and of yourself. And so I just want to extend it a giant thank you. On behalf of the listeners and viewers and myself, thank you for coming here today. 
+1  
+02:34:13
+Thank you for doing what you do, and so great to still have you here and to have this conversation. And I hope it goes longer, and no matter when it ends, you've done an enormous service to humanity. 
+2  
+02:34:28
+Well, thank you. That's very kind. It's been a, it's been a pure pleasure to have this discussion with you. 
+1  
+02:34:33
+Thanks, David. Thank you for joining me today for this discussion with Dr. David Linden. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please subscribe to the podcast on Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review. If you have questions for me or comments about the podcast or guests that you'd like me to consider hosting on the Huberman Lab podcast, please put those in the comment section on YouTube. I do read all the comments. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. 
+Momentous (Ad)  
+02:35:10
+Not on today's podcast, but on many previous episodes of the Huberman Lab podcast, we discuss supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them for things like improving sleep hormone support and focus. The Huberman Lab podcast has partnered with Momentous supplements. If you'd like to access the supplements discussed on the Huberman Lab podcast, you can go to live Momentous spelled o u s, so it's live Momentous dot com slash Huberman, and you can also receive 20% off. Again, that's live Momentous spelled O u s.com/ Huberman. 
+1  
+02:35:41
+If you haven't already subscribed to our Neural Network Newsletter, our Neural Network Newsletter is a completely zero cost monthly Newsletter. That includes summaries of podcast episodes, as well as protocols that is short PDFs describing, for instance, tools to improve sleep tools to improve Neuroplasticity. We talk about deliberate cold exposure, fitness, various aspects of mental health. Again, all completely zero cost. And to sign up, you simply go to Huberman Lab dot com, go over to the menu in the corner, scroll down to Newsletter and provide your email. We do not share your email with anybody if you're not already following me on Social Media. I am Huberman Lab on all platforms. So that's Instagram, Twitter threads, LinkedIn and Facebook. 
+1  
+02:36:21
+And at all of those places, I talk about science and science related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content of the Huberman Lab podcast. Again, it's Huberman Lab on all Social Media platforms. Thank you once again for joining me for my discussion with Dr. David Linden. And last but certainly not least, thank you for your interest in science.

@@ -1,3 +1,6 @@
+# DS_Store
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+
+# Pth files 
+seq2seq_model.pth
+models/
+models.zip
+fine_tuned_deep_seek_and_checkpoints.zip
+deep_learning_model/fine_tuned_models.zip

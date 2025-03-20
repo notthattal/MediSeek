@@ -152,7 +152,7 @@ pip install -r requirements.txt
 ```
 
 3. Download the model from the following link:
-- [Download Models Folder](<https://drive.google.com/file/d/13K0Pb_xXn4dpwj1TnD_Xlmwtbv6zZajN/view?usp=sharing>)
+- [Download Models Folder](<https://drive.google.com/file/d/1h5c-C88fh7fx_R09EZ4ulD8NXYeohfVI/view>)
 - Make sure the `.zip` is downloaded under `MediSeek/`
 - Unzip the file using: 
 **on mac OS**

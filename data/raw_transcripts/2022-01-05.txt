@@ -1,0 +1,647 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+LIFESPAN: The Science Behind Why We Age | Lifespan with Dr. David Sinclair | Episode 1
+Archived
+Published: 1/5/2022
+1/5/2022 - 1h 3m 45s
+ - 
+US
+Downloaded:
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman lab podcast. We discuss science science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford school of medicine. Today, I'm honored to share the first episode of the new podcast lifespan with Dr. Davidson Claire, as many of you know, Dr. Davidson, Claire is a professor of genetics at Harvard medical school and the co-director of Harvard's Paul F. Glenn center for the biology of aging research. David is both a friend and a colleague, and I'm delighted to have helped him in the creation of this new podcast. It will be an eight episode series that provides a deep dive into the science behind why we age and the newest research on what we can all do to slow stop or even reverse aging. 
+0  
+00:00:46
+While we have episode one of the lifespan podcast here, please be sure to navigate over to the lifespan with David Sinclair podcast channel to subscribe to that podcast, new episodes will come out every Wednesday for the next eight weeks. I'm certain that you will both learn from it and enjoy it. And now episode one of lifespan with Dr. Davidson Claire, welcome 
+1  
+00:01:08
+Come to the lifespan podcast, where we discuss the science of aging and how to be healthier at any stage of life. I'm David Sinclair. I'm a professor at Harvard medical school. I run a research lab that studies aging, why we get old and why we may not have to. I've been there for 20 years and we've made some breakthroughs. We're going to talk about on this podcast. I'm also joined by my lovely cohost, Matt 
+2  
+00:01:37
+Lappin, lovely, talented, brilliant, 
+1  
+00:01:41
+Reasonably talented, good looking. You're a great writer. We co-wrote a book called lifespan together. I'll take that compliment. Thank you. And we've been really excited about the reception of this book, but we thought, yeah, why don't we spread the word, those of you who haven't read the book. That's fine. We're going to go into detail in this episode to give you a basis for what we're going to talk about in this series. And if you have 
+2  
+00:02:03
+Read the book, that's okay too, because so much has changed in the last three years since the book was published. 
+1  
+00:02:11
+Right? So a little bit about you before we get too much into the weeds. You're a writer used to be reporter. You've been a war correspondent. What am I missing? 
+2  
+00:02:21
+I'm a professor of journalism at Utah state university, 
+1  
+00:02:23
+Right? It's not Harvard university, but it's, it's the 
+2  
+00:02:26
+Harvard university of the mountain west. 
+1  
+00:02:29
+Anyway, you're brilliant at writing. And I certainly couldn't have written this book without you, but this podcast, we actually talk. We talk a lot every week. Yeah. We're writing another book which will be due out. We hope probably next year. Oh dear God. Yeah. We're going as fast as we can. But so Madden and I talk a lot and we have these conversations that are pretty funny. And anyone who overhears these conversations says that should be a podcast where 
+2  
+00:02:54
+They're funny to us. Well, we'll 
+1  
+00:02:56
+See. They might be funny to other people, but the point you bring out the best in me, you, you act like the caveman with the questions that I need to ask myself. And that's what gave rise to lifespan. It was asking the questions that I didn't even know I needed to answer. We'll invert 
+2  
+00:03:14
+For me, that experience is like, and whenever I work with anybody on a book, but especially, I mean, for whatever reason, the way we've hit it off, like I feel coming away from these conversations that I've just gone through like a graduate course of study. And this thing that I don't have any personal expertise in, I didn't go to school to do what you do, but I come away from these conversations and I feel like I've been in class and in a really good way is I'm a lifelong learner. I love this, right. I'm a student right now. And that's something that we can share with everyone. Well, 
+1  
+00:03:49
+It sounds corny, but it really is a match made in heaven. You, before I met, you had written a book about epigenetics. We're going to get into that. That's key to understanding aging. He'd written a book about extreme animals are your book. You want to plug it or 
+2  
+00:04:03
+SU superlative the biology of extremes. Yes. Didn't sell quite as many copies as lifespan. 
+1  
+00:04:09
+Well, so yeah, w we should plug that. It's a great book. It's about animals that teach us how we can optimize our biology. Something that's going to be a topic of this series. 
+2  
+00:04:19
+We're going to talk about that a little bit today as well. Well, we are 
+1  
+00:04:23
+The point of this series. Let's talk about why, why are we doing this besides entertaining ourselves and others is that we are at a turning point in medical history. We finally, as a species, understand how to control our biology, how to optimize our bodies during early life mid-life and certainly late life to lead lives that can be decades longer and healthier. And we want to share that information. It's very hard for the average person to understand, let alone digest thousands of scientific papers. That's what I do. I have a team of research. In fact, today we're supported by a team of researchers who have helped us gather information from around the scientific literature. My job and yours is to present that as a lesson to people who want to listen and learn beyond what they hear and can read on the internet, which is actually rather unto our trustworthy information. 
+1  
+00:05:15
+We want to be, I promise to be a source of facts and information. When we give a study, people can look it up. If I don't know something, we will make sure that we find the original source to that information so that you can trust. If we say something as a fact, it is definitely a fact. And we have no we're not selling anything. I'm not selling any supplement. So when I talk about supplements later, it's based on facts. And we, we also, we promise to say whether it's a study in a worm or a yeast cell or a mouse or a human cause that's very important because otherwise people conflate a study in a mouse with a human study. And there's a big difference between a mouse and a human, of course. 
+2  
+00:05:56
+All right. So we're going to do this for eight episodes. Today's episode is why we age. We're going 
+1  
+00:06:02
+To dive into that in a second here, but let's give a real brief overview of where we're going from here. Well, the, the reason for doing this podcast really is that we are living in a really important moment in medical history. I think as big as antibiotics and vaccines, we are going to be able to live decades longer with science. That's coming out every week. That's making my head spin. I want to bring that to the public and provide actionable information. What people can do in their daily lives starting today to ensure that they live well now and decades into the future, not just living longer, but living much better as well. 
+2  
+00:06:38
+This includes for low and no cost at all. These are things people can actually implement in their lives right now, 
+1  
+00:06:42
+Right? So future episodes include not just what to eat, but when to eat and actually packing meals into shorter periods of time will, will ultimately save money. It's not expensive at all. And some of the, the supplements we'll talk about and treatments and even medicines are relatively cheap. So this isn't for billionaires though. There are plenty of billionaires we can talk about that are into this. This is, these are things that we can implement right now. And that's the exciting part. I want to talk about the science behind that because right now people are confused. What should I eat? When should I eat? Should I eat meat? Should I eat vegetables? We're going to go through all that incoming episodes. We're even going to talk about. 
+2  
+00:07:23
+There's not just eating. It's how we should exercise when we should exercise. Of course, right? We're going to have an episode on that, about how we should stress our bodies 
+1  
+00:07:32
+Important. So a little bit of stress on the body puts it into this defensive mode. We can talk about this concept of hormesis in future episodes. We're going to dive in, in detail and say, all right, there's this study that shows that if you exercise this amount, you get this much longevity. If you ate this, you get this most longevity. There's also some more exotic things. There's cold therapy, there's heat therapy, there's peptides, there's things called exosomes. We're going to go right to the cutting edge of science and maybe a little bit beyond to see what's into the coming in the future, including age reversal, a new concept in this field as well. 
+2  
+00:08:04
+This episode, though, our deep dive today is aging. Why aging happens? 
+1  
+00:08:11
+We want to provide the fundamental understanding of what the biology is that tells us why we age and ultimately why we don't have to. 
+2  
+00:08:20
+Before we get into that, David, I know you want to talk about our sponsors because that's what actually makes this possible. It makes it so that anybody can access this at any time. They don't have to pay for it. Exactly what we're doing today is separate from my work at Harvard, of course. And what's exciting about it is we can also mention sponsors who I truly believe in 
+AG1 (Ad)  
+00:08:40
+our first sponsor is athletic greens. Athletic greens is an all-in-one daily greens drink that supports better health and peak performance is developed from a complex blend of 75 vitamins minerals, and whole foods, sourced ingredients. It's filled with adaptogens, for recovery, probiotics, prebiotics, and digestive enzymes for gut health, as well as vitamin C and zinc for immune support. I've been drinking athletic greens every morning, pretty much for the last few years. And this is a way that I can cover all my nutritional basis. I'm often traveling. Sometimes my diet isn't the best. And so by drinking athletic greens, I know I'm getting the vitamins and minerals that I need to stay healthy. If you'd like to try athletic greens, you should go to athletic greens.com/sinclair, and you can claim a special offer. They giving five free travel packs plus a year supply of vitamin D three for immune support. Plus vitamin K2. K2 is really important to make sure the calcium in your body doesn't go into your arteries, where it doesn't belong and put it into your bones where it does again, go to athletic greens.com/sinclair to claim this special offer. 
+Inside Tracker (Ad)  
+00:09:50
+Today's podcast is also brought to us by inside tracker. Inside tracker is a personalized nutrition platform that analyzes data from your blood and DNA to help you better understand your body and reach your health goals. I've been using inside tracker for over a decade. And I'm the chair of their scientific advisory board. The reason I've long used inside tracker is because they provide the best blood and DNA analysis that I know of that make it easy to get your blood drawn. You can either go to a local clinic or have someone come to your home. Like I have done. It only takes 15 minutes. And from their inside tracker presents your blood analysis in a really easy to understand way there are graphs and they give you diet and lifestyle recommendations and these improve your blood biomarkers. Another feature that inside tracker has that I really like, is there an enraged test? I actually helped develop it. This test shows you what your biological age is, how it compares to your chronological age and what you can do to improve it. So if you'd like to try inside track, or you should visit them at inside tracker.com/sinclair, and you get 25% off any of their inside tracker plans use the code Sinclair. My last name at the checkout 
+Levels (Ad)  
+00:11:00
+today's episode is also brought to us by levels levels is an app that syncs with a continuous glucose monitor, which they provide and interprets your glucose data for you. I've been so impressed by levels that I recently joined the company as an advisor, by monitoring your blood glucose levels allows you to see how different foods impact you. I've had a lot of fun running tests of my own, seeing how different foods impact my blood glucose levels. For example, I've learned that white rice and grapes really spike my blood sugar, whereas potatoes don't, as we've discussed on this podcast, having stable blood glucose is very important, not only for daily mental and physical energy, but also for long-term health. So if you would like to try levels, you can skip the 150,000 person wait list and jump the line to join today. By going to levels.link/sinclair that's levels.link/sinclair. 
+2  
+00:11:53
+David, the research in this space is moving really fast right now. It's hard to keep up with. It's hard even for you to keep up with sometimes, right? 
+1  
+00:12:05
+Oh, it is. I read scientific papers even before I get out of bed. So I'm here to collate that and present it. But there's so many publications that come out every week that it's making my head spin and the technology that's being developed. We can do a million experiments that used to take each one used to take a year when I started in this field. 
+2  
+00:12:24
+And so that's just allowing publications to just flourish right now in this area. It's allowing researchers to do a lot more work in a shorter amount of time. The result is that there's a lot to go through. 
+1  
+00:12:39
+Well, there is, and it's coming out every week. And so the goal here is to keep everybody up to speed on what the latest discoveries technology and what they can apply to their lives. As we're learning this almost on a daily basis, 
+2  
+00:12:54
+And this is the lifespan podcast, but if you haven't read lifespan, it's okay. Right. We're going to, we're going to get you up to speed. You should, if you haven't read lifespan, you should realize ban. You don't have to pause the video right now, though. Right? 
+1  
+00:13:10
+We're going to give everybody a primer on what's in lifespan. And if you've read the book, great, we're going to go over the major topics so that everybody is with us as we go forward with these, these other seven episodes. 
+2  
+00:13:22
+And even if you've read the book, there's more information. I mean, there's been a couple of years since the book was published. 
+1  
+00:13:26
+Yeah. We're we're light years ahead of where we were in lifespan. There's a lot to talk about, including things that you can apply in your daily lives that we didn't know when lifespan was written. 
+2  
+00:13:36
+The misconceptions, I think a lot of people have about the book. A lot of people have about your research is they think that you're trying to prevent old age. 
+1  
+00:13:44
+Well, we are, but that's not the only thing 
+2  
+00:13:46
+Because what we're talking about really is preventing aging. And that doesn't just happen when we are old. 
+1  
+00:13:53
+Of course not. In fact, it happens of your whole entire life span, even before you're born. 
+2  
+00:13:58
+We're going to get into exactly how we know that. But this is fascinating. This is a fascinating area of research. There's been recent studies on this, which shouldn't actually measure in utero an infant's age. 
+1  
+00:14:10
+Yeah. In fact, when we're young, we're aging faster than when we're old, but we'll, we'll talk about that clock later. But what's important here is that we can improve our health and our long-term survival at any age. And we're going to talk about those lessons and what people can do at any age to improve their chances of being healthy later in life, as well as look good and function optimally now, all right. 
+2  
+00:14:32
+A lot of misconceptions about what aging is. I think I'm in those small part that comes from the conflation of aging with years lived. That makes sense for most of our human history because people got old when they were older or at least as we conceptualize it older. But the other thing that people have long assumed is that aging is inevitable. It's just going to happen. All of us, you have argued to me. And I think, I believe you, this is not the case, right? 
+1  
+00:15:09
+And in my lab now we can control aging very precisely at will. We can speed it up as fast as we want in an animal and even reverse it. So aging is now controllable. It's in, we have the technology to control how fast we age we can measure that, slow it down and even reverse it. This has never happened in human history before. And one of the reasons that we're doing this today is to make sure everybody knows that this is coming because it's going to fundamentally change the course of human history. 
+2  
+00:15:36
+This is something that perhaps shouldn't have come as such a shock to us because in fact, if you look across the animal kingdom, there are all kinds of animals that age at different speeds at different rates, even though the we'll get into the root source of aging is the same for everything we age at different rates. 
+1  
+00:16:01
+Well, we do it. And sometimes I'm criticized. Cause I've, I've been on record. I'm on record saying the first person to make it to 150 years of age has already been born. And people say, how can you say that? What gives you confidence that we can even live five years longer? Well, there are, if we look at the animal kingdom, first of all, there are plenty of species that live that long. There is no reason why we can't do what they do. And if we learn how they do it, we can apply that to ourselves. 
+2  
+00:16:25
+So one of these animals that I know you're, you're sort of fascinated by right now. In fact, there's a picture of them on your computer screen right now, your one of your children, of course, on these. Yeah. 
+1  
+00:16:37
+More Alex, our oldest child. Yeah. These naked mole rights. They're fascinating. They they're weird looking, they've got sharp teeth and the rest of the body is long. It looks like a, a condom filled with water. That's actually, yeah, that they're really weird, but what's exciting too, to work on them. And we were going over is the professor that Alex works with. They found that these animals have particular traits, biologically molecularly that allow them to live decades longer than a typical rodent, which are mice live there over two years, rats, over four years, but 
+2  
+00:17:10
+Similar animals and one lives. How long does a more outlive over 30 years, over 30 years and then normal Rodin's or other rodents, most rodents live a few. Right. 
+1  
+00:17:21
+And what's important to realize is that there's a, there's a reason why that is animals. That don't have a lot of predation, whales, mollusks, sharks, Mallrats underground. They, they don't get eaten so they can put their energy into building a long lasting body. And actually as, as a consequence, they reproduce slowly as well. But what's important is that you can build a longer lived body and we can do that too. We can engineer ourselves. We can learn from these animals by studying what makes them live so long. 
+2  
+00:17:50
+Well, you just named some of the pretty well known sort of longevity species. Can we get into that? Can we talk about what makes each of these animals survive for so long? Right. 
+1  
+00:18:04
+We can learn a lot. In fact, we, we should also talk about the bristlecone pine, which was a species you are going to look at when I first met you before we wrote the book, 
+2  
+00:18:11
+I was, I was in the white mountains actually, the first time you called the ever I was up on my way to go see the Bristol compounds in the white mountains. 
+1  
+00:18:18
+Right. And so these, how, how long 
+2  
+00:18:20
+Do they live? Like 5,000 years. It's an absolutely amazing, incredible 
+1  
+00:18:24
+That they were old when Jesus was 
+2  
+00:18:26
+Born. They were, yeah. Yeah. 
+1  
+00:18:29
+We can learn from those species is that you don't have to get old for. 
+2  
+00:18:33
+It's a big, big difference between a Bristol combine and a human being or a naked mole rat for that matter. I mean like it's really 
+1  
+00:18:40
+No, no, we're, we're all built from the same stuff. We've got DNA, proteins, RNA. We can engineer ourselves to be that long lived. If we didn't have predation for the next 10 million years, we would live for centuries. We just don't have time to wait for evolution to take hold. We can engineer ourselves. The way evolution would make us live longer. 
+2  
+00:19:01
+One of the interesting things about Bristol compounds and you see this, if you go anywhere where these amazing like gnarly trees are and they really are, I mean, like they don't even, they actually don't really even look like they're living a lot of times. And they live in these incredibly adverse environments. And that's, that's characteristic of a lot of long lived species. Is that, is that, is there a clue there? Well then 
+1  
+00:19:22
+The species that don't have a lot of predation live a long time, but also in these extreme environments, they're turning on their body's defenses against aging. And we can do that to ourselves. It's a concept called hormesis. And again, we'll get to that in other episodes, but adversity, as long as it doesn't hurt, your body will make you healthy and live long. 
+2  
+00:19:41
+Okay. Then I do take your point that, I mean, there's vast similarities across all living organisms, but I do think also it's hard to make the argument that a tree is, you know, something that we can learn from, but we don't need to even make that argument because there are these other organisms, right. Going from sort of like a bristle pine, which is a plant to a sponge, which is an animal to a mollusk, which is an animal to a whale, which is a mammal. And we're getting closer and closer to humans and across all of these categories, we've got organisms that have learned how to live a lot longer than we do. Right? 
+2  
+00:20:21
+Well, 
+1  
+00:20:21
+We're essentially upright whales. That sounds crazy. But at the molecular level, if you look at the biochemistry, we're only separated by 40 million years, which is a blink of an eye in geological time. We actually could live as long as Wells. There's not that much difference between us and a way 
+2  
+00:20:38
+Bill is we know bowhead whales can live for hundreds of years, like more than 200 years. Right? 
+1  
+00:20:44
+Well, yeah. And they know that 
+2  
+00:20:45
+How they know that because, well, for a number of reasons, there's actually been some really cool studies on this. But one of the reasons is that they dated a harpoon that 
+1  
+00:20:56
+Was stuck in a bowhead whale for 200 years. And the whale was still living when they pulled it out of the whale. Well, I think they wailed it, but yeah, well that, what's interesting is you can, we now have the genome of these animals that we can see that they have multiple copies of what we call longevity genes. Some of which we discovered when I was in my twenties, these are genes that protect the body. Longevity genes actually get turned on by adversity. And there are ways we can tweak them, but whales naturally have multiple copies and higher levels of these longevity protective mechanisms. And the bristle cone pine has just whopping amounts. 
+2  
+00:21:35
+And that's, that's that connection that you're making there. You're like, oh, look, we see this in a Bristol cone pine. We see this in a whale and oh, by the way, this gene also exists in humans. 
+1  
+00:21:43
+Yeah. W we're not that different from our banana actually genomes of 40%. So you're not 
+2  
+00:21:48
+That different from banana. Well, 
+1  
+00:21:50
+I'm not going to go there, Matt. But the important thing is that when you study other organisms, whether it's a banana or a yeast cell or a worm or a fly, we can learn lessons about biology and especially about aging. We can learn more about aging from a yeast cell than we can about Alzheimer's or cancer. 
+2  
+00:22:07
+This is why you're dismissive about people's dismissiveness about like only in mice when people say, oh, we discovered this and people go, oh, only in mice. There's a lot we can learn from mice. 
+1  
+00:22:18
+Well, we can. And aging is one of these universal things. And what really is remarkable that we've learned in my lab over the last 20 years is that the same genes that control aging in yeast work in worms and flies, mice and even humans. That's a big deal. We didn't know that 30 years ago. Now we know that there's a fundamental set of genes that controls how fast we live. And then we can also exploit that to slow down our road aging now, and as we'll get to later, we can use that knowledge to even reverse the aging process. 
+2  
+00:22:51
+We're talking about these genes. Let's let's name some of these genes, right? 
+1  
+00:22:55
+So there, there are various categories. There are hundreds of longevity genes that are known, but they fall into three main buckets. The first one it's called M Tor. It's a little M for mammal and Tor target of rapamycin. So mTOR is a longevity gene that makes a protein, that senses amino acids. So when you eat a big steak, M Tor activity actually is activated. And M Tor now says, okay, I've got lots of protein. I'm going to make muscle. I'm going to burn energy. And that's why when you eat a steak, you actually, you build up muscle more than if you don't eat a lot of 
+2  
+00:23:29
+Protein. Is that a good thing? 
+1  
+00:23:32
+No, it's actually not. What you want is to have M Tor levels low to inhibit the mTOR. And when you have low mTOR activity, that's when you get the longest lifespan mice that are given a drug called rapamycin, which is used to suppress the immune system in patients. But you can take low doses as a human or give it in low doses to a mouse. Those mice live dramatically longer. Even if you give them a promiser. And when they're 20 months of age, which is a really old mouse, that'd be like a 75 year old human. They still live longer. So low activity of mTOR is a signal that times are tough. You don't have enough food hunker down, build a stronger body survive. And the outcome of that is longer life for these mice, but it turns out it's not just for mice. 
+1  
+00:24:16
+You give rapamycin to a yeast cell or a, or a fly or a worm. They also live longer. So you can tap in with these drugs, into this universal longevity program. One of which is mTOR. 
+2  
+00:24:28
+So you have a colleague, a long-term colleague who's been working on M for a really long time. I know you're really impressed with, with their work. 
+1  
+00:24:34
+I think you're referring to met cable line. Yeah. Yeah. So he's doing great work. These latest work that's fascinating is he's treating dogs with rapamycin and showing that it protects their heart. And he's also going to test their lifespan. 
+2  
+00:24:47
+And we're seeing in dogs, what we saw in yeast and mice and the rabbit Maya's and works, you know, this target of rapamycin, this gene influenced in a certain way, works the same way across species. 
+1  
+00:25:00
+And that's why I think solving aging is going to be easier than solving cancer and heart disease because aging is fundamentally conserved. We can make rapid progress, extending the lifespan of little yeast cells, worms with chemicals, and then put them into humans. And hopefully we'll see they'll work the same way like rapamycin seems to do. And other molecules that we're going to get to in later episodes. But the point here is that aging is not that complicated. Once you understand the genes that control it, and then the fundamental causes of aging. 
+2  
+00:25:29
+Well, you just said genes that control it. So we talked about M Tor, but there are other genes that control it. And we're going to see similar things in each of these genes. What do you want to talk about next after 
+1  
+00:25:38
+The two? Okay. Bucket two is a M P K. It's called amp activated kinase. So what is amp? K 
+2  
+00:25:47
+I, it sounds like the name of a punk band, or that'd be a 
+1  
+00:25:50
+Great gentlemen. 
+2  
+00:25:51
+It's amp K. 
+1  
+00:25:54
+And in this case, we don't want less of it. We want more of it. We want to activate amp. K. So how do you do that? You actually, you eat less you fast and that'll turn on HBK. It'll do a few things. It'll make your body more sensitive to our insulin. Suck the sugar out of your bloodstream, which can be toxic if it stays high. But it also ramps up the energy producing centers of the body. These membrane filled bags, which are actually ancient bacteria, living in our bodies called mitochondria 
+2  
+00:26:21
+And the cool work in M P a Q R S T a M P K. Who's doing the cool work in amp. K 
+1  
+00:26:28
+How old's been studied by thousands of labs, but the one that's most interesting, I think right now is to see if a drug that activates MPK extends human lifespan slows down aging, and that's near bars line. My good friend out, down in New York at Albert Einstein college of medicine, and the drug 
+2  
+00:26:44
+Has Metformin, which is most people would know as a diabetes drug. 
+1  
+00:26:49
+Yeah. Metformin is really interesting because it's super safe. It's one of the safest drugs ever known it's on there. The world health organization's list of essential medicines for humanity in much of the world. It's it's cost pennies, and you can get it over the county to take it. Essentially. They want it in those countries. They just want you to have it like aspirin in the U S and a lot of English speaking countries in Europe, you need a prescription for this drug, and it's the frontline therapy for type two diabetes or high blood sugar. 
+2  
+00:27:18
+And there are, there is an active, ongoing human trial is Metformin called targeting aging with Metformin right at the table 
+1  
+00:27:26
+And study. Yep. Yeah. So why would we think that Metformin actually works? Well? First is we, my lab in collaboration with Raphael, the Cabo down at the national Institute on aging showed in a mouse study, that if you give them Metformin, those mice are healthier and live longer. Again, it doesn't prove that it works in humans, but you can take tens of thousands. And people have taken tens of thousands of people who are on Metformin for type two diabetes and looked at their overall health and their lifespan. And this fact that I'll tell you blows my mind type two to, I bet, diabetics that go on Metformin on average live longer than people that don't have type two diabetes and they're protected against diseases. So if you're susceptible to cancer or heart disease, frailty those on Metformin reduce their risk of those diseases. 
+1  
+00:28:11
+Whereas those that don't take Metformin, it increases over time. 
+2  
+00:28:14
+Okay. W why, why does NIR think that this is happening at the molecular level what's going on with 
+1  
+00:28:20
+AME? PK is a sensor of energy and low energy is a good thing for longevity. It's one of the reasons I first, and we'll get into that in a future episode, but amp is central to sensing low energy. And in response, it protects the body because it's thinking we're going to run out of food. So this is another evidence of this term, hormesis, what doesn't kill you, makes you stronger. And APK sits as a central regulator of the body's defenses. It will, downregulate M it will activate other longevity genes. And that's really important. 
+2  
+00:28:53
+Genes are working in concert with one another. 
+1  
+00:28:55
+That's a really important concept because about a decade ago, scientists like me, we were fighting over whose longevity gene was more important. It was pretty pathetic 
+2  
+00:29:04
+And is very typical of scientists, 
+1  
+00:29:06
+Right? Everyone wants to be the smartest person in the room, but what we finally realized 10 years ago is that these genes talk to each other, and they're part of a network, which actually is a blessing and a curse because you can tweak one and affect the others. But now we're faced with now what, which one is best to tweak. And if, if you tweak two out of three or three out of three, is that good? Or is it bad? And that we'll get to also in later episodes. 
+2  
+00:29:32
+Well, and okay, so then if you said three now, so I'm hearing some similar things, and I think this is really important. One of which is that in these genes are activated by stress M Torres am goshdarnit amp. K is, and the gene that you work on that you've been working on for a really long time is as well. 
+1  
+00:29:55
+Well, it's a, it's a family of Jane's. We have seven of these, what we call . And we just, we linked them to aging when I was a postdoc at MIT back in the 1990s. And what we're looking at in, as a group was what can make yeast cells live longer? And there was one mutation that led us to a gene called Sur to S I R two, which stands for silent information, regulator number two, and information is the key, but we'll get to that later, but this set of sirtuin genes, his family has been shown in yeast and worms and flies, mice, and now humans to be a really important central regulator of longevity. 
+1  
+00:30:37
+We showed, oh, now going back to 2005, that fasting activates the sirtuin. And later we showed exercise, activates these genes. So a lot of the things that were told by doctors to do to live longer and be healthier, we think acts through the cert tunes in concert with these other two sets of genes. We just talked about, 
+2  
+00:30:58
+I really, I, I really appreciate about this. Cause I think there's a lot of like bagging on doctors right now. It's like, they never tell us the same thing. They never tell us the same thing, but they've always told us diet and exercise. And maybe like the individualized advice is a little different, or maybe it's shifted a little bit. It's like eat better workout. And that's what helps activate the sirtuin to do with day-to-day. 
+1  
+00:31:19
+Yeah. And it's an important concept because most people think, oh, when you run your blood flows and clears out your arteries and, and when you eat less, it's just good for you because you know, what's happening. What Ray, what we've discovered is that these longevity genes, these three sets we've just mentioned need to be either down-regulated or upregulated in a certain way. How do you do that? These lifestyles, certain types of diet. When you eat and exercise, essentially, you want to trick your body into thinking that it's under threat of survival adversity. You don't want it too much. You don't want to damage your body so that it can actually have the opposite effect, but you want to give it a little bit of fear and it will have great results and give you payback for decades to come. 
+1  
+00:32:05
+Okay. 
+2  
+00:32:05
+I know we've talked about these, these other two longevity genes, but I really want, because you're the sirtuin guy. I want to dive a little deeper into what's making these things tick, and this gets a little complicated. It's a little down on the dish, but it's important as we get to the information theory of aging and, and this idea that we're going to be driving toward a minute here, which is X differentiation. So can we talk a little bit about how, why this are twins are doing what they're doing and how that works at the genetic level? 
+1  
+00:32:41
+All right. Well, let, let's do a little bit of biology. Some people haven't had a biology lesson in decades. It's been a long time. Yeah. So let's start with the cell. Cell is a microscopic bag of fluid packed with proteins. The proteins are encoded by the DNA, which is in a part of the cell called the nucleus. So let let's become microscopic let's dive down into a cell and have a look what's there. So, first of all, we, we pierced the outer membrane. There are a lot of proteins on the surface that bring in things like sugar and amino acids that are important. Now we're, it's swimming around and we can see there's a, another little structure that is surrounded by a membrane called the nucleus. So let's go through there that a little pause. 
+2  
+00:33:21
+This is what we remember from middle school. Biology is the brain of the cell. 
+1  
+00:33:25
+It is the information, the genetic information of the cell encoded in a six foot long strand of, of a chemical called DNA. 
+2  
+00:33:34
+This is six feet of DNA in this little microscopic. You can't even see it. 
+1  
+00:33:40
+There's so much of it in the body. It stretches from here to the moon and back eight times. And it all has to be packed into very small space. And so you, don't just the cell, doesn't just shove this strand, Willy nilly into this structure. It's not like me packing to go travel. It's actually not neatly packed. And the way the cell does that is that it wraps the DNA around proteins called histones, and those histones then attract each other and eventually get these structures. We call chromosomes, which you can see sometimes with your eyes, but usually with a microscope, but it doesn't all get bundled. Otherwise, no genes could be red. It has some of the genes have to be opened up and unraveled and spooled so that they can be turned on. 
+2  
+00:34:20
+It was a really good analogy for this. If you existed during the 1970s and 1980s, when cassette tapes or a thing, 
+1  
+00:34:30
+You might want to describe what they were. So 
+2  
+00:34:32
+Having existed in these times. So for the children at home, cassette tape is a plastic cassette with a reel on either side of magnetic tape. But the important thing here for this analogy is that if you turn it on its side, only a little bit of that tape, that tape, it includes a lot of information, but only a little bit is readable at any 
+1  
+00:34:56
+Given time. And that would be a gene and that 
+2  
+00:34:58
+Would be a gene. And so if your, if your cell is trying to read your code, it's accessing just that little bit at a time. It's not accessing all of it. And that's actually what helps cells know to be cells or the kind of cells they're. 
+1  
+00:35:14
+Well, it's essential when we're fertilized as an egg, we can be anything, but we need to have certain cell types. A brain cell has to know how to be a brain cell for a hundred or more years. And a liver cell has to stay a liver cell. If you wake up tomorrow and your brain is more like a skin cell you're in trouble. So what happens is that the packaging of the DNA is specific to the cell type. And every time that cell divides, like in a skin cell, it doesn't suddenly become a neuron because the cells inherit the information that says that gene is for skin cells and keep that one on, but don't turn on the brain cell. 
+2  
+00:35:46
+And they know this through epigenetics. 
+1  
+00:35:49
+Epigenetics is the, the other part of the information in a cell that controls which genes are packaged tightly or unfurled, unspoiled like can happen. If your cassette tape gets stuck in the machine. You remember when that used 
+2  
+00:36:01
+To happen and then you'd have to take the little pencil and wind it up. 
+1  
+00:36:04
+Yeah, exactly. That that's part of the problem with aging, we think is that, that beautiful packaging of the DNA that allows a cell to remain a skin cell forever or brain cell essentially forever is lost. You start to get this unschooling of the DNA and genes that shouldn't be on start to come on. The time 
+2  
+00:36:25
+Genes that shouldn't be readable are now readable. And so you have like all this extra information floating out there that the cells can read. And because the cells are now reading large parts of the code, instead of the very specific parts of the code, they get confused, 
+1  
+00:36:41
+Right? And we call it X differentiation. Differentiation is the common term for cells becoming a certain cell type. And we've coined the term X differentiation, which is essentially cellular confusion. They become a more of a generalized cell type rather than a specific one, because genes that shouldn't be on start to come on over time. And that we think is a root cause. If not the root cause of aging itself, 
+2  
+00:37:05
+Let's unpack that a little bit, excuse the pun, because it is kind of a pun. The, the thing that you've told me and that really just like, sort of completely shifted the way that I was thinking about aging, even after actually working with you for quite a bit is that this is not just the Ricard of cause of aging. You believe that X differentiation is the root cause of many, if not most diseases, 
+1  
+00:37:40
+I don't just believe it. I think it's, it's now a fact when you look at Alzheimer's disease and unfortunately up until the last few years, we were treating it at the end stage of the process of aging, which results in plaques and tangles and dementia. But the process that led to that disease was happening from birth and that's aging. So Alzheimer's at just to take one example is an age-related disease. That's not just age related, it's actually 90% of it is caused by the aging process. This unschooling is X differentiation. If we were able to slow that down, you'd have Alzheimer's much later. And now we're showing in my lab and we'll talk more about this, but I want to mention it because it's so profound, we can reverse the age of a brain in an animal. 
+1  
+00:38:26
+And when we do that, we're showing, and we will continue to test this, that those diseases go away, proving that those diseases are actually caused by aging. Okay. 
+2  
+00:38:37
+So let me see if I, if I can put this into sort of some kind of a picture, we have these brain cells, neurons, neurons, we have neurons over time because our DNA on spools, it becomes less tightly packed. The code is more readable for instance, the code that makes a liver liver or a kidney, a kidney. And so that brain cell is sort of also part kidney cell, 
+1  
+00:39:10
+Right? And we can read all the, which genes are on. We call it gene expression patterns. It's very easy. 
+2  
+00:39:16
+So you see, you actually see this in, in Alzheimer's brains. You can see that the cell is losing its identity, losing its identity, 
+1  
+00:39:23
+Losing its mind, so to speak. And we can see that with normal aging too. Even if you don't have Alzheimer's during aging, I'm 50 now. So some of my brain cells are undoubtedly getting confused and starting to believe that they're part skin, cell part, kidney cell. And that's probably the reason why, even in your fifties, you cannot function like you did in when you were 20. 
+2  
+00:39:42
+Okay. That's dementia. That's Alzheimer's. What about other diseases? There's another one. That's a good example for this type type two diabetes, high blood sugar, high blood sugar, same process. Yeah. Same problem. Well, it is these aren't two different diseases. This is the same thing. 
+1  
+00:39:59
+That's a major point that we've been looking at diseases as separate things. This is how modern medicine works. We need a different drug for type two diabetes right now. And for Alzheimer's for cancer, for frailty muscle wasting bone loss. I'm saying that the same process is leading to all of these diseases. And if we can slow down and even now we have a technology to reverse that process, those diseases will be slowed down and even go away by age reversal. Okay. 
+2  
+00:40:30
+I'm on the cusp of this. I want you to spell it out for me though, with the diabetes, and then I want you to do, like, I like things in triplicate. So I'm, I'm convinced on the, Alzheimer's explain what's happening in the diabetes. That makes it the same process. 
+1  
+00:40:42
+Yeah. Also type two diabetes in part is a problem of bringing glucose sugar out of the bloodstream, into your muscles and your brain, which are the major sources of, of a major requirement is glucose. And if you don't suck the, the sugar out of your bloodstream, you're going to have basically treacle or caramelized protein in your system, which is gonna cause all sorts of 
+2  
+00:41:06
+Delicious. But it's really a bad thing. 
+1  
+00:41:07
+No, you don't want to have glucose attached to proteins. In fact, you can measure it. Doctors when they do a test called HB A1C, that really means how much glucose is physically bound to your hemoglobin, which carries your oxygen. And it's a percentage. So if you have over 5.7% of your hemoglobin attached to glucose you're pre-diabetic and over 6.5, I believe the number is that where you're actually type two diabetic at point. And then you go on Metformin. The point being is that having high levels of blood sugar, we know predisposes you to other diseases, heart disease, frailty, dementia. You don't want to have a lot of sugar in your blood. It's one of the reasons for keeping my, I believe everybody should try to keep their blood sugar levels reasonably low because at the higher levels are, are toxic, but what's happening in terms of the aging process. 
+1  
+00:41:58
+One of them is that the cells that line, the blood vessels that suck the glucose out of your system are losing their function. That there's a particular gene that's required to suck glucose through the cell. The, from outside in it's called glute four, it's a glucose transporter, number four. And over time with aging. And particularly if you're obese and you don't exercise and don't all the good things your cells lose. The ability to make that glute four transporter and glucose will stay in your bloodstream for longer, which is toxic. 
+2  
+00:42:29
+You just said just a couple of moments ago, you said, and then you take my foreman and it occurs to me. We got this Metformin, it activates amp. K. So is it an X differentiating? What, what is it doing? 
+1  
+00:42:46
+Well, these defensive genes seem to partially reset aging. So two horns are part of the spooling process that with a cassette tape, they bundled the DNA. So by activating these various longevity genes, we're slowing down and reversing some aspects of that X differentiation process and getting the cells to remember how to behave. Okay. 
+2  
+00:43:06
+We did Alzheimer's type two diabetes, heart, heart disease, right? This is heart disease is cholesterol and bad food and a lifetime of bad exercise habits. Right. But what's, you were about to tell me it's not any of that. It is that, but it's not that it's actually X differentiation. Yeah. 
+1  
+00:43:29
+Yeah. This is, this is what we find is that we can actually now control aging forwards and backwards in, in mice at least. And we're doing experiments. Clinical trials are in humans now. 
+2  
+00:43:39
+Well, you do like clinical trials. I mean, they're not real 
+1  
+00:43:44
+Experiments. Inhuman sounds bad, but clinical trials 
+2  
+00:43:47
+Is the real people are going to take that little section to tape and be like, see, he doesn't really think there are clinical trials. 
+1  
+00:43:53
+Well, these are all a double-blind placebo-controlled clinical trials in humans, but in mice that's real. Yeah. Okay. So heart disease. What we've shown in my lab is because we can drive aging forwards by disrupting the spools. We can either reduce the amount of serotonins which causes them to spool out and X differentiate, or we can create certain types of stress on the cell that, that caused that problem as well, extreme stress, not the hormetic type. We can accelerate aging in a mouse. And one of the effects we get is heart disease in a mouse. And so then we have this. Now we have this evidence that disrupting the epigenome, the readers of the DNA causing X differentiation is causing all of these diseases, including heart disease in the mouse, 
+2  
+00:44:38
+Accelerating aging and a mouse requires us to be able to measure aging. One of the ways that we can do that, and probably the one that makes the most sense to people in the way that we think about aging is you just look at a mouse, right? It's got more gray hair, it's becoming weaker. It gets confused, right? It's not as perky and excited, and it doesn't run on a little treadmill as long, but there are now other ways that we can measure aging. And this is, this is a really important point. Is this, this is this leads to the explosion. 
+1  
+00:45:15
+Yeah, right. So it was 2013. A paper came out from Steve Horvath's lab and there was another paper by Greg Hannam that showed that if you measure the chemicals that are controlling this bundling and spooling of the genome to specify cell type, there are certain sites on the, on the genes that you can measure. The chemical is specifically called DNA methylation. It's very simple. It's just a carbon with three hydrogens. This chemical cells add to the DNA, stick to the DNA. As you're developing in the womb to make a brain cell different than a liver cell, different pattern. But over time, there are changes that are predictable and they change in a linear fashion so that if I took your skin cell or your blood, and I measured the DNA methylation pattern across the genome, across that six feet in one cell or in thousands of cells, which is how we do it, I can then plug that into a program. 
+1  
+00:46:12
+And it'll spit out your actual biological age, not your birthday candles, which is based on how many times the earth has gone around the sun. That's irrelevant. It's how old you really are, which can predict also when you're going to die, 
+2  
+00:46:26
+That's terrifying. 
+1  
+00:46:28
+No, it's not. It's liberating because we know now how to slow that process down and even reverse it. We can get the DNA to Spall less and also be repackaged to re reverse the aging process and get cells to work like they used to. So that number shouldn't be scary. It might be scary if there's nothing you can do about it, but as well, we'll learn in this series. There were plenty of things you can do about it, 
+2  
+00:46:53
+All of this as well. And good. If we can all have our biological clocks measured at any time, but this sounds really expensive and time consuming. And it's a process and, and I'm of course teeing you up here. But this is also really important moment. 
+1  
+00:47:11
+It used to be expensive just to read. The first human genome was more than $2 billion and took an army of people and whole buildings. Now we can read it. A genome are on a Snickers sized bar in, in a day, it's going to be a hundred dollars probably next year. And we use that same to read the DNA methylation patterns. We put it through, what's called a DNA sequencer. And right now it's a few hundred dollars to run your sample, which is still beyond most people, if you want to do it every week or even every month. But we've now is a student in my lab, Patrick Griffin, who is just, has just put up online our, our pre-publication that shows that we can pull thousands of people's samples together and run them as one in these sequencing machines that brings the cost down to about less than a dollar to run this. 
+1  
+00:48:02
+Why is that important? It means that one day anybody can do a cheek swab and determine their biological age and figure out whether what they're doing in their life is working or not to slow down aging. 
+2  
+00:48:12
+So theoretically, if I wanted to check my biological age every week, I could do that for 50 bucks a year, essentially. 
+1  
+00:48:20
+Exactly. And eventually it will be a little home device. You can do it every morning. 
+2  
+00:48:24
+And your argument is, and I, I, I totally, I'm on board with this too. This is far, far more important to our understanding of our general sense of health and our general state of propensity for disease. And then our chronological age ever was right. 
+1  
+00:48:43
+And we find that people who haven't done the right things, who haven't exercised and haven't maintained a good diet, have an older biological age and will die sooner because of it. We can now measure the aging process with accuracy, which is it blows my mind that we now have our biological credit score, which we can, by the way we can alter aging is malleable. That number doesn't stay the same. And it doesn't have to continue to tick up every 
+2  
+00:49:10
+Year as in yeast and mice. Well, 
+1  
+00:49:13
+And in humans now, there are, there's the Republications Greg Fahy. Who's got a company up on in California, work with UCLA researchers. In fact, the guy that co-invented the clock, Steve Horvath, they published last year that a triple treatment of chemicals, I'll name them, <em></em> Metformin and growth hormone. It rebuilt the thymus, which is something that happens to all of us. It, it gets smaller, but more importantly, they measured the blood biological clock to figure out what happened to their age. And they got younger by two and a half years 
+2  
+00:49:48
+For after one treatment. It took a month to treat series of treatments, one series of treatments. 
+1  
+00:49:53
+But here's, what's fundamental about this. You might say two and a half years, who cares? First of all, I'll take an extra two and half years. I'll take an extra two weeks if I can get it. But two and a half years is a big deal. For two reasons. One is Greg is now showing that you can repeat this and go back. Not just two and half years, but five years. I know of people that have reversed their epigenetic clock. By 20 years, 
+2  
+00:50:16
+You had a measured pre-treatment right. They've gone through the same treatment, the same treatment the Gregg used in the study or similar 
+1  
+00:50:26
+Treatment, some people, but let's, let's talk about in later. That's how we do that. There are a number of ways now that 
+2  
+00:50:32
+Seemed to reverse the age of the body. It's a, it's an amazing biological 
+1  
+00:50:37
+Clocks. Exactly. Now we, we, we want to now figure out, are they healthier? Do they look younger so far? Anecdotally, the answer is yes. But think about this. This is the second point that's important. Two and a half years may not be a big deal to some people, some of our audience, but to be immortal, all you have to do is go back one year, every birthday. 
+2  
+00:50:57
+Oh well, that's good. So we're mortal now. Thank you, David. Yeah. Can we go 
+1  
+00:51:00
+Home now? Yeah, 
+2  
+00:51:01
+I think we're done. We 
+1  
+00:51:02
+Have some work to do. We definitely have work to do, especially when it comes to, 
+2  
+00:51:06
+This is going to freak people out because they're going to say Davidson Claire, Harvard university just said that we can be a mortal. 
+1  
+00:51:12
+There's no reason why we cannot. There's no law that says we have to age. And we now are learning, not just what causes aging, but how to reset the body so that it's young again. And we don't know how many times you can reset the body, but I'm betting that it's more than once. So what happens in a world where you can reset your age multiple times, maybe hundreds of times. That's when things get really interesting. And I think when people look at this podcast and listen to it a hundred years from now, they're going to say, yeah, that was the moment when humanity really changed. 
+2  
+00:51:41
+Okay. So let's kind of encapsulate this all together. Summarize this podcast episode is why we age. So if people want to come away from this and just be able to like, instead of listening to the episode again and again and again, and trying to summarize it, there's a lot here. Let's hit the points. Why do we age? 
+1  
+00:52:07
+Well, we now have an understanding that it's not just things go wrong. There's actual a fundamental process. This ticking of the clock, the unschooling, the genes that happens in everything from a tree to a yeast, to a worm mouse and ourselves, that's a fundamental cause of aging that leads to a lot of things going wrong. There are whole marks of aging that lead to disease. And we see these in, in clinics and doctors are trying to treat the end stage of that process often too late, putting a band-aid on the problem, what I'm saying, and what we've been discussing is that there's a layer above all these diseases in the cause of aging. And that is the regulators. Okay. So the regulators we've talked about, we've got em, tore that reg that responds to meet and amino acids and BK, which is blood sugar and energy. 
+1  
+00:52:53
+And so two ones which respond to both of those things and more, we'll talk about those other things. In another episode, like hate and cold. And what they do is that they're slowing down all those bad processes. The main one that's driving, all these other bad things. And these diseases we call disease of old age is the X differentiation process. So what we really want to do is to get this middle layer to be super potent and slow down and even reverse the aging process. So how do we do that? So now we have this upper layer that's important. This is the environment. It turns out that most of what regulates this middle protective survival layer is not the genetics that you get from your parents. 
+1  
+00:53:34
+That's 20% of the control of aging. 
+2  
+00:53:37
+We know that from a twin study of really old data from 
+1  
+00:53:42
+And Denmark. Yeah, there there's a study by Christensen at Al 2003 that looked at Danish twins that are genetically identical, but they live different lifestyles, have different environments, some smoked some didn't, some exercise, some didn't. And so now we know that even though you, if you're genetically identical, 20% of that, it determines your health in later life slows down aging, but 80% is in your own hands, how you live your life. And that's the top layer that controls the longevity genes that controls the X differentiation and disease process. 
+2  
+00:54:13
+So now we've got to figure out what to do in that top layer. Like what are the things that this is in our hands? Most of this is in our hands 
+1  
+00:54:20
+A heck of a lot with 80%. And when we now are starting to understand how to live a life, to maximize your longevity and slow down that ex differentiation aging process. But we didn't cover situations in a way that I think we might've lost a few people that the sirtuin, which is the third group of these longevity genes, how do they work? And so three of those seven exist in a nucleus to control that spalling process. So this X differentiation process actually is due to malfunctions in sirtuin and we can maintain their function during old age, and even middle-age by exercising and dieting and being hungry sometimes. 
+1  
+00:55:01
+So tunes will be activated and we'll talk about chemical ways to do that later, but then they take care of this, of the packaging of the genome. Remember I said, sir, tunes or serve stands for silent information regulator. So what does that mean? Silence is the bundling of the DNA silencing them. So you don't want the liver gene on in the brain information is the DNA and they regulate it. So two ends it's in the name. And in fact, in the 1990s, that's why I've been working ever since on trying to understand and test my information theory of aging, which has only recently thanks to the book, become a very popular theory in biology. And in fact is now I would say the leading theory of why we age 
+2  
+00:55:43
+And there's a really good metaphor. We've used it before. You've used it a lot, but I think it's worth repeating for this information theory. And again, I apologize, apologies to people who didn't grow up in the eighties and nineties, but we're going to go now from cassette tapes to combat it compact disc 
+1  
+00:56:01
+The CDs. Yeah. Yeah. Well, these, these were amazing, amazing devices. You could fit about 10 songs on them. And the way that they work is you've got digital information in ones and zeros, similar to how DNA's encoded, which has full basis. Chemical ACTG. This digital information is read by a laser and it plays beautiful music. Let's say you've got a symphony with 10 parts to it. Each cell will play a different combination of those songs, but instead of there being 10 in a cell there's 20,000 different genes to play. What I'm saying with aging is that it's equivalent to having scratches on the CD so that the reader, which is a laser these days, a blue laser is skipping and playing the wrong songs at the wrong time. 
+1  
+00:56:46
+And that sounds horrible. That's a cacophony. Nobody wants to listen to that. That I'm saying is the equivalent of the aging process. And what we've been working on for the last 20 years in my lab at Harvard is how do you slow down those scratches? And also, can you Polish the CD so that those beautiful symphonies are played again. 
+2  
+00:57:07
+And we're going to come back to this metaphor. I think probably getting in, again, there's a sort of a, a point that we can refer back to when we're talking about all of these things that we can do to get rid of those scratches, to wipe away that epigenetic junk, to reverse aging, 
+1  
+00:57:24
+Right? And then diseases of aging will go away. That's a big deal. This is I think, a turning point in medical history that we actually understand what causes those disease fund. Fundamentally not just kind of fix the actual problem when it occurs. I liken this to get getting to the edge of a cliff. And this is, you wrote this in the book, is that we've been far too often working on trying to understand why we falling off a cliff at the end of life, without even asking the question, what brings us to the edge of that cliff in the first place. Now we finally understand how we get to that cliff and even how to prevent it. 
+2  
+00:58:01
+And so at some point, perhaps we don't have to worry about diseases because we're going to be so healthy. So young that they're not going to push us off. They're going to make us sick. Maybe we can treat that. But 
+1  
+00:58:16
+Well, as we saw with COVID-19 that if you're young, you can survive. So this is really important. It's not just about diseases of old age diseases throughout life can be prevented and treated by harnessing this middle layer. These protective survival genes am Tor MPK, also ones and others, not just with lifestyle changes, which are pretty easy to implement. We can do that today, but also increasingly with nutrients, with drugs and supplements. But it's a, it's a messy world out there. And one of the things that we're going to do in this podcast in later episodes is just talk about what's true. What isn't, what supplements work, what manufacturers you can trust. 
+1  
+00:58:56
+All of this is to clarify this really untrustworthy world out there and talk about that. What is known and what is not known and what soon hopefully will be known. 
+2  
+00:59:07
+So we're going to talk a lot about what people can do individually to mitigate aging. But there's one thing that you said you think we should be doing collectively as society to address this, to keep not just us individually from that precipice, but to keep us as a, as a people, to keep us as a people from that precipice. 
+1  
+00:59:34
+Well, the there's one thing that we've been ignoring for centuries, modern medicine doesn't even think of it. And that is that aging itself is a medical condition. Aging is a disease. And as we've been talking about today and we'll talk about in later episodes, it's increasingly a treatable medical condition. So why is that important or the main problem with the way we do what I call whack-a-mole medicine right now is that you have, you wait until you get sick. You go to the doctor, which is often too late, right? Especially when it's cancer, but even heart disease is hard to reverse. Currently. If you go to the doctor, they'll treat that specific disease and ignoring what got you there in the first place. And you end up having healthy heart. 
+1  
+01:00:14
+We have pretty good drugs for blood pressure and heart disease, but that ignores the rest of the body. Our brains still gets old, and this is the worst nightmare for, for society. No wonder we're seeing an increase in dementia is because we're not treating the whole body, but now that we understand that all parts of the body and essentially all diseases of old age are due to this same underlying process, we can find ways to hold. Certainly slow down, hold and reverse this process, not just in one part of the body, but in all tissues and organs so that we can stay young, not just with our cardiovascular system, but our brains as well. 
+1  
+01:00:55
+And when we do that, that is true longevity that can get us decades longer, healthier 
+2  
+01:01:01
+Life, and we can get there together. 
+1  
+01:01:03
+Well, that's what we're going to talk about. It's not that difficult to be able to slow down the aging process, not that difficult to measure it. And we're going to learn how to do that. And this was just the primer we're going to get into the more details in later episodes about practical things that people can do every day to be able to maximize their health, their performance, how they look, and then ultimately their longevity. 
+2  
+01:01:24
+Once doctors understand that we can do this once. We all understand that we can do this. It becomes an imperative. 
+1  
+01:01:29
+Well, I, I, I say it's not just a right to live longer. It's actually your, your obligation, your duty to your family. I mean, it's not fair to just abuse your body or neglect it and have them take care of you. For 20 years in a nursing home, we owe it to our families to stay as healthy as possible and as to society as productive as possible. And let's say we get another 30 years. Well, another 30 years buys you a chance to start a new career, to visit places, to educate your great grandkids, to have a good time. We are going to have the type of lives that people can only dream of right now. This is 
+2  
+01:02:06
+The fun, these next seven episodes I'm already, 
+1  
+01:02:10
+We're having a lot of fun. We're also going to get into some rather interesting research about what works and for most part what doesn't, and 
+2  
+01:02:20
+That's going to be, I think, challenging also to a lot of people who want a very quick and easy solution or want to believe what they've they assume works 
+1  
+01:02:34
+Well. There's a lot, there are a lot of myths out there. Yeah, let's rattle some off telomeres, antioxidants, these things we're going to get into it, but it's, there are so many things that have become myths out there that do very little field longevity, but there are some things that actually do work right now and things that are just around the corner that will blow everybody's mind. 
+2  
+01:02:55
+And the next episode, we're going to be talking specifically about dieting and fasting, and we don't want to give that away, but that's that's up next, right? 
+1  
+01:03:04
+It is. And so we'll see you in a week. We're going to round this out with a thanks. If you've enjoyed the show, you can subscribe either on apple, Spotify, or YouTube, and on apple, you can leave up to a five star rating. Another way of supporting us is to support our sponsors, who I mentioned earlier in the show. And finally, another great way to support us is through Patrion. We have a Patrion website at patrion.com/david Sinclair. Thanks again for joining us. We hope to see you next week.

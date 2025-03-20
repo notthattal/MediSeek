@@ -1,0 +1,1232 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. Samer Hattar: Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood
+Published: 10/25/2021
+10/25/2021 - 2h 14m 27s
+ - 
+US
+Downloaded:
+(in RSS feed: 2h 12m 51s)
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman lab podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford school of medicine. Today, I have the pleasure of introducing Dr. <inaudible> as my guest on the Huberman lab podcast. Dr. <inaudible> is the chief of the section on light and circadian rhythms at the national Institute of mental health in Bethesda, Maryland. Dr. Hitar has many important discoveries to his name. He was one of a handful of groups that discovered the light sensing neurons in the eye that set the circadian clock. 
+0  
+00:00:40
+This was a fundamental discovery made in the early two thousands that has led to an enormous number of additional discoveries on how light regulates our sleep, our immune system, our mood, mental health, metabolism, feeding, and many other important processes. If ever there was somebody who understands how all of these processes interact and can inform best practices for our daily behaviors. It's Dr. Hitar during our discussion today, Dr. <inaudible> answers questions that are absolutely essential for us to know about our health and wellbeing, for instance, how to align our sleep schedule with our activity schedule such as exercise and how to align light activity and exercise with our feeding rhythms. 
+0  
+00:01:28
+He presents a new model of how light activity and feeding rhythms converge to support optimal health. And when those are not aligned correctly, how our mental and physical health can suffer. It's a discussion that is rich with scientific mechanism made clearly, of course, so everybody can understand as well as specific protocols to deal with shifts in day length shifts in activity, and in order to optimize sleep metabolism and wellbeing of various kinds. I learned so much from Sammer as I always do. He is an absolute wealth of knowledge on all things related to light and circadian rhythms, physiology, and neuroscience. 
+0  
+00:02:09
+I don't think you'll find anyone else as knowledgeable about these topics as Sammer. And so I'm delighted that he joined us here on the podcast to share this information before we begin. I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public in keeping with that theme, I'd like to thank the sponsors of today's podcast. 
+ROKA (Ad)  
+00:02:34
+Our first sponsor is Roca Rocha makes eyeglasses and sunglasses that are of the absolute highest quality I've spent my career working on the science of the visual system. And I can tell you that one of the things that our visual system has to contend with is adjusting so that when we go from a very bright area to a dim or shadowed area, we can still see things clearly Roca, eyeglasses, and sunglasses were designed with the science of the visual system in mind. And so they make those transitions seamless. You always see things with crystal clarity. Another great thing about these glasses is that they're very lightweight. So you don't even really remember that they're on your face and they won't slip off. If you get sweaty, the glasses were designed initially for running and for cycling and for active wear, but they weren't great for that. And they work great. And they also happen to look great for work. If you go out to dinner for social settings, so they can really be worn in essentially any circumstances. If you'd like to try Roca glasses, you can go to Roca that's R O K a.com and enter the code Huberman to get 20% off your first order. That's roka.com. Enter the code Huberman at checkout 
+Inside Tracker (Ad)  
+00:03:36
+today's podcast is also brought to us by inside tracker. Inside tracker is a personalized nutrition platform that analyzes data from your blood end DNA to help you better understand your body and help you reach your health goals. I've long been a believer in getting blood work done for the simple reason that many of the factors that impact our immediate and longterm health can only be detected in a quality blood test. The problem with a lot of blood tests out there, however, is you get numbers back, but you don't know what to do about those numbers. Specifically, Roca solved that problem at a number of levels. First of all, they make getting the blood tests very easy. They'll come to your house. If you like, you can go to a local clinic. Second of all, once you get your numbers back, there's a very easy to use dashboard where you can identify obviously what the numbers are, but also the various things that you can do to bring those numbers into the ranges that you want through either behavioral practices like exercise through nutritional practices or supplementation, et cetera. So they made the whole thing very easy. Start to finish in a way that allows you to best direct your health goals. If you'd like to try inside tracker, you can visit inside tracker.com/huberman to get 25% off any of inside trackers plans just use the code Huberman at checkout 
+Magic Spoon Cereal (Ad)  
+00:04:46
+today's episode is also brought to us by magic spoon. Magic spoon is a zero sugar grain-free keto friendly cereal. I am not ketogenic meaning I don't follow a purely ketogenic diet. I tend to fast in the early part of the day, I tend to eat kind of low carbs through the middle of the day. And then in the evening I eat carbohydrates. That's what works best for me and allows me to feel alert all day long and to sleep really well at night. Magic spoon is a terrific snack for me because it tastes terrific. It's got some sweetness, but it doesn't take me out of that state that I want to be in during the day where I'm sort of Quito ish. I would say I'm not actually in ketosis, but I'm following more or less a low carb diet during the day, which keeps me alert. So either fasting or low carb and magic spoon is consistent with that. And then as I mentioned before in the evening, I do eat carbohydrates. Magic spoon has zero grams of sugar, 13 to 14 grams of protein and only four net grams of carbohydrates in each serving. So I think it qualifies as low carb ish or low carb. In addition, it only has 140 calories per serving. It's also just delicious. They have flavors like cocoa, fruity, peanut, peanut butter, frosted. I particularly liked the frosted one because it tastes like donuts. And I particularly like donuts, although I try not to eat them too often. If ever, if you want to try a magic spoon, you can go to magic spoon.com/huberman to grab a variety pack. You can use the promo code Huberman at checkout, and you'll get $5 off your order. Again, that's magic spoon.com/huberman, and use the code Huberman to get $5 off. 
+0  
+00:06:15
+And now my conversation with Dr. Sammer ATAR Sammer thanks for sitting down with me. My pleasure. Yeah, we go way back. So you are best known in scientific circles for your work on how light impacts, mood learning, feeding, hunger sleep, and these sorts of topics. So just to kick the ball out onto the field, so to speak, how does light impact the way we feel? So when I get up in the morning, I have the opportunity to interact with light in certain ways, or to avoid light. In certain ways, I have the opportunity to interact with sunlight or with artificial light. 
+0  
+00:06:55
+Maybe you could just Wade us into what the relationship is between light and these things like mood and hunger, et cetera. Sure. 
+1  
+00:07:05
+So, I mean, you do appreciate the effect of light for vision. So when you wake up in a beautiful area, beautiful ocean light is essential. The sunrise, the sunset blue sky, beautiful mountains. So that's your conscious perception of light, but light has a completely different aspect that is independent of conscious vision or image forming functions. And that's how it regulates many important functions in your body. I think the best that is well studied and well-known is your circadian clock. And the word circadian comes from the word circa, which is approximate and DN is day. 
+1  
+00:07:45
+So it's an approximate day. Why is it an approximate day? Because if I put you or any other human being who have a normal circadian clock in a constant conditions with no information about feeding time, about sleep time, about what time it is outside, you still have a daily rhythm, but it's not exactly 24 hours. So it will shift out of the solar day because it's not exactly 24 hours and hence the name circadian. 
+0  
+00:08:11
+So just ask a quick question about that. When you say you have this us about 24 hour rhythm, how does that rhythm show up in the tissues of our body? 
+1  
+00:08:20
+Great. So great question. So it shows up at every level that we know we studied, it shows up at the level of the cell. It shows up at the level of the tissue and it shows up at your behavior. The most obvious for you is your sleep wake cycle. You sleep and you're awake and sleep at the 24 hour rhythms. And if you measure the sleep wake cycle of the humans who are maintaining constant conditions, you will see that the period length of the sleep rhythm on average is more than 24 hours in the humans is 24.2 hours. So you'll be drifting 0.2 hours every day out of the solar, if you don't get the sunlight. So the S the sunlight adjust that approximate data and exact day. 
+1  
+00:09:02
+So now your behavior is adjusted to the light dark environment or the solar. 
+0  
+00:09:07
+Okay. So if I understand correctly, if I were to go into a cave or I were to be in constant light. Yeah. And I didn't close my eyes in constant light, that I would still sleep in one coherent bout. Yes. And I would still be awake for more or less one coherent bout maybe a nap, but the total duration of my day, so to speak would be a little bit longer than 24 hours. But if I'm in, in a condition like most people are where the sun goes up when the sun goes down. And I have some understanding of that sunrise and sunset 
+1  
+00:09:43
+We'll have the understanding. You don't have to have conscious understanding you have the detection, right? So circadian photo entrainment is the word we use in training. The circadian clock to the Fortech environment is completely subconscious. You're not aware of it. It's not like vision where or image forming, where you actually know what you're looking at. So it's all hypothalamic. It's part of the brain that is not consciously driven. So you actually do not know when it happens or when it doesn't happen. And that's what we'll get into when I tell you why light affects your mood and why sometimes people don't know how to deal with light to improve their mood, for example. 
+0  
+00:10:20
+Okay. So this is a subconscious vision. Yes. Okay. Before you tell us about how light impacts mood, I'm curious, what is the relevance of adjusting this clock from little bit longer than 24 hours to 24 hours? I mean, it seems like a small difference, 24 hours and 40 minutes or 24 hours. Like what, w w what's what's the relevance? I mean, why should we care about that short duration? 
+1  
+00:10:44
+So let's do the math. If you shift out 0.2 hours a day in five days, you're shifting out one hour. So you're literally one hour off in your social behavior in five days in 10 days, you're two hours off. And if you're an organism that is living in the wild, shifting out of the right phase of the cycle, you could either miss food or you could become food. So it's really essential for survival. I think it's one of the strongest aspect of survival for animals to have the anticipation and the adjustment to the solar side 
+0  
+00:11:16
+And for humans as well. When you say animals, I'm assuming that applies to us. Yeah, I see. So even though it's just a short bit longer than 24, if you, if that accumulates over days, then you could find yourself very much out of phase with the rest of your, your species. 
+1  
+00:11:33
+It's essential. Let's say it's 0.2 hours. So in five days is one hour in 25 days, it could be five or six hours. You could be in New York. And you're feeling as if you traveled from New York to London. So you will be having jet lag in New York, even though you didn't do a jet lag travel. So it's very important for the adjustment. And if we have time, maybe we could talk about why this is important for seasonality, because also it allows animals to anticipate the change in season and the more you're high in, in the north or the south, the more that this, these weather changes occur very harshly, and you have to be ready for them. And that happens in, in, in us as well. 
+0  
+00:12:15
+I will, we, we will definitely get into seasonality. Okay. So we've got this subconscious vision that aligns us with the turn of the earth. How does that work? What's the, what is the, the machinery that allows that to happen? And how does that machinery work? Yeah, 
+1  
+00:12:34
+So we know we knew that in mammals, including us, we are mammals humans, that the eyes are required for this function. So if humans are born without eyes, or the optic nerves are damaged, humans are not able to adjust to the solar cycle. So we know that the eyes are required. And since we thought we knew about the eyes a lot before 2000, we thought that you 
+0  
+00:12:56
+Said before the year, 2000 
+1  
+00:12:57
+For the year 2000, yes, we thought it's these photo receptors in your retina that allow you to see, so in the human retinas, there are two types of photoreceptors. They are called rods and cones because of their shapes and these rods and cones simply take the photon energy, which light is made off. And they change it in a way to an electrical signal that allow us to build the image of the environment in our core disease, subconsciously consciously in this situation, cause it's vision, right? This image, forming vision, it's a, it's a visual cortex and association associated cord disease, which allow you to build conscious perception of the environment. 
+1  
+00:13:36
+However, people have found, including me with the work of David Burson and Ignatia prevention, that there is a subset of ganglion cells. The ganglion cells are the cells that leave the retina, their axon leave the retina and project to the brain. So these words spoke to only really wrote down cornea information from the light environment to the brain. We found that a small subset of these ganglion cells are themselves photoreceptors that were completely missed in the retina. And these are the photoreceptors that relay light environment subconsciously to the areas in the brain that have an house, the circadian clock, or the circadian pacemaker, which adjust all the clocks in our bodies to the central brain clock that allows them to entrain to the 24 hour light dark cycle. 
+0  
+00:14:27
+Incredible. So in the year, as I recall, because I was a graduate student at the time in the year 2000, there was this landmark discovery made by you. He could Prevencio David Burson and others that these cells exists that can communicate day and night information to the brain. And in this very small subset of cells, since then, I've heard, but maybe you can confirm or refute that this system that connects the eyes to the rest of the brain is actually the most ancient form of vision. That this is probably the form of vision that some early version of human beings had before they had pattern vision before they could see colors and shapes and motion and all that. And that the, that the same cells that perform this role are actually similar to insect eyes. 
+0  
+00:15:14
+I think I heard David Burson say once that we actually have a little bit of the fly eye in our eye, what's he talking about? Yeah, 
+1  
+00:15:21
+It's really interesting actually, because these same ideology seeds, we discovered the contribute a little bit to image formation, and now work from definition. Men specifically have proven that they do contribute to image forming functions, but they contribute to very limited aspect of image formation. So it fits your hypothesis that these are an ancient photo receptors. The other thing that adds to that hypothesis is that they are expressed in cells that don't have any modification that make them look like photo receptors. So the photo receptors that I told you about that are important for vision image formation, they have very specialized structures that allow them to back these structures with photo pigments. 
+1  
+00:16:05
+These are the four to detecting proteins, so they could detect a high sensitivity of photons that pass through them. These IPR GCs don't have these new photo receptors, don't have these specialized structures. So they just really need a lot of light at the time. We thought they need a lot of light to be activated. So that's why we think they are ancient. And that's why you think they adjust to ancient functions that are as important as regulating your body circadian clock to the solar environment to solar day or to the light dark cycle. 
+0  
+00:16:42
+So you mentioned IPR GCs, intrinsically photosensitive. So these are cells that connect the eye of the brain that behave like photo receptors, essentially. And then you mentioned melanopsin, which is the actual pigment that converts the light into the electrical signal more or less. And my understanding is that melanopsin was identified first in frog Malana fours. So does that mean that we have like little pieces of frog skin in our eyes, 
+1  
+00:17:08
+Honestly, David versus say you have a fly in your eye because it sounds better. The more accurate I think is that you have a frog skin in your eyes. It's not as catchy, but really melanopsin really the name melanopsin is from melanocyte opsin. So it's melanopsin because it was found in the frog Milana sites. You know, the frogs can change their color depending on light and melanopsin drives this response. So when Ignatia prevention first discovered these obstinance in frogs, luckily he was smart enough to see if they are expressing the frog eye. They were expressing the frog eye and it appears to be retinal ganglion cells, which I told you, the one that connects the eye to the brain, he had the insight to go and see if they are expressing in the monkey eye. 
+1  
+00:17:52
+And he found that they are also expressed in what appears to be retinal ganglion cells. And really that's what opened the field wide open. Then David Burson did the seminal experiment where he went to the brain where the central oscillator, the oscillator that drives circadian rhythm in the brain called the suprachiasmatic nucleus that has been known for many years to receive retinal input. And he labeled the cells that project there. And then he found that even if you destroyed some cones, you could get light responses from these cells. So you could imagine he, he nearly fainted when he saw that these cells can respond independent completely in the absence of rod and corn input. 
+0  
+00:18:32
+I'll never forget reading those papers. In 2000, 2001, I was at the meeting in DC when ag HSA, Ignacio agate, we call them Maggie show this image of this, basically what is frog Malana force in the human eye. And everyone was like, oh my goodness, this is the thing. And I want to get into how light actually can control circadian rhythms. But I think it's worth mentioning now that people who are patterned vision blind, so people who cannot see and no conscious vision, but have eyes, many of them still have these cells. These melanopsin intrinsically photosensitive cells and can essentially match or in train. 
+0  
+00:19:13
+As we say, onto the light dark cycle. 
+1  
+00:19:16
+In fact, they possibly have no problems in circadian. Fortune Tremont they'll have a normal sleep wake cycle, but they're totally blind, but they are totally image blind. And what's really interesting is that, and this story I heard from Chuck sizer. So I'll give him credit that some of these people who are imaged Bryant, usually they get dry eyes and they give them a lot of pain. And doctors used to think, oh, since they are image blind and they're getting dry eye, why don't you just remove their eyes? They're not using them anymore. And the minute they would remove their eyes, they start having cyclical sleep problems indicating that now they are not in training to the light dark cycle and are having cyclical jet lags when their clock shifts through the light dark cycle. 
+0  
+00:19:57
+That's really interesting. And I hear from a number of blind people, you know, in my various aspects of my job. And they, a lot of them have issues with, with sleep. I think in part, because they don't realize that they too need to see light at particular times of day or night in order to match their schedule. Well, I think that's a perfect segue for us to talk about how light and viewing light can impact our sleep wake rhythms. And then we will move into some of the other ways in which light can impact other forms of bodily functions. 
+1  
+00:20:30
+Yeah. So I love the way you set it up because one of the most interesting and difficult aspect of trying to educate people about light effect on subconscious vision is that it's subconscious. So we're all aware of what we think is intensity because we see the room, but you know, if you talk to people who know how to take photographs and stuff like that, they know that the intensity is varies greatly, but our system, because we have to see the same way in very bright conditions and very dim conditions. We're not very good at estimating intensity consciously. So when you try to tell people about intensity, you really struggle because they think they know intensity, but they really don't. 
+1  
+00:21:12
+You mean light, intense, light intensity. So, so that the cones themselves have an incredible ability to adapt to different light conditions. So you can see all different conditions. Otherwise it'd be a disaster. You know, if you don't change the, the setting on your camera and you go from inside the room to the outside, it becomes completely wide. You don't see anything. So if your cones don't adapt to the environment, then you're not going to be able to see in this room and in, on the beach. Right. But the problem is you're your IPR. She sees the cells that we talked about. They measure intensity pretty well. They really know what intensity is. They have a very good linear measurement of intensity. 
+1  
+00:21:53
+They don't adapt as well. They don't adapt actually that much, to be honest. So that tells you that subconsciously the system is used to measuring light intensity in a natural environment. Because when you're on now in the natural environment, you don't have, you know, industrialized lighting. Then you, you know, your system is functioning very well. But now when we change these environments, we could really mess up ourselves. So you have to teach people how to understand intensity. And that's something that you have to explain to people. And I think I love to do it myself. I do it in what is called the lowest amount of lights required to allow you to see comfortably. 
+1  
+00:22:33
+So you have to do this as an fun experiment. 
+0  
+00:22:36
+Okay. So explain to me how this goes. And maybe we could break it up in the day into three or four parts. So let's say assuming that most people wake up in the morning as opposed to night shift workers, et cetera, we could talk about later, but they wake up in the morning. So let's divide the day into quarters. What is, what is the proper way to interact with light in the first part of the day? 
+1  
+00:22:59
+So I honestly think the easiest thing is waking up, get as much light as you can 
+0  
+00:23:05
+Into your eyes. 
+1  
+00:23:06
+Yeah, it's really nice. Your system is primed. If you're in trained is prime to get light, the sun should be out most animals in the wild. They actually seem to track the sun. The sun has a huge influence on life. On earth. It's actually life on earth is because of sun. So that's easy in the morning when you wake up, you need light. Okay. 
+0  
+00:23:26
+Okay. So what is the behavioral practice that you recommend? Does it, let's say somebody is in a condition where there's a lot of cloud cover. Is it important to get outside? 
+1  
+00:23:35
+So I have to tell you, the cloudiest day is going to be much more brighter than your room. You could ask any photographer a cloudy day, unless it's really dark, dark clouds. Usually cloudy days have much more right outside than inside the room, even when you have good lighting inside the room. So I think in the outside is usually even when it's cloudy, you're going to get enough intensity to help you adjust your cycle to the day, night cycle. 
+0  
+00:24:02
+How long do you, these are general rules of thumb, but how long do you recommend people go outside 
+1  
+00:24:07
+Daley? You possibly need vary if you do it daily, because you remember this thing is going to happen on a daily matter. So the 
+0  
+00:24:14
+Clock is tracking it on a regular absolutely. 
+1  
+00:24:16
+It's spot on counting. It's tracking. I would say 15 minutes, if you don't do it daily, you may want to increase it. And we talk about when you travel, what you can do, but, but yeah, 15 minutes should be fun. You do it more. It doesn't hurt. 
+0  
+00:24:29
+And through a window, I was my understanding is that through a window, it dramatically decreases the amount of light energy. 
+1  
+00:24:35
+It depends on how, you know, how thick the windows are and how dark they are. So it's, but it's also nice to go outside and to, to feel the season 
+0  
+00:24:44
+Sunglasses 
+1  
+00:24:45
+Off. I don't use sunglasses, 
+0  
+00:24:48
+The Jordanian pigment. So yeah, whereas my eyes are very sensitive, right. 
+1  
+00:24:55
+But I personally, you know, if I'm in the shade or if it's not incredibly bright, I try to, especially in the morning, but I'm also an early person. So we have to differentiate period early on you wake up. I wake up at four 30 in the morning, the sun isn't 
+0  
+00:25:09
+Out yet. So what do you do? You turn on artificial lights? 
+1  
+00:25:12
+I usually don't turn on artificial light because I know the sun is going to come off eventually, but that's why I don't like the change in the timing that they do. 
+0  
+00:25:20
+You ever, what do you do between 4:30 AM and 7:00 AM. 
+1  
+00:25:23
+I mean, I just got my computer, so possibly I get enough light, but, but in reality, I mean, as long as you let your buddy get the morning sunlight, which I think is really to me and I, there is no evidence, but to me, this is, if you look at all animals, plants this morning, sunlight seems to be very important. And I, you know, we don't have experiments to show it, but I have a gut feeling that it has a huge impact on humans. 
+0  
+00:25:51
+Well, Jamie's answers lab at the Stanford sleep lab has shown that these early morning light flashes can adjust the total amount of sleep. That one will get makes it easier to get into sleep. Absolutely. 
+1  
+00:26:03
+And Ken Wright also did this beautiful camping experiments that 
+0  
+00:26:08
+Showed that maybe she could describe those. Cause those are beautiful. 
+1  
+00:26:11
+Experiments are beautiful experiment. He sh he took these college students that have the late onset of sleep and late waking time. And then he said, let's go camping and just don't use any artificial light. And you could go to sleep as, as, as late or as early as you want. And wake up as late as early. And he found a huge shift in their sleep pattern just by exposing them to the light dark cycle. I mean, so, 
+0  
+00:26:36
+And it lasted and it lasted even after they came back, it was two days of camping reset the 
+1  
+00:26:41
+Circadian five days, but it lasted. Yeah. It's pretty amazing. Yeah. It's really incredible. 
+0  
+00:26:46
+Okay. So get bright light of some sort early in the day, ideally sunlight, even on a cloudy day, it's going to be brighter than indoor light. Oh, that's easy. Okay. 
+1  
+00:26:57
+And the other thing that I would like to mention to people, if it, if you think it's very dim outside, let's say it's very cloudy, stay longer. So remember intensity is only one component. Duration is also important because remember that the circadian system is not like the image system in the MES system. You have to change every second because you're looking at different objects. You have to change your perception. But for the circadian system is trying to figure out where am I in the day, night cycle? So the more you give them the information, the better you are. So if it's very bright, you don't need a lot because it's clearly going to make you fire like crazy. But if it's not bright, stay longer, stay for one hour, you know, have your coffee outside or something like that. 
+1  
+00:27:39
+It's just, 
+0  
+00:27:41
+I think you said something extremely important, which is that this circadian system is trying to figure out when you are in time. Exactly. Not where you are in. 
+1  
+00:27:49
+So I said, where you are in time 
+0  
+00:27:51
+When you are, oh no, no, I wasn't correcting you. I just meant that it th I think fundamentally that's the, the, the, the incredible thing about this system that you have this clock, this 24 hour clock in your brain, but it, it needs to be synchronized to the outside. So could we go a little deeper into this circadian setting behavior and come up with some general rules of thumb? So let's say it's a very bright day, extremely bright, no clouds. Sun's out. You said 10 minutes, 15 minutes. 
+1  
+00:28:22
+And I'll tell you if you're sensitive, don't you don't even have to go in the sun. You could be in the shade. There's going to be so many photons out there in the shade is going to be perfect. You don't even have to see the sun. You don't have to have the sun, you know, it's great for vitamin D. That's a different story. You could do this for your skin and, and, you know, protect your skin. That's not my area of expertise, but for, for that effect on the circadian system, as long as you're outside in the shade and a sunny day, 10 to 15 minutes should be ample amount. Okay. And then 
+0  
+00:28:54
+Let's, let's say it's kind of overcast. You know, it's not particularly bright or there's, you know, solid cloud cover, but you know, obviously the sun is out, but you're, it's not as bright. How long do you think it would take to set the clock? 
+1  
+00:29:07
+15 should be sufficient. Stay for half an hour. Say for 45 minutes. If it's very dark, Rob. Yes. Stay for longer. 
+0  
+00:29:14
+Okay. And if, for some reason, one finds themselves very far north, and it's very, very dense a cloud cover. How long, and at what point should somebody consider using an artificial light source to mimic the sunlight? 
+1  
+00:29:30
+Yeah, honestly, this is where we don't have a lot of information still, because this is where we're going to discuss this. Maybe in more detail, that if you put humans in artificial conditions, the circadian system is very sensitive to light, but in reality, in the real environment, light also is affecting other aspects that are independent of the setting of the circadian pacemaker and these which we call the direct effect of light on mood, for example. So that is very hard to figure out what intensity you need to use. I know we haven't done enough experience because this system has been discovered just recently, but I would say if you use bright light in the morning, and I, I mean, it's hard for me to give numbers. 
+1  
+00:30:14
+It can get complicated, but yeah, I mean, if you're honestly, if you're that far north and you're in the winter and you want to get, make sure you don't use these light boxes, I would suggest that personally, but that's it. 
+0  
+00:30:28
+I use, it's actually not designed for circadian setting, but I have a 930 Lux light pad that I bought. And I bought it. It's, they're very affordable compared to the Dawn simulating lights, which are, which are quite expensive, frankly. And I, I put it there. And so I just, basically, when I wake up in the morning, I use that until the sun comes out and then I make sure once the sun is out, I go outside, but I keep that thing on all day. And I don't know if that's good or bad is a good or bad. I 
+1  
+00:30:56
+Honestly, I don't think being exposed to bright light in the day is going to ever be bad because really if you're outside in the day and unless, you know, the worst going to happen, if the temperature is very high, your body's going to say don't dehydrate and go to sleep. So you could tell actually sometimes when it's very hot, the more you get exposed to bright light, the sleeper you feel in the afternoon, which is counter-intuitive. So that's to protect 
+0  
+00:31:21
+Us. You think against dehydration. I 
+1  
+00:31:23
+Think if you think about the human evolution from near the equator in them, between noon and a certain time in the afternoon, it would have been very hard for you to maintain physiological homeostatic function, being active at this very high temperature time. So I think not being was away. That's why I think it has a major function, which is still not being, was a way to somehow take you away from that dangerous zone. And maybe that's why people in the north, they seen the winter, we can wake up in the morning cause they don't have this long lights. So they sleep more at night. But in the summer they say, we feel like we can go to sleep. We have to put all these dark curtains. So I think, you know, venturing that up that much north up north has been came up with problem because evolution was used to a certain light environment that was completely changed with a human with other animals. 
+1  
+00:32:17
+I think that lived there longer. They have come up with very interesting adaptation of actually measuring even very small changes in the light, in the light intensity is that still occur. And so, and even if you're near the poles, even though it's always light, but there is a change in the light intensity across the day, night cycle. So your system, if it's linear, and remember I told you that IPR GCs are incredibly linear can still measure, oh, this is lower light than higher light. If, if, if the organism has the ability to do that, 
+0  
+00:32:49
+Let's see. Yeah. It's interesting. I've, I've spent so much time learning from you fortunately about these cells. And yet I never really appreciated until now how on the one hand they are tracking the amount of light to understand when we are in time relative to the 24 hour cycle, but also that you keep mentioning this, this linear measurement of intensity that they really are trying to figure out when we are in time by measuring the intensity of light. And of course the sun is the most intense source of light available to us. So, okay. So I think we've nailed down that first part of the day. Basically it's get 10 to 30 minutes depending on how bright it is and try and do that as, as often as possible to give the system a regular, 
+1  
+00:33:32
+The daily is the best this system is really about. And you'll see that even for the effect on depression, it's about multiple days. It's just so you don't have to worry if you missed it one day, you know, stay longer if you want. But if you're in a hurry and you want to do other stuff, that's a great recommendation. 
+0  
+00:33:49
+So you might want to compensate with some extra time if you missed a day or two. And this is why I I've heard you say before, it's entirely possible to get severely jet lagged without traveling simply by staying in, being on your phone too much, not getting the sunlight 
+1  
+00:34:04
+During the pandemic. A lot of people mentioned that their sleep wake cycles suffer the bot because if you're not going out and if you're staying at home and you don't have big windows and you're waking late, waking up late, and then you're using very bright, light too late at night, your body is going to shift and now your day is going to start. Instead of like really when the sun comes up, let's say at six o'clock in the morning, it's going to seal, it's going to start at 11 o'clock in the morning. That's what your body's going to think is the beginning of the day. So then you're not going to be able to sleep at 10 o'clock at night, because now that's really for you for your body's completely different timing. 
+1  
+00:34:45
+And you could see this happen during the pandemic at a very high scale. People get delayed in their sleep wake cycle a lot. 
+0  
+00:34:52
+And there is this idea of chronotypes that we all, each intrinsically have a best rhythm of either being a morning person. You called yourself an early person or a night owl, or more of a kind of standard, you know, to bed around 10 30, up around seven type thing. And the, and I think there are now good data, correct me if I'm wrong from the national institutes of mental health and elsewhere showing that the more we deviate from that intrinsic rhythm, the more mental health issues and physical health issues starts across. 
+1  
+00:35:23
+So there is great data on this, and there is a couple of things that complicate this. The first is the people who usually are late. They tell you that the society doesn't accommodate what led by 
+0  
+00:35:33
+Late. What, what do you mean? People that wake up late and go to 
+1  
+00:35:36
+Sleep, sleep late and wake up late. They, they have an overwhelmingly higher level of depression and failures. I mean, clearly, I mean, the reason the people say sleep early, wake up earlier better because human notice that people who wake up 
+0  
+00:35:52
+Go to sleep early and wake up early, they do better in life. They notice that and just perform better they perform. But the question is, is, is that intrinsic to the system or is that society because society start things usually early or late, that's a hard question to discriminate against late 
+1  
+00:36:07
+Rise in a way we discriminate, right? But the other explanation is can REITs experiment these late riser, if they were truly cronut typically late, why would they shift so easily when you put them in the law? If you were really chronic, typically late, and there is a phase of relation between the light dark environment and your circadian clock, then doing this camping experiments should not have caused much changes because it's not that, you know, your light is going to affect you in a certain way, is that this is the relationship that your body decided that I'm a late sleeper, late waking. So I honestly, I'm still unable to figure out how much of the slate waking up is controlled by the light environment and how much is interesting. 
+1  
+00:36:53
+I'm sure there are differences, but are they as big as we see in the environment, because you have people that go off to sleep 7:00 PM and wake up at 1:00 AM. These are clearly advanced phase. 
+0  
+00:37:06
+So people would go to sleep at 7:00 PM and wake up at 1:00 AM and feel 
+1  
+00:37:11
+I'm not so sure they feel good, but a lot of the time you talk to people, they say they are high achievers, but they suffer because, you know, they, they wake up, they go to 7:00 PM, wake up advanced phase sleep syndrome. They call it, they call it a syndrome, but you know, but then you have people who would not be able to sleep through 5:00 AM and not be able to wake up the 3:00 PM. Right. And I'm not so sure that the circadian system is that variable in the human population. I mean, clearly there are maybe some genetic factors that make a small percentage of like everything with the belt shape. But I think most of the time, the light environment may play a role. And once as you, as we've talked about this as a long-term effect of light, once you get into a rhythm and I, I don't mean it as a fun, in reality, once we get into a rhythm, it's hard to break out of that rhythm because if you start sleeping late and waking up late, you're not getting the morning sunlight. 
+1  
+00:38:06
+Right. And so you you're just going to be late. And if you're like me waking up early, you're getting the morning sunlight. You're getting what size of the set? I said his last name, wrong. I'm the one in Stanford who did that? 
+0  
+00:38:20
+Oh, Jamie's, I'd say, yeah, he actually worked for <inaudible> and I's in those, in those both phenomenal scientists. W what it seems to me is the case is that the only way to really know if you're meant to be an early bird as they call it an early person or a late person, or somewhere in between is to get morning sunlight and figure out whether or not that makes you feel better 
+1  
+00:38:48
+To understand, to be educated about how to measure intensity, how to measure. I put it between quotation because you either get to a measuring device, but you cannot depend on eye on your eye to measure intensity. 
+0  
+00:39:03
+Okay. So how do we do that? Cause you're you keep coming back to this. So I, I, that tells me that it's important. So obviously, so there are apps, like free apps, like a light meter where you can walk around and hold the button down and see how many locks, you know, are in this. 
+1  
+00:39:17
+These are complicated because you have to point them to specific regions. So 
+0  
+00:39:21
+How do people start to develop an intuitive sense of the measurement of intensity? Yeah, 
+1  
+00:39:27
+I think at one point I posted on Instagram, how I keep my nighttime at home. And I found out that my night vision is very strong. So I found out that I, especially in the winter, I only need candle lights. So I literally use these tea lights, and I put like 15 or 20 of them are romantic. And it's so nice. I could see it clearly doesn't affect my circadian system and your cats and my wife. It's just, it's just great. Right? But I don't expect people to have the same night vision as me. So the simple, I mean, I still people do the experiment. So if you put three or four lights in your room, switch to sit for 15 minutes, you switch to off switch to off. 
+1  
+00:40:11
+Let's say you're using five. And see, after 15 minutes, you will not recognize, just switch these two off. My gut feeling is that most people would need at least 10 times less light than they use at night to see the problem. People use it. Because most of the time they didn't see the morning sunlight. They are actually hungry for light without the knowledge. So they come switch all these lights on, but the wrong time, because they woke up. 
+0  
+00:40:36
+Okay, now, now I understand. So, so this morning light viewing goes way beyond apps, setting your clock. It's also a way to determine how much, how little light you need later in the day. And we, and we're going to talk about this in a moment, but how little light you get later in the day is a very strong determinant of things. Like when you will wake up, whether or not you wake up feeling refreshed, et cetera. Let's, let's not say, 
+1  
+00:41:00
+Yeah, I'm going to break it on your show. And through that, I'm going to tell you, I think there is something else that people do need to think about, which is the tripartite model that this model incorporate three components we should talk about in details that allows us humans. Aren't all animals to incorporate the circadian clock and its relation to light the homeostatic drive and the direct effect of the environment, which includes stress, light, all kinds of stuff. They have to be incorporated together. If you think that's what I think right now, if you think of one alone, you will always miss something. When you think of them as a whole things really become clear. 
+1  
+00:41:41
+It's actually, 
+0  
+00:41:42
+Okay. Well, we will definitely want to hear about your tripartite theory and, and go into detail about this homeostatic mechanisms. I want to make sure that for people who are thinking now, I'm sure about light and how it impacts them. So the morning light viewing behavior, I like to think we've tacked down clearly. And, and thank you for that because there's so much information out there and I've tried to relay that information. Of course, you're my primary source for all things circadian, as well as Jamie and others. Of course, Matt Walker. But I think you've made that very, very clear. Now let's say I've gotten my morning sunlight. Okay, great. Maybe my bright artificial light and throughout the day, you said to get a lot of light. 
+0  
+00:42:23
+So I'm working at my desk. Maybe I'll, I'll go out during the day a few times, but I'm working at my computer. I'm doing things. Is there anything about light viewing in the middle of the day that people should keep in mind or can they just sort of freestyle it depending on what they're doing? Most people are not, you know, in a dark room throughout the day, 
+1  
+00:42:42
+That's feeling. If you've got your morning sunlight, you walk from your car slowly, or you walk to work. You didn't wear sunglasses when the lights were still dim in the morning that you could freestyle it. That even if you don't get a lot of light, there is a way to just, you know, in the day you don't have to just worry about getting a lot of bright light. But personally, I like to do that. So I go out at lunch and, and have my lunch outside as well. This reminds the buddy that here it is even brighter now, but the evidence is that you could literally help your circadian clock by giving lights at Dawn and dusk. But again, if you think of the tripartite model, this may be important about sort of circadian clock, but is it important for your mood? 
+1  
+00:43:27
+So that's where I think you need or the homeostatic drive. So that's where you need to think about it. So for the clock, for in training your clock, you literally can train it only by the noon sunlight. You actually don't need Dawn and dusk. 
+0  
+00:43:42
+Yeah. And I appreciate that you're distinguishing between circadian effects and other effects of lights. You're being very precise, which is, is appreciated until we hear about this tripartite model, which we will cover for the, for the sake of the discussion. Let's treat the light viewing behavior as what are the benefits or drawbacks of viewing light for all biological purposes, not just circadian settings. So in the morning, it's clearly going to set the clock and then it, during the day, if I understand correctly, the idea is to get as much bright light as you can, because you're feeding. It sounds like a sort of light hunger. 
+1  
+00:44:19
+Exactly. I see. I love this way to put it. I think there is a weird light hunger considering that we are not photosynthetic organisms. There is a weird light hungers in animals that they need to measure. They need, they need measure. And I think that relates to the season because the whole reproduction cycle of animals is going to depend on the availability of food in the environment. And if you don't know, when the season is going to happen, they don't have calendars. It's going to be very hard to survive. So I think that's why we have this light hunger. That's a major hypothesis. It's not being tested. 
+0  
+00:44:53
+Interesting. So then afternoon and evening start to approach. So I've had this weird experience. Maybe you can psychologically or biologically diagnosed me now Samer. So where if I go into a movie in the afternoon, like a matinee and I come out and it's dark, I notice a significant drop in my mood and my ability to go to sleep. Whereas if I get some view of the light in the evening, it doesn't have to be the sunset. Although sunsets are nice, but I get some light pulse in the afternoon that I have no trouble whatsoever. Following 
+1  
+00:45:29
+This happens in a daily, on a single time to watch. 
+0  
+00:45:34
+That's interesting. And then you mentioned the camping experiment where, when they went camping, they're seeing the sunrise and the sunset. So what should people do in the afternoon slash evening time in terms of their light viewing 
+1  
+00:45:47
+Behavior? I mean, the best thing to do is to let the natural light creep in, into darkness, right? That would be the best, but clearly that would be inefficient. Do you want to go home? You want to read, you want to talk to your kids. You want to talk to your family. So I think, you know, it's nice to extend the day. I don't think that's wrong. If you somehow can block that light from affecting your circadian clock. So 
+0  
+00:46:12
+Should people use blue blockers in the evening? 
+1  
+00:46:15
+I personally do not like any blockers that take a single wavelength of light. Because again, if you think of a holistic holistic approach, yes, the blue blocker is going to prevent you from effecting your circadian clock very much. But then your vision is going to be distorted because we always see in full spectrum, the sun has this beautiful spectrum, right? And then when you start seeing, without the blue things look yellow and it can get really weird, right? I mean, so I personally, I've tried the blue blocker and I couldn't even wear them. I thought they were just really horrendous to be honest. 
+0  
+00:46:52
+Well, along the lines of blue blockers, I think a lot of people mistakenly wear them all day long. Oh my God, that would be a lot of people do that. A lot of people do that. They think that that blue light is bad. I think that the, the concept of blue light being bad led to the, a lot of product development and a lot of people are just assuming that viewing blue light is what was giving them headaches. When in fact it might've just been looking at screens at close to 
+1  
+00:47:18
+Here's the problem, right? I mean, the blue light got the bad reputation because people who gave a pure blue light showed that it goes a hugely retinal damage. But again, if you're using blue light in its pure form, it has a lot of energy because it's shorter wavering, but we're talking about full spectrum light. There are ways now where you could change the spectrum of the light and keep it white between day and night and change the content of the color without you noticing. So you don't even have to affect your vision. So 
+0  
+00:47:49
+How would you go about doing that? So 
+1  
+00:47:51
+You just lower the level of the blue light. You don't have to eliminate it. So just dim 
+0  
+00:47:55
+The lights, dim 
+1  
+00:47:56
+The blue, but keep, then increase the yellow, but keep all the colors in a certain white. So, you know, you could have different warmness of white and people know how to do this. Physicist know how to do this. People who work with light, no, 
+0  
+00:48:10
+To do this well, maybe somebody in the wellness slash I don't like the word, but biohacking or optical community, we'll do this. I think it's a really important, I see so many Lou 
+1  
+00:48:21
+Lockers. I don't know why, 
+0  
+00:48:23
+Why they look well, I think they're just uninformed. I think, frankly, 
+1  
+00:48:26
+To be honest, it's easier, right? It's easier to explain to somebody, if I respond mostly to blue, remove blue, you'll be fine. Right, right, right. But that's not as simple as that because they also receive Rodin corn inputs. So you want to actually, and you know, we could go into details. That's boring for your listeners, but it also affect the adaptation properties of the whole retina. So you don't want to do something so drastic that you take just one color of the spectrum. It just seems very counter-intuitive to me, to be honest, 
+0  
+00:48:56
+You've told me before as well, that just because these intrinsically photosensitive circadian setting ganglion cells respond best to blue light. If the light is bright enough, because they also get input from other components of the eye, it doesn't matter if you block the blues. If you're looking at bright light at night, you're going to disrupt your circadian cycle. 
+1  
+00:49:18
+And, and that's why I didn't want to go into the boring details, but themselves, the photo receptors have a wide range of responsiveness. So they are more sensitive to blue light, but that doesn't mean they don't respond to green light or to shorter than blue light. They respond to very, very wide spectrum with different sensitivities. So unless you understand the system just removing for Haiti, I don't think it's going to do 108. 
+0  
+00:49:42
+Yeah. So your home is a cave at night, basically with some, with some, it's a nice cake with candles, right? And you and your, and your cats and your lovely wife who I know who is also a phenomenal scientist in her own, right? Yeah, she is. And, but you do keep your home quite dim to dark at night. Yeah. 
+1  
+00:50:06
+In fact, I did go to two meetings with some of my friends who work on this and they really struggled with me. They said we could have broken our legs living in the same light environment that you do. So I am an extreme, but I measured it for myself. And I asked, raise you my wife, if she's okay with it. She also liked the dimness. Both of us can see well in, in dim conditions. And, and that helps us a lot, but I think you have to measure it for yourself. You really have to do, it's a very simple experiment. Just try to dim the light as much as you can. I call it the minimum amount of light you require to see 
+0  
+00:50:43
+Comfortably. And that's how you want your environment. Ideally, 
+1  
+00:50:47
+This is what I think is the game changer. If you reach to a level where it's just barely, you're literally on the cusp of seeing uncomfortably versus seeing very comfortably, you are going to be very much better than I don't like to make it completely dark. I think complete darkness, induce anxiety in humans, to be honest. So I don't like complete darkness 
+0  
+00:51:12
+Kids. Don't like complete darkness. They like nightlight 
+1  
+00:51:14
+Even nocturnal animals. Don't like complete darkness. I mean, we have studies in animals that are nocturnal, that if you put them in complete darkness for several weeks, they, they co they have severe anxiety and depression like effect. So keep the light dim, you know, use red light. That is very dim. If you want to keep the room for sleeping red light, that is very dim, has very small effect on, on, on circadian clock. And below 10 Lux of red light, literally doesn't affect sleep at all. So there are ways to do it. It just, we need to educate the public. And I feel like you literally need the whole lecture to just explain to the people how to deal with life, because it's not as simple as people think. 
+0  
+00:52:01
+Well, that's what we're doing here. We're stepping through it piece by piece. And, and the reason we're doing that is because it's not as simple as saying, just block blue light or get a lot of light during the day and minimal 
+1  
+00:52:11
+And put it in perspective to tell it. We only have three different cones in our retina that respond to three different colors. We call them red cones for simplicity, green cones and blue cones. Yet we have only three of these, but we could see massive palette of colors. So that tells you something. If the system was just simply about a single color and it's just removing four 80 or just blue is sufficient, then we should only see in red, yellow, and blue, we shouldn't see all these different hues of color, but because the system is not that we see all these different colors. And that's why it's important to remind people that the white light is made of many different colors. 
+1  
+00:52:55
+It's actually like the rainbow. That's why you see the rainbow it's made of many colors. White light is never truly white. It's made of lots of different colors. It's like 
+0  
+00:53:04
+The pink Floyd album 
+1  
+00:53:05
+Cover. Exactly, exactly. Exactly. 
+0  
+00:53:09
+So dim at night, maybe dim red light, ideally, or candle light find that minimum required light level. 
+1  
+00:53:17
+Just make sure when you lower the lights sit for at least 10 to 15 minutes, let your system adapt because if you had a bright light and you switch it off. Surely you're going to suffer because your system didn't adopt it. It was used to very bright light. So you want to engage your rods, which take a long time to dark adapt. So that's why I tell you, just wait a little bit, don't just switch it off. I don't see. Put it on, put it off, sit down, wait for 10 minutes, ideally, 15 minutes and then see how you see. And then once you do that, you will notice that actually. Yeah, I could see quite well, even with much less light. 
+0  
+00:53:57
+What do you do regarding screens? 
+1  
+00:54:00
+Yeah, that's, that's the hardest thing again. I mean, there are beautiful programs that change the whole intensity and color of the screen. These could help dim your screen at night to the lowest part. I mean, yes, you won't see it when you wake up in the morning, but then you can increase the intensity. So try to decrease. I mean, just what we were talking about. Think of light, intensity, duration, color, and time of day. You really have to keep these four things together, right? 
+0  
+00:54:28
+We've roomed together at a couple of meetings from time to time, no longer, because one of us not to be named has a severe snoring issue that made the other one pseudo, homicidal. You can guess who that was, but I've seen you check your phone after dark once or twice, and you did it by sort of pointing your phone away from you, right. And actually I'm sort of half joking, but I, and you dim it quite a bit. I'm sort of half joking, but it actually makes sense that, you know, if you shine a flashlight in your eye, it's much brighter than if you shine a flashlight, 
+1  
+00:55:05
+The direct line. So if you'd list, look in the side, most of the lights is going to go this way and you're on this English. 
+0  
+00:55:11
+Okay. So, and as silly as that might seem to people listening, I mean, what it means is that getting bright light in your eyes at night is something that you really want to avoid. And, but there is the reality that, 
+1  
+00:55:22
+And, and even when I checked, sometimes if, if I, you know, if I have something on, I check it so fast and switch it off so fast. So I'm also aware my messages. I'm also aware of the duration, right? So duration, intensity, color, and time of day. Ideally I could not check. I phones an iPad. I don't use iPad at night because it's hard to lower it enough because it's a huge, but even my iPhone, I try not to use it at night. And like once it becomes eight 30 or nine, I don't look at it at all. 
+0  
+00:55:53
+Unless it's world cup or Euro cup, in which case Sanders on 24 hours, everybody that's 
+1  
+00:55:58
+On me. 
+0  
+00:56:00
+It's a big soccer fan. All right. This has been incredibly, no pun illuminating. Let's talk about the relationship between light and some of these other non circadian or pseudo circadian effects. And, and we will try and link those, but you had a, what I consider absolutely landmark beautiful paper published in nature a few years ago, showing that if you disrupt the exposure to light or the timing of the exposure to light that there are dramatic effects on the stress system and on the learning and memory system, maybe we could talk about each of those separately or together. 
+0  
+00:56:44
+W what, what are the effects on stress and the effects on learning when light viewing behavior and sleep wake cycles are disrupted? Yeah. 
+1  
+00:56:53
+Okay. So just to remind you, you know that, but to remind your listeners that I was trained as a circadian biologist. So I really was indoctrinated into thinking that light has to affect the clock, which then caused all these different effects. So that's, that's what I believe. That's my dogma. That's what would have made me really happy. And then Tara, the gates and Cora ultimately joined the lab and said, and we started discussing a lot of data. And we said, what if there is a direct effect of light that we're missing independent of the circadian clock? So this is not an easy question to us to answer, because as we've been talking all along light affects the circadian clock. So how could you give light at different times of the day and not mess up the circadian clock? 
+1  
+00:57:39
+Luckily, we came up with such a way, and that's why it was important to do these experiments the way we did them. And we proved that this light dark cycle does not disrupt the clock. There is still a circadian rhythm and does not closely does not go sleep deprivation. And yet, surprisingly, if you give light at the wrong time of the day, even without disrupting the circadian clock or without causing sleep deprivation, as you mentioned, you get the huge mood changes in, in the organisms and you get learning deficit. So this really, and at the time people have really hit us hard. I mean, it was really hard to publish this work and 
+0  
+00:58:22
+Yeah, well, it came out in nature. So in the end you prevailed, but I want to make sure that I understand. So you're, you're saying that yes, there are effects of light on the circadian rhythm sleep, meaning, sleep and weight wakefulness. Yes. And their timing. However, there are direct effects of light on mood that can be dissociated from the effects on, on sleep and waking. So if I interpret that correctly, that could mean that when we view light and how much light could make us feel happier or less happy, or even depressed, stress learning, et cetera, 
+1  
+00:58:59
+Bingo. And even if we're sleeping 
+0  
+00:59:01
+And waking up at the appropriate time. 
+1  
+00:59:04
+Cool. I mean, eventually because we're talking about the whole system, eventually when you start having the other problems, you also develop sleep problems, but you're absolutely right. And in fact, now research from Diego Fernandez in the library have found that now we know that they actually require different brain regions. So we don't only have a theory. We don't only have the light environment that showed they can be dissociated. We know that they use completely different brain regions. So the SCN that I told you about earlier, the place where the central pacemaker is the one that receives direct input from the retina through the IPR GCs to adjust your circadian clock is not the area that receives the light input for mood regulation. 
+1  
+00:59:47
+It's a completely different brain region. What's the brain region called. So the brain region, we called it, the period happen. You learned nucleus. I'm not so sure how good or bad the name, but it doesn't matter is that PHB. And what's really amazing. This region also receives direct input from the IPR disease, but projects, two areas in the brain that are known to regulate mood, including the ventral medial prefrontal prefrontal cortex, which has been studied for many years to be impacted in a human depression. So just by, by this amazing serendipity to find that a region that is so deep in the advanced brain, like the prefrontal cortex is your executive brain. 
+1  
+01:00:29
+One of the most elaborated in humans to see that they receive input from these ancient photo receptor was stunning to us and told us how much we didn't understand the importance of light on a human behavior. 
+0  
+01:00:43
+How does that finding inform daily protocols for you or for other people? I realize you can't leap to ups, always from one paper to daily protocol. But if light indeed does control prefrontal cortex, executive function, learning stress and mood, and let's say, I'm waking up each morning and I'm sleeping. What should I do different? 
+1  
+01:01:06
+That's why we came up with the tripartite model because yes, we could think about just adjusting the clock with lights in and being dark throughout the day. But that may not be important for your whole physiological function. So now, if we include these other effects of light, that's why I prefer to still get a lot of light in the day. I don't want to be in very dim light conditions throughout the day. So even though it doesn't affect your clock, as you beautifully said, Andrew, it may affect your mood and learning and memory. It may affect your alertness level, which is going to allow you to learn better. It may affect your homeostatic drive. Maybe your homeostatic factor would go higher so you could sleep earlier. So it's important to think of light as stimulating all these brain regions, which means it's producing more activity, which in reality, this is how people think of the homeostatic drive that the more active you are, the more the homeostatic drive is built up, the better you sleep. 
+1  
+01:02:01
+So that's why we came up with the tripartite model because as a circadian biologists, I only thought of light through the circadian clock, affecting behavior as a sleep biology. They only thought of the homeostatic drive, affecting sleep, affecting behavior, and four people who study light for vision and other fun. They thought only of the environmental input. But now if you put them all together, you get this tripartite model where it's really mind boggling. And it makes so much sense. The organism doesn't want to depend on a single component, but if you could incorporate these three together, you could have a beautiful system that is well adapted. So let me tell you the sleep wake cycle, right? So we know that there is a homeostatic drive to affect sleep. 
+1  
+01:02:43
+You've had beautiful talks about 
+0  
+01:02:45
+That, which is basically the longer you're awake. The more you want to be. So 
+1  
+01:02:48
+That's your homeostatic drive. We've talked about the circadian influence of sleep and the fact that light dark cycle affect the circadian system, which eventually affects sleep. So these two components are well understood. Now the third factor is your direct light or environmental input. How much stress, how much light you get from there also can highly impact sleep. So even if you have a good circadian and homeostatic drive, if you're getting the wrong light at the wrong time of the day, or if you're being stressed and thinking of, then your sleep is going to suffer. So you have to think of the three together to have a beautiful sleep wake cycle. And that's why we came up with the tripartite model. The same thing happens with feeding. 
+1  
+01:03:29
+I could beautifully put it to people. Your hunger, your energy level is measured by the arcuate nucleus. Your daily intake of food is again, dependent on the CN and light dark input. We found that if food is not available, there is yet a third input that is not dependent on the Sen, not depend on the arcuate, depending on a completely different brain regions. So the animal can actually start looking or the human can start looking for food when it scars even at time when they are not supposed to be active. So that's how the organism thing, they have to evaluate multiple inputs for them to decide what is the best physiological outcome at that moment at that scene. 
+0  
+01:04:11
+I see. So I want to get into arcuate and feeding, but just to keep, make sure we can keep our hands around this tripartite model. So if I understand correctly, we've got the circadian influence, then you've also got the drive to sleep. Actually, one of the ways that I think that can be best understood is if somebody ever pulled an all-nighter, they get tired around 11 or 12 or so, and then very tired around three, 4:00 AM. But then even if you stay up sometime right around seven or eight, am your normal wake-up time, you start to feel alert again. And that's because the sleep drive is extremely strong, but there's a circadian rhythm that drives wakefulness in the morning. 
+0  
+01:04:51
+Okay. So those two are the components, right before we get into the feeding component, I want to talk about these direct effects of light on moot. Okay. Diego Fernandez, this data and this Perry hub anular thing. So let's just for the moment set aside the tri part of the tripartite model and just focus on what are the direct effects of light on mood and the way that I interpret what you've said so far is that the protocol that emerges from this, if one is trying to optimize their mood is yes. See light view light, I should say early in the day, in order to set your circadian clock, maybe also in the evening as well. And of course, avoid light at night, get it as dim as possible. 
+0  
+01:05:30
+However, you said, it's also a good idea to get as much bright light during the day as you safely can, in order to improve your mood independently of regulating your sleep wake cycle 
+1  
+01:05:43
+Hypothesis. Here's the problem where it's not going to be as satisfying as the circadian is that as you know, this brain region has been discovered very recently. <inaudible> 
+0  
+01:05:53
+We've known about it a long time, but nobody knew what it 
+1  
+01:05:56
+Did. So we knew about the <inaudible>, but that's why the name is confusing. It's actually not the, have any lights off 
+0  
+01:06:01
+The period had gone near the hub. It's needed to have you there. Why don't you just call it the summer hot tar nucleus? I should 
+1  
+01:06:06
+Have. I don't know why 
+0  
+01:06:08
+Maybe. Cause if you do that, it's not. Okay. Okay. So for here ever after the Perry have been your nucleus, we should probably call it the hot tub. <inaudible> Fernandez, Berson. Okay. This is like nerdy science attribution's stuff, but I'm just going to call it the hot tar nucleus Wikipedia, line it up. Okay. So this structure is taking light and independent of sleep rhythms and circadian rhythms. It's driving changes in mood. How does it do that? Is this through the dopamine system? The serotonin, 
+1  
+01:06:37
+We still recently, we haven't identified this region very well. We don't know what light does to it. We don't know how it interacts. So this is an area that is ripe for discoveries and we're working on this right down. But that's why I said, it's not such fine. This is like the function of sleep. Why do we sleep? We know sleep is very important to us, but we still don't have a satisfying function of why do we sleep? Right. I see 
+0  
+01:07:01
+The questions, the why questions. I think it's our, our good friend and colleague at university of Washington, Russ van Gelder, who always says when somebody asks, why the best answer is just to say, I wasn't consulted at the design phase, right? None of us really know. 
+1  
+01:07:16
+Maybe I shouldn't have said why, what is the function of sleep? It's still very hard to know. Why would, what is the reason organisms have to go offline for so long? You know, people assume it's for repair. I assume it's for learning and memory as you all kind of stuff. But there is really no clear function for sleeping. There is no clear function for sleeping. I mean, if you talk to people, there are hypothesis. 
+0  
+01:07:42
+I mean, all we know is that if you don't sleep or your sleep is very fractured, you get messed up 
+1  
+01:07:46
+And you could die even, right. I mean, it's, it's really bad if you don't sleep, but we don't know what is the function? What is the, what is that sleep have gone to organisms that couldn't have done with rest? What if you just could rest without sleeping, just sit down and write? 
+0  
+01:08:04
+Well, my lab is trying to figure out whether or not these non sleep deep rest protocols can compensate for S for sleep. In mean, obviously sleep is better, but many people are not getting the sleep that they need. But, but, okay. So, and if people are sensing that Samara and I are about to start talking over each other and arguing, that's always the goal when let's talk, right? Unlike other scientists I interact with when Samara and I get together, it's considered a successful conversation. If we get into a big fight and then go for a big meal where I pick the restaurant. Okay. So let's talk about food and eating and appetite you had yet another yes. I, I greatly admire your, your success in this way yet. 
+0  
+01:08:46
+Another incredible discovery showing that there are directs of direct, excuse me, effects of light on appetite and feeding behavior can maybe you could just summarize those results. In 
+1  
+01:08:58
+Honestly, that paper is the one that allowed us to come with the tripartite model, because we were thinking completely wrong about it. We wanted this experiment. It'd be fun for your audience to hear why we started this experiment. Remember that when we discovered the IPR GCs, we figured if they are the only re really to entrain the circadian clock, then you could kill them and have an animal opposite to the one that we spoke or human opposite to the one that we spoke about earlier, where instead of having no pattern vision and have circadian photo entrainment, we could produce an animal that have pattern vision, but no circadian photo entrainment. So 
+0  
+01:09:36
+Circadian blind, 
+1  
+01:09:37
+So Kagen blind, but pattern sighted. And we succeeded in that. The problem when you have these animals, which I've told you many times already is that they don't adjust to the day, night cycle. So doing experiments on them become very complicated. 
+0  
+01:09:53
+Is there behavior, like if you don't have these cells, are they awakened and asleep? 
+1  
+01:09:58
+Like the humans we've 
+0  
+01:09:59
+Talked about, they think they're in Las Vegas. They know clocks are washed. They stay up later every night, 
+1  
+01:10:04
+They can come. Either depend their clock. If it's a clock is shorter. They come in earlier. If their clock is longer, they come in. And so they're really messed up. They really don't adjust to that. If they were in the wild, they'll be eliminated in a second, right? There is no way they'll survive. So me and Diego started talking and we're like, what if we use nun light in training agent? And what is the strong man light in training Asian food? So we thought that the light defective animals will have more sensitivity to food and train because as you know, more than me, this is an area that you've worked really well on for vision. If you're imaged blind, your hearing and somata sensory get improved, right? 
+1  
+01:10:44
+The, the lack of vision improves your hearing and sensation. But we found actually that if you don't have the lights of system, actually you're feeding the food ability to entrain. The animal goes completely to the ground. Completely opposite to what we predicted. So light 
+0  
+01:11:04
+Viewing and feeding behavior are interacting in ways that support. 
+1  
+01:11:08
+And that's why we came with the tripartite model. We figured it's different than sensation the environment when you sense with vision, vision, and hearing interact. But your vision is a real full modality. You want to see that's what vision wants to do. You want to hear? That's what hearing wants to do. You want to sense that's what sensing want to do, but for the circadian system, light food, all these in training, Asian, they somehow have to interact to keep it coherent system. You don't just assume if you remove light, this one is going to be stronger. No, they need to know each others. The light informs when the animal's going to eat. 
+0  
+01:11:46
+Well, what I like about this so much is that, you know, in the other, in the world, outside of science, in which I, I don't really exist in, but that I, I see a lot of this kind of wellness, you know, stuff with this, all this mind, body integration stuff. It's interesting because people view the body more as a system, right? A system of organs that interact as opposed to the way that standard science and medical profession is like, you work on the liver or your ear, nose and throat or heart and lung or brain, or, you know, but the biology is integrated. And so for somebody who's interested in effecting their eating behavior, something that you are familiar with, and that we will talk more about your experiences of in a moment, how should they use light in order to adjust their eating be 
+1  
+01:12:40
+Behavior? Right? So now that I've told you about all these interaction between the different inputs to the circadian clock, just you think about it as an engineer, what would be the best thing? The best thing is to know when your food times happen in the day, when should you get light and where is your circuit? When is your circadian clock in your system? Right? So if you eat at very specific times of the day, that's another signal that is telling your body, your clock. You're in a certain time of the day. So if you're having lunch at the correct time every day, and you're getting bright light, now you have two systems that are informing you a clock, your clock is going to be better. 
+0  
+01:13:19
+So regular 
+1  
+01:13:20
+Mealtimes regularly mean tiles that fit your circadian clock. So, and in fact, if you do that, when, when I started doing this and it helped me lose weight, is that I'm exposing myself to the right amount of light, dark cycle. I'm eating at regular time. It is amazing. You would be not hungry. Let's say, let's say you eat at noon. You will not feel any hunger at 1145. And then all of a sudden the hunger jumps, this is clearly not an energy issue because it could not be that drastic, 
+0  
+01:13:49
+Right? No, the desire to eat is mainly driven by these, these cues, these hormone cues that are very exquisitely timed to exhaust sleep, wake cycle, but also to light. Exactly. 
+1  
+01:14:02
+And you know, in the wild, you could imagine why energy level through the accurate is kids. Nucleus. 
+0  
+01:14:08
+I should explain to people what the RQ it is. Cause I don't think we've done adequately. The arcuate nucleus is an area of the hypothalamus that drives hunger and feeding behavior. And what we're talking about is the fact that it's taking cues from your viewing of light, believe it or not is impacting your level of hunger. And this is a, a non-trivial way in which your timing of hunger and amount of hunger is regulated by when and how much light you view. So let me ask you a couple of preps. 
+1  
+01:14:38
+Can I just, this is really, before you asked me a, sorry, Andrew. We said we going to fight, but to me is, is the, the interesting thing to think about it in the wild, when you didn't have the availability to a food that we have, the art, it plays a huge, important role because if you're not, if you weren't successful in getting food, then the arc is going to tell you, look, you have to take risks and go get food because your energy level is very low. And that's great. That's tons of great research about that. But I think what's missing is the fact in a humans, we're not getting to a situation. Most of us, we're not getting to a situation where we have low energy levels. Most of the time actually we eat not because we want to, because we are really have low energy, but because we want to eat. 
+1  
+01:15:22
+So I think that's why I feel that the timing is very important for us because we always have enough energy level for us to, 
+0  
+01:15:31
+Well, I mean, I enjoy eating so much that I'll eat just for the sensation of chewing. I mean, I, I enjoy the taste too, and I enjoy the social aspects when those are a part of it, but I, I literally enjoyed the physical apps chewing. 
+1  
+01:15:44
+Absolutely 
+0  
+01:15:45
+<inaudible> which explains a lot. Okay. So how regular are you or do you recommend people be about mealtimes? Because what I'm hearing is that light viewing behavior is pretty straightforward. Get a lot of light in the morning and throughout the day, minimize it in the evening. And at night, generally speaking for sake of mood in circadian rhythm, but for sake of regulating timing and quality, I sh I should also say a food intake because people clearly make better choices about food intake when they are anticipating a meal and they aren't constantly hungry. And so the ability to regulate hunger for particular phases of the circadian cycle is, is quite valuable for all people. 
+0  
+01:16:29
+Not just people trying to lose weight, but all people are we talking about down to the minute? Like if I alright plus, or so 12 noon is my normal lunch, let's say a plus or minus half an hour. Okay. Yeah. So eat around between 1130 and 12. 
+1  
+01:16:45
+If, if that's the time, it depends. If you also do multiple meals, remember steady meals, that's a decision that somebody came up with. I don't know why nowadays 
+0  
+01:16:55
+Fewer people are doing that. I think given our friends such in pandas, 
+1  
+01:16:58
+Right? I mean, so you could have two meals, you could have very multiple meals that are distributed across your active time. I, I agree with Suchy and span does work that try to avoid eating when your system is supposed to be relaxing when you're supposed to be at non-active time. So, you know, limit your eating to the active time of your, of your cycle. And that seemed to be on Joe. Takashi is doing some beautiful stuff on this. That seems to be incredibly important for aspect of the circadian and for her. 
+0  
+01:17:34
+Yeah. I mean, such in we're referring to such in Panda's work, he wrote a beautiful book called the circadian and code. Maybe Samur with, with some luck, you'll write a book as well. Meaning the world will be lucky to have that book, but such ins data really strongly points to the fact that liver health, brain health, metabolic factors and endocrine factors of various systems and organs all seem to benefit from having a period of each 24 hour day in which we are not eating anything and then eating it very regular. Sometimes let's talk about eating and mealtimes and let's move a little bit away from the science for the moment, although we will return to it and talk a little bit more about your experience with eating and meal times. 
+0  
+01:18:18
+So you're looking in good shape lately. Thank you. I know you've been putting work into it. You know, we talk a lot and you've been exercising and you've been eating well, meaning quality food. You just come back from Jordan where I'm assuming the food is amazing. 
+1  
+01:18:33
+It's the food is amazing. And honestly, usually I gain a lot of weight in Jordan, but this time I didn't gain any weight, which was really nice. So 
+0  
+01:18:41
+Yeah, you've, you've D when I met you, you were probably about a hundred pounds heavier than you are now 
+1  
+01:18:50
+275 pounds. I'm 219. Now. It's 
+0  
+01:18:53
+Crazy. Yeah. You had a lot of vigor then, and you have a lot of vigor now, but I know that you undertook a very specific protocol in order to lose the weight, based on your understanding of the circadian system and of light and appetite and mood. Maybe you could just tell us a little bit about what that schedule looks like. And we realized that this is not a prescriptive for everybody, but you found what worked for you. Maybe just describe, 
+1  
+01:19:18
+I mean, honestly I followed my circadian cycle right. Of we what we've talked about. Right? So I didn't delight that night. I slept at regular hours. I ate my major food in breakfast and lunch when I'm really active and I'm really hungry. And at night when I avoid dinner, because my circadian system really shuts off at three I'm an early person. Like you could give me anything I would eat before three, after three, nothing appeals to me anymore. My system is shut off, but 
+0  
+01:19:46
+What time are you going to sleep? And what time are you waking? 
+1  
+01:19:48
+So in my case, I should have put this up. I mean, I go to sleep literally at 9, 8, 9 PM. I mean, I literally five minutes after 9:00 PM, I'm completely out. And I wake up between four 30 and 5:00 AM. So if I extend it, I go to 6:00 AM. But veterans, it depends on how tired I was. 
+0  
+01:20:06
+And that, as I recall, was an important set 
+1  
+01:20:10
+Of changes for you to be able to regulate your food. Absolutely. Because then I'm having very big breakfast at again for different people is different. I have a big breakfast at 7:00 AM maximum, so I have a big breakfast coffee and all this stuff. Then I have some simple snack around 10. Then I have regular lunch at noon, or between noon to one. Then I have another snack at three. And the hardest time to regulate the food is between 12 and three. This is what I'm, I really feel hungry. 
+0  
+01:20:39
+This is your equivalent of kind of late evening for most people. So for me, it would probably be between seven and 10:00 PM. Exactly, 
+1  
+01:20:45
+Exactly. And then at night I'm completely not hungry, but usually as you said, the beauty of the enjoyment of food, like when my wife cooks, cooks some really beautiful Indian food I eat, but I'm not hungry. And I noticed if I eat with that, I usually gain weight. But if I regulate that at night, I also lose weight. So there is a combination of all these things that help you adjust these, these, the, the input of food, the input of light, the input of the clock and the drive to hunger. 
+0  
+01:21:15
+Yeah. I appreciate you sharing that. And I want to emphasize that some people are not hungry early in the day. They might be late shifted people in which case, eating later in the day will, will work well for them. 
+1  
+01:21:25
+As long as they don't eat early in the morning. That's just, you have to work with your schedule with your active schedule. 
+0  
+01:21:31
+Yeah. You and I have been talking about this offline for years. I'm glad we're finally having this discussion publicly. Now, what we're talking about really is finding your ideal sleep schedule exactly. And finding your ideal eating schedule. Exactly. And understanding how those two things interact. Okay. 
+1  
+01:21:46
+Do you know the nice thing, as you said, finding them out is going to help you to understand how they interact? Because we know from the tripartite model that they are all interconnected and for each person they're going to be interconnected differently. So for each person you would, you know, for me, if I exercise at night, I'm going to mess up my whole system. When do you exercise? Morning, morning works great for me. I mean, it's amazing morning exercise for me works great. If I tried one time, because it was easier for me to exercise at night before I leave, when the traffic is there from that action. I think that messed me up because I couldn't sleep well and I couldn't wake up well. And that led to more changes in my food. 
+1  
+01:22:27
+I gained weight again, actually believe it or not, even though I was exercising. So I think this really makes me think that you have to think of the tripartite model to see what is the best times and what is the best interrelation between the different component. As you beautifully said, between your mealtimes, your light exposure and your sleep that works for you. 
+0  
+01:22:50
+Well, thank you for that. Usually Samara's insulting me today. He's complimenting me. I'm going to compliment him right back by saying, this is the first time that I've ever really understood how yes. Light can control sleep. Yes. It can control mood. Yes. It can impact feeding, but that it's really about doing the self exploration to align those in the way that works best. And what I'm hearing, tell me if I'm wrong. But what I'm hearing is that once you understand what gives you the best sleep wake cycle, then you should exercise during the period of time in which you feel most alert. And if it works for your schedule, ideally you would also eat during the time in which you feel most alert and then stop eating and stop light viewing behavior as you head towards sleep. 
+1  
+01:23:38
+So the only thing I would say that complicates all of this, and that's what makes me sad is your light exposure. 
+0  
+01:23:45
+Mine personally, sorry, 
+1  
+01:23:47
+The people's light exposure, right? This is what complicates it because you're not going to be able to figure all this out. If you're shifting yourself out of your comfort zone, by viewing, by viewing light at the wrong times of the day. So let's say, let's say you're. If you were under an idle natural conditions, you're a person who would sleep later than me. Let's say, we'll sleep at midnight and wake up at 8:00 AM. Let's say you don't eat anything till noon. And as you said, you eat late in the evening, then this would be perfect for you. But now see what happens if you, now you include the life component. Now, if you push your sleep from midnight to 4:00 AM, now you're waking up in the morning and you're, you're actually really not the morning you're working up, sorry, at noon instead of eight o'clock and the time where you're not supposed to be hungry. 
+1  
+01:24:37
+Now you're going to start eating directly at noon or something like that, or even delay. Yeah. And now you're shifting your whole cycle and you don't know if this interaction between your sleep feeding and the light dark environment are still going to be maintained. And that's the problem that people have. 
+0  
+01:24:52
+So Mo you know, as I'm hearing this, what I'm realizing is most of us probably me included are messing up at least one, two or three of these components, but that the, that the, the probe, the way to, to figure out what's right for oneself is to start manipulating light exposure. Right? 
+1  
+01:25:10
+And I'm going to be honest, I'm biased because I believe that light is the stronger, the strongest time giver. And we, lot of people disagree. Some people think feeding is, 
+0  
+01:25:21
+I always thought that light was the primary. Zeitgeber the primary. 
+1  
+01:25:23
+Yeah. A lot of people think it's food. Most of people even sometimes mentioned social interaction. They read the literature. I agree with you. I think, 
+0  
+01:25:32
+I mean, my understanding is that light is the most powerful driver of the things we're talking about. 
+1  
+01:25:36
+I think we need to regulate this first and everything else fits. And you know, the nice thing is that your sleep wake cycle and exercise tell you really bluntly if you're doing it right or not. Tell me more about that. I tell you more when I shifted my exercise, honestly, things fell apart like never 
+0  
+01:25:53
+Before. When you moved from exercising early in the day tomorrow, 
+1  
+01:25:57
+It completely fell apart for me. I didn't enjoy exercise at night. My pain tolerance for exercise. Wasn't as good. I'm talking with N equals one. And I'm aware of this. I've never tested this empirically, but at least to me, it really messed up everything. I started having problem because my body temperature will go up and that will affect my sleep. I possibly was running in the gym with a lot of lights. So maybe the light was a component, but for me, exercising in the morning, it's so much better for me. But a lot of people can't even think of exercising in the morning. So it depends on when you feel comfortable in your sleep wake cycle on your exercise. I think that tells you if your system is in, in synchrony with one another. 
+0  
+01:26:38
+That's really interesting. You know, I we're good friends, our friend, pat Dawson, right. That we both know, you know, did nine years in the seal teams. And he's one of these people. He says, you know, he's happy to go for a runner, swim anytime between 4:30 AM and 6:00 AM and he'll train in the afternoon too. Cause you know, he's a seal team guy and they'll do whatever, anytime that's part of the phenotype, but he feels best doing that. Right. I'm a mid, I like to exercise mid morning and I'm happy to skip eating until 12 or one. Great. And I like to go to sleep around 11 30, 12, cause I'm a normal human being rather than you who goes to bed at night. Yeah. 
+1  
+01:27:13
+Actually I've never asked him what tat. 
+0  
+01:27:15
+So Pat's ideal to sleep. Tom. I've asked him this would be around eight 30 or nine except now. No, but he has. Yes, but he has two young children, two years old and a newborn. And so the cycle is disrupted, right. 
+1  
+01:27:30
+That's known. Right. I mean that the effect of childbearing and I think there, we could talk about this. That's more complicated, but that's pretty much, pretty much. Yeah. 
+0  
+01:27:39
+Yeah. I mean, I think we need to come up with a new name for a chronotype because chronotype implies that it's just about sleep and wake being an early bird or a night owl. And what we're also talking about is how exercise and eating match onto those, 
+1  
+01:27:53
+The physical relation between the phases between different components, as you said, 
+0  
+01:27:59
+Cause they interact because they 
+1  
+01:28:00
+Interact. Right. And they don't have to be in the same phase. Like let's say my light and food could be very close to each other as your light and food could be different, right? The phases don't have to be, they can be plastic. So you have to find this for yourself. You may, you may be a person who eats late at night exercises late at night, or you may be a personal exercise early eat later. So it doesn't as long as the phase is, is good. That's what you, that's what you have 
+0  
+01:28:26
+To find out. Okay. And if I understand correctly, when you're talking about phase relationship, it means you want to lump exercise, feeding and light for Ansley and sleep in a way that as a coherent and total system makes you feel really good, 
+1  
+01:28:41
+Tim poorly integrate order. 
+0  
+01:28:43
+Absolutely. 
+1  
+01:28:45
+And I think that I could tell you to me is literally getting exposed to some, you know, clearly in the morning, clearly at noon, I go out, I keep my windows in the office, completely open eating mostly in the early time of the day and exercising. And literally at the end part of the day, I'm not really in a more thoughtful vegetative state. Like I really can't like after five, I tell my students, if you want to tell me anything complicated, you're wasting your time. My brain just doesn't function. So even though I only sleep at night, but I'm really starting to shut off from down really. I mean, it's, you know, I could send the email, talk about brainless stuff, but my power, my energy to do powerful stuff really dropped tremendously. 
+1  
+01:29:32
+So all my students who know me very well, they put the meetings with me early in the morning because they know this is when I'm so everything for me and for me, it's very tight. So it could be different for it's very clustered in the morning. It's all tied together. And literally the remaining part seems to be just the vegetative state. 
+0  
+01:29:51
+Yeah. You and my bulldog Costello who unfortunately passed away recently had that. And that Samara Costello were good friends. Yes. Sorry to break it to you with here. Yeah. He had a good long life and he, he went easy, but he had a circadian clock that basically would just sleep around 24 hours a day, minimal activity interspersed every third day or so you do have this morning vigor and that's that? I think other people are going to have more of an afternoon vigor. Do you think that this can change across the lifespan? It's the, the rumor is that teenagers naturally want to sleep in later and stay up later. Do you think that social rhythm, or do you think that that's actually biological? 
+1  
+01:30:32
+It's a tough question. I mean, it, it, it could be both one thing that worries me is that it seems that if anything, with age this morning rigor gets stronger. So you want 
+0  
+01:30:45
+People to become more of mourning more and more. Why is that? Where are you? I think 
+1  
+01:30:48
+That's good because for me, I'm already very shifted morning. I don't want to be one of these 7:00 PM to 1:00 AM sleepers. At some point 
+0  
+01:30:55
+On the other hand, it's also kind of nice because it's quiet and you 
+1  
+01:30:58
+Can get work done. But honestly from four 30 to seven 30, when my wife wake up, it's it can be very long. Yes, you achieve a lot, but it's quiet outside. It's you know, so it, it, I don't want to be at 1:00 AM. Let's put it this way. I 
+0  
+01:31:13
+Don't get Tel Samara is more social than I am. 
+1  
+01:31:16
+That is through, 
+0  
+01:31:17
+We should touch on that actually. So, so your wife has, she follows a different schedule. Yeah. And, and so the social rhythm is important. I think w what should we do? How should we conceptualize and how should we adjust ourselves according to the social. 
+1  
+01:31:32
+And I honestly love this, this, this hypothesis that people came up with and Pat's kids reminded me of, because kids are really going to disrupt your sleep wake cycle. It seems like there is a Krono attraction. That's usually people who attract each others have actually different sleep wake schedule. And the idea being is that this allows them to take care of their kids throughout the day, night cycle, 
+0  
+01:31:57
+And to have a peaceful 
+1  
+01:31:58
+Marriage and having these vulnerable, right. So, I mean, we didn't have kids, me enrages. So maybe this is, but it seems like evolutionary. It makes sense that 
+0  
+01:32:07
+If you want to protect you, protect your kids. You don't want everybody to be more than in rigor. And then the kids don't have. So you want the distributed across, it's a reasonable argument. I've heard that. One of the reasons that people think that the clock is not exactly 24 hours, but is 24 hours plus or minus, you know, 20 minutes or so is because we believe that we evolved in clans or groups, villages, whatever that were about a hundred to 200 people. And in order to have protection around the early morning hours, when we're vulnerable to predation and in the late night hours, that you would want some individuals of, of our species to be naturally more like night hours and some more like early people. 
+0  
+01:32:51
+So your theory of parenting is, is similar in that way, right? The social rhythm is, is a powerful rhythm though. Meaning if I go out and I'm tired, let's say I'm tired of like nine 30. I don't want to go out like I'm going to need, 
+1  
+01:33:05
+It's something about that. I think the social rhythm is powerful at the obvious levels. Like it affects your sleep. It affects how much you wake up or eat, but I'm not so sure is as powerful as people think on the clock. Now, eventually it will mess up the clock because now if you're doing a lot of social at night, getting enough light eating at the wrong time of the day, eventually you're going to have an effect, but I don't think that's the social interactions themselves have been shown to affect your clock very strongly for 
+0  
+01:33:37
+That's good to know. Well, for people hearing this, they're probably getting the impression like I'm the night owl and then Sammer is the one that's in bed at nine. And then, you know, wakes up at four, but having attended many meetings with samurai, I can tell you that he's the party animal. So let's talk about that. I mean, let's talk about the fact that you're the partier, who's up until two dancing at these, at these various meetings, which I've seen actually a good dancer I'm told, but what should we do when we do stay up very late, for whatever reason could be, because we had to take a midnight trip to the hospital, unfortunate reason, or it could be because you're in the presence of people that you don't see very often and you, and you go out for a really nice night out on the town and you, and you get to sleep around two 30 or three in the morning. 
+0  
+01:34:27
+How should one get back on schedule? Do you force yourself to then get up and view light at the normal time that you would get up and view light? Or do you allow yourself to sleep in what what's the optimal 
+1  
+01:34:36
+With a low myself sleeping? And remember, this is a long-term effect. This is something that you live with for a long period. And, and remember I told you about the experiments we did with the mood, these required two weeks of that light schedule to cause mood disturbances. So these don't happen just in a single day. 
+0  
+01:34:52
+So this is the way you justify staying out late. Every once in a while in 
+1  
+01:34:56
+That, in the you've seen me, I've done this for five or six days continuously, but what you didn't see that when I came back to my home, it took me two weeks as if I did a jet lag. So I really do suffer for two weeks after doing a six crazy night of staying up 
+0  
+01:35:11
+At night, drinking at the wrong time of the day. So it's not that I'm completely okay with it. When I go back, everything goes back. It takes me actually literally two weeks to recover from the circadian rhythm meeting that you've seen me partying at seven, which is kind of ironic this circadian rhythm, meaning people are totally disrupting the shift feeding cycle, but scientists are human beings too. Right? 
+1  
+01:35:33
+So I, I think if you do it very little occasions, I think you should not worry too much that this will have lasting impact. And the good news is that if you re adjust your schedule, you could come back to it. The problem is when you maintain these wrong schedule for the wrong team, it becomes chronic prolonged periods of time. That's when you have the problems and the accumulation of the problems. So when you have sleeping problem, you produce metabolomic problem. When you happen without problems, you produce lack of exercise and you could see how things can spiral out very quickly. And then it would be hard to come back to it. 
+0  
+01:36:11
+Well, certainly sleep disruption is both a symptom of, and yes, a cause of almost all of sort of mental health disorders, right? And certainly the metabolic syndromes that people are talking about nowadays and all of this, it all funnels back to light. This is what's so remarkable. And so we have these devices and I'm, I use my phone and I use my computer. But do you think that the mere dimming of the screen or not interacting with screens after, you know, with say 90 minutes or two hours before bedtime, according to what we're saying today, this should have a profound effect on all these, 
+1  
+01:36:52
+And I really believe it does. And I, you know, I, again, I think as has Jay did these, these, these inventions where you get a pouch where you put your phone in a pouch, 
+0  
+01:37:02
+Oh, so what Sam is referring to is our friend, pat, this former seal team member that we, that who's also very impressive person in the landscape of business and family, et cetera, real, a superhuman from, by any regard has this habit of taking his phone and putting it into a sealed pouch in the evening. So it's basically okay. 
+1  
+01:37:22
+And in his world, he sends you actually these, these seal batches. And, and so that I think is a great idea because not only it will take away the light from you, but it also takes away the distraction because you want to repair and recover and sleep does that. And if you have your phone dinging all the time, or, or the lights flashing from it, it's, you're just not getting enough sleep and you're causing yourself major problems. 
+0  
+01:37:50
+I never asked you this, but I realized now that I, I should have a long ago, but I'll ask you now. Why and how did you get into all this stuff? 
+1  
+01:38:02
+Yeah, I mean, honestly, I, I, first of all, I wanted to become a, you know, I wanted to study genetics and I knew I wanted to do PhD in genetics, but I only got accepted in one university at the time. And I joined the learning and memory lab and I liked learning and memory. At the beginning, I worked in the snails on a plegia Telefonica and started looking at learning and memory. But then the same lab was looking at these daily variation. I was really struck. Like you never think about it outside of science. It's really struck me that organisms can measure. They biologically. That was very shocking to me. And I just really got attracted and I wanted to see why does this happen? 
+1  
+01:38:44
+What is the effect of different times of day? And I just stuck with it. It's just, it was mind blowing for me who was in medical school that I've never heard about it before. You know, it's really amazing medicine. I think still now we are very good at looking at stuff spatially, but we're very bad at looking at temporal aspects. So we always like to see images, static images, spatial information, take 
+0  
+01:39:09
+An x-ray measure, a temperature, measure, 
+1  
+01:39:11
+A blood pressure, but we don't think of them. Paul and, and you know, you talk to John Hogan, Ash right now, and he's telling you the importance of criminal medicine or granola pharma pharma to whatever the word is. And it just, it really just getting the drugs at the right time of the day is going to be essential for our health. Do you think 
+0  
+01:39:31
+That's going to come from using better trackers, like, or rings, whoop straps, 
+1  
+01:39:36
+These kinds of things. I love the trackers, but I think there's even more exciting discoveries. Now you could take a single blood sample and measure many biological components and figure where you are in the circadian clock. Something that was very hard to do before. So if you have a marker to know where you are in the clock, you could actually understand more the effect of everything, exercise, feeding, light input. What is the marker? So there are some papers from what's her name, Phyllis Zee, and from a theme Kramer where they measure multiple RNs that are known to tell you what phase of the clock is or multiple proteins or biological reactions. 
+1  
+01:40:16
+And depending on a combination of factor, not a single factor, you could tell where you are in the circadian clock. So they could, instead of just measuring temperature or melatonin, just one measurement and melatonin specifically, it's also complicated by the fact that melatonin is affected by light, you know, on temperature, your temperature and sleep can be easily dissociated, right? When you travel across different times on your sleep at different times in the temperature cycle. So having multiple components measured will give you a better determination of your circadian phase and understanding your circadian phase in humans was telling you what is the effect of giving certain drugs at certain times of the circadian phase? 
+1  
+01:40:57
+So in the future, this is going to be studied at a much higher level. When you can determine the phase in relation to all the other stuff 
+0  
+01:41:07
+It's striking to me that in all animals, besides humans, if they deviate too much from the appropriate exposure to light and light dark cycle, they essentially don't mate and or die and, or get killed off. But in humans, we are able to override that at least to some extent, but the ways in which we suffer, appear to be things like obesity, metabolic, syndromes, reproductive, syndromes, that are accompany the other syndromes, you know, endocrine syndromes, and mood and depressive disorders. Is there any effort at the level of the, the nationally or, or laboratories that you're aware of to try and use light in order to improve mood and mental health? 
+1  
+01:41:52
+I mean, honestly, this is my moonshot. This is the thing that I think people, because it's something I say, don't take your pill, take a photo and not, I mean, you take pills. It's important. I'm just making it that really, we have an opportunity right now with the incredible advances of led lights, of changing spectrum, of light, of regulating intensities. And just to associate just as, for simple changes, you could really improve sleep, wake cycle productivity, and still, you could actually get more done because as we've talked about, when you have all these messed up, now you have to sleep more, but your sleep is fragmented. 
+1  
+01:42:32
+It's not very 
+0  
+01:42:33
+Good. And you can't focus when you 
+1  
+01:42:35
+Focus. We don't have alertness when you need the alertness. So having all these, you could allow you to do even more actually at the end that less. And that's the exciting part of, 
+0  
+01:42:47
+One of the questions I get asked most often about is about ADHD. You know, I think there's a lot of self prescribed as well as clinically prescribed ADHD. People are having a tremendously difficult time focusing and not just because they're sleepy, they just can't seem to anchor their attention. And there could be multiple reasons for this, but there are now several clinical trials ongoing using light to try and anchor people's attention and mood. And well-being for sake of focus. And I think that while I love this saying that you mentioned, you know, take a photon, not a pill and with due respect to the need for pharmacology, for some certain people, I think most people just haven't really dialed in their relationship to light in a way that allows them to rule out whether or not they need medication. 
+1  
+01:43:30
+Absolutely. That's the best way to put it. I can add to that. 
+0  
+01:43:34
+Let's talk about jet lag, but not in the context of, okay. If somebody is traveling from Europe to Japan or from the east coast, because that varies tremendously, right? I mean, there's as many different variations on travel as there are individuals out there and goals and jobs, et cetera, but rather let's talk about what are the two or three things that people can do to adjust their schedule quickly. Yesterday, I called you and said, look, I know somebody who's traveling six hours. I won't even mention in which direction, cause I don't want people to anchor to that example. And you described some very simple tools, a viewing light a little bit earlier than normal and getting on the local food schedule, et cetera, that would allow them to shift more quickly. 
+0  
+01:44:20
+And the reason I want to have this conversation is yes for the travelers and for the G the shift workers. But mostly because of the fact that you've proven again and again, that people are disrupted in their circadian behavior at home. So what are the aside from what we've already talked about? How can one adjust quickly to a new schedule? Like let's say, fall classes are starting, you start a new job or you have a baby or a puppy or whatever, what is the best way to shift the clock quickly? 
+1  
+01:44:50
+So it's very simple as we've talked yesterday. So imagine you're in the outside with no environmental, with no industrial light. If you, if your body thinks you're in early evening and you see a bright light, what does this tell you? Oh, wait, this is not early evening yet. It's still early afternoon or late afternoon. So I have to delay my clock to go back to late afternoon. So if you get light early in the evening, it delays your clock. So what does he need 
+0  
+01:45:20
+That makes you want to go to sleep later? 
+1  
+01:45:22
+Yes. It delays your clock. So, so you're in New York, right? People in Italy have an advanced clock because they are six hours ahead of us. So if you're in New York and you get light early in the evening, you are delayed even further from Italy. So now you're delaying away from Italy. Now the same thing happens. Let's say, you thought Dawn came up and you thought it's already done, but it was, let's say three o'clock in the morning or four o'clock in the morning. And then you get to bright light and you say, oh, wait a minute. Don't it's not up yet. So I should advance my clock or at night, but I'm getting bright lights. So I should run because Dawn is already up. 
+1  
+01:46:04
+So then later in the night, later in your night, and actually it just happens that the humans, you get a temperature Nadeer later in the night, low temperature in your body. After that lights start advancing your clock. So if you want to go to Italy, instead of getting light early in the evening, you want to get light after the temperature law. So you could advance your clock. Even before you go to Italy, then you're catching up to the Italians just by using line. It's as simple as that. So you could do it for every region. You could calculate how much they are advanced of you. You could know how much these light shifts happen per day, and you can calculate what you, what you need to do. 
+1  
+01:46:45
+Very simple math to adjust either indirection delaying. If you're going from New York to California, you want to delay your clock or advancing if you're going from New York to. 
+0  
+01:46:56
+So in order to make that a visual and because a lot of people are listening to this, not looking at it on video, we will put a, a down zero cost downloadable of figure of this on the human lab.com website related to this episode. But I think I can summarize it in, in language as well. If I understand correctly, what you're saying is if your typical wake up time is say, 7:00 AM, then your low point in temperature probably occurs somewhere around 5:00 AM. And if you view light right, or back around, then it's going to essentially advance your 
+1  
+01:47:31
+Yeah, because then your, your body thinks, oh, it's seven o'clock. So advance your clock by one to two hours. 
+0  
+01:47:36
+But if I were to view lights, say at 3:00 AM, then it would probably delay my clock. Yeah. Okay. Yep. So, and then let's say I land in a new schedule. I want to adjust to a new schedule. Let's say I didn't manage to do anything with my light viewing before I went and I didn't do, I didn't anticipate the trip suddenly I'm on a new schedule. Okay. I was told that one of the ways to help shift the clock and to avoid gastrointestinal issues is to eat on the local schedule. To start basically behaving like a local, even though your circadian clock will take a little bit of time to catch up, 
+1  
+01:48:12
+But you have to remember the light, right? So let's let's know that we explained it very simply. Let's take a very simple example, right? New York to Italy, that's a simple example. New York time, Italy time, six hour difference. Right? So let's say you fly from New York at night. You reach Italy at eight o'clock in the morning. What is the time in your New York time? You, although you 
+0  
+01:48:35
+Read six hours back, six hours, two hours, 
+1  
+01:48:37
+It's 2:00 AM. So when you land Italy, you want to avoid light like the plague. Yeah. You could eat, but you really don't want to get a to LA 
+0  
+01:48:44
+Because otherwise it's going to 
+1  
+01:48:45
+Delay that delay is going to send you to California instead of sending you to Italy. 
+0  
+01:48:49
+Right? And so this is such a key point. If anyone's confused about this, we will put some diagrams up. But what Sam was saying is so crucial, just because getting bright light in your eyes early in the day is really beneficial. When you're at home. When you travel to a new time zone, you have to take into account what your body thinks, what excuse me, you have to take into account where your body thinks you are. And so if you're looking at the Italian sunrise, having just flown from New York to Italy and you didn't prepare for that trip by waking up a little bit earlier in anticipation, multiple days, you view light at two eight, excuse me, at six or 7:00 AM Italian time, beautiful Italian sunrise. You are going to delay your clock. 
+0  
+01:49:31
+You're going to basically throw yourself back to California, but you are in Italy. You're going to throw your biology back to California and you are going to be up in the middle of the Italian night. And you're going to be a miserable, miserable. I'll tell a brief anecdote. Cause I called Sammer in desperation. A few years ago, I traveled to Abu Dhabi, NYU Abu Dhabi to give a seminar 12 hours out of phase. It's a 12 hour flip. And I thought I could just muscle it. I thought I'll get up. Just view sunlight. When the sun comes up and I fell apart mentally and physically, and Samur came to my rescue. I called him. I said, I don't know what to do. And he said, go to the gym at the local Dawn workout, eat and then view sunlight starting the next day. 
+0  
+01:50:18
+And that basically got me on the schedule. So I used food and exercise to adjust myself because my light viewing activity was just completely out of whack. 
+1  
+01:50:25
+Yeah. I mean, and, and we talked about other details, so you have to calculate it, but you're absolutely right. I mean, it's, it's very important to avoid getting the wrong light information when you're trying to adjust your body because otherwise it shifts to the other to the other side. Absolutely. 
+0  
+01:50:44
+You are one of these people that has such vigor. It's one of these things where having known you all these years, you have a tremendous capacity for work and new for soccer and for arguing, respectful, arguing. And you know, sometimes, you know, it's getting worse 
+1  
+01:50:59
+With age. Yeah. 
+0  
+01:51:00
+Well, we can talk about that offline, but I think a lot of your vigor and a lot of your ability to work hard and focus and really do so many things at an impressive level is because you think about these issues and you, you think about when you're going to be optimal for focus when you're going to be optimal for exercise when and the, when is the key it's. And I think a lot of people live in the landscape of feeling like there's something broken inside them because they can't focus or they get too 
+1  
+01:51:27
+Trying to remember. It's all subconscious, these effects and hunter you're absolutely right now, honestly, joking aside about age. I really agree with you that I think part of the reason I'm continuing to be able to do this, that I really think about it. And I make sure that I keep everything aligned. And that actually helps me a lot. Like I don't suffer in sleep. I don't suffer in waking up. I never use a timer to wake up. I mean, people say, aren't you scared, like you have to give a lecture at eight or seven 30. I was like, there is no way I'm going to go beyond that. It just, even if I try, I can't sleep beyond 6:00 AM in my regular times, it's just, it's not going to happen by four 30. 
+1  
+01:52:08
+My eyes are wide at being awake and I'm in bed. It's just system is so aligned. It works. Okay. 
+0  
+01:52:15
+A lot of times people will say, how come I go to sleep? I fall asleep fine. But then I wake up at three or four in the morning and can't fall back asleep. Is it possible that those people were supposed to go to bed at 8:00 PM? 
+1  
+01:52:27
+I mean, it is possible. It is also possible that sometimes people will wake up and go back to sleep. But, but yeah, I mean, it is possible or it's possible that their clock is completely misaligned, that they are getting maybe enough time at night when they are supposed. And then they possibly feel so sleepy in the day. So there all, these are possible combination. 
+0  
+01:52:46
+Well, that's an interesting idea and considered. So what they think is their sleep, their body is so out of whack with the LIDAR cycle, that it's actually a Nana 
+1  
+01:52:55
+Or the weaker part of the sleep. I mean, you see this in, in when you traveled to different times on, before you adjust, you go to sleep really well. But two hours later, you're fully up two hours. If you were so tired and this is your regular sleep, there's no way you're going to wake up in two hours. So then you feel very sleepy later in the day or something like that. So it depends on how your whole system is aligned to the invite. 
+0  
+01:53:21
+That's very interesting idea. I, I think that's going to resonate with a lot of people. I wake up every morning around three or four, generally use the bathroom and then I fall back asleep very, very deeply. It doesn't seem to disrupt my daytime wakefulness. And I think a lot of people obsess over the, that waking up and worry. There's something wrong provided. They can go back. 
+1  
+01:53:43
+Okay. If you can go use the bathroom, go back to sleep. That should not be a problem. Maybe with some people, when they go to use the bathroom, they use very bright light, and then they get an alerting signal. So if, if you maybe that's, it could be as simple as that, that affects you. Maybe when you wake up, you put tons of flight or you start reading your iPad. So there's all these combination that we still don't know about. That could be affecting their sleep, wake rhythms and their sleep maintenance. 
+0  
+01:54:10
+Do you use melatonin? Do you take melatonin? 
+1  
+01:54:13
+I don't need it to be honest. In my case, there is no reason to use it because I could guarantee you that by maybe eight o'clock, my melatonin has already started to go up. And by the time I sleep, my melatonin is very high because I don't use a lot of lights after 
+0  
+01:54:28
+Sunset and light inhibits melatonin 
+1  
+01:54:30
+On life's really blocks melatonin level. 
+0  
+01:54:33
+But you hear this myth that the pineal gland calcifies as we get older, is that, do you know anything about, 
+1  
+01:54:39
+I've heard about that, but I don't know. What does, I mean, there is not very clear evidence that affects the sleep. I don't know much about it. 
+0  
+01:54:47
+Yeah. The evidence that I've seen is that yes, there's some calcification around the pineal, just because of where it sits in the, in the brain. It's close to some bony bony structures, but I don't think there's any evidence that it has negative effects. 
+1  
+01:55:01
+I mean, if, if you still have, you could measure melatonin and that should tell you if it hasn't been such an easy thing to do. 
+0  
+01:55:07
+Yeah. I think this is more of a, of an internet wellness thing that, that got outside the cage. 
+1  
+01:55:14
+You're absolutely right. 
+0  
+01:55:15
+Yeah. It sounds terrible. Calcification of the thing, right? The 
+1  
+01:55:20
+Heart thing, right? 
+0  
+01:55:21
+Yeah, exactly. Let's talk about seasonality a little bit. I learned, and I don't know if this is still true, but that most suicides occur in April in the spring. I think there's a poem that says April is the cruelest month. I think it is the poem begins. Are there data that suicides are more frequent at particular times of year? And if so is the spring that time of year. 
+1  
+01:55:50
+Yeah. I mean, a lot of people talk about this and, and one of the hypothesis that is that the winter month that are very bad for moon, make people not wanting to do anything. And they ha they get into such deep level of depression that when the sun comes up, they get actually the energy to act on their depression, which sounds really terrible. And it's just terrible. It's terrible. That's so that's the idea that the lack of light throughout the winter caused them to go into such depression, that they don't feel like doing anything. Then when the light comes in with rigor in the spring, it gives them that after all the depression they suffer, it gives them that push to take that sub final, you know, act, I guess, 
+0  
+01:56:34
+What other seasonal effects have been demonstrated in humans? 
+1  
+01:56:37
+Yeah. I mean, I think in humans, it's not very clear because we don't think about seasonality, but if you start thinking about us, I think we go through major seasonal changes. I really do. I think our eating patterns change across the year. I could tell you that me thinking about this, there is a clear changes that happens to me across the year, but for animals, this is really essential because for animals, they have to time. Their mating behavior was when they deliver their progeny in the most abundant amount of food and artificial light is causing major disruption. Because if you change the way these animals are receiving the light information, they either start mating much earlier or much later. 
+1  
+01:57:22
+And the numbers dwindle, and they get into the dangers of really completely getting eliminated or 
+0  
+01:57:28
+Well, human birth rates are definitely going down. I mean, in the U S in the U S in particular, not others. Right? But are there other effects of seasonality on humans that, where you're aware of, 
+1  
+01:57:42
+Honestly, like you could see it, honestly, you could see it perfectly, I think. And in Scandinavia, I mean, you could talk to people who live in 
+0  
+01:57:51
+Sure. They get seasonal depression. What 
+1  
+01:57:53
+Seasonal depression is one, but actually when you start asking them questions, they tell you like in the winter, they barely could wake up. They barely have the energy before even depression, even people who don't get seasonal depression, they will tell you our energy level is lower. Our ability to go to work is, is not the same. And in the summer, most people actually sleep very little. They tell you, we, we really can. We feel like we're manic. We have all this energy and not in a negative way, in a funny way, right? I mean, but if you want to sleep, we have to put skirt. And I think in these situations, you could really appreciate the seasonality of a humans. I think we kind of destroyed our seasonality because we don't get exposed to that much natural light. 
+1  
+01:58:39
+We have all these artificial light, but I think honestly, one of the things that is going to happen, if they follow your recommendations about giving light at the same time, giving food, 
+0  
+01:58:51
+Let's be clear. Those are your recommendations. I've just been just fair attribution. 
+1  
+01:58:56
+What I'm saying is that this is going to cause them to also experience some changes across the season, because now they get to see the sun differently. If you're going to go out in the morning in the summer, you're going to get the much. That's why I don't like the change in time. I know people think, oh, because you're biased you. Cause I think 
+0  
+01:59:15
+We were wait, sorry. The change. Are you talking about daylight savings, 
+1  
+01:59:18
+Daylight savings. It's such a bad idea because it disrupts that rhythm that you're having. Because I think your buddy, if you keep that rhythm, you will see the whole seasonality. And I look at it from a different aspect than other people. It really, and people say I'm biased because I'm a morning person and it may be true, but this 
+0  
+01:59:38
+Sure, conspiracy, but morning people, 
+1  
+01:59:42
+If you think about it, Andrew, there is a situation where you're getting like perfectly well. And then all of a sudden they delayed by one hour because, and then even though it's the summer, your body, now, if you're still not adjusting, think, oh wait, what happened? 
+0  
+01:59:57
+What kind of happened? Well, I'm glad you're bringing this up because I always thought, you know, what's the big deal one hour, right? One hour shift, you know, spring forward 
+1  
+02:00:06
+Just one hour. 
+0  
+02:00:07
+But the, but this goes back to the beginning of our discussion. It's not just one hour, right? Because it's one hour across that one day. But there's this cumulative effect on the clock and these three elements of your tripartite model, the homeostatic sleep and the light direct effects. 
+1  
+02:00:25
+And when it's so close, it's sometimes hard to figure out how to adjust it perfectly because you know, we're already sleep deprived in our society. And then you shifted by, you know, so it just, it all accumulates and it has no benefit. 
+0  
+02:00:40
+Well, you work at a major government organization, national Institute of mental health. Why don't we campaign for, 
+1  
+02:00:46
+I have no idea. I mean, it makes no 
+0  
+02:00:48
+Saying why don't we go campaign? 
+1  
+02:00:50
+I would love to. I mean, it makes no sense to have the summer light goes up at 9:00 PM. The light goes down where I live in Baltimore at 9:00 PM. And then all of a sudden, when you really want to see the light longer in the day, you now shift the other way. And now it goes off at 6:00 PM. Why do you do these drastic changes? Well, let it blend across the whole season, you know? Yes. Later, earlier at night, but it's at least consistent. It goes in a very consistent manner. I just don't understand why they do this. It makes no sense. 
+0  
+02:01:23
+Well, I think that the reason they do it is because they don't understand the biology because one hour seems trivial. Unless you understand that the repercussions of that one hour shift, because what's also clear now, based on what you're saying is that that one hour shift is taking you out of alignment with the natural light dark cycle in exactly the wrong direction. 
+1  
+02:01:44
+It's pushing people to get. Even later in the summer, when light is going to push you later. Anyway, it doesn't make sense. You put it beautifully. I just rambled. And this 
+0  
+02:01:55
+Is no, you made it. You made it clear. I 
+1  
+02:01:56
+Mean, it's like literally it made you, it made people who are having problem, having an advanced sleep rhythm because they are delayed. Now you give them this hour to make them even more delayed. You push them even later in the day night cycle. It just doesn't make sense at all. 
+0  
+02:02:14
+I think 20, 22 should be the year that we evolved daylight savings 
+1  
+02:02:19
+Day for me, 
+0  
+02:02:19
+Honestly will send well also, if it has a positive effect on the, what is essentially an epidemic of mental health issues and other issues related to improper interactions with light that I think is, is a well worth while cause, and can, we can explore. So for once, we're going to fight with some, with another common battle as opposed to with one, 
+1  
+02:02:44
+Well, let me the circadian people, how does this, you give them credit have been trying for years to abolish daylight saving. 
+0  
+02:02:49
+Yeah, the problem is they all go to sleep at 9:00 PM and wake up at 4:00 AM. So we never see them. No, the circadian community has done an amazing job of figuring out what we need, right? And then the challenge of course, is making sure that people get what they need and making sure that at a societal level, we're not bolting ourself into the, 
+1  
+02:03:11
+And the biggest problem is that the late waking people, they think that really, and I'm going to try to put it in a better way now they think, oh, because you're a morning person, you want to see the sun early. So you want me to suffer it dropping late, but that's not the case because what happens is when they shift it back after the daylight saving, now they're going to make yourself a really badly because now it's going to be earlier in the fall, in the fall when there's not enough light, if they keep it the same way. So to try to convince them that actually this at the end cause more trouble. When you need the light for your late schedule in the fall, when they shifted back, then they say, keep it daylight saving all the time. 
+1  
+02:03:56
+And that has been proven. That is very bad. Like people have done studies that literally two areas close to each others and areas that were the whole year on daylight saving has much more problems even in cancer rates and depression. So you don't want to do that. So that's what trying to convince people that you need to prevent that switch and you don't need daylight saving at all. That's where the problem happens. 
+0  
+02:04:25
+Interesting. I had not thought about that, but yes, you late risers that in the fall, when they, when that's the fall back, as they say spring forward, fall back, you dial back the clock. It's really compounding the problem that already exists. 
+1  
+02:04:39
+And it's really nice if you think, if you keep it consistent in the spring, you get the loan, you know, when you, you get the Equinox and then the day starts going up and then even in the summer saw going down and then the fall, you get the other Equinox and go back. So it's very symmetrical, right? It goes into short day, longer, long, long, and short day again, but now you're getting these bumps in both sides of the spring and fall. Why would you do that? Something that is beautifully symmetrical, beautifully smooth. You're putting bumps into it. 
+0  
+02:05:10
+And we not just beautiful because it's there, but, but evolved. I mean, essentially this is the system we evolved in for, 
+1  
+02:05:17
+But most of the years, even apart from the exact equator, every part of the earth has seasonality. 
+0  
+02:05:25
+I want to briefly touch on something which is individual and genetic variation in the sensitivity to light. So not chronotype, but first of all, a very basic question. Do people with light eyes, light colored eyes, ha are they more sensitive to light than people with darker pigmented eyes? 
+1  
+02:05:45
+I mean, honestly it makes sense. They will be more because if you think of my dark pupil, it's blocking more light. So if you have light pupil yes, for vision, it may not be very obvious, but for something that is measuring the amount of light, you are getting more light than me. So you probably need less lie to be effective as a somebody who's darker. And, and that may be, could explain why sometimes lighter people say, I don't want to go into very bright conditions because it's really bright. Yeah. 
+0  
+02:06:15
+I can't, I can't even be at a cafe with a one of these reflective tables, like a metal table, unless I have very dark sunglasses. Aren't so bright. It's painful for me. Whereas some people like you we've sat outside your meals and you're like, fine. I assumed it was kind of Jordanian toughness versus 
+1  
+02:06:31
+It's really the pupil blocks more light. So I think it is possible that it's as simple as the pupil blocking more life can have sensitivity, but your question is also goes deeper. Are there more sensitivity differences on? And my understanding would be, I would think that it may be depends on how effective your cells are in responding to light. How, how healthy your IPR GCs are. So I would, but there's not many studies to show that what is really clear that is happening is that patients with bipolar, they seem to have different sensitivities to light. So it seems that at least people who have psychological changes, they may have differences to the sensitivity of light. 
+1  
+02:07:15
+So 
+0  
+02:07:16
+Where are those differences in a particular direction? 
+1  
+02:07:19
+I don't remember the exact we'll have to, 
+0  
+02:07:21
+We can look it up. Yeah, yeah, yeah. I, you know, I, and people have heard me say this ad nauseum to the point where they actually roll their eyes, but you know, the, these are the only two pieces of brain, you know, I'm pointing to my eyes, folks that are outside the cranial vault. They are two pieces of brain that it basically informed the brain about whether or not to be alert or asleep. But you can imagine that those two little pieces of brain that we call eyes would have genetic variations across eye colors, genetically modular. Is that determined that there would be genetic variations based on whether or not your ancestry evolved near the equator or further from the equator. Right? I mean, you see more blue eyes in Scandinavia. 
+1  
+02:08:01
+I mean, it's the lack of light that said you need more, less inhibition because there's not enough lights. Right. So that's the idea of the changing color. So yeah, I totally agree with you. I mean, I think this is an area that will be studied later and will be empirically determined. The problem we have in this field right now, which I think is the biggest problem is we don't have a way to measure the IP RGC sensitivities in humans. So we still like, it's easy to measure your rod cone function. If you go to an optometrist, they measure all the details, right? Contrast, detect 
+0  
+02:08:38
+The char. You let's get the list. He looked at the letters at the DMV. 
+1  
+02:08:41
+Yeah. But for the non subconscious, we still don't have a good measuring systems to figure out what is Andrew sensitivity? What is Samara's sensitivity? What is this person's sensitivity? And I think we're starting to work on something like that to hopefully develop these techniques. But till we develop them, it's going to be very hard to figure out if there is a sensitivity difference, how do they relate? And on men and woman, you know, dark and online and all that, you know, normal versus psychologically affect and stuff 
+0  
+02:09:14
+Fascinating. And every time you talk, I learned so much, it's like a, in the best way, the best sense of the term. It's, it's a, it's a waterfall of knowledge. As a final question, I have a question about sensitivity of a whole other kind, and that's the sensitivity to spicy food. Now, the reason I'm asking this question, what seemingly out of the blue is that I made the mistake once of having Sam or cook for me. And I said, not too spicy. And he said, okay, not too spicy. Yeah. She said, okay, not too spicy. And it almost killed me. 
+0  
+02:09:55
+Like it was like two or three days. So you know, a lot about biology outside the visual system light, et cetera. You've been around a while. Are there known genetic or an inherited of any kind sensitivities to spicy foods? So things like red peppers and capsaicin, because what you call mild. My friend almost put me into the hospital. 
+1  
+02:10:20
+I think this is similar to you, swimming in the ocean and I need to get developed the PTA. 
+0  
+02:10:24
+True, true. I like cold water swims and sand is not a fan, but that's our change. It's adaptable. 
+1  
+02:10:31
+That's my village. Before I met reishi, I was like you. And once I started eating a lot of spicy food, I lost touch of how spicy my food is. So I nearly killed you. And I have, 
+0  
+02:10:43
+I forgive you. So basically what you're saying is that marriage toughen you up, Maybe that's maybe that's the solution. Yeah. Sam or this has been an amazing March through the importance of light, not just for regulating sleep and wakefulness, but also for food timing, the interactions with mood, the interactions with exercise. I'm certain that people are going to start thinking about how to change their relationship with light as a way to anchor everything that they do. And that's important to their health. And I just on behalf of all of them and, and just directly from me as your friend and as a colleague for many years now, I just want to say, thank you for the incredible work you're doing and for sharing it with us. 
+1  
+02:11:27
+Thank you so much. And I actually now thinking about all of this, and you said, I should write a book. I should write a book and call it the tripartite model. I think that would put all these components together would be very interesting to do. At some point 
+0  
+02:11:41
+You should write a book you should read. They'll probably try and change the title to like food mood. And you, you know, but you can put in little print on the tri-part model or whatever, but regardless of what it's called, I, you absolutely should write a book. And, and so if you'd like Sam or to write a book, or if you'd like to learn more about them, let's talk a little bit about where people can find you, your laboratories at the national institutes of mental health. He is head of the chronobiology unit, all these things that I've mentioned earlier, but you are active on Twitter and Instagram, right? So what is your Twitter handle? It's ad 
+1  
+02:12:16
+Sam or hectare 
+0  
+02:12:18
+And we'll, and we will provide a link for that in the, in the show notes. 
+1  
+02:12:21
+Yes. At the tutor at summer Hatter. And I think the same for Instagram. 
+0  
+02:12:25
+Yeah. Actually, and Sammer has been coaxed on to Instagram. So he does post from time to time, mostly pictures of food that is incredibly spicy, but also information about chronobiology. He comes on for an Instagram live every once in a while with me. And so definitely give him a follow there and not, and on Twitter. And, and I'm sure that he'll be happy to answer questions and entertain any and all discussions about chronobiology. 
+1  
+02:12:53
+Absolutely. Yeah. And light. Yeah. 
+0  
+02:12:57
+Great. Thank you, Sarah. Awesome. Thank you, Andrew. Thank you for joining me for my conversation with Dr. <inaudible>. I hope you found it as interesting and informative as I did. If you're enjoying this podcast and or learning from it, please subscribe to our YouTube channel. In addition, please leave us comments and feedback in the comments section on YouTube. A great thing to do there would be to make suggestions about future topics. You'd like us to cover or future guests. You'd like me to host on the Huberman lab podcast. In addition, please subscribe to our podcast on apple and Spotify and on apple, you can leave us up a five star review. Please also check out the sponsors that we mentioned at the beginning of the podcast. That's a terrific way to support us. 
+0  
+02:13:38
+And we have a Patrion it's patrion.com/andrew Huberman. And there you can support the podcast at any level that you like for those of you that are interested in supporting scientific research. You can support the research in my laboratory on stress, on sleep and human performance and other related topics. By going to Hubert and lab.stanford.edu/giving. And there you can make a tax deductible donation at any level that you like. If you're not already following us on Instagram, please follow us at Huberman lab on Instagram and also on Twitter. Both those places I teach neuroscience and offer information. That's not always covered on the Huberman lab podcast and last, but certainly not least thank you for your interest in science.

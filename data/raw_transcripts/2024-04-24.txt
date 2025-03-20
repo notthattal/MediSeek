@@ -1,0 +1,850 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory
+Published: 4/24/2024
+6/1/2024 - 2h 28m 28s
+ - 
+IE
+Downloaded:
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman Lab GUEST SERIES, where I and an expert guest discuss science and science based tools for everyday life. I'm Andrew Huberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today's episode Marks the fourth in our sixth episode series, all about sleep with expert guest Dr. Matthew Walker. During today's episode, we discuss sleep and learning as well as the impact of sleep and the specific stages of sleep. On Creativity and memory, we talk about when and how long to sleep relative to different bouts of learning, as well as the role of Naps in consolidating information that you are trying to learn. We discuss the science and protocols of sleep as it relates to both cognitive learning and Motor Learning, and the mechanism by which sleep encodes memories as with the previous episodes in this series, today's episode includes information about the biology of sleep, as well as practical tools that is protocols in which you can use sleep to improve your learning memory and Creativity. 
+0  
+00:00:59
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the Sponsors of today's podcast. 
+Helix (Ad) huberman 
+00:01:15
+Our first Sponsor is Helix Sleep. Helix. Sleep makes mattresses and pillows that are customized to your unique sleep needs. It's abundantly clear that sleep is the foundation of mental health, physical health, and performance. When we're getting enough quality sleep, everything in life goes so much better, and when we are not getting enough quality sleep, everything in life is that much more challenging. Now, one of the key things to getting a great night's sleep is to have the appropriate mattress. Everyone, however, has slightly different needs in terms of what would be the optimal mattress for them. Helix understands that people have unique sleep needs and they've designed a brief two minute quiz that asks you questions like, do you sleep on your back, your side, or your stomach? Do you tend to run hot or cold during the night? Or maybe you don't know the answers to those questions. If you go to the Helix site and take that brief quiz, they'll match you to a mattress that's optimal for you. For me, it turned out to be the dusk DUSK mattress. It's not too hard, not too soft, and I sleep so much better on my helix mattress than on any other type of mattress I've used before. So if you're interested in upgrading your mattress, go to Helix Sleep dot com slash huberman. Take their brief two minute sleep quiz and they'll match you to a customized mattress for you, and you'll get up to $350 off any mattress order and two free pillows. Again, that's Helix Sleep dot com slash huberman to save up to $350 off and two free pillows. 
+Whoop (Ad) huberman 
+00:02:29
+Today's episode is also brought to us by Whoop. Whoop is a fitness wearable device that tracks your daily activity and sleep, but also goes beyond that by providing real-time feedback on how to adjust your training and sleep schedule to perform better. I've been working with Whoop on their scientific advisory council to try and help advance whoops mission of unlocking human performance as a Whoop user. I've experienced the health benefits of their technology firsthand for sleep tracking, for monitoring other features of my physiology, and for giving me a lot of feedback about metrics within my brain and body that tell me how hard I should train or not train, and basically point to the things that I'm doing correctly and incorrectly in my daily life that I can adjust using protocols, some of which are actually within the Whoop app. Given that many of us have goals such as improving our sleep, building better habits, or just focusing more on our overall health, Whoop is one of the tools that can really help you get personalized data recommendations and coaching toward your overall health. In addition to being one of the most accurate sleep trackers in the world, Whoop allows you to recover more quickly and fully from physical exercise and other kinds of stress, and thereby to train more effectively and sleep better. If you're interested in trying Whoop, you can go to join dot Whoop dot com slash huberman today to get your first month free. Again, that's join dot Whoop dot com slash huberman. 
+Waking Up (Ad) huberman 
+00:03:44
+Today's episode is also brought to us by Waking Up. The Waking Up app is a meditation app that offers hundreds of guided meditations, mindfulness trainings, yoga, need, your sessions and more. I started meditating over 30 years ago. At that time, there wasn't very much science on meditation, but by now we know that there's a lot of strong science supporting the fact that a daily meditation practice can improve mood, focus and alertness and can reduce stress and improve sleep and overall health. One thing that I and many others have noticed is that while meditation is excellent for buffering stress, it's oftentimes during periods of stress that we let our meditation practice go. The Waking Up app overcomes this by offering meditations of different durations, so they have some longer ones of 30 to 60 minutes, but also some much briefer ones ten five and even one minute meditations that are known to be effective. So no matter how busy or stressed you get, you always make time for your meditation practice. The fact that they have lots of different types of meditations and yoga Nira sessions and non-LEP deep rest protocols. Also make sure that your meditations are kept fresh and interesting. You never get bored of them. I personally use the Waking Up app to do a five to 10 minute meditation or a nons sleep deep rest protocol, which is similar to Yoga nidra each and every day. And if I miss a day, I try and double up the amount of time that I do NSDR yoga nidra or meditation the following day, yoga nidra and nons sleep. Deep rest protocols can be done essentially any time of day in order to restore mental and physical vigor. I'll sometimes do one first thing in the morning if I wake up and I feel I didn't get quite enough sleep the previous night. You can also do Yoga NIRA or NSDR in the middle of the night. If you wake up and you're having trouble falling back asleep, sometimes they will allow you to fall back asleep, and if they don't, you'll still feel more refreshed than you would have had you been tossing and turning and worrying about not getting sleep. So NSDR and Yoga Nira are terrific for both restoring mental and physical vigor and potentially for restoring sleep that you otherwise would've missed. If you'd like to try the Waking Up app, you can go to Waking Up dot com slash huberman to get a free 30 day trial. Again, that's Waking Up dot com slash huberman. 
+0  
+00:05:45
+And now for my conversation with Dr. Matthew Walker, Dr. Walker, Dr. Huberman, welcome back. We have covered a lot of material. First episode of this series, you gave us an overview of sleep and some actionable items about sleep. Then in the second episode, you gave us far more actionable items of how to think about one's sleep in a way that leads to very concrete decisions about controlling light temperature, when to sleep, and then some really in-depth advanced tools or protocols as we call them. And then in the third episode, we talked about Caffeine and napping and some other things that people can do to really supercharge their alertness through sleep augmentation in the daytime. 
+0  
+00:06:35
+And today we're going to talk about sleep learning and memory and a topic that I know everybody is very interested in. Creativity, 
+1  
+00:06:44
+Indeed, resplendent. Pleasure to be back on the show. Thank you for having me. 
+0  
+00:06:49
+Yeah, absolutely. So I think nowadays, most people understand that there's some relationship between sleep and learning, but I think it would still be a good idea for us to zoom out a bit and and establish what that relationship is. You know, I, I think most people are familiar with being exposed to some new material, cognitive material, physical skill material and not being able to learn it right away, but then having a few days in between and then all of a sudden voila. Yeah, there's, the skill has been embedded it seems, but not obvious in that scenario is that sleep is perhaps the pivotal event that allowed the learning process to take place. 
+0  
+00:07:33
+So how do you think about sleep as it relates to learning and memory? 
+1  
+00:07:38
+I think I've conceptualized it in three different stages or three different buckets of a benefit. The first is that we need Sleep, Before, Learning to prepare your brain to initially imprint and lay those memory traces down. But then you need to sleep after learning to take those sort of freshly minted memories and then save them and cement them into the brain so that you don't lose them. The third domain is that sleep will then take those new memories that you've been learning and it will start to collide them with all of this back catalog of information that you've already got stored in your brain. 
+1  
+00:08:27
+And it updates the iOS of your informational systems so that then you come back the next day and you have a better abled ability to understand how the world works. In other words, the difference between knowledge, which is learning the facts and wisdom, which is knowing what it all means when you put it together. That's the third category. And why is that beneficial? Because it provides you with creative insights. And so we will perhaps just double click on each of those three and I can, I can expand them because the data behind them is utterly fascinating. 
+1  
+00:09:07
+As you said, I think many people subjectively have a sense that sleep helps me with my memory in some way. But in what way? And for people, I think one of the things that you do here is not just protocols, but you help explain the conceptual understanding or the conceptual mechanisms underlying the reasons for all of these protocols. And I would love to dive into detail. 
+0  
+00:09:32
+Yeah, so let's do that. Let's talk about this business of sleeping before learning. You know, essentially establishing a milieu within the brain that is optimal for learning. What, what is that about neurochemically at the level of circuits and what is the evidence that providing some, I don't know, additional sleep or just adequate sleep prior to the exposure to the new material, yeah. Can be beneficial? 
+1  
+00:09:58
+Yeah, I love that word, that optimal milieu. And it beautifully describes what we found. We started off asking a very simple question at my sleep center is pulling the all-nighter a wise idea. So we took a group of perfectly healthy smart individuals and we assigned them to one of two experimental groups, a sleep group and a Sleep Deprivation group. And both of those groups weren't through those two different protocols. And then the next day after sleep or after no sleep, we put them inside of a brain scanner and we had them try and learn a whole list of new facts as we were taking snapshots of brain activity. 
+1  
+00:10:41
+And then we tested them to see how effective that learning had been. When we looked at the group that had had a full night of sleep, they had incredibly efficient Learning Capacity. So in other words, they had learned and imprinted that information initially very well. When we looked at the Sleep Deprivation group, not so much, in fact there was a 40% deficit in the ability of the brain to make new memories without sleep. And we've used lots of different types. We've replicated that now. We've had visual information, we've had textbook like information, and the range is somewhere between 20 to 40%. 
+1  
+00:11:24
+I find that, by the way, striking and we can come back to this based on what we are seeing in our educational systems right now. There is this paucity of sleep because of this model of Early, School, Start Times. And I'll explain exactly what's happened there and what we've been doing to try to change that. But coming back to those two groups, the Sleep Group and the Sleep Deprivation group, what was going on, as you said, inside of the brain that would help us understand why they couldn't learn or at least couldn't learn effectively. And the structure that we focused on is one you've spoken about before called the Hippocampus, and you have one on the left side and the right side of your brain. 
+1  
+00:12:04
+It looks like a long cigar that runs down the left and right side of your brain. And people listening can think of the Hippocampus, almost like the informational inbox of your brain. It's very good at receiving new memory files and then holding onto them. And when we looked at that structure and its activity during learning in the sleep group, they had wonderful, powerful activation of the Hippocampus as if it was gobbling up all of that new information into the inbox. When we looked at the Sleep Deprivation group, however, we couldn't find any significant signal whatsoever. So it was almost as though Sleep Deprivation had shut down the memory inbox and any new incoming files, they were just being bounced. 
+1  
+00:12:48
+You couldn't effectively commit new experiences to memory. And then subsequent studies that were not done by us, but looking at animal models, they were looking at how able the synapses are in that memory structure, the Hippocampus, how capable those synapses are for building new connections. And the synapses are just those connections between neurons. And we think that part of the way that we make memories is by strengthening the connection in the memory circuit itself. And what they found was that when they restricted the sleep of these rats or the mice, that part of the brain became very stubborn. 
+1  
+00:13:31
+It just wouldn't form those new synaptic connections and something that we call synaptic plasticity. So we started to understand this was the bad that happened when you take sleep away. But let's come back to that control group that I said got a full night of sleep. Exactly what is it about sleep when you do get it, that seems to support and promote your learning ability. So we decided to do another different study instead of manipulating sleep by dialing it down, we instead tried to dial it up by way of a daytime nap. And again, we took two groups and we had them initially learn again a huge amount of factual information. 
+1  
+00:14:15
+They learned it over and over and over again. And then we brought them back six hours later at 6:00 PM and now we had them learn a whole new set of information. And after each one of those fresh novel learning sessions, we tested them to see how effective that learning had been. Again, one of those groups spent that six hours of time awake doing just relaxing activities. The other group was able to obtain a 90 minute nap and we used that 90 minute nap to allow them to go through a full sort of average cycle to get some non REM and to get some REM. And what was interesting is that when we tested the group that remained awake later, that following day, the Learning Capacity had declined. 
+1  
+00:15:04
+But in the nap group it seemed to restore the brain's capacity to learn and you didn't get that decline in memory. In fact, if anything, you got a little boost. And the difference between those two is about 20%, which quite a nice benefit. Yeah, not trivial. Not trivial at at at all. And then we said, okay, well if sleep is doing something, what is it about that sleep? So we unpacked the physiology of sleep in the different stages of sleep that we discussed in the first episode. And what we found was that it was the non rapid eye movement sleep or the non-REM sleep, and particularly those Sleep Spindles, those short bursts of electrical activity that we have discussed before that seemed to predict how restored and refreshed your learning ability was. 
+1  
+00:15:54
+And the best way that I've been thinking about this in terms of sleep restoring or refreshing your encoding ability, and it's a crass analogy, and I don't mean to make a direct brain to computer analogy, but think of that Hippocampus almost like a USB stick that's very good during the day at going around and grabbing new files, but it has a limited storage capacity. And what sleep was doing seemed to be shifting those memories from the USB stick of your Hippocampus over up to the cortex, which you can think of almost like your hard drive, a much bigger storage capacity. And by way of doing that, when you woke up after the nap or after a full night of sleep, you had this cleared out USB stick. 
+1  
+00:16:38
+So what could you do? You could go around and start acquiring all these new files again. So that started to teach us a little bit about why Sleep Before Learning is critical, but also mechanistically how sleep is doing this remarkable work of memory restoration. We then wanted to say, well can we translate this out into the real world? And I think there are two regions that we've moved this work out into. One is education, one is is medicine and Alzheimer's disease. But the education piece was very interesting in the United States. I think the last time I checked the average school start time is somewhere around 7 30, 7 45. 
+1  
+00:17:23
+Sounds about right. And if you think about that for seven 30 school start times, school buses will begin leaving around 5 30, 5 45 in the morning. That means that some kids are having to wake up at 5:00 AM maybe even earlier. This is lunacy when you think about it. And there's a great study in Edna, I hope I'm pronouncing that correct, Edna, which is a small suburb or it sits in a small suburb outside of Minneapolis in Minnesota. And they shifted their school start times from 7 25 to eight 30 in the morning. And then they wanted to ask what is the consequence of that on the academic performance of their students? 
+1  
+00:18:08
+And the metric that they used in these teenagers that they were focusing on was something called the SAT score, which is a score I had to learn when I first came to the United States is a critical assessment test that will largely determine which university you go to. And they did an analysis which was clever. They focused on the top 10% performing students, which you could argue those are the ones that are closest to the ceiling performance and the hardest to expect any benefit from sleep. So in the year before they made the time change, the average score of those top 10% performing students was 1,288, which turns out to be a pretty good SAT score the following year after they made the time change, the average score for that top 10% was 1,500. 
+1  
+00:19:02
+That difference is non-trivial. And it will change exactly where those individuals will go to university in terms of the tier of the university and likely change the trajectory of their lives as a consequence. Now some people have argued that data, you know, in terms of its source and its reliability may not have necessarily been accurate, but now we've got very consistent data. When you start school, times later, academic grades improve psychological and psychiatric problems decrease, truancy rates decrease. But something else happened in that story of later school start times that we didn't expect, which was that the life expectancy of students increased. 
+1  
+00:19:50
+And you think, well, hang on a second. How do you determine that the number one cause of death in teenagers 16 to 18 is actually not suicide, turns out to be second it's road traffic Accidents. And here sleep matters enormously. There was another great example from Tetin County in Wyoming and they shifted their school start times from, I think it was 7 35 in the morning to 8 55. And the only thing more remarkable than the extra one hour of sleep those kids reported getting was the drop in car Accidents that following year there was a 70% reduction in car crashes in that age range of 16 to 18. 
+1  
+00:20:34
+What time are they getting outta school? Well, they will probably be ejected outta school. That's another interesting part by the way, maybe around four 30 and people have said, well look, all of this idea of later school start times, it means that it's going to cost us more. 'cause you've got to change the school bus system. And they've argued pushback against that. And I would say probably two things. First, I know it's difficult and I'm not saying it's an easy problem to do, it's a complex problem and I'm sympathetic to that, but I, I think we've put people on the moon. And so I suspect that we can also solve the problem of Early School, Start Times. 
+1  
+00:21:17
+The, the other component of that is what are we doing as educators? If our goal as educators is truly to educate and not risk lives in the process, then we are failing our children in a most spectacular manner with this incessant model of Early, School, Start Times. And if you look at the data, it's very clear when sleep is abundant, minds flourish. And when it's not, they don't. And so that's the reason why myself and a whole group of sleep scientists, we started to try to create a movement for later school start times. 
+1  
+00:22:00
+And we got this bill passed, firstly in California and we got it on the governor's desk. At the time it was Governor Brown and unfortunately he didn't sign it into law. Then when the organization changed and Governor Newsom came in as governor of California, we got the bill back on the on his desk and he did sign it. And then the next state to go is New York. They started to put in legislation for recommendations for later school start times. I think Florida is about to fall as well in that regard. So there's gradual movement happening, but it's hard fought and it's, it's problematic. 
+1  
+00:22:41
+I still think that it's, it's impossible to deny that data. I mean it was an interesting thing. I remember when I was a professor back at Harvard, we were doing this work on sleep and and learning and they said, and it was sort of published in these sort of kindly, I dunno how we did it, but in nice journals and they said, okay, based on the media attraction, would you write an editorial for the Harvard newspaper, which was called the Harvard Crimson? And I said, I'd love to. So at first I thought, I'm just going to write a straight piece about sleep and memory and why it's important. And I realized no, there's a better opportunity because teaching there, and you know this as well as I do, there is this bizarre system where we teach for an entire semester and then we end load the semester full of exams in this stressful two week period. 
+1  
+00:23:30
+And what do you think is going to happen then? Not going to sleep, especially at a time when they're trying to cram information. So 
+0  
+00:23:38
+Right, especially in college where you don't actually have the material four weeks before, so there's not really the option to learn it in advance. 
+1  
+00:23:46
+No 
+0  
+00:23:47
+Ev everything's about university to me was about getting a bunch of information and needing to incorporate it very quickly and then move to the next item, 
+1  
+00:23:55
+Right, next item, next item. And then all of a sudden there's this cataclysmic moment at the end of the semester and you are supposed to regurgitate this by cramming everything into your brain, right? In this sleepless two week period. So rather than saying, look, the students need to change their behavior, they need to understand this is a problem, it's not their fault. I said, it's us as educators and administrators, we have created a system that forces them to undergo deliberate Sleep Deprivation and we are educating them amnesic quite literally. So I put this editorial out, it received a, a rather Baltic if not arctic response and that was the last editorial I was ever invited to to write for the newspaper. 
+1  
+00:24:48
+But you know, you've got to say your piece. 
+0  
+00:24:51
+Well, so, but I'm curious why there's resistance to shifting to later school times and to improving the conditions for learning. If the goal is to learn, I mean, tradition dies hard. Maybe that's why I think there's also the idea certainly in the medical profession that you know, well when I was doing my training we would pull all-nighters all the time. And so the idea then is that it's just part of the self-directed hazing process that is getting a degree that you're going to be doing a lot of all-nighters and cramming and things of that sort. Is that, is that what you think motivates the the resistance to change? I 
+1  
+00:25:27
+Think so. I think you've hit all the points. I think you know, zeitgeists die one generation at a time and we see that resistance certainly there too. I also think that when you come back to later school start times, they have suggested that there is this cost when they tally it up. But you made a point, which is when did they get outta school? And let's say it's around four 30. One of the interesting analyses that was published, and we latched onto this, that is this strange bewitching hour when kids get out of school, but often their parents are not home to work. 
+1  
+00:26:07
+And if you look at the teenage crime rate and you look at when those crimes are committed, it's usually in that bewitching hour after they get outta school. But they don't have home or parents yet to go to that. It's filled. But by pushing school start times later they get out, later they go home. And if you were to even half that debt that those crimes cause you would easily pay for the education system. So it's very interesting. I think that also notion of, well we went through it and here I am, so you can go through it too, is very prevalent in medicine. 
+1  
+00:26:49
+This is another good example. We and mostly colleagues at mine such as Charles Sizer at Harvard, have really done a great job at cataloging exactly why we need to abandon this resident program, which has a fascinating history by the way, which is young residents should be working 30 hour shifts often without any sleep whatsoever. And when you look at that data, residents who are working a 30 hour shift are going to be almost 460% more likely to make diagnostic errors in the intensive care unit. If you have a surgeon and you're getting elective surgery who's had less than six hours of sleep in the previous 24, they are almost 70% more likely to cause a surgical error, which could result in non-trivial consequences. 
+1  
+00:27:41
+And then the irony is that when young residents after a 30 hour shift get back into their car at the end of the shift and drive home, there is 168% increased risk that they get into a car accident and then end up back in the ER from where they just came. But now, as a patient rather than a physician and you think, what are we doing? I, Charles Eiser I think has described, they provided this evidence to the council and at first they just, I think the idea was, look, our minds are made up, don't confuse me with the data. And when you appeal on the empathetic basis but it wasn't well received. 
+1  
+00:28:25
+So then if you go back and you say, no, I'm going to give you a different argument. If you look at the cost of malpractice caused by insufficient sleep and if you get the administrators into the room, all of a sudden the schedules change. So then based on that data, there was a policy that you couldn't work any longer than I think it was a 16 hour continuous shift. The problem was that they only said that that was apparent for the first year residence and not the remaining years. And the question was, well why? And I said, well the data that you showed us, you only collected in first year residence as if something magical was going to happen When you become a second year resident and you don this Teflon coat of immunity against Sleep Deprivation, 
+0  
+00:29:09
+Well if anything it would compound and get worse. So, so it seems to me that there's, there's like zero question that getting adequate sleep is good for learning but, and when the stakes, when it's high risk, high consequences scenarios or even high consequences scenarios like a medical situation, it just seems like it should almost come down to legal liability. Yeah. 
+AG1 (Ad) huberman 
+00:29:35
+I'd like to take a brief break and acknowledge our Sponsor AG one. AG one is a vitamin mineral probiotic drink that also contains adaptogens and is designed to meet all of your foundational nutritional needs. By now, I'm sure you've all heard me say that I've been taking AG one since 2012 and indeed that is true. Now of course I do consume regular Whole Foods every day. I strive to get those foods mostly from unprocessed or minimally processed sources. However, I do find it hard to get enough servings of fruits and vegetables each day. So with AG one, I ensure that I get enough of the vitamins, minerals, prebiotic fiber and other things typically found in fruits or vegetables. And of course I still make sure to eat fruits and vegetables and in that way provide a sort of insurance that I'm getting enough of what I need. In addition, the adaptogens and other micronutrients in AG one really help buffer against stress and ensure that the cells and organs and tissues of my body are getting the things they need. People often ask me that if they were gonna take just one supplement, what that supplement should be. And I always answer AG one, if you'd like to try AG one, you can go to drink AG one.com/huberman to claim a special offer. You'll get five free travel packs plus a year's supply of vitamin D three K two. Again that's drink AG one.com/huberman. 
+0  
+00:30:49
+So are the errors of Sleep Deprivation in these scenarios, both in students and medical professionals, are they due to errors in memory per se? I mean, so I mean 'cause you can imagine all sorts of errors. So with the surgeon, they like cut the wrong thing, right, or they cut too far the margin on the surgical site is too big, et cetera. But since we're talking about learning and memory and its relationship to sleep, is it that people are forgetting what they did? Are they forgetting what they didn't do? I mean, or is it a deficit in motor skills or all of the above? 
+1  
+00:31:25
+It's all of the above. Above plus, which is that learning and memory or recollection of both what you did or what you need to do or what you should do based on your training is going to be compromised because your recall of that information it turns out is also compromised. Got it. But it's also decision making too, that what we know is that your frontal lobe is especially sensitive to a lack of sleep and it's that frontal lobe that really takes complex situations, distills them down and comes up with the correct output scenario of decisions that you need to make, not so much when you are sleep deprived. 
+0  
+00:32:01
+So how should I establish the proper neural milieu for learning by sleeping prior, should I make sure that I, I mean in an ideal world, I get excellent night's sleep for the, you know, every day of my life leading up to a bout of learning being expo. And here I'm referring to a bout of learning as being exposed to new material but life happens. Yeah. So if I know that tomorrow I'm going to take a class in something or I'm going to need to perform a skill that it's pretty nascent skill for me. I only learned it recently, what should I do the night before? 
+1  
+00:32:39
+I would say think about what you can get in terms of your sleep under current conditions and understand that that is staying awake and foregoing sleep is not the right equation that you may think. In other words, think of sleep that night as an investment in tomorrow rather than a cost opportunity of now or today. That would be the message I think for learning and memory. Some people will say logically and rationally, well, but if I stay awake I can at least be learning and going over that material for many more hours. 
+1  
+00:33:20
+So doesn't that compensate for me going to bed? Let's say I haven't learned it well enough. Well surely I should just, you know, say I, I should just focus and stay awake 'cause at least then I can just go over the material time and time and time again. Doesn't that offset the the deficit? And to a degree it does. We did that study. But what was really interesting is that the next day were you able to at least learn and recall some of that information? To a degree, yes you were. And the more that you kept going over it, the better you performed even when you were not getting sufficient sleep. But then we did something interesting, we then brought them back and we haven't published this, this data I should do. 
+1  
+00:34:02
+We brought them back a month later and then we tested them again. And what you find is that the group that slept was far better able to have retained and remember that information. Whereas the group that did not sleep as much, they performed much more similar to the group that got a full night of sleep the next day. But when you test them a month later, almost none of that material is residing in their brain anymore. Got it. 
+0  
+00:34:34
+So this is the Cramming Effect. 
+1  
+00:34:36
+That's right. 
+0  
+00:34:36
+Right. And and if, and one knows this from teaching university courses or if they've crammed that you can learn a bunch of material but then you regurgitate it for the exam and then it's gone. Yeah, so, so it's almost like a, it just never passes from short term to long term memory essentially. 
+1  
+00:34:53
+That's correct. Okay. And that seems to be, in some ways that's a, a beautiful description of then what happens next in the sleep process. It's not just about Sleep, Before, Learning, you then have to sleep after learning to do exactly what you just described. 
+0  
+00:35:08
+So I have a class in the morning or I'm going to learn something new the next day afternoon. My goal presumably should be to maximize the amount of sleep I get and to be on the same sleep schedule. So this gets back to QQRT that was presented in the first episode, quantity, quality, regularity and timing. And people should refer to that. 
+1  
+00:35:34
+Nothing wrong with your memory by the way. 
+0  
+00:35:36
+Well I don't know about that but the, the QQRT formula was, was described in the first episode. Let, let's come up with a, what I think is a fairly common scenario. So I like to go to bed early between eight and 9:00 PM I discovered this recently thanks to conversations with you. This is clearly what works best for me. I kind of always intu it but I, it clearly is what works best. If I go to bed at 10, I probably want to wake up sometime around, I dunno, 6:00 AM or or six 30. And if I go to bed any later than 10 30, I start running into problems. I don't feel good the next day, even if I get sufficient hours of sleep. So this is the importance of regularity and timing, keeping things more or less locked to that eight 30 to nine 30 to bedtime for me, four 30 to five 30 wake up time. 
+0  
+00:36:21
+That's me just by way of example, in an ideal world, therefore I would stick to that schedule, wake up the next day and go do my learning or my performance of something that I'd learned someone else might have the chronotype we're going to bed at 11:00 PM and Waking Up at 7:30 AM is their preferred schedule. However, often because of travel, because of courses, because of life circumstances the night before, something critical that we need to learn or to perform some critical task, physical or cognitive, the sleep the night before is disrupted in some way, either by virtue of timing or quantity and then of course by extension regularity. 
+0  
+00:37:03
+So is there anything that we can do heading into a bout of learning meaning the night preceding that bout of learning that can kind of provide a buffer or, or set us up for the best possible learning scenario if we're not able to stick to our perfect schedule? 
+1  
+00:37:22
+I think there may be two things that's been a little bit of work that's been done to suggest that Caffeine may actually enhance the Hippocampus, this memory encoding structure and boost its ability to encode. Now what they haven't yet done is the study where you sleep deprive someone, then you give them Caffeine the next day and then you have them try to learn and ask can Caffeine by way of its effect on the Hippocampus rescue and restore what would otherwise be an encoding deficit? Now that is entirely possible and I think it's a fascinating question by how much we don't know. 
+1  
+00:38:03
+But if it doesn't, it's equally likely that the Hippocampus by way of being sleep deprived is not receptive to the benefit of Caffeine under conditions of Sleep Deprivation. And I told you in the rat studies, when those rats were deprived, the Hippocampus once again became stubborn in its ability to form new synapses. And it may be that it's equally stubborn to receive the normal benefit of Caffeine when you are sleep rested, but I would love to do that study. The second is to then say, well if I have the choice of when I'm going to be learning during the day, let's say that you've had a bad night of sleep or you just had a short night of sleep, non-negotiable, couldn't do anything about it and the next day I've got to cram in some information. 
+1  
+00:38:49
+I would say think about your chronotype and think about when you are at your best operating temperature. So your scenario, let's say going to bed at nine, Waking Up at 4 35, your peak is probably going to be maybe 10, 11 o'clock in the morning where your biology and your circadian rhythm is on its almost crescendo peak at that point we know for circadian influences on learning and this is independent of sleep influences on learning, that's where things are better. Now for me, you actually described me, which is I'm a kind of an 11 to seven 30 type person. For me it's probably going to be much closer to about midday or 1:00 PM where I feel at my operating peak, both for physical performance and also mental performance. 
+1  
+00:39:37
+So if you've got the choice and you are under slept, there's nothing you can do about the sleep that you've lost the night before, but at least recognize that your circadian rhythm is going to come to your rescue and help offset that as long as you time your learning to that known peak of your circadian rhythm. Does that help a little 
+0  
+00:39:57
+Bit? Yes, that that makes good sense. So the idea gets us back to something you described in previous episodes, which is that you have this sleep pressure due to the buildup of the molecule adenosine, which the longer we are awake, the more adenosine in our nervous system, which makes us sleepy. But separate from that, there's this circadian cilla about 24 hour rhythm, right? That causes fairly dramatic shifts in wakefulness and sleepiness independent of the adenosine signal. Now sometimes the two signals overlap so that late in the evening For instance, we have a lot of adenosine, we've been up all day and our circadian rhythm is such that our alertness is starting to diminish. 
+0  
+00:40:40
+So they're aligned and in the early part of the day, assuming everything is normal, the adenosine levels are low because we slept well the night before and our circadian rhythm is on the upswing so to speak. And we are alert. So if I understand correctly, the goal is to of course maximize the quality, quantity, regularity and timing of sleep QQRT. But that in the absence of the ability to really anchor any one of those things to 10 out of 10, you know, a plus performance if one knows that, okay, typically around, you know, between 10:00 AM and noon is when I'm at my sharpest, that would be the time to be exposed to new material where ideally take an exam if one can control that sort of thing. 
+0  
+00:41:22
+And then perhaps in the afternoon there's another opportunity bef after the postprandial dip. That's right. But before the e postprandial dip, sometime between one and 4:00 PM usually lasting about an hour to 90 minutes, this is a di natural dip in energy. But then after that is another opportunity to learn. Sure, there'll be a lot of adenosine in one system 'cause you've been up long time, but the circadian system is on, its sort of upswing again, it's coming back before the downswing that occurs in the evening. Is that right? That's right. 
+1  
+00:41:56
+So 
+0  
+00:41:56
+You can cut. 
+1  
+00:41:56
+So you've got two opportunities. And by the way, it's strange you were to ask, if you look at the circadian rhythm right before sort of bedtime, there is this sort of strange little blip, this peak that folks at back at Harvard I've I've discovered. And you think, well why would my circadian system, which needs to really ratchet down for us to get to sleep, well why would it have this little jag upwards in the evening hours right before we need to sleep? And it then drops precipitously, right? Makes no sense until you think about evolution because after foraging for food during the day, what you need is this final spurt to get you home safely to your nest or to your home 
+0  
+00:42:46
+To batten down the hatches. 
+1  
+00:42:48
+Exactly. Yeah. So there is this beautiful little built in circadian upswing to say, okay, I know you're returning to home. This is probably a time when there's some maybe potential threat to you. I'm gonna just boost your alertness very quickly so you travel home safely. Good to go. Great. And now I start my downswing. 
+0  
+00:43:09
+I think this is a really important thing for people to know about. I'm familiar with the data, although just in top contour, but the idea here as I understand it is that many people will feel like, okay, around 6:00 PM six 30 they're getting sleepy, 7:38 PM and then they want to get to bed at 10 30 and suddenly for them based on their chronotype around 9:00 PM they're like wide awake 
+1  
+00:43:33
+Second Wind, 
+0  
+00:43:33
+Right? The Second Wind and they're like, oh no, I need to sleep tonight. Now maybe it's the case that they're a, they would be better off going to bed far earlier and Waking Up earlier the next morning. But in many cases it's just that transient 45 to 65, you know, 70 minute window of increased alertness. That's right. This kind of uptick in the, in the circadian alertness system so to speak. Yeah, 
+1  
+00:43:58
+This too shall pass, right? And then also just set yourself up for success. And we discussed a little bit about the methods of really ratcheting things down, dimming down the lights, having a Tibet alarm, these types of things will just gradually back you off. And after that, Second Wind comes give you the greatest ability to decline physiologically, which then permits this beautiful thing called sleep to come in its place. 
+0  
+00:44:25
+Well speaking of sleep post learning, what is the role of sleep that follows about of learning? And here again, we wanted define learning as the exposure to novel information that one is trying to encode either cognitive information, motor information or, or a combination of the two. And I say that because learning AK neuroplasticity has many different stages. It's the process, not an event. But, so let's say that earlier in the day I took a dance class, Lord knows I need one or you and I both or a musical lesson or was exposed to some interesting information, who knows maybe on a podcast and I was, you know, trying to engage in that information and and pay attention and then that night I, I plan to sleep or perhaps one could take a nap after this bout of learning how close to the learning episode about, as I'm calling it, does the sleep have to arrive in order for sleep to maximize the amount of learning that occurs? 
+1  
+00:45:26
+It's a very good question, which is what would happen if I were to be learning information and I'm listening to this odd British gentleman, should I then immediately dive into bed so that I maximize the retention of that information? And the answer is no, don't worry. And I'll come back to why not to worry. But to your point, not only do you need Sleep, Before, Learning as we've been discussing, but there is something unique and equally necessary of, and causally necessary I should say for sleep after learning. But it does something different. Sleep Before Learning gets your brain ready to lay down those new memory traces after you've imprinted them into the brain. 
+1  
+00:46:12
+Sleep after learning then takes those freshly minted memories and then it strengthens them. It all essentially it's almost like sleep will hit the save button on those new memories so that you don't forget. So in other words, sleep is future proofing that information within your brain so that you don't forget. And then the question, and we've been able to, and we in many others have replicated this. In fact it's nothing new. If you look at the literature on this sleep after learning gig, it goes back as best we can tell to 1929, although I'll argue with that in a second. 
+1  
+00:46:55
+But two researchers, Jenkins and down back did a landmark study. They had participants learn a whole bunch of nonsense syllables and they had them learn them over and over and over again and gradually they got better and then they started to test them across an eight hour period. They tested them two hours later, four hours later, six hours later and eight hours later. The only difference is that in one of those testing sessions that two hours, four hours, six hours, eight hours was across a Waking day in the other. They have them learn that information to near perfection before sleep just as they did in the Waking group. But now they woke them up after two hours and tested them after four hours and tested them after six hours and then again when they woke up in the morning eight hours later. 
+1  
+00:47:42
+And what they found is that in those people who stayed awake after learning, there was essentially just catastrophic forgetting the amount of information, two hours, four hours, six hours, eight hours later just declined dramatically. But when they repeated that in the same individuals after learning things to the same degree, two hours, four hours later memory was starting to decline. But after about two and a half, three hours of being asleep, all of a sudden sleep had fixated those memories almost like, like an animal that's been trapped in amber and set in amber like a fossil. And then those memories just would not decay any further and you retain them. 
+1  
+00:48:25
+What was stunning about that study is it has been replicated time and time again. That's not the surprising part. The surprising part is that in that study they tested a vast number of subjects, in fact a some total of two participants. But what's stunning is that that finding has gone and been replicated time and time again. So that demonstrated to us that there's something special about sleep that is concretizing almost literally like taking things and setting it in concrete. And then the question became again mechanistically how, how is it and it's important to understand mechanism because it has ramifications for diseases and medicine. 
+1  
+00:49:10
+How is sleep doing this fantastic saving of memories? And we now have at least two non mutually exclusive mechanisms. So in other words, both seem to occur. The first is what we call memory translocation sleep. And particularly what we found for fact-based memories. And I should note by the way that this story of sleep after learning is a two part or it runs in two different narratives. One is sleep after learning for fact-based memory, what we describe as declarative memory. And you've done a fantastic previous episode on working memory and describe all of these different types of memory. 
+1  
+00:49:54
+So one story line has been sleep after learning for fact-based memory. But the other which is equally interesting is sleep for non declarative or procedural skill memory. In other words what we think of as motor memory. But I'll come back to motor memory in a second. What we then found for this sleep and textbook like memory is that there are two mechanisms, the first translocation. And here what we found is that it's deep non REM sleep for fact-based memories. And it's those big slow powerful brainwaves that we spoke about in the first episode combined with those Sleep Spindles that ride on top of them, almost like a surfer on a huge amplitude wave. 
+1  
+00:50:37
+And it's the combination of those two brainwaves that acts like a file transfer mechanism and it moves and shifts memories from a short-term vulnerable reservoir, the Hippocampus to the more permanent long-term storage site, the cortex in the brain and therefore protecting them and making them safe. So that's one mechanism is that the shifting of memories around the brain and through different storage sites from short term to long term. The second I think is perhaps even more fascinating, it's called memory replay. And this was discovered back in the probably 1990s, Bruce McNaughton at the University of Arizona working with a young Matt Wilson who had not Matt Walker, he's Matt Wilson at MIT now they were looking at rats and they were looking at how rats learn a maze. 
+1  
+00:51:32
+And they had these electrodes in these hippocampal brain regions, these memory related regions that we've been discussing. And they were listening to the individual firing patterns of those memory cells in the Hippocampus as they were running around the maze. And sure enough, as they ran around the maze, statistically you would build up what looked like the signature pattern of learning. So think about those neurons that they each had a special tone to them. And as the rat is running round the maze, you can hear the signature of learning bbu bum bum bu I just meant it over and over again. But then they did something clever when the rats went to sleep after learning, they kept listening. 
+1  
+00:52:16
+What did they hear? They didn't just hear noise, they heard that same memory signature replayed. However, it wasn't replayed at the same speed, it was replayed somewhere between 10 to 20 times faster. So now all of a sudden, instead of hearing Bba Bubu, you heard just going over and over again and what we've learned is that this replay of memories for that type of information now for rats, that's their version essentially of that spatial navigation is their version of fact-based memory. And I won't go into detail, but 
+0  
+00:52:55
+Yeah, 'cause navigating novel environments is especially important for all species, but rodents to know where they cashed food, where escapes are and things of that sort, 
+1  
+00:53:05
+Yeah, perhaps even more so than us humans, that locational memory is necessary. 
+0  
+00:53:09
+And nowadays there's Google maps and Uber and things of that sort. But in the the old days as it were, I recall the the London taxi drivers were considered the, you know, the world heavyweight champions of of memory and there were some decent brain imaging studies of their hippo campi. And indeed they have amazing spatial memory of the city of London. Now that's probably changed because of Google maps there. There's no need to rely on on internal memory stores when you have 
+1  
+00:53:40
+No, you still actually, there's still a, now you can drive, you know, these rideshare apps. But for London taxi drivers, they still have to go through, in some ways it's almost like a hazing, it's called the knowledge. And if you, if you are visiting London, you will see these strange guys who are going around on mopeds and they just have this huge kind of map in front of them and they are doing the knowledge, which is that they are learning exquisitely the entire roadmap of London. And what they found in those studies was that the size of the Hippocampus, this memory structure related to fact-based memories and also spatial memories was significantly larger in cab drivers than it was in matched controls. 
+1  
+00:54:24
+Now you could say, well this is a self-selecting process that people who already have large hippo campi as we would say, they're just going to be the people who can do the knowledge well and pass as it were. But what they also found was that correlation, the longer that you've been doing the knowledge and being a taxi driver, the bigger and bigger your Hippocampus. So it's time on task. So coming back to the the the rats and this spatial learning, it's almost as though sleep as learning is taking that memory trace and it's like etching into a glass surface. You just go over that memory circuit over and over again and you're strengthening that memory circuit. 
+1  
+00:55:07
+What was also fascinating, however I would, I'm telling you that it's during non-REM sleep that you do all of this memory replay. And certainly what we found is that for textbook memory, it's deep non REM sleep. That's the important stage of sleep. But Matt Wilson published at MIT, an interesting study looking at REM sleep, what happens to the memory trace in REM sleep and REM sleep, which we know is associated with dreaming there, the memory replay didn't slow back down to normal Waking speed. It slowed down even further to 0.5 times relative to Waking speed. So the Waking speed versus the dreaming speed in dreaming sort of in REM sleep I should say because we dunno if rats dream or not. 
+1  
+00:55:54
+But in REM sleep things had slowed down by essentially 50%. And this comes back to our conversation in a previous episode that we had about time. And you and I were discussing how there's this strange phenomenon where you are woken up by your alarm and you're in a dream and you have a snooze button that lasts five minutes. You hit the snooze button, you go back to sleep, and you feel as though you've been dreaming for, I don't know, 10 minutes, 15 minutes, but it's been five minutes in the real world. But time has slowed down, time has dilated, it's almost like a concertina that's stretched out. And all of a sudden we were finding in or Matt Wilson, because we don't do animal research, was finding that this replay was slowed down by 50%. 
+1  
+00:56:38
+So I always wonder whether or not there is neuronal evidence that helps us explain why dreams seem to pack more time despite being in real world time a shorter amount. Absolutely fascinating. 
+0  
+00:56:52
+Yeah, I have to imagine that rats dream and dogs dream another animal dream. I mean, why wouldn't they? You know, if all the components of REM sleep that are expressed in humans appear in these animals and vice versa, you imagine it almost has to be the case. 
+1  
+00:57:12
+It does. And I think there is some interesting supportive evidence that you can argue there is a sleep disorder that we understood in humans first called rapid eye movement disorder or REM Sleep Behavioral Disorder. And in the first episode we said that one of the fascinating features of REM sleep, which is when we principally dream, is that your brain and specifically your brain brainstem paralyzes your body so that your mind can dream safely. So you are shut down into this motor paralysis incarceration, rightly so. But what also happens is that as we get older, and it seems to be particularly more so in men than in women, but it can be both. 
+1  
+00:57:56
+Once we get past our fifties, there's a higher likelihood that that mechanism starts to degrade and you can start to act out your dreams. Now this is not Sleepwalking or sleep talking that actually comes from deep non-REM sleep. And there what happens is that there is a trigger, an awakening, either a brain response, almost like a stress response that wakes the brain up. And you are in the deeper stages of sleep and you are trying to get forced back up to wakefulness, sort of the back to that analogy of going from the basement to the, to the penthouse. And instead you just get locked into this mixed state of consciousness, sort of. And as a consequence, you start to enact very rote basic behaviors. 
+1  
+00:58:41
+You'll go over to the refrigerator, open the door, close the door, pick up a glass, put it to your mouth, put it back down. And if you wake someone up, which you shouldn't necessarily do unless there's, there's harm, they, and ask them what was going through your mind just a few minutes ago? They'll say nothing. And the reason is because it wasn't coming from dream sleep, it was from deep non REM sleep. 
+0  
+00:59:02
+I see. 
+1  
+00:59:03
+However, there is a very different condition that sometimes people will mix up as the very same thing, which is REM, Sleep, Behavioral, Disorder. And there you are acting out your dreams. It can be quite violent. Some people have enacted violence on their partner and woken up and being absolutely devastated. I bring this up however, because human beings are not the only species that suffers from REM, Sleep, Behavioral, Disorder dogs suffer from this as well. And when you see it and you can understand it, I mean it's very clear. You have electrodes on the head. They go into this REM sleep state and all of a sudden they come outta the paralysis and they start enacting what very much looks like a behavior of wakefulness. 
+1  
+00:59:45
+It's quite complex. And at that point, you look at that and you say, okay, I'm, I'm sorry, but that looks very much like dreaming. Now we can't of course ask dogs question, you know, what was going through your mind? You 
+0  
+01:00:00
+Can ask them, but, but they're not gonna ask. But 
+1  
+01:00:01
+Yeah. But yeah, you can ask them. But it turns out that the response me is less than it's just a look to say, give me a treat. But you know, in science sometimes if it looks like a duck, talks like a duck, walks like a duck, maybe it's a duck. 
+0  
+01:00:15
+What, what about this phenomenon, which I've experienced before of being asleep, presumably in rapid eye movement sleep and being completely paralyzed, but then Waking Up, and I'm still in paralysis, but I'm not asleep. And this was a long time ago, probably the 10th grade, which for me, I was what, 15 years old? I'm 48 now and was at a party that I, I fell asleep on the couch. And I goodness, I, I don't believe in underage drinking, but there's a, there's a possibility that I might have been inebriated. I I was just a possibility parents that, you know, I, I just, I actively dissuade young people from drinking and many older people from drinking. 
+0  
+01:01:00
+But yeah, I, I started drinking far too young and I, but I remember I drank the night before I got drunk the night before. Again, something I'm, I'm not suggesting or proud of, I woke up and I was wide awake. Gosh, I remember this so well and I was paralyzed. I could not move and it was terrifying. And then all of a sudden, boom, I could jolt myself awake. And I was like, oh my goodness. And it must've been an invasion of that atonia that sleep induced paralysis into the Waking state. 
+1  
+01:01:31
+So I can explain this and you have the, this is the perfect prototypical situation When we see this, what you're describing to me is something that many people listening will have experienced called REM Sleep Paralysis. And it's not necessarily a problem or a sign of a condition that you need to be worried about. Although if it's happening frequently, we can think about that. What normally happens when we wake up out of REM sleep. And REM sleep, as we spoke about in the first episode, dominates the second half of the night and particularly the last quarter of the night. As you are coming out of REM sleep and Waking Up out of REM sleep, which you know, you've got a 50 50% chance perhaps 'cause the other state that you're in is stage two like non REM. 
+1  
+01:02:14
+As you're coming outta REM sleep, you are regaining consciousness to the external world and then normally in lockstep with that perfect lockstep if not a little before, your brain is realizing this and it's releasing you from the paralysis. And we all wake up and we don't even think about it. I just wake up and I lean over, I turn off, you know, the alarm and I get outta bed. Everything's fine. Every now and again, however, the Waking Up and consciousness reengaging occurs. However, the brain does not release you from the REM Sleep Paralysis. So at that point, it's almost like a locked in body phenomenon and it's very frightening because you begin to be aware of your surroundings but you cannot make any voluntary movements because I told you that the voluntary skeletal muscle system is empowered by the atonia, the absence of muscle, your involuntary is still breathing and all but your eyelids turn out to be part of your voluntary muscle set. 
+1  
+01:03:16
+So you can't lift up your eyelids. And then normally what happens is that it's associated with a strong sense of often an intruder. It seems to be if you're doing it sort of in bed by yourself at home, now your context is a little different. And it turns out that if you look at these descriptions of sleep paralysis where you can't wake up, you can't shout out, you can't move. You have this sense of another presence or another being in the room. It adequately explains most if not all, alien abduction stories because when was the last time you saw a news article or on the news that someone said, okay, today it was very clear that Jimmy in Wisconsin in the middle of the day was abducted by aliens and everyone saw it. 
+1  
+01:04:05
+You know, you're at the meeting table and whoosh, what happened? That was Jimmy just got whisked off by alien. It doesn't happen that way. It's normally that you're in bed at night, it's the early morning hours just before you're Waking Up. These aliens came into the room, they injected something into you, they paralyzed you, you couldn't shout, you couldn't move. It's simply REM Sleep Paralysis. Now when do we see that there are ways and not ways because these are not protocols that we advise. There are circumstances where the probability of that increases. And I have experienced this too, when you are sleep deprived or you are highly stressed, the likelihood that you will experience these REM Sleep Paralysis events upon awakening is increased. 
+1  
+01:04:52
+And for me it was happening when I was a, a young PhD student and I was studying sleep and then I would be awake all night 'cause I'd be monitoring the patients and looking at their sleep. The irony of sleep studies exactly that you have to deprive yourself of the very thing that you are trying to study and is, which by the way gives you some amazing insights for experiments that I've had as a consequence. Not that I would advise that as the way, and we'll come on to why that's not wise when we speak about Creativity. But we were doing these studies and then I would go home and then I would take a short period of sleep, maybe just two and a half hours of sleep and then I would wake up. 
+1  
+01:05:35
+I didn't want to 'cause I was ready to go deep into sleep, but I would wake up and then I would force myself to be awake throughout the day and try to get to bed at a reasonable time. Because if I slept all day, what's gonna happen? I'm just gonna be awake all the next night and I'm gonna be out of my rhythm. But what's interesting is that when I would wake up, then I would be Waking Up maybe at 10:00 AM in the morning 11. And at that point, if you're sleeping there with someone like my face, you are in a very REM sleep desiring state that it's in those last morning hours and into the early morning hours when your brain wants to devour off the menu of sleep stages. This thing called REM in vast quantities. 
+1  
+01:06:15
+So I was sleep deprived point number one. Second, I was going into a very REM sleep rich phase, in other words, higher likelihood of paralysis. And that occurred to me, your description is also prototypical. You've been drinking the night before. Went out to the party. We spoke about in one of our previous episodes that one of the problems with alcohol is that it's very good at blocking your REM sleep. So you'd been absent of REM sleep the prior night. You built up what we call a REM sleep debt. And when you slept all of a sudden what your brain wanted more because it at least got some sleep. And there you're going to get mostly your deep sleep. The debt on the sheets of your balance account for sleep was not so great for deep non-REM, but you were very much in debt with REM. 
+1  
+01:07:03
+So what happened as soon as you conked out on the couch, whoosh, you were probably straight into REM sleep. And then when you woke up you had this mismatch in timing between consciousness and the release of paralysis. What did you experience? REM Sleep Paralysis love 
+0  
+01:07:17
+It. I mean hate it. Yes, I did not enjoy it, but I love your description. It's 'cause it makes so very clear what happened. And for those that have had the experience, it can be mildly stressful to terrifying. So thank you for providing the therapy that is knowledge and so that people don't stress it too much. But we still dissuade people from consuming alcohol prior to 
+1  
+01:07:39
+Sleep. Correct. 
+Inside Tracker (Ad) huberman 
+01:07:41
+I want to take a brief break and acknowledge our Sponsor Inside Tracker Inside Tracker is a personalized nutrition platform that analyzes data from your blood and DNA to help you better understand your body and help you reach your health goals. Now I've long been a believer in getting regular blood work done for the simple reason that many of the factors that impact your immediate and long-term health can only be analyzed from a quality blood test. The problem with a lot of blood tests out there, however, is that you get information back about metabolic factors, hormones, et cetera, but you don't know what to do with that information. With Inside Tracker, they make it very easy to understand your results and they also point you to specific directives that you can follow in the realm of nutrition, exercise supplementation, even prescription drugs that can help bring the levels back into the ranges that are optimal for you. Inside Tracker also offers Inside Tracker Pro, which enables coaches and health professionals to provide premium and personalized services by leveraging Inside Tracker analysis and recommendations with their clients. If you'd like to try InsideTracker, you can go to InsideTracker dot com slash huberman to get 20% off any of inside tracker's plans. Again, that's InsideTracker dot com slash huberman. 
+0  
+01:08:46
+Okay, so we've been discussing complete paralysis and of course that's the inability to move. Let's talk about the ability to move, meaning Motor Learning, what is the relationship between sleep and learning, physical skills, either coordination of motor movement or who knows, maybe increased power output or endurance? And if you would, could you comment on whether or not there are specific phases of sleep that are specifically linked to Motor Learning? 
+1  
+01:09:18
+Yeah, great question. So what we've spoken about so far is that you need sleep after learning for that textbook like memory. And that is one category of memory that resides within your brain. There's another type of memory that you've spoken about which many of us don't realize is memory, and that's what we call non declarative or procedural skill memory. So if I were to, you know, ask you, okay, Andrew, you know, last night for dinner or yesterday for lunch, do you remember what it was that you had to eat? And my guess is that you could probably tell me. So do you recall what what some of that 
+0  
+01:09:57
+My dad's pretty boring in the sense I tend to eat more or less the same thing every day, although I'm open to being flexible. He, yesterday for lunch I had two grass fed hamburger patties, maybe a little bit of rice, sliced cucumber, some tomatoes. And because I'm a drive-by blueberry eater, there was some Dr. Blueberries out on the counter and I had several large fistfuls of those. And then I washed it down with some water and a half mug just like this of some cold brew sugar-free yerba mate. 
+1  
+01:10:31
+And I can confirm folks, I was there at the incident and that's exactly what he had. But did everyone who was watching or listening just realize what happened in this room today? Something that Einstein suggested would never be possible, that Andrew just traveled back in time, that using this incredible gift of memory, you folded time almost like a concertina compressing it and you race back within milliseconds. You were shaking your head, yes, I know what I had. And you race back into that catalog of all of your previous lunches, you found the correct manila folder for that specific lunch, all of the details and out it popped. 
+1  
+01:11:17
+That is a spectacularly complex computational process that your brain's memory system accomplish within milliseconds. It's stunning what we have as this gift of memory. But as I said, there's another type of memory. So if I were to ask you, okay, how do you ride a bike? It's very difficult. There is no textbook for here is how to ride a bike. The way that you do it when you're a child is that you are taught how to learn how to ride a bike by being on it. So if I were to say how, because I'm a long time cyclist, how do I take a right turn with my bicycle? 
+1  
+01:11:59
+The obvious suggestion would be, well you turn the handlebars. If you turn the handlebars at 30 miles an hour trying to go around a right bend, you crash very quickly. What in fact you do is you alter the steering angle just a little, but you lean and that is what we call non declarative, meaning you can't declare to me what it is that you know, you just have to show me through action and behavior. This is skill learning and we use it for things like sports, surgical procedures, flying planes. There are so many musical performance as well, so many aspects. So we wanted to then say, well sleep is helpful after learning for fact-based memory, but what's about this other type of memory? 
+1  
+01:12:44
+And in truth, I didn't come up with the idea, it was given to me back in the, gosh, I'm aging myself. In the early two thousands I was back in the UK and I gave a lecture at the, for the decade of the brain, which it was back then. And at the end of the course I'd spoken a little bit about sleep and this informational processing, but no evidence for motor skill memory. And this gentleman be lovely gentleman, old gentleman with a sort of a white beard. I remember his tweed jacket, this green hue, it was beautiful. And he came up to me at the end and he said, look, I'm a musician, I'm a pianist. And I was fascinated by what you said about sleep. 
+1  
+01:13:24
+Sometimes I'll sit down and I'm learning a new piece and I just don't seem to be able to get it. And I practice, practice and practice into the evening and then I just stop. And then I come back the next day and I sit down at the piano and I can just play, do you think that's sleep? And of course at that moment my mind starts just rolodexing with ideas and I'm thinking, gosh, there's the next 10 years of my work and grants. And so I sort of said, look, I, I think it's a fascinating hypothesis. It could also be that you're just maybe a little bit tired in the evening and, but it's, it's entirely possible. 
+1  
+01:14:04
+I don't know of any evidence yet that supports that. I suppose 
+0  
+01:14:07
+The alternative hypothesis that there's simply a certain amount of time that needs to elapse after experiencing something new that one wants to learn. The trigger for learning is, I don't know, some biochemical slash neural signal that's like a wavefront and it takes a while for that wave to go ashore, which is learning and that independent of how much sleep one gets or the quality of sleep that the learning could occur. I suppose that's one idea. 
+1  
+01:14:34
+No, that's in fact precisely the central hypothesis that we then set out to test, which is that your, maybe it's it's practice then some time that helps you create that perfect motor routine. That's one hypothesis, but let's split that apart. Maybe it's time but time spent awake or is it time but time spent asleep. So we designed a study to disambiguate between those two, both groups learned a motor skill task and it's very much like learning a piano. And you learn a sequence of movements, let's just say 4, 1, 3, 2, 4. And we have you type that out over and over again for periods of 30 seconds and then you rest for 30 seconds and then you do it again. 
+1  
+01:15:17
+You do 12 of those trials. And sure enough practice seemed to get you better and you are learning and your learning curve went up. And then we brought those participants back 12 hours later and we retested them on that same motor memory. Half of those participants spent that 12 hours awake. The others had a night of sleep in between an eight hour night of sleep. When we brought the people who had learned in the morning and tested in the evening without sleep, they had retained that memory. They were no worse, they were just no better. But in the people who had slept, what was stunning was that they had improved their performance output speed by 20% and they'd improved their accuracy by almost 37%. 
+1  
+01:16:08
+Wow. So in other words, it wasn't time that you needed to produce perfection, it was time with sleep. In other words, you've often heard the statement practice makes perfect, but we violated that edict. It wasn't practice that makes perfect it's practice with a night of sleep that makes or leads to perfection. In other words, after learning, your brain continues to improve in the absence of any further practice. However, that learning occurs exclusively during periods of offline sleep and not across equivalent time periods while you're awake. 
+1  
+01:16:50
+Now what was interesting in the group that remained awake across those 12 hours, we then actually brought them back after a further 12 hours, but now after a night of sleep and they showed that beautiful benefit. 
+0  
+01:17:04
+So the sleep that can let's say enhance, although I think what we're really talking about here that consolidates Motor. Learning, yeah. Can arrive the night after meaning one finishes, let's say learning at, I don't know, 11:00 AM and then they sleep later that night or the following night. And in both instances that sleep can enhance or let's say consolidate the Motor Learning that 
+1  
+01:17:30
+Occurred. That's right. So it was to your question actually that we discussed earlier and I recall now I didn't answer it, which is that you, the things that you learn throughout the day, you don't have to worry about learning them really close to bedtime so that they're available and accessible for this sleep dependent work of sleep after learning. It seems to be that the human brain, and we've plotted this, we've looked at how at what point does the brain sort of fail in terms of its ability to place on hold sort of on the runway ready to take off into the consolidation phase. And it seems to be about 16 hours that you can hold on to those freshly formed memories for about 16 hours and then you get the chance to sleep and consolidate them. 
+1  
+01:18:19
+So if you learn at 11 o'clock in the morning or if you learn at 7:00 PM in the evening, don't worry about that. Those memories are still going to be gathered together in the beautiful receptive arms of sleep and then knitted up and enhanced when it comes to procedural memories. And by the way, that's the key difference to those two types of memory. Sleep will take fact-based memories and simply save them so that you don't forget it doesn't necessarily boost them anymore. It just simply prevents you from forgetting which is what would happen otherwise across Waking Waking day. 
+0  
+01:18:53
+Ah, key point, it's, it's not enhancement, it's consolidation of, or essentially the way I might think about it is the new information is put into a potential memory bank and that information is either flushed or maintained depending on whether or not you get sleep. 
+1  
+01:19:13
+That's right. There's 
+0  
+01:19:15
+No enhancement. Enhancement would be snor levels of memory if you sleep. 
+1  
+01:19:20
+And that's the case for textbook like memory. In other words, sleep comes in and it stems the blood flow of forgetting from the memory wound as it were to get, I don't know why it came up, that's a terrible analogy. 
+0  
+01:19:31
+No, I like it, I like it. I guess we might say hemorrhage, right? Like it's okay. 
+1  
+01:19:34
+And but so sleep comes in and prevents that from happening. But with motor memories it is enhancement. It's that when you are awake across the day you don't get any worse, which is what happens with fact textbook memory. You hold that performance but then sleep comes in and it boosts you even further. You get a nice benefit without doing anything further. So then the question became, to your point, if sleep is doing that, if it's not practice, that makes perfect but practice with sleep. What is it about sleep? So we looked at their sleep physiology and what we found were two interesting components. 
+1  
+01:20:15
+First it seemed to be related to that lighter form of stage two non REM sleep. I told you that textbook memory requires deep non-REM sleep stages three and four casting back to episode one, motor memory more dependent on stage two. And those beautiful spindles that are the hallmark of beginning your stage two, the more of those that you had, the greater the memory benefit the next day. We then wanted to say, well is this effect simply something to do with the nighttime? Because that's the other hypothesis, it's not really about sleep, it's just something about night timeness. Because in all of the studies I described so far, they're all happening at night and at night they were sleeping. 
+1  
+01:20:59
+So is it really nighttime or is it specifically sleep? So now we did a Naps tody with motor skill learning. We repeated that and sure enough, even though that time period was across the day not during night nurse, they showed this beautiful motor skill benefit if they napped versus if they did not. And then in that nady I was telling you that they were learning the sequence with the right non-dominant hand and they were all we selected, all right-handers to to make it equal. And they were typing 4 1, 3, 2, 4, 4, 1, 3, 2, 4. And that right hand as well, you know, is controlled by the left motor cortex. So after in the Naps study when we recorded their sleep, we used very high density e, EG. 
+1  
+01:21:42
+So lots and lots of sensors on top of the head. So we could map with high fidelity resolution, the surface of the brain or the surface of the scalp and infer what's going on in the brain. And what was interesting is that yes, those Sleep Spindles, the more of them that you had in the nap, the better your motor skill learning was. But there seemed to be a lateralized effect such that the sleep spindle activity on the right side of the brain, which controls the left hand, which was not working, that showed no spindle increased inactivity. However, on the right hand activity that invoked activation in the left motor cortex, that left motor cortex and specifically the hand region showed a local increase in spindle activity and subsequent work and work prior to ours had demonstrated that it's not sleep physiology globally, it's almost as though your sleep physiology responds to the mapping of the memory in the brain, wherever the memory is. 
+1  
+01:22:48
+That's where sleep, when you go to sleep sort of starts massaging the cortex so that you get that plasticity. It's almost like a good masseuse, you know, you sort of sit down and you, they say, where are your problem points? And you say it's, it's here and here. And so they don't give you a general massage. They go to work on the regions that have been working hardest, that require greatest attention sleep. Does that, 
+0  
+01:23:12
+Yeah, it's a amazing, and reminds me of some of this work that was done I think in the late nineties, early two thousands, Richard Morrison colleagues over in, I think he was in Edinburgh, talked about synaptic tagging. You know, that this notion that animals are humans perform or learn some new motor skill, maybe navigation of a novel environment, maybe motor skill of the 4, 1, 2, 3, 4 that you described, you know, keys on a piano or something like that. And then it was acknowledged that the, the changes in the connections between neurons don't occur immediately, which meant that there had to be some sort of tag or label to the synapses that marked them for consolidation later. 
+0  
+01:23:56
+For plasticity, long-term potentiation, things of that sort. The names don't really matter. I think later it became clear based on Marcus Frank's work and others that indeed during sleep the hard rewiring of the nervous system occurs, plasticity occurs. But what you're saying is that there's a high degree of Specificity, meaning the specific circuits that were active and required for the learning are the specific circuits that are modified. Which on the face of it, one could say well of course. But what that means is that during sleep the brain is somehow able to, the neurons of the brain that is are able to chemically or electrically or both signal, like this is where the, there needs to be some modifications done and then then like a night crew, the, the brain self induces its own changes, which is remarkable. 
+1  
+01:24:55
+It really is. It's almost though there are red flags that are planted in the territories that have undergone learning dependent plasticity and they are calling out almost like you know, hungry mouths that are in plasticity, famine for the feast relief that comes by way of sleep. 
+0  
+01:25:16
+Do we know what the factors are that are released in sleep that allow that to occur? Or is it, I'm guessing there are many people love to talk about brain derived neurotrophic factor BDNF but which is a very interesting molecule but it's probably just one of a panoply of, of molecules that are, that are important. 
+1  
+01:25:34
+We, we don't know necessarily the neurochemical processes, although some people have manipulated plasticity and then blocked it with different types of NMDA, which is a certain type of receptor in the brain for excitatory activity, which is the underlying basis of brain plasticity. So certainly is dependent, but what's interesting about the Sleep Spindles, I said in the first episode that they burst somewhere between about 12 to 15 times per second if you apply that type of stimulation to a particular neuronal circuit within the brain. That seems to be one of the, and it's not the only but one of the ideal sort of sweet spot tickling of neurons that forces them to say, ooh, I think I should strengthen this circuit. 
+1  
+01:26:23
+So it's almost as though these Sleep Spindles are ideally designed at the frequency, at the sort of tickling level of neurons to stimulate exactly what we think is the underlying basis of strengthening a memory, which is at the level of the neurons, the strengthening of synapses. 
+0  
+01:26:44
+It's so interesting because we hear this fire together wire together high frequency transmission between neurons is what creates plasticity. But this is literally a replay of previously meaning earlier that day or the previous day as you pointed out, activity in the given circuit being replayed, not unlike the the, the work that you talked about earlier, the fast replay of neurons in in the Hippocampus, but here it's not necessarily just in the Hippocampus, it can be in the neocortex or other structures that then builds up the, the, the vigor with which that circuit can function in the daytime. AKA learning is, it's super interesting. You mentioned that this is occurring largely in stage two of sleep. 
+0  
+01:27:26
+Yeah not in rapid eye movement Sleep is this business of stage two being that the main period of sleep in which Motor Learning occurs unique to Motor Learning. In other words cognitive information sure surely can get wired into the brain at night, but is that largely associated just with rapid eye movement sleep? What this would suggest in other words is that the earlier stages of sleep one and two and heading into three and four serves a specific purpose, which is consolidation of motor skills and and Motor Learning from the previous one or two days. 
+1  
+01:28:01
+It does seem to be that stage two, stage one is we now think of more of a transitional stage, but we will speak perhaps when we discuss the idea of Creativity that it also may have a memory function, that very light first step of sleep. Stage two is certainly related to motor skill. In fact stage two is fascinating. We used to think of it as just the stage that you had to go into to get to deep sleep and the stage that you had to go back through to get up to REM sleep never made any sense to me. Why? Because stage two non-REM sleep is about 40 to 50% of your night. 
+1  
+01:28:41
+Why would you spend 40 to 50% of your time asleep when it's just simply a gate to get to something better? You would spend more time in the something to bat something that's better stages. So we started to find functions and stage two is distri distributed throughout the night, but those Sleep Spindles in stage two are not evenly distributed throughout the night. You get some of them in the first quarter, more of them in the second quarter of sleep, certainly more in the third quarter. But you get a lot more of those Sleep Spindles in the last quarter of the night. And in fact when we looked at the overnight study where we'd had people learn in the evening tested the next day we recorded their sleep in between yes Sleep, Spindles predicted and stage two predicted how much better they were the next day. 
+1  
+01:29:30
+But it was especially stage two in the last quarter of the night, let's say I'm going to bed, I'm just for arguments sake, for ease midnight and I'm Waking Up at eight. It's in that sort of 6:00 AM to 8:00 AM range when I, if I was going to sleep at that time would be getting my stage two. And I find that interesting because it is the time of night that we all feel it's okay to cut short to get a jumpstart on the day. It's this modern life erosion of our sleep time. And what these findings would suggest is that you are short changing your brain of some significant motor memory performance, especially those classic Olympic coaches that have the Athletes training until you know, eight in the evening and then you know they're in bed by sort of 10 or 11, but they have them Waking Up at five back on the athletic field at six. 
+1  
+01:30:25
+But they would gain some additional motor memory benefit if you just let them sleep a little bit longer. 
+0  
+01:30:31
+I recall there was a study done at Stanford, relatively small study but interesting nonetheless because I think it was the basketball team that was asked to spend I think an additional two hours in bed. It's 
+1  
+01:30:45
+A sleep extension 
+0  
+01:30:46
+Study. Yeah. And they were even told that they could do other things in bed besides sleep. There might have been some specifications of, you know, things they should not do in bed during that time. But at least by self-report some of the students said that they slept a bit more or they relaxed a bit more in bed. And indeed when compared to the control group there was a significant improvement in their, I forget if it was free throw free throw percentage, excuse me, or other metrics of a basketball performance. Yeah, 
+1  
+01:31:15
+It was the point scoring performance. It was the speed up and down the court and it was a great study done by Sherry Ma at Stanford University and she's done epic work with Athletes to, to sort of replicate those findings. And the athlete story is interesting. Some people may be saying, well didn't you just make a hop skip and a jump from you know, 4 1, 3, 2, 4 to inferring complex motor skill. I thought about that. So we did a, a new series of studies where we, this is control, that's the nice thing about the sort of typing on a sequence. You can really measure that performance with high sort of accuracy. But we then switched it to a bi-manual task, much more like learning to play a piano. And you were learning sequences that were 12, 14 items in length and you had to learn them over and over. 
+1  
+01:32:01
+And we had a hypothesis would sleep fail at the, the task when motor skill performance became much more complex or would it be different? And what we found was that the more and more complex the motor skill became the greater and the greater the benefit of sleep by way of that consolidation effect. And then I started to hear something 'cause I would often be in the room as these participants were learning the sequence and then as they were testing and my ears started to hear something that I, I couldn't quite believe to begin with, they would start to learn these motor sequences, but they would seem to have these pauses and it's what we call chunking in motor skill memory. 
+1  
+01:32:45
+So instead of 4, 1, 3, 2, 4, 4, 1, 3, 2, 4, they would do 4, 1, 3, 2, 4, 4, 1, 3, 2, 4. And I would have them be using the same keyboard and I got to know the sound of the, the keyboards, I could hear it 4, 1, 3, 2, 4, 4, 1, 3, 2, 4. And then when they came back the next day, yes they were performing faster, but they weren't just doing 4 1, 3, 2, 4, 4, 1, 3, 2, 4. They were simply doing 4, 1, 3, 2, 4, 4, 3, 2, 4, 4. There was no gap at all. So we went into the individual responses, individual motor sort of finger responses and sure enough, before sleep there were these very clear problem points, almost these pain points in the motor memory sequence. 
+1  
+01:33:27
+But then when we came back after night of sleep and looked at their data, it wasn't as though sleep simply grabbed the motor skill, memory sort of profile and lifted everything up. Sleep was selectively going after those pain points and improving them. And that to me was interesting because that's the goal of a good athlete. It is Automaticity, you don't want to be thinking about it. At some point you go from a very conscious act of deliberately trying to remember what you should be doing to then not thinking about it at all. It's only Automaticity that gives you that ability not to think and it operates below the level of consciousness. 
+0  
+01:34:10
+Super interesting. And here we're talking about specific changes in the brain in terms of neural activity, et cetera that occur during sleep when we've been exposed to or engaged in a particular novel for us motor skill. And you see this, you know, these spindles in stage two et cetera, but does it work the other way as well? Meaning does the process of trying to learn a new motor skill enhance certain components of sleep or maybe even one's ability to sleep? You know, years ago I heard that practicing unilateral leg movements, this is a perhaps a crazy idea, but, but it makes sense in the context of what we're talking about practicing unilateral leg movements, things like, you know, everyone's familiar with squats and dead lifts and things of that sort, but there are some one-legged movements like a pistol 
+1  
+01:35:03
+Squat, right? 
+0  
+01:35:04
+A pistol squat that's pretty hard if one can do 'em, I'm always impressed. Bulgarian split squats, you know, foot up on the bench and then squatting down with a dumbbell, things like that. Or just unilateral movements that require a lot of mental attention to the performance of that movement. Could be in the gym but it could be something else as well. Could make you think about a dancer trying to learn how to organize their, their steps where they have to pay careful attention to right versus left foot right. They always say, you know, like to people have two right feet that can't, people can't dance up two right feet or two left feet. By 
+1  
+01:35:36
+The way, for those listening, Andrew's looking at me right now when he's saying two right feet. No, no, 
+0  
+01:35:38
+No, rightfully so. No, i I have no knowledge of your, your speaking dancing ability or, or, or challenges options 
+1  
+01:35:45
+Thereof. 
+0  
+01:35:48
+As I recall there may have been some, some very preliminary data about changes in the amount of certain sleep stages according to whether or not someone had tried to learn a skill in this case unilateral limb performance the previous day. So in other words, if one wants to improve their sleep, would the attempt to learn a new motor skill be one avenue to, to improve one's sleep? 
+1  
+01:36:14
+It's, it's interesting if you look at some of the data, it's a little bit mixed in terms of motor skill learning, but there are some studies demonstrating that it's true for textbook like memory. And there's a study gush done many years ago again by the great German group of of ya born. And they simply asked the question, if you were to just not be learning very deliberately and intensively through a textbook like set of information and then we just measure your sleep to get a baseline and then we force you to have a very long, very intensive learning session of these facts and then we measure your sleep again, is there any difference relative to the non-intensive learning day versus the intensive learning day? 
+1  
+01:37:01
+And indeed what they found was that there was an increase in their deep non-REM sleep in their deep slow wave sleep. And again, we think it's almost, we describe it as a homeostatic response, which is just a fancy way of saying that when the brain is driven to undergo a demand, then sleep will respond to try to accommodate that demand. And so I would say that there are probably many other things, and we discussed this in episode two in terms of a how to optimize your sleep that probably carry a bigger bang for your buck in terms of optimizing and enhancing your sleep. But is there any evidence to suggest that that's the case? 
+1  
+01:37:44
+There does seem to be some evidence in the literature. Yeah, 
+0  
+01:37:47
+So interesting. I I certainly know the experience of trying to learn a lot of information and then feeling like my sleep is that much deeper. Although I've also experienced the challenges in quote unquote turning my brain off when I've been trying to learn something and then it's late in the evening, forget the Caffeine component, you know, just that the, the information is spooling in my head, maybe some pre test anxiety, that kind of thing. So I think that the tools and protocols that you offered so generously in episodes one, two and three are especially important under those conditions. Learning how to really taper off one's level of, of thinking and planning and arousal in the evening really bring things down so that one can access that sleep. 
+0  
+01:38:31
+I mean, one only wishes that the more we did during the day, the easier it would be to sleep. Yeah. I think to some extent that's true. But there's a, there's some, there's some conditions in which doing more, thinking about more and, and I guess that's sort of the, the irony, right? I interrupted myself but on purpose that wouldn't it be wonderful if the amount I love and ease of sleep was directly proportional to how much we needed to sleep. That's, that's one of the, the, the tricks in this whole business. 
+1  
+01:38:58
+It's f system sometimes, 
+0  
+01:38:59
+Right? Like, but sometimes when we really need sleep we're dealing with something psychologically challenging or we need to learn something or we have an exam that often can be when it's most difficult to sleep, 
+1  
+01:39:09
+Gets right in the way of what we need most. Although coming back to your point, I think physical activity does seem to be one of those things that is very good and I'm, I I'm remiss to have not included it in the optimization or the unconventional tips. There is a very good robust literature now demonstrating that if you are physically active during the day, you can boost the quality of your sleep, particularly your deep sleep at night. It seems to be, there are some subtle differences in terms of whether you're doing aerobic versus anaerobic. So let's say versus, you know, doing a spin bike class for an hour versus lifting resistance or doing resistance training for an hour or strength training. 
+1  
+01:39:54
+There's subtle differences but net that overall the big picture view is that when you perform exercise you drive a response from enhanced sleep, particularly deep sleep at night. And I think many people have had that experience. You've been out on a long hike, maybe a 10, 12 mile hike or you've just been working in the garden doing really, you know, sort of long landscaping work throughout the day, six or seven hours and you just come in and you go to bed that night and you just know that this is going to be the most royal night of sleep that you could, you know it ahead of time, you know, sort of ear hole to, to elbow. 
+1  
+01:40:35
+And that evidence is now very clear. The, the one interesting thing, if you dig into that data though, you can drive increases in deep sleep by way of exercise. It does seem to come at a little bit of cost to REM sleep exercise may throttle back some of your REM sleep. Now don't fear that it may just simply be that every night, and we know this, my sleep and my sleep stages of sleep are going to be much different to, to yours in how they are structured and how they play out. But even within me, the same individual, Matt, my sleep stages vary from one night to the next to the next. Some of that is idiosyncratic, others are, or other reasons depend on what I've been doing during the day. 
+1  
+01:41:21
+And so it may be that we don't need to get concerned about that modest reduction in REM due to exercise enhanced non REM because it's simply that when you've gone through that form of activity as a human being during the day, what you need is that type of sleep more so than perhaps REM sleep. And therefore the next night things calibrate back down. Let's say I wasn't as active, I just sort of went to work during the, and I'm back to baseline again so I don't get too concerned about that, but I just want to bring it up. It's there in the literature. 
+0  
+01:41:52
+Yeah, I think it's a very interesting point and one just has to trust that nature knows best in modifying the percentage of different sleep stages according to our daytime activity. Again, highlighting that the key relationship, I mean the the closely tethered relationship between daytime activity and sleep and vice versa. Correct. 
+1  
+01:42:14
+Yeah. And it's a, it's a reciprocal loop because what we found is that exercise during the day can enhance sleep at night. But also what we found is that sleep at night enhances your athletic performance the following day. And I'm not just talking about motor skill memory upstairs in the brain, I'm talking about physical activity in the body. And if you limit sleep to let's say less than six hours, the data demonstrates that your peak muscle performance is decreased, your peak vertical jump height decreases your time to exhaustion decreases by, in some studies it was up to 30%. So if you're training for a 10 K marathon but you don't get enough sleep the night before you're done by seven, we also know that it decreases perhaps more than almost any of those. 
+1  
+01:42:59
+And it's striking the brain's Motivation to exercise at all. So in fact many people may be able to get close to their peak muscle strength when they are unders slept. Chances are they're probably never going to get to the chance to express that because their Motivation to exercise just drops off. And I think many people will resonate that yet a bad night of sleep, I just don't want to go to the gym the next day. The final part of that is injury risk. There is a significantly elevated injury risk and if you ask most Athletes, okay, what am I particularly concerned about? Is it my performance or if I had some kind of injury that knocks me out for the rest of the season? 
+1  
+01:43:39
+And so I've had the fortunate chance to work with many professional teams of different kinds and gradually they are realizing what I sort of long said, and it's a crass statement, but I think sleep is probably the greatest legal performance enhancing drug that most Athletes are not abusing enough. 
+0  
+01:43:58
+I could not agree more. I mean I feel like every time I say sleep is the bedrock of mental health, physical health and performance, it, it's sometimes perceived as just kinda like, oh yeah, sleep, we need to sleep. But there's no question that it, the, the positive effects of getting excellent sleep on a consistent basis far out way and perform any kind of supplement or, or even performance enhancing drug. In fact those most supplements in performance enhancing drugs that can indeed improve performance of various kinds seem to only function or function best. Certainly on a backdrop of excellent sleep. 
+1  
+01:44:38
+And I should say that you, I think you've done a brilliant job of being very explicit about the fact that you need to get all of the basics in place and then it's great to think about fine tweaking with optimization of things like supplementation, all of these other things. And I think sometimes that message has been maybe a little bit more mixed in the Social Media environment that we often don't think about the basics and we go straight to supplementation where you would say, gosh, there's actually a log order of magnitude benefit that's on the table if only you have to do some of the basic things that your grandmother would probably tell you. You know, eat right, get your stress sorted out, do some physical activity and make sure that you get some sleep. 
+1  
+01:45:23
+Do those things. And you're very far along now there's more opportunity on the table for fine tuning as as you've elegantly discussed. But I think I just want to acknowledge that I think you've done a really great job of being balanced in that message and I hope people in the general sphere can appreciate how hard that is to do. It's not an easy thing when you are talking about supplementation. 'cause at first it sounds as though, gosh, all of this speak and you describe great data means that it is the holy grail of enhanced human beings. But you are always careful to say this after the foundation. And I can give a very good example with sleep. Let's say that you're trying to manage your weight and lose weight and you're Dieting but you're not getting sufficient sleep. 
+1  
+01:46:08
+What we've discovered is that yes, you will lose weight when you are Dieting even though you're not getting enough sleep. The problem is that almost 60% of the weight that you lose will come from lean muscle mass and not fat. In other words, when you are underlap and Dieting, you keep what you're trying to lose, which is the fat and you lose what you wish to keep, which is the muscle. So your body does something very interesting in its removal of different types of energy stores in your body. When you are not slept, it becomes very stingy with fat and it will not give it up when you are sleep deprived, which is very inter Why would that be, by the way, 
+0  
+01:46:55
+Muscles such a metabolically demanding tissue, you know, if you're, you're send by not sleeping well, you're sending signals that there really isn't the capacity to take care of what you already have much less increase the size of the engine. 
+1  
+01:47:06
+That's exactly right. And then think about fat, which is in terms of its energy, you know, unit benefit, it has, you know, at least perhaps twice the caloric value that protein does. So if you are unders slept, that is a warning sign to any evolutionary species passed that things are dire. So whatever I'm going to do, this is break glass in case of emergency situation. And if you are not getting enough calories, I'm gonna hold onto the thing that has the highest caloric value right until the end, which is fat. And I'm going to give away the stuff that doesn't have as much caloric benefit because I am in a caloric deficit right now. 
+1  
+01:47:48
+Now of course that's strange because the person trying to lose weight perhaps is rightfully trying to lose weight based on them being somewhat overweight. But that's the biology that we think explains why that that's the case. It's not just a strange phenomenon, it's a very logical one. 
+0  
+01:48:04
+Yeah, it is a logical one. And, and thanks for the, the support around, you know, my constant voicing and revoicing of the, the Pillars of Health that you mentioned. You know, exercise, sleep well, I put in the order of sleep as the, the, the most important pillar and then one could argue about the, the order of the others, but in no specific order light, which dovetails with sleep, but nutrition, movement, exercise, social connection, stress modulation, these, these kinds of things. Yeah. The fact 
+1  
+01:48:37
+The the these speed with which that comes out of your mouth tells you how many times you've, you, you've said it and you've said it over and over. It's wonderful. 
+0  
+01:48:46
+Well thank you. It's, it's interesting because they are the basics, but they are basics that need to be re-upped every 24 hours. And so often I feel like we all need to be reminded every 24 hours. I also, you know, one of the most common questions I get is what should I take? People are like, if I had a dollar for every time somebody said, what should I take? You know, I'd, I'd keep podcasting but I'd be a gazillionaire. But my response is always the same, which is, how's your sleep? The first question I say is, how's your sleep? And then they think I'm gonna suggest a sleep supplement, but I want to know whether or not people are sleeping well on a consistent basis. And that that opens up a, a whole set of discussions and then inevitably we forget about the what one should take conversation. I think it it's the rare individual who's sleeping very well every dine of their life, there are such individuals. 
+0  
+01:49:31
+And then the, the what should I take conversation makes sense in a certain context. There's something I wanted to just return to for a moment before I move on to the next topic, which is, you mentioned all the significant deficits that occur in motor performance when one has not slept that well the night before, grip strength, vertical jump, Motivation, et cetera. You know, we're not here to, to deliver anything except the facts to people at web. We're certainly not here to soften the blow of reality, but there are a good number of people that will have say a physical performance like a race. They're training for a half marathon or they have a, a big game the next day or they have some performance event the next day. 
+0  
+01:50:18
+And by virtue of butterflies, anxiety, travel an alarm going off in a hotel in the middle of the night. I've had that experience et cetera, that they may not get the best night's sleep the night before. And, and obviously there are going to be ramifications of that, but I'm reminded of a study that was done by Ali Rums lab at Stanford where they people wear sleep trackers and then, and they actually knew how much and how well or poorly they slept the night before. I don't know how detailed the analysis was, but it was Stanford sleep Center. So presumably it was, it was reasonably de detailed. 
+0  
+01:50:58
+And then the next day with that knowledge in hand either lied to the people or told them the truth about how well they had slept the night before. Or poorly For instance, if someone had got eight hours of great sleep the night before, they might have told them, Hey, you got eight hours of great sleep the night before. Or they might have been in a condition where they said, Hey, you know what, your sleep last night wasn't that great. Yeah. Or if somebody got five hours of sleep, they might have said, Hey, you know, you got eight hours of great sleep. So there was a lying, a lot of lying involved in this study. Yeah. But basically what they observed is that performance in, I think it was motor skill performance, but it might have been cognitive, but the, the, that's not the, the issue here that the point is that much of our performance can be dependent on our subjective understanding of how well or poorly we slept the night before. 
+0  
+01:51:49
+In other words, there can be Belief Effects. That's right. So this is one of the concerns about placing too, too much emphasis on the one poor night's sleep. You know, and obviously people should be mindful of injury as you pointed out, but if someone has a big race or a big event the next day and they just don't sleep well, I think the, that we have to be careful that the mere knowledge that they're not gonna perform as well because that's what the data say can potentially be offset by the, the, the Ali Crumb study, which is if they believe like, hey, a lot of it is about what they believe about their own sleep to be, which just tells you that performance can And Motivation presumably Yeah, exactly. 
+0  
+01:52:31
+Can override some of the, the physiology. There's, you know, and again we, we you can't rescue what you can't rescue. 
+1  
+01:52:37
+No, and I think it's a very good point because it comes back to our discussion about the placebo effect in some ways, which is this is mind over matter and that your biological state, so one of the things I do when I'm working with professional Athletes and we're doing sleep tracking, often I'm working with a coach and I will say during that period where they're really, you know, it's sort of they're on the road and now it's, they've got seven games to play in the playoffs, let's keep tracking their sleep and let's you and I make sure that we're trying to optimize this athlete because they've given consent, they want to have their sleep as good as possible and they want us to help them do that. But I say at that point we will simply look at the data night after night and then we can describe the data that they've been having at the end of the week after they've finished the series. 
+1  
+01:53:26
+Because for exactly that reason, if you start giving them feedback, we don't want to erode confidence. And with sleep trackers there is such a thing called Orthosomnia and it's now a described situation. Ortho Orthosomnia in medicine words mean something. So ortho people will be familiar with in medicine orthopedics, orthodontics, it's about getting things straight, orthopedics, getting your sort of bone straight orthodontics, getting your teeth straight. Orthosomnia is about trying to get your sleep straight and being so worried about that, that it compromises your sleep. Now we don't know exactly what proportion of people, it may be less than 10% who use sleep trackers, but I would say that to anyone listening, if you are tracking your sleep with a tracker and you are experiencing the sleep related anxiety, do one of two things. 
+1  
+01:54:21
+First, take my recommendation, which is that only on, let's say a Sunday afternoon do you open up the app and check your data so that way you can still be measuring your sleep, which is very helpful, but you don't have to get the anxiety morning after morning. The other is that if you are truly starting to get a very negative experience, take it off, put it in the drawer, and just get your sleep confidence back using some of the suggestions that we had in the optimization episode, and only then return to using that tracker. What's also interesting, it relates to what you were saying about beliefs and intention. They did another, another great study where they looked at this cortisol rise in the morning that you and I have discussed on this series many times, which starts to happen sort of just before your Waking Up and really rises into the morning. 
+1  
+01:55:10
+What they did was they brought participants into the laboratory and they had them go to sleep at around 11 o'clock at night. And then in one group they said, we're going to wake you up at 7:00 AM in the morning. The other group, they said, we're going to wake you up at 5:00 AM in the morning. Well, it turns out that both of those groups were woken up at 7:00 AM but what was bizarre is that in the group that was told they were going to wake up at 5:00 AM their cortisol release started to rise around 5:00 AM. In other words, just the knowledge before sleep that you're going to be woken up at 5:00 AM change the non-conscious brain's release of a stock standard prototypical hormonal release mechanism. 
+1  
+01:56:00
+And that comes right back to this idea that we're, we were speaking about with time that consciously we have lost time perception when we're sleeping. But non-consciously, it seems as though the brain is still knowing what's going on because for that early morning flight, you wake up two minutes before your alarm. Well, perhaps the reason why is that you are, you've learned that you have to wake up at that time and you've changed your cortisol response, which would normally, because it's you don't wake up for an early morning flight every day would normally not come for two hours, but it's arriving earlier, it just blew me away. I couldn't believe that the brain non-consciously could change a hormonal profile simply based on me telling you what time you are going to wake up the next morning. 
+0  
+01:56:45
+Spectacular. And, and really as you pointed out, really speaks to the fact that during sleep there is a lot of processing going on, you know, you know, subconscious, unconscious, cognitive processing. And we know this in the form of dreams, a topic that we'll talk about in a subsequent episode of this series. But okay, so you've shared with us the clear value of getting the best possible night's sleep before what I call a bout of learning. Yep. 
+1  
+01:57:12
+You 
+0  
+01:57:12
+Also shared with us the clear value of getting sleep after being exposed to some new information a k bout of learning. And you've explained to us the key relationship between sleep and Motor Learning loading of new motor skills. What are some other aspects of brain and cognition for which sleep exerts a significant positive effect? 
+1  
+01:57:40
+So those for a while were the first two things that we really thought sleep was doing for learning and memory, Sleep, Before, Learning to make those memories sleep after learning to consolidate them and, and hit the save button. But then data started to emerge, and we started to look at this too, that sleep was much more intelligent than we ever imagined when it comes to information processing. Sleep doesn't simply just strengthen individual memories. Like is isolate islands unconnected Sleep after learning is almost a form of informational alchemy that sleep will take these new memories and it will start to interconnect them and cross link them with the new information that you've learned. 
+1  
+01:58:26
+Because usually information that you're learning during the day is interconnected and sleep was building those connections between new memories, but also it was integrating them into the back catalog of all of your past autobiographical memory systems so that you woke up the next day and you had a revised mind wide web of associations. And a good example of this, we did a study, gosh, very early on where we asked the question, which stage of sleep then is important for this type of, I almost think of it, it's a probably strange analogy, but almost like group therapy for me, memories that at the end of the day, every new memory gets a name badge and sleep gathers in all of these memories into the same room. 
+1  
+01:59:16
+And it forces you, however, to speak to the people not at the front of the room that you think you've got the most obvious connection with. It forces you to speak to the people all the way at the back of the room that you don't think you've got really any connection with at all. But it turns out that you do, because sleep doesn't simply build associations and connections. It does, it seems to bias the brain towards building the most non-obvious distant associations. It it's almost, it's almost like a, a Google search gone wrong that during the Waking day our memories, which are still our brains, are still associative in how they can build links and connections. That's like page one of the Google search. 
+1  
+01:59:57
+So let's say that I type in, you know, Andrew Huberman and I, the first page I get the first hit is the Huberman Lab website. Great. But if I go to page 20, it's about a field hockey game in Utah and I think, how can a second, what, what's Andrew doing? You didn't know, but yeah, I know 
+2  
+02:00:15
+Exactly. I don't think I've ever played field hockey to know I've been to Utah. It's a beautiful 
+1  
+02:00:18
+State. Oh it's, it's beautiful. Yeah. But if I look, I can actually see that there is a very distant non-obvious association. I can understand why it's there. That's what sleep seems to be over-indexing for in this associational framework. So then we asked, well what is it about sleep? So we had participants perform anagram solving tasks and anagrams are simply these words that are, the letters are all jumbled up and you have to kind of stare at them or work through them. And all of a sudden you start to see which word it really is because at first it's all jumbled up and it makes no sense. But we didn't teach them it before sleep and after sleep we did something different. 
+1  
+02:00:59
+We woke them up out of different stages of sleep. Why? Well, when you come out of different stages of sleep, you, there is still some degree of the biology of that sleep state that lingers in your brain, almost like vapors coming off the stage of sleep that you've just exited. And it only lasts for about two minutes or so. But what was nice is that this anagram test you could do within two minutes. So we would wake them up outta different stages of sleep and then we'd have them quickly do these anagrams. And I told you that for fact-based memory that sleep after learning was important to strengthen the individual memories. 
+1  
+02:01:40
+And it, it was particularly non rapid eye movement sleep that was doing that strengthening of the individual facts. Now what we found is that the association Creativity benefit of sleep was very different. That cross-linking benefit came by way it seemed of REM sleep because when we woke them up out of REM sleep compared to non-REM sleep, they were 30% more capable of solving these anagrams. And when we looked at how they were solving them, it was interesting coming out of non-REM sleep, it was very sort of analog. It was very, what we think of as very sort of convergent, very focused way of trying to logically solve the problem. 
+1  
+02:02:22
+But with REM sleep, it was much more divergent fluid intelligence. It was almost as they were just standing back and waiting for it and then pop it just popped out in front of them. All the letters kind of reorganized and and clicked into place. And then there was a subsequent study that did something different. It looked specifically at Creative Insight and it was a lovely study and they performed something called the Numeric number reduction test, which is one of those tests that psychologists love to administer and participants hate to perform. And here's what happens. You're shown a whole string of numbers and you are given a certain set of rules and you have to work through those number problems and come out with a final end answer. 
+1  
+02:03:07
+And you are told that you're going to be judged simply on how many correct final end answers that you get. And you work through hundreds of these problems. What they don't tell you in the instructions however, is that there is a hidden rule here embedded in that all of those sequences, all of the sequences are different they have to solve. But there is one common rule that binds them all together, which is that the second part, sort of the second component of the solution. So you're working through, let's say it's a 10 digit string number and you have to apply these rules to the first number, then carry it through to the second number and then to the third number. And the the second partial number that you produce in this string of calculations to get to the final end answer. 
+1  
+02:03:51
+It turns out to be always the same end answer. So in other words, if you clue onto this hidden rule, all you have to do is work up to the first, let's say 10% of every problem. You can just shortcut the rest of it and you just write down the number. 'cause you are told that the only thing we're going to judge you on is the end answer. So they trained participants on these sort of numeric number reduction trials, and then they brought them back after 12 hours of being awake. And no one seemed to have that light bulb moment of the sort of, okay, I get it. But then they did the same thing. They trained them, but now they train them in the evening, they get gave them a full eight hours of sleep. They came back the next morning and there was a threefold increase in Creative Insight problem solving ability. 
+1  
+02:04:38
+In other words, people were coming back with that aha moment of, you know, the gig is up, I've got it, I know what you guys are trying to do and I'm gonna show you. Then they did something clever. They said, back to our question of motor skill learning, well, is that really sleep or is it just circadian that it's just something about going through the night that gives you this kind of doula creative benefit. So they took another group, they taught them the information in the evening and they tested them the next morning just like the sleep group, but they kept them up all night. So they went through nighttime nurse for that time period and they showed no benefit in the problem solving. 
+0  
+02:05:15
+Yeah. My experience is that Sleep Deprivation leads to all sorts of ideas about how one is coming up with novel ideas and solutions, all of which completely suck after two good night's sleep. But, but most of the time it seems that Sleep Deprivation intoxication of any kind, it, it gives one the impression that, you know, you're coming up with novel solutions, but really they're just novel, 
+1  
+02:05:41
+Not solutions. Yeah. That data is very clear that, you know, there was this misnomer that if, if I sort of go through the night and work sort of through into the morning, I'm just much more creative when I'm sleep deprived and, and it's been tested and it's just, it's the opposite. Quite the opposite. In fact, what I, I also find interesting though about this, the Sleep and Creativity log, it was always there in the literature that there are innumerable anecdotes of people having sleep inspired insight. It's almost as though when you wake up the next morning having had that revised set of web connections in your brain, you can divine solutions to previously impenetrable problems. 
+1  
+02:06:25
+And there's a great example, I think Dmitri Mendel Elev, who at the time was trying to answer one of the most epic questions in human history. How do all of the known elements in the universe fit together in some logical order? And he was failing, he just could not, and he was so obsessed with this problem. He created playing cards with all of the different elements of the universe and their atomic weights and their electron. And he would go on these long train rides and he would just shuffle the cards and he would deal the cards on the table because he was just desperate to try to see what the pattern was, shuffling and shuffling and shuffling. 
+1  
+02:07:06
+And then the story goes, and it's written that one night he fell asleep and he dreamt and he could start to see all of the cards just dancing around in front of his eyes. And then they sna together in this logical grid based on the atomic weight and the different electron properties. And he wrote it down on the back of an envelope, which still exists to this date. Really? Yeah. And you can see it. And that was the initial basis for what we call the periodic table of elements. Amazing. And it revolutionized human history. And it's not just in science. I mean, there's great scientific, you know, people have won Nobel prizes for understanding your old transmission Otto Lowy. 
+0  
+02:07:50
+Well, and and maybe it's worth rattling off a few brief examples because they're, they're so spectacular. Einstein was known for taking Naps in the middle of the day multiple times throughout the day in order to come up with novel solutions. I think the, the discovery of the, some of the organic, you know, benzene ring, the benzene ring was came to, I'm forgetting his name now. 
+1  
+02:08:13
+Oh, 
+0  
+02:08:14
+In, in a Dream. Thank you. There are numerous examples of fundamental scientific discoveries that is creative insights that were anchored to real world experiments and theory, pure theory as well that came to people in their dreams. So what's interesting though is that there seems to be some sort of hydraulic pressure created by the, the, the Waking or within wakefulness attempt to like figure if something out. So all of these people, to be very clear, didn't didn't just sleep to come up with solutions. They put a lot of kind of hydraulic pressure, feeding a lot of information, you know, thinking about a problem in a, in a structured or unstructured way, taking walks, focusing on their other demands of the day. 
+0  
+02:09:01
+But then when they went to sleep, clearly that information was still being worked with. Yeah. In, in, in important ways. And then you were going to mention some examples from the arts. I think. 
+1  
+02:09:10
+Yeah, there's some gr great, you know, I'm, I was born and raised in Liverpool in England, and of course famous for the Beatles and for Liverpool football club and ever since as well. But I'm a Liverpool supporter. However, Paul McCartney has gone on record very clearly to say that two songs that were probably some of the, the, the most successful songs yesterday and Let it be both came to him by way of dream and inspired insight. There's a lovely description, I think in his biography. He was filming, it was either help or a Hard Day's night down in London with the rest of the Beatles. And he was staying in a rental in whim Pole Street in London, and he was staying on the third floor. 
+1  
+02:09:53
+And in his bedroom, fortunately there was a piano on the opposite side of the room. And he describes how he woke up one morning with this beautiful melody by way of, it was a string quartet that was playing it. And it was the melody for yesterday. And he went straight over to the piano and he started playing it. And he said it was just so sumptuous and he couldn't remember where he had heard it. And then after a while he remembered, I haven't heard it anywhere before. It came to me by way of sleep. Same thing with Let it be the, the obviously, you know, mother Mary comes to me singing songs or, or singing Words of Wisdom, let it be. 
+1  
+02:10:39
+And there's often been a suggestion that that has religious overtones in terms of Mother Mary, it actually is not, it's his mother Mary McCartney. And he was having a hard time struggling with the fame of the Beatles at that moment. And one night he slept and his mother Mary came to him and just said, relax, it's going to be okay. Stay true to yourself. Continue doing what you're doing, just let it be. And he woke up and he wrote the song. 
+0  
+02:11:09
+I love that story. And there's some actionable takeaways here that if, if I may, I, I just wanted to mention a previous guest on this episode, in fact he's been on the, the podcast twice is the, the Great Rick Rubin, right? 
+1  
+02:11:26
+Oh, I've listened to those, yeah. 
+0  
+02:11:27
+One of, one of the most legendary music producers of all time. And, and the second episode that we did with Rick, he gets heavily into some of his protocols, for lack of a better way to describe them. And one of the things that Rick does is when he wakes up in the morning, he makes at a point to, he takes walks, he gets sunshine, he hydrates, he does all of those things, but to try and make the transition between sleep and wakefulness to be rather gradual, almost to allow some of the, the components of sleep to kind of bleed into the morning and then allow wakefulness to, to come about. And in his case, he's able to push some of the more linear processing and procedural things to later in the day. 
+0  
+02:12:12
+And I've spent a lot of time with Rick. I'm fortunate to be close friends with Rick. And, and I can tell you that he also spends a fair amount of time, you know, sitting or lying down, typically very still with his eyes closed, just thinking or allowing thoughts to emerge as part of his creative process. Now he's certainly not the only one to do this, but he's, he's a notable example. But what's the takeaway here? Should everyone be, you know, lying with their eyes closed when they first wake up? Perhaps, but there's a, some potential dos, but I think there's a really strong don't, if one subscribes to the idea that during sleep there is substantial reorganization of neural circuitry, AK learning, but also expansion of creative opportunity, as you've clearly pointed out, and there are data to support that statement, then it stands to reason that upon Waking there's a key opportunity to capture some of that information that is now in your mind that was created the night before. 
+0  
+02:13:12
+But that if you immediately look at your phone, that you eclipse that process with sensory input from somebody else's ideas and what's going on in the world. And it's not to say that looking at your phone first thing in the morning is a, is a, is a cardinal sin or a violation of any kind of neural neural circuit requirement. But I, in an attempt to try and capture some of the learning and creativity that occurs during sleep have tried for a while now to not look at my phone for at least the first 30 minutes after Waking. It's very challenging to do it is for most everybody, but rather to let some of the ideas from sleep percolate up. And I will often go, you know, be, you know, making a morning cup of tea or something and then go running to my office to write something down that suddenly springs to mind. 
+0  
+02:13:56
+And then I'll remember that this was something that came to me in a dream the night before, none of which as significant as the benzene ring or the periodic table or the kind of works that Rick has produced. But I think that we need to be cautious about not short circuiting these, these creative insights that no doubt can come to us in sleep. 
+1  
+02:14:15
+I think it's very well worth just even for own mental health, firstly, not to just wake up and start your reception of the world, but to do some, as we've mentioned, reflection on what you've just experienced by way of sleep. And, and it doesn't necessarily have to be that you are trying to recall your dreams. Just sit with whatever your thoughts are, think about the, the day ahead, think about the days prior and there is some benefit and the creative benefit there. You mentioned Einstein, another one that is often mentioned to me is Edison, Thomas Edison, the inventor. And Edison was claimed to be a short sleeper. People will say, well, he was a brilliant inventor, but you know, he said that he didn't sleep very much. 
+1  
+02:15:00
+Turns out that Edison was a habitual napper during the day. And I've got lots of pictures of him napping on his workbench in his studio. Him napping in the garden. I love it. 
+0  
+02:15:12
+Well, I took a 45 minute nap today. 
+1  
+02:15:14
+Yeah. And it was, he, and, 
+0  
+02:15:16
+And I'm no Edison, but, but I subscribed to his protocols, you 
+1  
+02:15:20
+Know, but you know, he, he understood the creative brilliance of sleep, to your point about writing things down. And he used it ruthlessly as a tool. And here's what he would do. It's genius. He would take a pair of steel ball bearings in his right hand. He would sit in his office on a reclining chair with a rest for his arm, and then he would put a pad of paper and a pen next to him, and then he would gradually start to relax off. But what he'd done was he had used a metal saucepan and turned it upside down and placed it underneath the armrest. And as he was drifting off into that state, into that sort of liminal state, so he didn't go too far into sleep, what would happen is that his muscle tone would gradually relax. 
+1  
+02:16:05
+He would release the steel ball bearings, they would crash on the saucepan, wake him up, and then he would start to write down all of the ideas that he was having from that liminal state. 
+0  
+02:16:14
+Oh, you said sauce pan 
+1  
+02:16:16
+Saucepan. Sorry, that's 
+0  
+02:16:17
+Why. No, no, that's okay. But very bad accent. So, so it made a, it made a crashing, 
+1  
+02:16:23
+A metal sauce man underneath. Got it. You know, or a water pae, whatever it was, and it would crash that wake him up and then he would write down these ideas. So interesting. And in fact, if you look at his house, which is preserved historical, you can walk around and he had nap cots installed in his house so he could go into different rooms and take Naps in these little cots. Listen, I, for his genius, his Ian isn't, it is brilliant, isn't it? 
+0  
+02:16:48
+Absolutely. It is brilliant. Sorry, I didn't mean to interrupt, but it was out of enthusiasm. I, I mean, I, I don't want to like give too much detailed information about Rick's working environment, but yet let's just say there are a lot of places to lie down and access these, these states of mind. And you know, it looks like somebody just lying there with their eyes closed. But there's an extremely active mind in there, obviously look at the, look at the productive output of Rick's career as you know, it's truly something to behold, behold in capital, bold, underlined, highlighted letters. 
+1  
+02:17:21
+But 
+0  
+02:17:22
+It's so clear to me based on all the examples you gave, the ones that we're kind of batting back and forth now, and I think there's a book, the title is something like Winston Churchill's Nap or something like that, that my dad is always talking, my dad's a theoretical physicist, always talks about napping is so key to one's ability to come up with novel solutions. You know, I, I guess that napping frequently throughout the day, perhaps violate some of the tenets that you described in the episode on napping in Caffeine episode three. But we 
+1  
+02:17:55
+Put, I think you would 
+0  
+02:17:56
+Context, but we put context, 
+1  
+02:17:56
+Context, we put in guardrails and we put in the protocols to say, okay, Naps under certain circumstances are no bad thing at all. And if you're going to do it, here are the suggested guidelines as to exactly how you optimize Naps with a protocol. But it is, I think it's very worthwhile to just appreciate exactly how complex sleep is in terms of what it's doing for information processing. And if you were to ask me, look, what's the, the take home of this final section? I think it's, no one has ever told you, Andrew, you really need to stay awake on a problem. They've told you that you should sleep 
+0  
+02:18:35
+No many times on 
+1  
+02:18:37
+A problem like you go to sleep. Yeah. Sleep on a Problem. And what's interesting is that in every language that I've inquired about today from, you know, English to Swahili, that phrase sleeping on a problem or something like it very much exists. I think the Spanish, the one was telling me is translated is you have a conversation with your pillow, which I thought was lovely. What I also was struck by a, a fellow who is French said, you in, in England you say you, you Sleep on a Problem. Well the French translation is much closer to you, sleep with a problem. And I thought that's how French so much, so much about the romantic difference between the beautiful French and the, the English. 
+1  
+02:19:20
+You know, you Sleep on a Problem versus you sleep with a problem. 
+0  
+02:19:24
+Yes, I agree. I I think not only does it have more romantic notions, but, but I like it because it, there's a, a, a symbiotic aspect to, you know, sleeping with the problem. There's kind of a meshing with the challenge in a way that isn't as combative. Like this thing that's weighing on you, you go to sleep with and you're supposed to wake up and, and feel like you've solved it like eureka, right? Yeah. You 
+1  
+02:19:49
+Pushed down on it rather than it's a collaboration with sleep rather than a demand. Yeah. From it. But I also think it's, you know, I make that notion about language translation and maybe a, a slight joke, but what it also tells me is this, that that phenomenon of sleep dependent Creativity transcends cultural boundaries. It is common across the globe. It's a universal phenomenon. Why? Well, because sleep is a universal phenomenon, not just even in humans, but in almost every species that we've studied carefully to date, 
+0  
+02:20:25
+As you described the, the, the French notion of sleeping with a problem. I think what the image that comes to mind is that perhaps the, the idea is if you're going to sleep with a problem that you should be the big spoon and they should be the little spoon as opposed, as opposed to the problem being the big spoon. And you're kinda wrapped in the problem. Maybe the the problem needs to mesh with you, but maybe I'm taking this. No, I love it. You know, this, this imagery a little too far before we close out this discussion about sleep and Creativity, I can't help but bring up a set of questions around a different non sleep protocol that in many ways seems to mimic sleep. 
+0  
+02:21:07
+And that for some individuals throughout history in particular, the great physicist Richard Feynman, another habitual napper. Yeah. 
+1  
+02:21:16
+And an absolute idol of mine 
+0  
+02:21:19
+Wrote about and spoke about his fondness for these flotation tanks that are, contain a temperature of water that is fairly neutral. So one doesn't recognize the difference between body temperature and the surrounding water. And there's a certain amount of, of salt salinity in the water that allows one to float at a, at a kind of a depth within the water that one loses their sense of proprioceptive awareness, as you described earlier in the, in the series, A key component of falling asleep. And he talked about how under those conditions in the flotation tank, there was a kind of an untethering of the, of one's notions of space and time that were very sleep like, and that that was one of his go-tos for creative solutions. 
+0  
+02:22:09
+People talked about walks as go-to, for creative solutions in the shower, people seem to come up with creative solutions, states of mind where the they're and activities where it's only somewhat goal directed, but basically the idea is to just lose track of one's body positioning and let the mind go, so to speak. And for that matter, psychedelics are have on occasion been attributed as at least one of the sources of creative solutions. I raised these ideas understanding that each one of those could be a podcast unto itself, but it seems to me that sleep and in particular dream sleep is nature's way of creating these, you know, these states of untethering, our, our, our rigid linear understanding of what relates to what, and it provides this, this, you know, kind of near magical mixing of, of things learned the day before. 
+0  
+02:23:10
+And, and that's the essence of Creativity. And humans have been trying to tap into the creative process through all these other portals for a long time with expensive technologies. And, but it, it's becoming very clear to me that the technology already exists and that it's costs absolutely nothing and that it has tremendous health benefits in addition to its benefits for Creativity. And that that technology is this, this brilliant technology of, of sleep. Yeah. 
+1  
+02:23:39
+And dreaming. It's a stunning state. 
+0  
+02:23:42
+Matt, thank you so much for today's discussion about sleep, memory, learning, and creativity. We are now four episodes into this series on sleep. First episode we discussed, rather you taught us about sleep and the biology of sleep, as well as some actionable takeaways. So actually some, I would say some important guidelines for getting one sleep correct. And then in this second episode, you went much further into protocols, both basic and advanced for getting one sleep right, maybe even optimized. 
+0  
+02:24:24
+And the third episode you taught us about Naps and Caffeine and today you've taken us on a beautiful exploration of the relationship between sleep and learning are what's more interesting than neuroplasticity and learning. I mean, after all, you know, humans are unique in our ability to learn so many things throughout the lifespan. It's one of the things that distinguishes us from the other species on the planet. The, the, the very, very long window, perhaps lifelong window for the opportunity to learn and of course Creativity and novel solutions to challenging problems in the world, but also great works of art and music, et cetera. 
+0  
+02:25:05
+I think we can fairly say based on what you've taught us today, that sleep has been not only the bedrock of mental health, physical health and performance since the beginning of time and still now, but also has been one of the fundamental drivers of human evolution because of all the creative insights that have occurred and all the learning that's occurred in sleep, that's then been transformed into real world technologies. Indeed, it's much of the way that we have the, the blessing of being right here, right now. 
+1  
+02:25:32
+If that's the flag that you're raising, I will salute it five ways till Tuesday. Very much. Yes. 
+0  
+02:25:37
+Well, I'll salute that flag right with you and also point to the exciting fact that the next episode, episode five in this series, you're going to teach us about the really tight relationship between sleep and emotional processing and emotionality. And I can't think of a more interesting topic to get into, especially at this point in the series. And I look forward to that discussion with emotional enthusiasm. 
+1  
+02:26:08
+I can't wait. If folks are interested in trying to modulate their mental health, I think that next discussion should be very helpful with regard to sleep. I hope so. At least 
+0  
+02:26:18
+Thank you for joining me for today's episode with Dr. Matthew Walker. To learn more about Dr. Walker's research and to learn more about his book and his Social Media handles, please see the links in our show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero-cost way to support us. In addition, please subscribe to the podcast on both Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review. Please also check out the Sponsors at the beginning and throughout today's episode. That's the best way to support this podcast. If you have any questions for me or comments about the podcast or topics or guests that you'd like me to feature on the Huberman Lab podcast, please put those in the comment section on YouTube. 
+0  
+02:26:59
+I do read all the comments on many episodes of the Huberman Lab podcast. 
+Momentous (Ad) huberman 
+02:27:02
+We discuss supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them for things like improving sleep, for hormone support and for focus. To learn more about the supplements discussed on the Huberman Lab podcast, go to live Momentous spelled OUS. That's live Momentous dot com slash huberman. 
+0  
+02:27:20
+If you're not already following me on Social Media, I'm Huberman Lab on all Social Media platforms. So that's Instagram X, LinkedIn, Facebook, and threads. And on all those platforms, I discuss science and science related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content covered on the Huberman Lab podcast. So again, it's Huberman Lab on all Social Media platforms. If you haven't already subscribed to our Neural Network Newsletter, our Neural Network Newsletter is a zero cost newsletter that provides podcast summaries as well as protocols in the form of brief one to three page PDFs that cover everything from neuroplasticity and learning to sleep, to deliberate cold exposure and deliberate heat exposure. We have a foundational fitness protocol and much more, all of which, again is completely zero cost. 
+0  
+02:28:04
+You simply go to Huberman Lab dot com, go to the menu tab, scroll down to newsletter, and by supplying your email you can subscribe. I want to point out that we do not share your email with anybody. Thank you once again for joining me for today's discussion all about sleep with Dr. Matthew Walker. And last but certainly not least, thank you for your interest in science.

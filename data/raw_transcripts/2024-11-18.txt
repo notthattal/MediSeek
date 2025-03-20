@@ -1,0 +1,1180 @@
+Discover Shows
+Publishers
+Search for a show, advertiser or publisher
+Log In
+Sign Up
+Huberman Lab
+Dr. Terry Sejnowski: How to Improve at Learning Using Neuroscience & AI
+Published: 11/18/2024
+11/18/2024 - 2h 34m 11s
+ - 
+US
+Downloaded:
+DESCRIPTION
+TRANSCRIPT
+Speakers
+Times
+0  
+00:00:00
+Welcome to the Huberman Lab Podcast, where we discuss science and science based tools for everyday life. I'm Andrew Huberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Terry Sejnowski. Dr. Terry Sejnowski is a professor at the Salk Institute for Biological Studies, where he directs the computational neurobiology laboratory. And as his title suggests, he's a computational neuroscientist. That is, he uses math as well as artificial intelligence and computing methods to understand this overarching ultra important question of how the brain works. Now, I realize that when people hear terms like computational neuroscience, algorithms, large language models and ai, that it can be a bit overwhelming and even intimidating. 
+0  
+00:00:48
+But I assure you that the purpose of Dr. Sadowski work and indeed today's discussion is all about using those methods to clarify how the brain works and indeed to simplify the answer to that question. So for instance, today, you will learn that regardless of who you are, regardless of your experience, that all your motivation in all domains of life is governed by a simple algorithm or equation. Dr. Sosnowski explains how a single rule, a single learning rule, drives all of our motivation related behaviors, and it of course relates to the neuromodulator dopamine. And if you're familiar with dopamine as a term today, you will really understand how dopamine works to drive your levels of motivation, or in some cases, lack of motivation and how to overcome that lack of motivation. 
+0  
+00:01:33
+Today we also discuss how best to learn. Dr. Sadowski shares not just information about how the brain works, but also practical tools that he and colleagues have developed, including a zero cost online portal that teaches you how to learn better based on your particular learning style, the way that you in particular forage for information and implement that information. Dr. Sosnowski also explains how he himself uses physical exercise of a particular type in order to enhance his cognition. That is his brain's ability to learn information and to come up with new ideas. Today, we also discuss both the healthy brain and the diseased brain in conditions like Parkinson's and Alzheimer's, and how particular tools that relate to Mitochondrial Function can perhaps be used in order to treat various diseases including Alzheimer's dementia. 
+0  
+00:02:22
+I'm certain that by the end of today's episode, you will have learned a tremendous amount of new knowledge about how your brain works and practical tools that you can implement in your daily life. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the Sponsors of today's podcast. 
+BetterHelp (Ad) huberman 
+00:02:49
+Our first sponsor is BetterHelp BetterHelp offers professional therapy with a licensed therapist carried out completely online. I've been doing weekly therapy for well over 30 years. Initially I didn't have a choice. It was a condition of being allowed to stay in school. But pretty soon I realized that therapy is an extremely important component to one's overall health. In fact, I consider doing regular therapy just as important as getting regular exercise, including cardiovascular exercise and resistance training, which of course I also do every single week. Now, there are essentially three things that great therapy provides. First of all, it provides a good rapport with somebody that you can trust and talk to about essentially all issues that you want to. Second of all, great therapy provides support in the form of emotional support or simply directed guidance, what to do or what not to do in given areas of your life. And third, expert therapy can provide you useful insights that you would not have been able to arrive at on your own. BetterHelp makes it very easy to find an expert therapist who you really resonate with, and that can provide you the benefits I just mentioned that come with effective therapy. If you'd like to try BetterHelp, go to BetterHelp dot com slash huberman to get 10% off your first month. Again, that's BetterHelp dot com slash huberman. 
+Helix (Ad) huberman 
+00:03:59
+Today's episode is also brought to us by Helix Sleep. Helix. Sleep makes mattresses and pillows that are customized to your unique sleep needs. Now, I've spoken many times before on this and other podcasts about the fact that getting a great night's sleep is the foundation of mental health, physical health and performance. Now, the mattress you sleep on makes a huge difference in terms of the quality of sleep that you get each night, how soft it is, or how firm it is, how breathable it is, all play into your comfort and need to be tailored to your unique sleep needs. If you go to the Helix website, you can take a brief two minute quiz and it asks you questions such as, do you sleep on your back, your side, or your stomach? Do you tend to run hot or cold during the night? Things of that sort. Maybe you know the answers to those questions, maybe you don't. Either way, helix will match you to the ideal mattress for you. For me, that turned out to be the dusk mattress, DUSK. I started sleeping on a dusk mattress about three and a half years ago, and it's been far and away the best sleep that I've ever had. If you'd like to try Helix, you can go to Helix Sleep dot com slash huberman. Take that two minute sleep quiz and Helix will match you to a mattress that is customized for your unique sleep needs. For the month of November, 2024. Helix is giving up to 25% off on all mattress orders and two free pillows. Again, that's Helix Sleep dot com slash huberman to get up to 25% off and two free pillows. 
+0  
+00:05:15
+And now for my discussion with Dr. Terry Sejnowski, Dr. Terry Sejnowski, welcome. Great to be here. We go way back, and I'm a huge, huge fan of your work because you've worked on a great many different things. In the field of neuroscience, you're considered by many a computational neuroscience, so you bring mathematical models to an understanding of the brain and neural networks. And we're also going to talk about AI today, and we're gonna make it accessible for everybody. Biologists or no math background or No. And to kick things off, I wanna understand something I understand a bit about the parts list of the brain. And most listeners of this podcast will understand a little bit of the parts list of the brain, even if they've never heard an episode of this podcast before, because they understand there are cells, those cells are neurons. 
+0  
+00:06:02
+Those neurons connect to one another in very specific ways that allow us to see, to hear, to think, et cetera. But I've come to the belief that even if we know the parts list, it doesn't really inform us how the brain works, right? This is the big question. How does the brain work? What is consciousness? All of this stuff. So where and how does an understanding of how neurons talk to one another start to give us a real understanding about like how the brain works? Like what is this piece of meat in our heads? Because it can't just be, okay, the hippocampus remembers stuff and the, you know, the visual cortex perceives stuff. 
+0  
+00:06:43
+When you sit back and you remove the math from the mental conversation, if that's possible for you, how do you think about, quote unquote, how the brain works? Like at a very basic level, what is this piece of meat in our heads really trying to accomplish from, let's just say, the time when we first wake up in the morning and we're a little groggy till we make it to that first cup of coffee or water? Or maybe even just to urinate first thing in the morning? What is going on in there? 
+2  
+00:07:11
+What a great question. And you, you know, the, I have a Pat Churchill and I wrote a book, computational Brain, and in it there's this levels diagram and, and it at levels of investigation at different spatial scales from the molecular at the very bottom to synapses and neurons, circuits, neural circuits, how they're connected with each other, and then brain areas in the cortex. And then the, the whole central nervous system span 10 orders of magnitude, you know, 10th to the 10th in spatial scale. So, you know, where is consciousness in all of that? 
+2  
+00:07:54
+So there are two approaches that neuroscientists have taken, I shouldn't say neuroscientists, I should say, that scientists have taken. And the one you described, which is, you know, let's look at all the parts. That's the bottom up approach. You know, take it apart and just a reductionist approach. And you make a lot of progress. You can figure out, you know, how things are connected and, and understand how development works, how neurons connect. But it's very difficult to really make progress because quickly you get lost in the forest. Now the other approach, which has been successful, but at the end on satisfying, is the top down approach. 
+2  
+00:08:38
+And, and this is the approach that psychologists have taken, looking at behavior and trying to understand, you know, the, the, the, the laws of behavior. This is the behaviorists. But you know, even people in ai, we're trying to do a top down to write programs that could replicate human behavior, intelligent behavior. And I have to say that both of those approaches, you know, bottom up or top down have really not gotten to the core of answering any of those questions, the big questions. But there's a whole new approach now that is emerging in both neuroscience and AI at exactly the same time at this moment in history. 
+2  
+00:09:19
+It's really quite remarkable. So there's an intermediate level between the implementation level at the bottom, how you implement some particular mechanism. And the, the, the actual behavior of the whole system is called the Algorithmic Level. It's in between. So algorithms are like recipes. They're like, you know, when you bake a cake, you have to have ingredients and you have to say how, how the order in which they're put together and how long. And you know, if you, if you, if you get it wrong, you know it doesn't work. You know, the, the, it's just a mess. 
+2  
+00:10:00
+Now, it turns out that we're discovering algorithms. We've made a lot of progress with understanding the algorithms that are used in neural circuits. And this speaks to the computational level of, of how to understand, you know, the function of the neural circuit. But I'm gonna give you one example of an algorithm, which is, is when we worked on, back in the 1990s when Peter, Diane, and Reed Montague were postdocs in the lab, and it had to do with a part of the brain below the cortex called the Basal Ganglia, which is responsible for learning sequences of actions in order to achieve some goal. 
+2  
+00:10:45
+For example, if you wanna play tennis, you know, you have to be able to coordinate many muscles, and a whole sequence of actions has to be made if you wanna be able to serve accurately, and you have to practice, practice, practice. Well, what's going on there is that the Basal Ganglia basically is taking over from the cortex and producing actions that get better and better and better and better. And that's true, not just of the, the muscles, but it's also true of thinking. If you wanna become good in any area, if you wanna become a good financier, if you wanna get, become a good doctor or neuroscientists, right? 
+2  
+00:11:25
+You, you, you have to be practicing, practicing, practicing in terms of understanding what you know, what, what's the details of the profession and what works, what doesn't work, and so forth. And, and it turns out that the spatial ganglia interacts with the cortex, not just in the back, which is the action part, but also with the prefrontal cortex, which is the thinking part. Can 
+0  
+00:11:49
+I ask you a question about this briefly? The Basal Ganglia, as I understand, are involved in the organization of two major types of behaviors go meaning to actually perform a behavior. But the Basal Ganglia also instruct no go, don't, don't engage in that behavior. And learning a, an expert golf swing, or even a basic golf swing or a tennis racket swing involves both of those things. Go and no go, given what you just said, which is that the Basal Ganglia are also involved in generating thoughts of particular kinds. I wonder, therefore, if it's also involved in suppression of thoughts of particular kinds. 
+0  
+00:12:29
+I mean, you don't want your surgeon cutting into, you know, a particular region and just thinking about their motor behaviors, what to do and what not to do. They presumably need to think about what to think about, but also what to not think about. You don't want that surgeon thinking about how their kid was a brat that morning, and, and they're frustrated because the two things interact. So is there go no go in terms of action and learning? And is there go no go in terms of thinking? 
+2  
+00:12:54
+Well, yeah, I, I mentioned the prefrontal cortex and that part, the loop with the Basal Ganglia, that is one of the last to mature in, you know, early adulthood. And you know what the problem is that for adolescents, it's not the no-go part for, for, you know, planning and actions isn't quite there yet. And so often it doesn't kick in to, to prevent you from doing things that are not in your best interest. So yes, absolutely, right? But one of the things though is that learning is involved. And, and this is really so a, a problem that we cracked first, theoretically in the nineties and then experimentally later by recording from neurons and also brain imaging in humans. 
+2  
+00:13:37
+So it turns out we know the algorithm that is used in the brain for how to learn sequences of actions to achieve a goal. And, and it's of simplest possible algorithm you can imagine. It's simply to predict the next Reward you're gonna get. If I, if I do an action, will I, will it be give me something of value? And, and you learn every time you try something, whether you got the amount of Reward you expect it or less, you use that to update the synapses synaptic plasticity, so that the next time you'll have a better chance of getting a, a better Reward. 
+2  
+00:14:18
+And you build up what's called a Value Function. And so the cortex now over your lifetime is building up a, a, a lot of knowledge about, you know, things that are good for you, things that are bad for you. Like you go to a restaurant and you order something. How do you know what's good for you? Right? You, you've had lots of meals in a lot of places, and now that is part of your Value Function. This is the same algorithm that was used by Alpha Go. This is the program that DeepMind built. This is an AI program that beat the world, go champion and go is the most complex game that, that humans have ever come played, you know, on, on, on a regular basis. 
+0  
+00:14:58
+Far more complex than chess, as I 
+2  
+00:15:00
+Understand. Yeah, that's right. So go is to chess where chess is, to something like ch checkers, you know, in other words, the level of difficulty is another, you know, way off above it. Because you have to think in terms of, of of, of battles going on all over the place, At the same time. And the order in which you put the pieces down are gonna affect what's gonna happen in the future. 
+0  
+00:15:23
+So this Value Function is super interesting. And I wonder whether, and I think you answered this, but I wonder whether this Value Function is implemented over long periods of time. So you talked about the Value Function in terms of learning a motor skill, let's say swinging a tennis racket to do a perfect tennis serve, or, or even just a decent tennis serve. When somebody goes back to the court, let's say on the weekend, once a month, over the course of years, are they able to tap into that same Value Function every time they go back, even though there's been a lot of intervening time and learning? 
+0  
+00:16:03
+That's question number one. And then the other question is, do you think that this Value Function is also being played out in more complex scenarios, not just motor learning, such as, let's say, a domain of life that for many people involve some trial and error. It would be like human relationships. We learn how to be friends with people, we learn how to be a good sibling, we learn how to be a good romantic partner, right? Right. We get some things right? We get some things wrong. So as the same Value Function being implemented, we're paying attention to what was rewarding. But what I didn't hear you say also was what was punishing? So are we only paying attention to what is rewarding? Oh, no. Or we're also integrating Punishment, and we don't get an electric shock when we get the serve wrong, but we can be frustrated. 
+2  
+00:16:47
+What you identified is some, a very important feature, which is that rewards, by the way, you know, every time you do something, you're updating this Value Function every time. And, and it accumulates. And the answer to your first question, the answer is that it's always gonna be there. It doesn't matter. It's, it is a very permanent part of your experience and who you are. And, and interestingly, and, and behaviorists knew this back in the 1950s, that you can get there two ways of trial and error. You know, small rewards are, are good because you're constantly coming closer and closer to getting the, the what you're seeking better tennis player or being able to make a friend. 
+2  
+00:17:41
+But the negative Punishment is much more effective. One, trial learning. You don't need to have, you know, a hundred trials to, you know, what you need, you know, when you're training a rat to, to do some task with small food Reward. But if you, if you just shock the rat boy, that rat doesn't forget that. 
+0  
+00:18:06
+Yeah. One really bad relationship will have you have you learning certain things forever. 
+2  
+00:18:11
+And this is also PTSD post-traumatic stress disorder is, is another good example of that that can screw you up for the rest of your life. So, so, but the other thing, and, and you, you pointed out something really important, which is that a large part of the prefrontal cortex is devoted to social interactions. And this is how humans, you know, when you come into the world, you don't know what language you're gonna be speaking. You don't know what the cultural values are that you're, that you're going to have to be able to become a member of this society and things that are expected of you. All of that has to be become through experience through building this Value Function. So this is, and this is something we discovered in the 20th century, and, and now it's going into ai, it's called reinforcement learning in ai. 
+2  
+00:18:57
+It's a, it's a form of Procedural Learning as opposed to the cognitive level where you think, and you do things, cognitive thinking is much less efficient because you have to go step by step with Procedural Learning, it's automatic. 
+0  
+00:19:13
+Can you gimme an example of Procedural Learning in the context of a comparison to cognitive learning? Like, is there an example of perhaps like how to make a decent cup of coffee using, you know, purely knowledge based? Oh, learning versus Procedural Learning. Oh, okay. Okay. It where Procedural Learning wins, and I, I, I can imagine one, but you're the true expert here. Well, 
+2  
+00:19:36
+You know, no, you know, a lot of examples, but my, my I'll just, since we've been talking about tennis, can you imagine learning how to play tennis through a book, reading a book? 
+0  
+00:19:45
+That's so funny. On the plane back from Nashville yesterday, the guy sitting across the aisle from me was reading a book about maybe he was working on his pilot's license or something, right? And, and I, I looked over and couldn't help but notice these diagrams of the, of the plane flying. And I thought, I'm just so glad that this guy is a passenger and not, and not a pilot. And then I thought about how the pilots learned, and presumably it was a combination of practical learning and textbook learning. I mean, when you scuba dive, this is true. I, I'm scuba dive certified, and when you get your certification, yes, yes, you learn your dive tables and you learn why you have to wait between dives, et cetera, and gas exchange and a number of things. 
+0  
+00:20:25
+But there's really no way to simulate what it is to take your mask off underwater, put it back on, and then, you know, blow the water outta your mask like that. You just have to do that in a pool, and you actually have to do it when you need to Yes. For it to really get drilled in. Yes, you, 
+2  
+00:20:39
+You, you, you, you, it's really essential for things that have to be executed quickly and, and expertly to, to get that to, you know, really down pat. So you don't have to think, and this happens in school, right? In other words, you, you, you, you have classroom lessons where you're given explicit instruction, but then you go do homework that's Procedural Learning, you do problems, you solve problems. And, and, you know, I'm, I'm a PhD physicist, so, so I I I went through all of the classes, you know, in theoretical physics, and it was really the problems that really were the core of becoming a good physicist. 
+2  
+00:21:23
+You know, you could memorize the equations, but that doesn't mean you understand how to use the equations. 
+0  
+00:21:28
+I think it's worth highlighting something. A lot of times on this podcast we talk about what I call Protocols. It would be, you know, like get some morning sunlight in your eyes to stimulate your super charismatic nucleus by way of your retinal gangly cells, audiences of this podcast. We'll recognize those terms. It's basically get sunlight in your eyes in the morning and set your circadian clock. That's right. And you can hear that a trillion times. But I do believe that there's some value to both knowing what the protocol is, the underlying mechanisms. There are these things in your eye that, you know, encode the sunrise qualities of light, et cetera, and then send them to your brain, et cetera, et cetera. But then once we link knowledge, pure knowledge to a practice, I do believe that the two things merge someplace in a way that let's say, reinforces both the knowledge and the practice, right? 
+0  
+00:22:14
+So these things are not necessarily separate. They bridge, in other words, doing your theoretical physics right, problem sets, reinforces the examples that you learned in lecture and in your textbooks and vice versa. 
+2  
+00:22:26
+So this is a battle that's going on right now in schools. You're, you, you know, what you've just said is absolutely right. You need both. We have two major learning systems. We have a cognitive learning system, which is cortical. We have a Procedural Learning system, which is subcortical, Basal, Ganglia. And the two go hand in hand. If, if you wanna become good at anything, the the two are going to help each other. And what's going on right now in schools, in California at least, is that they're trying to get rid of the procedural. 
+0  
+00:23:01
+That's 
+2  
+00:23:01
+Ridiculous. They don't want students to practice because it, it's, it's going to be, you know, you're, you're stressing them. You don't want them to be, to feel that, you know, that they're having difficulty. So, but we can, but it can do everything. 
+0  
+00:23:14
+For those listening, I'm covering my eyes because I mean, this would, this would be like saying, goodness, there's so many examples. Like, here's a textbook on swimming, and then you're, you're gonna go out to the ocean someday and you'll have never actually swam. 
+2  
+00:23:27
+Right? 
+0  
+00:23:28
+And now you're expected to be able to survive, let alone swim. Well, 
+2  
+00:23:33
+It's crazy. It's crazy. But I'll tell you, Barbara Oakley has, and I have a, a MOOC massive open online course on Learning How to Learn, and it helps students. We aimed it at students, but it actually has been taken by 4 million people in 200 countries, ages 10 to 90, 
+0  
+00:23:52
+What is this called? 
+2  
+00:23:54
+Learning? How to Learn. 
+0  
+00:23:55
+Is it, is there a paywall? 
+2  
+00:23:58
+No, it's free. Completely free. 
+0  
+00:23:59
+Amazing. And, 
+2  
+00:24:01
+And, you know, I get incredible, you know, feedback, you know, fan letters almost every day. 
+0  
+00:24:07
+Well, you're about to get a few more. Okay, well, I did an episode on Learning How to Learn, and my understanding of the research is that we need to test ourselves on the material. That testing is not just a form of evaluation. Yes, it is a form of identifying the, the errors that help us then compensate for the errors and learn. But it, but it's, it's very procedural. It's not about just listening and regurgitating the, 
+2  
+00:24:30
+You, you're, you know, you've put your finger on it, which is that, and this is what we teach the students, is that you have to, there, there, there, the way the brain works, right? Is, is not, it doesn't memorize things like a computer, but you, you have to, it has to be Active, Learning. You have to be actively engaged. In fact, when you're, you're trying to solve a problem on your own, right? This is where you're really learning by trial and error, and that's procedural system. But if someone tells you what the right answer is, you know, you know, that's just something that is a fact that it gets stored away somewhere, but it's not gonna automatically come up if you actually are faced with something that's not exactly the same problem, but is similar. 
+2  
+00:25:13
+And by the way, this is the key to ai, completely essential for the recent success of, of these large language models, you know, that the public now is beginning to use, is that they, they're, they're not parrots. They just, they're not, they just don't memorize what they, what they've, the data that they've taken in, they have to generalize. That means to be able to do well on new things that come in that are similar to the old things that you've seen, but allow you to solve new problems. That's the key to the brain. That the brain is really, really good at generalizing. In fact, in many cases, you only need one example to generalize, 
+0  
+00:25:55
+Like going to a restaurant for the first time, there are a number of new interactions, right? There might be a host or a hostess. You sit down at these tables, you've never sat at, somebody asks you questions, you read it, right? Okay, maybe it's a QR code these days, but right. Forever after you understand the process of going into a restaurant, doesn't matter what the genre of food happens to be or what city sitting inside or outside, you can pretty much work it out, sit at the counter, sit outside, sit at the table. It's there, there are a number of key action steps that I think pretty much translate to everywhere, unless you go to some super high-end thing or some super low end thing where it's a buffet or whatever. 
+0  
+00:26:36
+Like, you know, you can start to fill in the blanks here. If I understand correctly, there's a, an action function that's learned from the knowledge and the experience. Yes, exactly. And then where is that action function stored? Is it in one location in the brain, or is it kind of an emergent property of multiple brain areas? 
+2  
+00:26:55
+So th th that you're right at the cusp here of where we are in neuroscience right now. We don't know the answer to that question. In the past, it had been thought that, you know, the, the cortex had were like countries on that e, each of which each part of the cortex was dedicated to one function, right? You know, there's, and and interestingly, you record the neurons and it certainly looks that way, right? In other words, the, there's a visual cortex in the back, and there's a whole series of areas, and then there's the auditory cortex in the, here, in the middle, and then the prefrontal cortex for social interaction. And, and so it looked really clear cut that it's modular. 
+2  
+00:27:38
+And now we we're facing is by, we have a new way to record from neurons. You optically we can record from tens of thousands, from dozens of areas simultaneously. And what we're discovering is that if you wanna do any task, you're engaging not just the area that you might think, you know, has the input coming into the visual system, but the visual system is getting input from the motor system, right? In fact, you know, there's more input coming from the motor system than from the eye. Really? Yes. Yeah. And Churchill at UCLA has shown that in, in the mouse. 
+2  
+00:28:18
+This is, so now we're looking at global interactions between all these areas, and that's where eer real complex cognitive behaviors emerge, is from those interactions. And now we have the tools for the first time to actually be able to see them in real time. And, and we're, we're doing that now, first on mice and monkeys, but we now can do this in humans. So I've been collaborating with a group at Mass General Hospital to record from people with epilepsy and, and they have to have an operation for people who are drug resistant to be able to take out, find out where it starts in the cortex, you know, and, and where it is initiated, where the seizure starts. 
+2  
+00:29:02
+And then to go in, you have to go in and record simultaneously from a lot of parts of the cortex for weeks until you find out where it is. And then you go in and you try to take it out. And, and often that helps very, very invasive. But for two weeks we have access to all those neurons and that cortex that are being, you know, recorded from constantly. And so I've used, I started out because I was interested in sleep, and I wanted to understand what happens in, in the cortex of a human during sleep. But then we, we realized that, you know, you can also figure, you know, people who have these, the debilitating problems with seizures, you know, they're there for two weeks and they have nothing to do. 
+2  
+00:29:47
+So they just love the fact that scientists are interested in helping them and, and, you know, teaching them things and finding out where in the cortex things are happening when they learn something. This is a gold mine. It's, it's unbelievable. And I, I've, I've learned things from humans that could, I could have never gotten from any other species. Amazing. Obviously language is one of them, but there are other things in sleep that we've, we discovered having to do with traveling ways. There are circular traveling ways that go on during sleep, which is astonishing. Nobody ever really saw that before. But 
+0  
+00:30:24
+Now, if you were to ascribe one or two major functions to these Traveling Waves, what do you think they're accomplishing for us in sleep? Are, and by the way, are they associated with deep sleep, slow wave sleep, or with rapid eye movement sleep? Or both? 
+2  
+00:30:36
+This is, this is non-REM sleep. This is a jargon, but this is during intermediate 
+0  
+00:30:44
+Transition states 
+2  
+00:30:45
+Transition state. Okay. 
+0  
+00:30:46
+Our audience will probably be, keep up. They've, they've heard a lot about slow wave sleep from me and Matt Walker. Okay. This is from rapid eye 
+2  
+00:30:52
+Light, slow wave sleep. Yeah. 
+0  
+00:30:53
+And so what do these Traveling Waves accomplish for 
+2  
+00:30:55
+Us? Oh, okay. So in the case of the, they're called Sleep Spindles. They last, the, the waves last for about a second or two. And, and they travel, like I say, in a circle around the cortex. And it's known that these spindles are important for consolidating experiences you've had during the day into your long-term memory storage. So, so it's a very important function. And if, if, if you take out, see, it's the hippocampus that is, is, is, is replaying the experiences. It's a part of the brain. It's very important for long-term memory. If you don't have a hippocampus, you can't learn new things. The SSA, you can't remember what you did the yesterday or for that matter, even an hour earlier. 
+2  
+00:31:41
+But the hippocampus plays back your experiences causes the Sleep Spindles now to need that into the cortex. And, and it, you, it's important you do that, right? 'cause you don't wanna overwrite the existing knowledge you have. You just want to basically incorporate the new experience into your existing knowledge base in an efficient way that that doesn't interfere with what you already know. So that's an example of, of a very important function that the Traveling Waves have. 
+AG1 (Ad) huberman 
+00:32:07
+I'd like to take a quick break and acknowledge our sponsor, AG one. AG one is a vitamin mineral probiotic drink that includes prebiotics and adaptogens. I've been drinking AG one since 2012, and I started doing it at a time when my budget was really limited. In fact, I only had enough money to purchase one supplement, and I'm so glad that I made that supplement AG one. The reason for that is, even though I strive to eat whole foods and unprocessed foods, it's very difficult to get enough vitamins and minerals, micronutrients and adaptogens from diet alone in order to make sure that I'm at my best, meaning have enough energy for all the activities I participate in from morning until night, sleeping well at night, and keeping my immune system strong. When I take a G one daily, I find that all aspects of my health, my physical health, my mental health, my performance recovery from exercise, all of those improve. And I know that because I've had lapses when I didn't take my AG one. And I certainly felt the difference. I also noticed, and this makes perfect sense given the relationship between the gut microbiome and the brain, that when I regularly take AG one that I have more mental clarity and more mental energy. If you'd like to try AG one, you can go to drink AG one.com/huberman to claim a special offer for this month only. November, 2024. AG one is giving away a free one month supply of Omega-3 fatty acids from fish oil, in addition to their usual welcome kit of five free travel packs and a year supply of vitamin D three K two. As I've discussed many times before on this podcast, Omega-3 fatty acids are critical for brain health, mood, cognition, and more. Again, go to drink AG one.com/huberman to claim this special offer. 
+David vs Goliath Podcast (Ad) huberman 
+00:33:41
+Today's episode is also brought to us by David. David makes a protein bar, unlike any other. It has 28 grams of protein, only 150 calories, and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. These bars from David also taste amazing. My favorite flavor is chocolate chip cookie dough. But then again, I also like the chocolate fudge flavored one, and I also like the cake flavored one. Basically, I like all the flavors. They're incredibly delicious. For me personally, I strive to eat mostly whole foods. However, when I'm in a rush or I'm away from home, or I'm just looking for a quick afternoon snack, I often find that I'm looking for a high quality protein source. With David, I'm able to get 28 grams of protein with the calories of a snack, which makes it very easy to hit my protein goals of one gram of protein per pound of body weight each day. And it allows me to do that without taking in excess calories. I typically eat a David bar in the early afternoon, or even mid-afternoon if I wanna bridge that gap between lunch and dinner. I like that it's a little bit sweet, so it tastes like a tasty snack, but it's also given me that 28 grams of very high quality protein with just 150 calories. If you would like to try David, you can go to david protein.com/huberman. Again, the link is david protein.com/huberman. 
+0  
+00:34:57
+As I recall, there are one or two things that one can do in order to ensure that one gets sufficient Sleep Spindles at night and thereby incorporate this new knowledge. I, this was from the episode that we did with Gina Poe from UCLA, I believe, and others, including Matt Walker. My recollection is that the number one thing is to make sure you get enough sleep at night. So you experience enough of these spindles, right? Right. And we're all familiar with the cognitive challenges, including memory challenges and learning challenges associated with lack of sleep, insufficient sleep. But the other was that there was some interesting relationship between daytime exercise and nighttime prevalence of Sleep Spindles. 
+0  
+00:35:38
+Are you familiar with that 
+2  
+00:35:40
+Literature? Yes. Oh, yes. Yeah. No, this is a, this is a fascinating literature and it's all pointing the same direction, which is that, you know, we always neglect to appreciate the importance of sleep. I mean, obviously it, you're refreshed when you wake up, but there's a lot of things happen. It's not that your brain turns off, it's that it goes into a completely different state. And, and memory consolidation is just one of those things that happens when you're fall asleep and you, of course you're, you know, there's dreams and so forth. We don't fully appreciate or understand exactly how all the different sleep stages are, are work together. But exercise is a particularly important part of, of, of getting the motor system tuned up and, and that it is thought that the, this, the rem rapid eye movement sleep may be involved in that. 
+2  
+00:36:36
+So that that's a, that's yet another part of the sleep stages. You go through, you go back and forth between dream sleep and the slow way sleep back and forth, back and forth during the night. And then at the, when you wake up, you're in the, in the, the REM stage. More and more rem more and more rem. But you know, that's all observation. But we, you know, as a scientist, what you wanna do is perturb the system and, and see if you can, maybe if you had more Sleep Spindles, maybe you'd be able to remember things better. So it turns out Nik, who's at uc, Irvine did this fantastic experiment. So it turns out there's a drug called Zolpidem, which is, is goes by the, the name Ambien. 
+2  
+00:37:23
+You may have some experience with that if you, 
+0  
+00:37:24
+I've never taken it, but I'm, I'm aware of what it is. People use it as a sleep aid. 
+2  
+00:37:29
+That's right. It, it's, it's, it, a lot of people take it in order to sleep. Okay, well, it turns out that it causes more Sleep Spindles really? Yeah. It, it, it doubles the number of Sleep Spindles. If you, you know, if you take the drug, you take the drug after you've done the learning, right? You do the learning at night, and then you take the drug and you have twice as many spindles. You wake up in the morning, you can remember twice as much from what you learned. 
+0  
+00:38:00
+And the memories are stable over time. Yes. It's just like it's in there. Yes. 
+2  
+00:38:04
+Yeah. No, it, it's, it, it it's consolidates it. I mean, that's the point is, is 
+0  
+00:38:08
+That what's the downside of Ambien? 
+2  
+00:38:09
+Okay, here's the downside. Okay? So people who take the drugs, say if you're going to Europe and you take it, and then you sleep really soundly, but often you, you find yourself in the hotel room and you completely have no clue. You have no memory of how you got there. 
+0  
+00:38:27
+I've had that experience without Ambien or any other drugs where I am very badly jet lagged. Yes. And I wake up and for a few seconds, but what feels like eternity, I have no idea where I am. 
+2  
+00:38:39
+Okay? It's terrifying that, well, that that's another problem that you have with jet lag. Jet lag really screws things up. But this is something where it could be an hour, you know, you, you, you took the train or you, you took a taxi or something, and you're, and so here, here, now this seems crazy. How could it be a, a, a way to improve learning and recall on one hand and then forgetfulness on the other hand? Well, it turns out what's important is that when you take the drug, right? In other words, it helps consolidate experiences you've had in the past, before you took the drug. 
+2  
+00:39:22
+But it will wipe out experiences you have in the future after you take the drug, right? You steal, sorry, 
+0  
+00:39:28
+I'm not laughing. It must be a terrifying experience, but I'm laughing because, you know, there's some beautiful pharmacology and indeed some wonderfully useful pharmaceuticals out there. You know, some people may cringe to hear me say that, but there are some very useful drugs out there that save lives and help people deal with symptoms, et cetera. Side effects are always a concern. But this particular drug profile Ambien, that is, it seems to reveal something perhaps even more important than the discussion about spindles or Ambien or even sleep, which is that you gotta pay the piper somehow, as they say. That's right. That you tweak one thing in the brain, something else, something else goes. 
+0  
+00:40:10
+You, you, you, you don't get anything for free. 
+2  
+00:40:13
+That's a, a true, I think that this is something that is true not just of drugs for the brain, but steroids for the body, right? Sure. 
+0  
+00:40:24
+Yeah. I mean, steroids, even low dose testosterone therapy, which is very popular nowadays, will get people more Vigor, et cetera. But it is introducing a sort of second puberty. And puberty is perhaps the most rapid phase of Aging Yes. Of the entire lifespan. Same thing with people. Take growth hormone would be a, probably a better example because certainly those therapies can be beneficial to people, but growth hormone gives people more Vigor, but it accelerates Aging look at the quality of skin that people have when they take growth hormone. It, it looks more age, they physically change. And I'm not for or against these things, it's highly individual, but I completely agree with you. I I would also venture that with the growing interest in so-called nootropics, and people taking things like modafinil, not just for narcolepsy, daytime sleepiness, right? 
+0  
+00:41:11
+But also to enhance cognitive function. Okay? Maybe they can get away with doing that every once in a while for a, a deadline task or something. But my experience is that people who obsess over the use of pharmacology to achieve certain brain states pay in some other way. Absolutely. Whether or not stimulants or sedatives or sleep drugs and that behaviors will always prevail, behaviors will always prevail as tools. 
+2  
+00:41:35
+Yep. And, and the, the, one of the things about the way the body evolved is that it's, it's, it really has to balance a lot of things. And so with drugs, you're basically unbalancing it somehow. And, and, and there were consequences as you point out, is that, you know, what, what, in order to make one part better, one part of your body or you, you sacrifice something else somewhere else. And 
+0  
+00:42:02
+As long as we're talking about brain states and connectivity across areas, I wanna ask a particular question then I wanna return to this issue about how best to learn, especially in kids, but also in adulthood. I've become very interested in and spent a lot of time with the literature and some guests on the topic of psychedelics. Let's leave the discussion about LSD aside, because do you know why there aren't many studies of LSD? This is kind of a fun one. No one is expected to know the answer. 
+2  
+00:42:28
+Well, it's against the law, I think. 
+0  
+00:42:29
+Oh, but there's so is Psilocybin or MDMA, and there are lots of studies going on about those. Oh, there are. Now it's 
+2  
+00:42:34
+Changed, right? But when I was growing up, you know, as you know, it was against the law, 
+0  
+00:42:37
+Right? So the, what I learned is that the, that there are far fewer clinical trials exploring the use of LSD as a therapeutic, because with the exception of Switzerland, none of the researchers are willing to stay in the laboratory as long as it takes for the subject to get to an LSD journey. Whereas Psilocybin tends to be a shorter, right, a shorter experience. Okay. Let's talk about Psilocybin for a moment. My read of the data on Psilocybin is that, it's still open to question, but that some of the clinical trials show pretty significant recovery from major depression. It was pretty impressive. But if we just set that aside and say, okay, more needs to be worked out for safety. What is very clear from the brain imaging studies this, or before and after resting state task related, et cetera, is that you get more resting state global connectivity, more areas talking to more areas than was the case prior to the use of the psychedelic. 
+0  
+00:43:31
+And given the similarity of the psychedelic journey, and here specifically talking about Psilocybin to things like rapid eye movement, sleep and things of that sort, I have a very simple question. Do you think that there's any real benefit to increasing brain wide connectivity? To me, it seems a little bit haphazard, and yet the clinical data are promising if nothing else promising. And so is what we're seeking in life as we acquire new knowledge, as we learn tennis or golf or, you know, take up singing or what have you, as we go from childhood into the late stages of our life, that whole transition is what we're doing. 
+0  
+00:44:10
+Increasing connectivity and communication between different brain areas. Is that what the human experience is really about? Or is it that we're getting more modular, we're getting more segregated in terms of this area, talking to this area in this particular way? Feel free to explore this in any way that feels meaningful or to say pass if it's not a good question. 
+2  
+00:44:30
+No, it's a great question. I mean, you have all these great questions and we don't have complete answers yet, but specifically with regard to connectivity, if you look at what happens in infant's brain during the first two years, there's a tremendous amount of new synapses being formed. This is your area, by the way, you know about than I do develop. Yeah, that too. But then you prune them, right? There's the second phase is that you overabundant synapses, and now what you wanna do is to prune them. Why would you wanna do that? Well, you know, synapses are expensive if it's talk takes a lot of, of energy to activate all of the neurons and the synapses, especially because there's the turnover of the neurotransmitter. 
+2  
+00:45:19
+And so what you wanna do is to re reduce the amount of energy and only use those synapses that have been proven to be the most important. Right? Now, unfortunately, as you get older, you, you ha the pruning slows down but doesn't go away. And so the cortex thins and, and so forth. So I think it's goes in the opposite direction. I think that as you get older, you, you, you, you're losing connectivity, but you, you retain, interestingly, you retain the old memories. The old memories are, are really rock solid. 'cause they were put in when you were young. Yeah. The foundation. The foundation upon which everything else is built. 
+2  
+00:46:02
+But, but it's not totally one way in, in the sense that even as an adult, as you know, you can learn new things, maybe not as quickly. By the way, this is one of the things that surprised me. So Barbara and I have, you know, looked at the people who, you know, really were the benefit of the most. It turns out that the peak of the demographic is 25 to 35. Barbara Oakley Oakley. Yeah, she's, she's, she's really the mastermind. She's a fabulous educator and, and background in engineering. But what's going on? So it turns out we, we aimed our, our, our MOOC at kids in high school and college, because that's their business. 
+2  
+00:46:50
+They go every day and they go into work and they have to learn, right? That's their business. But in fact, very few of of the students who are actually, you know, they weren't taking the course, why should they? They they spent all day in the class, right? Why did they wanna take another class? So this is 
+0  
+00:47:07
+The, your, the, the learning to learn class, 
+2  
+00:47:10
+Learning, How to Learn. Okay, so you did this with Barbara. So we did this, I did with Barbara. And now 25 to 35, we have this huge peak. Huge. So what's going on? Here's what's going on. It's very interesting. So you're 25, you've gone to college. Half the people, by the way, who take the course went to college, right? So this, it's not like, you know, filling in for college. This is like topping it off. But you're in a workforce, you have to learn a new skill. May maybe you have mortgage, maybe you have children, right? You can't afford to, to go go off and, and, and, and take a course of, and or get another degree. So you take a MOOC and you discover, you know, I'm not quite as agile as I used to be in terms of learning, but it turns out with our course, you can boost your learning. 
+2  
+00:47:58
+And so that even though you, you're not as, your, your brain is, isn't learning as quickly, you can do it more efficiently. 
+0  
+00:48:05
+This is amazing. I I want to take this course. I will take this course. What, what sort of time commitment is the course? You already pointed out that it's zero cost, which is amazing. Yeah, 
+2  
+00:48:15
+Yeah. Okay. So it, it's bite sized videos lasting about 10 minutes each, and there's about 50 or 60 over a course of one month. 
+0  
+00:48:24
+And are you tested? Are you self-test? 
+2  
+00:48:25
+Yeah, yeah. There, there are tests, there are quizzes, there are tests at the end and there are forums where you can go and talk to other students. You have questions. We have TAs, you know, it's, it's, 
+0  
+00:48:36
+And anyone can do this. 
+2  
+00:48:37
+Anyone in the world. In fact, we have people in the India Housewives who say, thank you, thank you, thank you. Because I could've never learned about how to, how to be a better learner. And I wish I had known this when I was going to school. Why 
+0  
+00:48:50
+Do more people not know about this learning to learn course? Although you, as people know, if I get really excited about it or about anything, I'm, I'm never gonna shut up about it. Well, but I'm gonna take the course first because I wanna understand the guts of it. 
+2  
+00:49:01
+You know, you'll, you'll enjoy it. We, we have like 98% approval that, which is phenomenal. It it's sticky 
+0  
+00:49:08
+A lot of, is it, is it math vocabulary? No, 
+2  
+00:49:11
+No math noca. It's not, we're not teaching anything specific. We're not teach we're not trying to give you knowledge. We're trying to tell you how to acquire knowledge and how to do that. How to, how to deal with exam anxiety, for example. Or how to, how to, you know, we all procrastinate, right? We, we put things off. 
+0  
+00:49:30
+Nah, no, I'm kidding. We all procrastinate. 
+2  
+00:49:32
+How to avoid that. We, we, we teach you how to avoid that. 
+0  
+00:49:35
+Fantastic. Okay, I'm gonna skip back a little bit now with the intention of, of double clicking on this learning to learn thing. You pointed out that in particular in California, but elsewhere as well, there isn't as much procedural practice based learning anymore. I'm gonna play devil's advocate here, and I'm gonna point out that this is not what I actually believe. But you know, when I was growing up, you had to do your times tables and your division and you know, and then your fractions and your exponents and you know, and you, they build on one another. And then at some point, you know, you take courses where you might need it like a graphing calculator to some people they can be like, what the, what, what is this? 
+0  
+00:50:20
+But the point being that there were a number of things that you had to learn to implement functions, and, and you learn. You learn by doing. You learn by doing. Likewise in, in physics class, we, you know, we were attaching things to strings and for macro mechanics and, and learning that stuff, okay? And learning from the chalkboard lectures, I can see the value of both, certainly. And you explained that the brain needs both to really understand knowledge and how to implement and back and forth. But nowadays, you know, you'll hear the argument, well, why should somebody learn how to read a paper map unless it's the only thing available because you have Google maps, or if they want to do a calculation, they just put it into the top bar function on the internet and boom, out comes the answer. 
+0  
+00:51:05
+So there is a world where certain skills are no longer required, and one could argue that the brain space and activity and time and energy in particular could be devoted to learning new forms of knowledge that are going to be more practical in the school and workforce going forward. So how do we reconcile these things? I mean, I'm of the belief that the brain is doing math, and you and I agree, it's electrical signals and chemical signals, and it's doing math and it's running algorithms. I think you convinced us of that certainly. But how are we to discern what we need to learn versus what we don't need to learn in terms of building a brain that's capable of learning the maximum number of things or even enough things so that we can go into this very uncertain future. 
+0  
+00:51:57
+Because as far as you know, and I know there's no, neither of us have a crystal ball. So what is essential to learn? And for those of us that didn't learn certain things in our formal education, what should we learn how to learn? 
+2  
+00:52:12
+Well, this is generational. Okay? So technologies provide us with tools. You mentioned the calculator, right? Well, a calculator didn't eliminate, you know, the education you need to get in math, but it made certain things easier. It sp it made it possible for you to do more things and more accurately. However, interestingly, students in my class often come up with answers that are off by, you know, eight orders of magnitude. And that if that's a huge amount, right? 
+2  
+00:52:53
+It's clear that they didn't key in the calculator properly, but they didn't recognize that it was imp it was a very far, it was completely way off the beam because they didn't have a good feeling for the numbers. They don't have a good sense of, you know, exactly how big it should have been. You know, order of magnitude, basic, you know, understanding. So the, it's, it's kind of a, there, there's a, the benefit is that you can do things faster, better, but then you also lose some of your intuition if, if you don't have the procedural system in place. 
+0  
+00:53:26
+I'm thinking about a kid that wants to be a musician who uses AI to write a song about a bad breakup that then is kind of recovered when they find new love. And I'm guessing that you could do this today and get a pretty good song out of ai, but would you call that kid a songwriter or a musician on the face of it? Yeah, the AI's helping. And then you'd say, well, that's not the same as sitting down with a guitar and trying out different chords and, and feeling the intonation in their voice. But I'm guessing that for people that were on the electric guitar, they were criticizing people on the acoustic guitar. You know, so we have this generational thing where, where we look back back and say, that's not the real thing. 
+0  
+00:54:08
+You need to get the, so what what are the key fundamentals is really a critical question. 
+2  
+00:54:12
+Okay. So the, the, I I'm gonna come back to that because this is how the, the, the way you put it at the beginning, ha, has to do with whether your, how your brain is allocating resources. Okay? So when you're younger, you can take in things, your brain is more malleable, for example. How, how good are you on Social Media? 
+0  
+00:54:36
+I, well I do all my own Instagram and Twitter and those accounts have grown in proportion of the amount of time I've been doing it. So yeah, I would say pretty good. I mean, I'm, I I'm not the biggest account on Social Media, but for a science, health account, we we're doing okay, thanks to the audience. Okay, well, 
+2  
+00:54:52
+Well, well this speaks well the fact that you've managed to break, you know, to go beyond the generation gap, because 
+0  
+00:55:00
+I can type with my thumbs, Terry. Okay, 
+2  
+00:55:02
+There you go. That's a manual skill. Learn 
+0  
+00:55:05
+That, that's a new, new, new phenomenon in human evolution. 
+2  
+00:55:08
+I, I, I, I couldn't believe it. I saw people doing that and now I can do it too. But, but the thing is that if you learn how to do that early in life, you're much more good at it. You, you can, you, you move your thumbs much more quickly. Also, you can have many more, you know, tweets going and not, what do they call now? They're not called tweets 
+0  
+00:55:28
+On XI think they still call them tweets because you can't, it's hard to verb the, the, the word the letter XX. Elon didn't think of that one. Yeah, I like X 'cause it's cool, it's kind of punk and it's got black, black kind of format, and it fits with kind of the, the, the, the, you know, the engineer like black X, you know, and this kind of thing. But, but yeah, we'll still call 'em tweets. Well, 
+2  
+00:55:48
+Okay, we'll call 'em tweets. Okay. That's, that's good. But you know, I I, I walk across campus and I see everybody, like half the people are, are tweeting or, you know, they're, they're doing something with their cell phone. They're, they're, I mean, it's unbelievable. It's like, and you have 
+0  
+00:56:02
+Beautiful sunsets at the Salk Institute. We'll put a link to one of them. I mean, right. It is, it is truly spectacular. Awe inspiring to see a sunset at the Salk Institute. 
+2  
+00:56:12
+Every day is different. And 
+0  
+00:56:13
+Everyone's on their phones these days sad. And, and 
+2  
+00:56:15
+You know, they're looking down at their phone and they're walking along. Even people who are skateboarding, unbelievable. I mean, you know, it's amazing what a human being can do, you know, know when they learned, get into something. But what happens is the younger generation picks up whatever technology it is, and the brain gets really good at it, and you pick, can pick it up later, but you're not quite as agile, not quite as maybe obsessive. It 
+0  
+00:56:37
+Fatigues me. I will point this out, that doing so doing anything on my phone feels fatiguing in a way that reading a a paper book or even just writing on a laptop or a desktop computer is fundamentally different. I can do that for many hours. If I'm on Social Media for more than a few minutes, I can literally feel the energy draining out of my body. Interesting. I, I would, I could do sprints or deadlifts for hours and not feel the kind of fatigue that I feel from doing Social Media. 
+2  
+00:57:06
+So, you know, this is fascinating. I, I like to know what's going on in your brain. Why, why is it that? And, and also, I'd like to know from younger people whether they have the same, I think not. I think, my guess is that they don't feel fatigued because they got into this early enough. And this is actually a very, very, I I think that it has a lot to do with the foundation you put into your brain. In other words, things that you, that you get, you learn when you're really young, are foundational and they make things easier, some things easier 
+0  
+00:57:42
+Later on. Yeah. I spent a lot of time in my room as a kid, either playing with Legos or action figures, or building fish tanks or reading about fish. I would, I tended to read about things and then do a lot of procedural based activities. You know, I would read skateboard magazines and skateboard. I, I was never one to really just watch a sport and not play it so that, you know, bridging across these things. So Social Media, to me feels like an energy sink. But of course, I love the opportunity to be able to teach to people and learn from people at such scale, but at an energetic level, I, I feel like I don't have a foundation for it. It's like I'm trying to yes. Like, yes, like Jerry rig my cognition into doing something that it wasn't designed to do. 
+2  
+00:58:23
+Well. Well, there you go. And it's because you don't have the foundation. You didn't do it when you were younger. And now you have to sort of use the, the cognitive powers to do a lot of what was being done. Now in a younger person, procedurally, 
+LMNT (Ad) drinklmnt.com/huberman 
+00:58:37
+I'd like to take a quick break and thank one of our Sponsors element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct ratios, but no sugar. We should all know that proper hydration is critical for optimal brain and body function. In fact, even a slight degree of dehydration can diminish your cognitive and physical performance to a considerable degree. It's also important that you're not just hydrated, but that you get adequate amounts of electrolytes in the right ratios. Drinking a packet of element dissolved in water makes it very easy to ensure that you're getting adequate amounts of hydration and electrolytes. To make sure that I'm getting proper amounts of both, I dissolve one packet of element in about 16 to 32 ounces of water when I wake up in the morning, and I drink that basically first thing in the morning, I'll also drink a packet of element dissolved in water, drink any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. There are a bunch of different great tasting flavors of element. I like the watermelon, I like the raspberry, I like the citrus, basically. I like all of them. If you'd like to try Element, you can go to drink element.com/huberman to claim an element sample pack with the purchase of any element drink mix. Again, that's drink element spelled LMNT, so it's drink element.com/huberman to claim a free sample pack. 
+Joovv (Ad) joovv.com/huberman 
+00:59:53
+Today's episode is also brought to us by Joovv. Joovv makes medical grade red light therapy devices. Now, if there's one thing that I've consistently emphasized on this podcast is the incredible impact that light can have on our biology. Now, in addition to sunlight, red light and near infrared light have been shown to have positive effects on improving numerous aspects of cellular and organ health, including faster muscle recovery, improve skin health and wound healing, improvements in acne, reduced pain and inflammation, improved Mitochondrial Function, and even improving vision itself. Now, what sets Joovv Lights apart and why they're my preferred red light therapy devices is that they use clinically proven wavelengths, meaning they use specific wavelengths of red light and near infrared light in combination to trigger the optimal cellular adaptations. Personally, I use the Joovv whole body panel about three to four times a week, and I use the Joovv handheld light both at home and when I travel. If you'd like to try Joovv, you can go to Joovv spelled JOOV v.com/huberman. Joovv is offering Black Friday discounts of up to $1,300 now through December 2nd, 2024. Again, that's Joovv, JOO vv.com/huberman to get up to $1,300 off select Joovv products. 
+2  
+01:01:06
+I'm gonna tell you something, which is gonna help all of your listeners, my book chat, GDP and the future of ai. I went through and I looked at other people's experiences with Chat G dp. I just wanted to know what, what people were thinking and what, and I came across, it was an article on, I think it was the New York Times of a technical writer who decided she would spend one month using it to help her write things, her articles. And she said that when she started out, you know, at the end of the day, she was drained, completely drained, and it was like, you know, working on a machine, you know, like a tractor or something, you know, struggling, struggling, struggling to get it to work. 
+2  
+01:01:50
+And then she started said, well, wait a second. You know, what if I treated like a human being? What if I'm polite instead of, you know, being curt, she said, suddenly I started getting better answers by, by being polite and, you know, back and forth away with a human, you know? And so 
+0  
+01:02:15
+Saying, could you please give me information about So andSo 
+2  
+01:02:18
+Yeah, please. I'm really having trouble. And oh, you know, that answer you gave me was fabulous, is exactly what I was looking for. And, you know, and now I need you to go on to the next part and help me with that too. In other words, the way you talk to a human, right, if an assistant that, 
+0  
+01:02:30
+Yeah. Or is it that she was talking to the AI to chat GPT, it sounds like in this case, in the way that her brain was familiar with asking questions to a human. Yes. In other words, can, so is the AI learning her and therefore giving her the sorts of answers that are more facile for her to Okay, to integrate with? 
+2  
+01:02:50
+I, I think it's both. I, well, the, the first of all, the chat GDP is mirroring your, the way you treat it, it will mirror that back. You, you treat it like a machine, it will treat you like a machine. Okay? Because that's, that's what it's good at. But here's the surprise, surprise is she said, once I, once I started treating it like a human, at the end of the day, I wasn't fatigued anymore. Why? Well, it turns out that all your life, you in, you, you interact with humans in a certain way, and your brain is wired to do that, and it doesn't take any effort. And so by treating the chat, GDP as if it were a human, you're taking advantage of all the brain circuits in your brain. 
+0  
+01:03:35
+This is incredible. And I'll tell you why, because I think many people, not just me, but many people really enjoy Social Media, learn from it. I mean, yesterday I learned a few things that I thought were just fascinating about how we perceive our own identity according to whether or not we're filtering it through the responses of others, or whether or not we take a couple minutes and really just sit and think about how we actually feel about ourselves. Very interesting ideas about locusts, of, of self-perception and things like that. I also looked at a really cool video of a baby raccoon popping bubbles while standing on its hind limbs. And that was really cool. And Social Media could provide me both those things within the series of minutes. And I was thinking to myself, this is crazy, right? The raccoon is kind of trivial, but it, it delighted me. 
+0  
+01:04:17
+And that's not trivial. There you go. Yes. So, but here's the question. Could it be that one of the detrimental aspects of Social Media is that if we're complimenting one another, or if we are giving hearts, or we're giving thumbs downs, or we're in an argument with somebody, or we're doing a clap back, or they're clapping back on us as it, or dunking as it's called on, on x, on that, it isn't necessarily the way that we learned to argue. It's not necessarily the way that we learn to engage in healthy dispute. And so as a consequence, it feels like, and this is my experience, that certain online interactions feel really good and others feel like they kind of great on me. 
+0  
+01:05:01
+Like, because there's almost like an action step that isn't allowed. Like you can't fully explain yourself or understand the other person, right? And I am somebody who, you know, believes in the, in the power of real face-to-face dialogue, or at least on the phone dialogue, right? Right. And I feel the same way about text messaging. I hate text messaging. When text messaging first came out, I remember thinking I was not a kid that passed notes in class. This feels like passing notes in class. In fact, this whole text messaging thing is beneath me. That's how I felt. And over the years, of course, I became a text messager, and it's very useful for certain things be there in five minutes, running a few minutes late. In my case, that's a common one. But I think this notion of what grates on us, and as it relates to whether or not it matches our, our childhood developed template of how our brain works is really key. 
+0  
+01:05:52
+Because it touches on something that I definitely want to talk about today that I know you've worked on quite a bit, which is this concept of energy. What we're talking about here is energy, not woo biology, woo science, wellness energy. We're talking about, we only have a finite amount of energy. And years ago, the great Ben Baris sadly passed away, our former colleague and my postdoc advisor came to me one day in the hallway, and he stopped me and he said, he called me Andy, like you do. And he said, Andy, how come we get so so rundown of energy as we get older? Why are we more, why am I more tired today than I was 10 years ago? I was like, I don't know, how are you sleeping? He was like, I'm sleeping fine. 
+0  
+01:06:32
+Ben never slept much in the first place, but he had a ton of energy. And I thought to myself, I don't know, like, what is this energy thing that we're talking about? I wanna make sure that we close the hatch on, on this notion of a, a template neural system that then you either find experiences invigorating or depleting. I want, I wanna make sure we close the hatch on that, but I wanna make sure that we relate it at some point to this idea of, of energy. And why is it that with each passing year of our life, we, we seem to have less of it. 
+2  
+01:07:02
+You know, you asked these great questions and I wish that I had great answers. Well, so 
+0  
+01:07:06
+Far you, so far you really do have great answers. They're certainly novel to me in the sense that I've not heard answers of this sort. Ah, okay. So there's a tremendous amount of learning for me today, and I know for the audience. Okay, well, so, but let's say you're somebody is 20 years old versus 50 years old, right? Right, right. Versus what should they do? I mean, we need to integrate with the modern world. We also need to relate across generations. 
+2  
+01:07:28
+Oh, yeah. No, this is true. This is true. People 
+0  
+01:07:30
+Aren't retiring as much, they're living longer. Birth rates are down, but we have to get all get along, as they say. 
+2  
+01:07:36
+So, you know, it, it is interesting, and I think it's true that we all, as we get older, have have less of the, you know, the Vigor Vigor, if I could use this somewhat different word from energy, we'll come back to that. But I think there are some who manage to keep an active life. Here's something that again, in, in our mooc, we really emphasize. 
+0  
+01:07:59
+Could you explain a mooc? I think most people won't know what a MOOC is, just for their sake. Okay. 
+2  
+01:08:03
+This is, they've been around for, about, actually started at Stanford, Andrew Ang and Daphna Kohler. So they have a company called Coursera. And what what happens is that you get professors, and in fact, anybody who has knowledge or you know, professional expertise to give lectures that are available to anybody in the world who have access to the internet, and, and you know, it, it could, there's like probably tens of thousands now. Any, any specialty history, science, music, you know, you name it there, there's somebody who's done, you know, who's an expert on that and wants to tell you because they're excited about what they're doing. Okay. So, so you know what, what what we wanted to do was to help people with learning. 
+2  
+01:08:50
+And so part of the problem is that it gets more difficult, it takes more effort as, as you get older, 
+0  
+01:08:56
+It depletes your Vigor more. If we're gonna stay with this language of energy and Vigor 
+2  
+01:09:00
+Yeah, yeah, that's right. So let's actually use the word energy. As you know, in the cell, there is a physical power plant called the Mitochondria, which is supplying us with a TP, which is the coin of the realm for the cell to be able to operate all of its machinery, right? So, and so one of the things that happens when, when you get older is that your mitochondrial rundown 
+0  
+01:09:26
+Yeah, fewer of them. And they're less efficient. They're, 
+2  
+01:09:28
+They're, they, that's right. They're less efficient. And, and actually drugs can do that to you too. They can, they can harm Mitochondria 
+0  
+01:09:35
+Or recreational drugs. 
+2  
+01:09:36
+No, the drugs you take for illness, I'm not sure about recreational drugs, but I know, I know it's a case that there are a lot of drugs that people take 'cause they have to, but, but, but the other thing, and, and this is something this that's the bad news. Here's the good news. The good news is that you can replenish your energy by exercise. That exercise is the best drug you could ever take. It's the cheapest drug you could ever take that can help every organ in your body. It, it helps obviously your heart, it helps your brain. 
+2  
+01:10:16
+It, it, it rejuvenates your brain. It helps your immune system. Every single organ system in the body benefits from a regular exercise. I run on the beach every day at the Salk Institute. I can, I, and I also at the, it's on a Mesa 340 foot above the, the, so I go down every day and then I, I climb up the cliff. 
+0  
+01:10:38
+Yeah, those steps down to Blacks Beach are, are, they're a good workout. 
+2  
+01:10:41
+They are. They are. They. And so this is something, this is something that has kept me active, and it's, and I, I do hiking. I went hiking in the Alps, this in last fall, so this is in September. So this, this is, I think something that people really ought to realize is that, you know, it's like putting away, you know, reserves of energy for, you know, when you get older, the, the more you put away, the better off you are. Here's something else, okay? Now this is jumping now to Alzheimer's. So a study that was done in China many, many years ago, when I first came to La Jolla, San Diego, I heard this from the, the, it was the head of the Alzheimer's program. 
+2  
+01:11:26
+He had done a study in China on onset, and he, he, they, they went and they had three populations. They had pe peasants who had almost no education. Then they had another group that had high school education, and then they were people who were, you know, advanced education. So it turns out that the onset of Alzheimer's was earlier for the people who had no education. And it was the latest for the people who had the most education. Now this is interesting, isn't it? Because it's, it's, and presumably the genes aren't that different, right? I mean, they're all Chinese. So one possibility, and, and obviously we don't really know why, but one possibility is that the more you exercise your brain with education, the more reserve you have later in life. 
+0  
+01:12:17
+I, I believe in the notion, and I don't have a better word for it, maybe you do or phrase for it, is of kinda a cognitive velocity. You know, I sometimes will play with this. I'll, I'll read slowly or I'll see where my default pace of reading is at a given time of day. And then I'll intentionally try and read a little bit faster while also trying to retain the knowledge I'm reading, right? Right. So I'm not just reading the words. I'm, I'm trying to absorb the information and you can feel the energetic demand of that. Oh, yes. And then, and then I'll play with it. I'll kind of back off a little bit and then I'll go forward and I try and find the sweet spot where I'm not reading at the pace that is reflexive, but just a little bit quicker while also trying to retain the information. 
+0  
+01:13:01
+And I learned this when I had a lot of catching up to do at one phase of my educational career. Fortunately, it was pretty early, and I was able to catch up on most things. You know, occasionally things slip through and I have to go back and learn how to learn, you know, and if I get anything wrong on the internet, they sure as heck point it out. And then we go back and learn. And guess what? I'd never forget that because Punishment Punishment social Punishment is a great signal. Yes. So thank you all for keeping me learning. But I picked that up from my experience of trying to get good at things like skateboarding or soccer when I was younger. There's a certain thing that happens when skateboarding, that was my sport growing up, where it's actually easier to learn something going faster. 
+0  
+01:13:47
+You know, most kids try and learn how to ollie and kickflip standing in the, in the living room on the carpet. That's the worst way to learn how to do it. It's all easier, going a bit faster than you're comfortable. It's also the case that if you're not paying attention, you can get hurt. It's also the case that if you pay too much cognitive attention, you can't perform the motor movements, right? So there's this sweet spot that eventually I was able to translate into an understanding of when I sit down to read a paper or a news article, or even listen to a podcast, there's a pace of the person's voice. And then I'll adjust the, the rate of the audio where I have to engage cognitively. And I know I'm in a mode of retaining the information and learning, whereas if I just go with my reflexive pace, it's rare that I'm in that perfect zone. 
+0  
+01:14:33
+So I, I point this out because perhaps it will be useful to people, I don't know if it's incorporated into your Learning How to Learn course, but I do think that there is something which I call kind of Cognitive Velocity, which is ideal for learning versus kind leisurely scrolling. And this is why I think that Social Media is detrimental. I think that we right train our brain basically to be slow passive and multicontext cycling through. And unless something is very high salience, it kind of makes us kind of fat and lazy. Forgive the language, but I'm gonna be blunt here, fat and lazy cognitively, unless we make it a point to also engage learning, right? And my guess is it's tapping into this mitochondrial system, 
+2  
+01:15:16
+Very likely. That's one part of it, by the way, you know, the, the way that you've adjusted the speed is very interesting because it, it turns out that stress, you know, everybody thinks, oh, stress is bad. But no, it turns out stress that is transient, you know, that is only for a limited amount of time that you control is good for you. It's good for your brain, it's good for your body. I run intervals on the beach just the way that you do cognitive intervals when you're reading. In other words, I run, I run like hell for about 10 seconds, and then I, you know, I, I go to a jog and I run like hell for another 10 seconds. And it, it's pushing your body into, into that extra gear that helps the muscles, the muscles need to know that this is what they've gotta put out. 
+2  
+01:16:03
+And that's where you gain, you know, muscle mass, not, not from just doing the same running pace every day. 
+0  
+01:16:11
+Well, your intellectual and physical Vigor is undeniable. I've known you a long time. You, you've always had a slight forward center of mass in your intellect. And even the speed at which you walk, Terry, dare I say, okay, you're for a Californian, you're a quick walker, okay? Yeah. So that's a compliment. By the way, east coasters know what I'm talking about. And Californians would be like, you know, why not slow down? The reason to not slow down too much for too long is that these mitochondrial systems, the energy of the brain and body, as you point out, are very linked. And I do think that below a certain threshold, it makes it very hard to come back, just like below a certain threshold is hard to exercise without getting very depleted or even injured. 
+0  
+01:16:56
+That, right? We need to maintain this. So perhaps now would be a good time to close the hatch on this issue of how to teach young people. Everyone should take this learning to learn course as a free resource. Amazing. As it relates to ai. Do you think that young people and older people, now, I'm 49, so I put myself in the older bracket should be learning how to use ai. 
+2  
+01:17:26
+They are already learning how to use ai. And again, it's just like new technology comes along. Who picks it up first? It's the younger people, and it's, it's astonishing. You know, they, they're using it a lot more than I am. You know, I use it almost every day. But I know a lot of students who basically, and by the way, it's a, it's like any other tool. It's a tool that, that you, you need how to, to know how to use it. 
+0  
+01:17:54
+Where do you suggest people start? So I have started using Claude ai. Okay? This was suggested to me by somebody expert in AI as an alternative to chat. GPTI don't have anything against chat GPT, but I'll tell you, I really like the aesthetic of Claude ai. It's a bit of a softer, beige aesthetic. It feels kind of apple like, I like the Apple brand, and it gives me answers. Maybe it's the font, maybe it's the feel. Maybe this goes back to the example you used earlier where I like Claude AI and I'm a big fan of it, and they don't pay me to say this. I have, I've never met them. I have no relationship to them, except that it gives me answers in a bullet pointed format that feels very aesthetically easy to transfer that information into my brain or onto a page, right? 
+0  
+01:18:43
+So I like Claude AI use chat GPT. How should people start to explore AI for sake of getting smarter learning knowledge, just for the sake of knowledge, having fun with it. What, what's the best way to do that? 
+2  
+01:18:56
+Well, I think exactly what you did, which is of, there's, there's now dozens and dozens of different chat bots out there. And, and different people will feel comfortable with one or the other chat. GDP is the first. So that's why it's kind of taken over a lot of the cognitive space, right? It's, it's become like Kleenex, right? That, that word, that was why I used it as the first word in my blue book, because it's iconic. But, but, but some of them, I have to say that for example, there are some that are really much better math than others. There are, such as Google's Gemini recently did some fine tuning with what, what's called, you know, chain of of reasoning. 
+2  
+01:19:44
+Another reason when you reason, you go through a sequence of steps and when you solve a math problem, you go through a sequence of a partial of steps of doing, you know, fitting first, finding out what's missing, and then adding that. And it went from 20% correct to 80 right on, on those problems. 
+0  
+01:20:04
+And as people hear that, they probably think, well, that means 20% wrong still. But could you imagine any human or panel of humans behind a wall where if you asked it a question and then another question and another question, that it would give you back better than 80% accurate information in a matter of seconds. So 
+2  
+01:20:23
+I think we are being perhaps a little bit unfair to compare these large language models to the best humans rather than the average human, right? As you said, most people couldn't pass the LSAT, the loss test to get into law school or mcat the test to get into medical school. And Jet GPT has, 
+0  
+01:20:51
+Is there a world now where we take the existing AI LLMs, these computers basically, that can learn like a collection of human brains and send that somehow into the future, right? Give them an imagined future. Okay? Could we give them outcome A and outcome B and let them forage into future states that we are not yet able to get to, and then harness that knowledge and explore the two different outcomes? I think that's perhaps the, the better question in some sense, because we can't travel back in time, but we can perhaps travel into the future with ai, if you provide it different scenarios and you say, unlike a panel of people, panel of experts, medical experts, or space travel experts, or sea travel experts, you can't say, Hey, you know what? 
+0  
+01:21:53
+Don't sleep tonight. You're just gonna work for the next 48 hours. In fact, you're gonna work for the next three weeks or three months, and you know what, you're not gonna do anything else. You're not gonna pay attention to your health, you're not gonna do anything else. But you can take a Large, Language, Model, and you can say, just forage for knowledge under the following different scenarios. And then have that fleet of large language models come back and give us the information like, I don't know tomorrow. 
+2  
+01:22:22
+Okay. So I've lived through this myself back in the 1980s. I was just starting my career and I was one of the pioneers in developing learning algorithms for neural network models. Jeff Hinton and I collaborated together on something called the B Machine, and he actually won an Nobel Prize for this recently. Yeah. 
+0  
+01:22:38
+Just this year. Yeah, 
+2  
+01:22:39
+He's wonderful. He's one of my best friends, you know, brilliant. And, and he, he did that well, deserved it for not just the BSO machine, but all the work he's done since then on machine learning and then back propagation and so forth. But back then we, Jeff and I had this view of the future. AI was dominated by symbol processing rules, logic, right? Writing computer programs for every problem. You need a different computer program. And it was very, you know, human resource intensive to write programs so that it was very, very slow going. And they never actually got there. They never wrote a program for vision, for example, even though the computer vision, computer computer really worked hard for a long time. 
+2  
+01:23:25
+But, you know, we had this view of the future, we had this view that the, the nature has solved these problems and is existence proof that you can solve the vision problem. Look, every animal can see even insects, right? Come on, we'll figure out, let's figure out how they did it. Maybe we can help by following up when on nature. We can actually, again, going back to algorithms I was telling you. And so in the case of the brain, what makes it different from a digital computer? Digital computers basically can run any program, but a fly brain, for example, only runs the program that it's a special purpose. Hardware allows it to run. 
+0  
+01:24:00
+Not much neuroplasticity. 
+2  
+01:24:01
+There's enough there, just enough in, you know, habituation and so forth so that it can survive. And this is 
+0  
+01:24:08
+Survive 24 hours. I'm not trying to be disparaging to the fly biologist, but when I think of neuroplasticity, I think of the magnificent neuroplasticity agree, the human brain to customize to a world of experience. I, I agree. But you know, when I think about a fly, I think about a really cool set of neural circuits that, that work really well to avoid getting swatted to eating and to reproducing, and not a whole lot else. They don't really build technology. They might have interesting relationships, but who knows? Who cares? It just sort of like, it's not that it doesn't matter, it's just a question of the lack of plasticity makes them kind of a meh species. 
+2  
+01:24:47
+Okay. I can see I've press your button here. 
+0  
+01:24:49
+No, no, no, no. I love fly biology. They taught us about algorithms for direction selectivity and the visual system. Oh, no, no. I, I love the drosophila biology. I just think that the lack of neuroplasticity, okay, it, it reveals a certain, like, key limitation. And the, the reason we're the curators of the earth is 'cause we have so much plasticity. 
+2  
+01:25:06
+Of course, of course. But you have to take, you know, one step at a time. Nature first has to be able to create creatures that can survive. And then, you know, their brains bigger as the environment gets more complex. And, you know, here we are. But, but the, the, the, the, the key is that it turns out that certain algorithms in the fly brain are present in our brain, right? Like conditioning, classical conditioning, you can classical condition a fly in terms of, you know, training it to, to, when, when you give a Reward, it will produce the same action, right? This is like conditioned behavior. And that algorithm that I told you about that is in your Value Function, right? 
+2  
+01:25:47
+Temporal difference learning. That algorithm is in the fly brain. It's in your brain. So we, we can learn about learning from, from many species. 
+0  
+01:25:55
+Okay? I, I was just having a little fun ping at the fly biologist. I actually think Drosophila has done a, a great deal as has honeybee biology. For instance, if you, if you give caffeine to bees on particular flowers, they'll actually try and pollinate those flowers more. Oh yeah. Because they actually like the feeling of, of being caffe. There's a bad pun about a buzz here, but I'm not gonna make that pun 'cause everyone's done it before, right? No, I, i, I fully absorb and agree with the, the value of studying more simpler organisms to find the algorithms, 
+2  
+01:26:27
+Right? That's where we are right now. But now it's a good, just go into the future. Now I, I'm telling the story about what we already were, we were predicting the future. We were saying this is an alternative to traditional ai. We were not taken seriously, everybody was experts said, no, no, right programs, right programs. They were getting all the resources, the grants, the jobs, and we were just like the little furry mammals under the feet of these dinosaurs, right? In retrospect, 
+0  
+01:26:56
+I the analogy, but, but here's the point. But the dinosaurs died off. 
+2  
+01:27:00
+This is, this is, but the point I'm making is that it's possible for our brain to make these extrapolations into the future. Why not? AI versions of brains. Why not? I, I, I think it's your idea is a great one. 
+0  
+01:27:13
+Yeah. I, I mean, the reason I'm excited about AI and increasingly so across the course of this conversation is because there are very few opportunities to forage information at such large scale and around the circadian clock. I mean, if there's one thing that we are truly a slave to as humans is the circadian biology, right? You gotta sleep sooner or later. And even if you don't, your cognition really waxes and wanes across the circadian cycle. And if you don't, you're gonna die early. We know this, computers can work, work, work, sure, you gotta power them. 
+0  
+01:27:53
+There's the cooling thing. There are a bunch of things related to that, but that's, that's tractable. So computers can work, work, work. And the idea that they can provide a portal into the future and that they can just bring it back. So we can take a look. See, I'm not saying we have to implement their, their advice, but to be able to send a panel of diverse, computationally diverse, experientially diverse AI experts into the future and bring us back a panel of potential routes to take, to me is so exciting. Maybe a good example would be like treatments for Schizophrenia. 
+0  
+01:28:37
+This is an area that I, I wanna make sure that we talk about. You know, I grew up learning as a neuroscience student that Schizophrenia was somehow a, a disruption of the dopamine system. Because if you give neuroleptic drugs that block dopamine receptors, that you get some improvement in the, in the motor symptoms and some of the hallucinations, et cetera, you now also have people who say, no, that's not really the basis of Schizophrenia. I'd love your thoughts. And you have incredible work from people like Chris Palmer at Harvard, and we even have a department at Stanford now focusing, we even have people at Stanford now focusing on what Chris really founded as a field, which is metabolic psychiatry. The idea that, who could imagine, I'm being sarcastic here. What you eat impacts your Mitochondria. 
+0  
+01:29:19
+How you exercise impacts your Mitochondria Mitochondria impacts brain function and wo and behold, metabolic health of the brain and body impacts Schizophrenia symptoms. And he's looked at ways that people can use ketogenic diet, maybe not to cure, but to treat, and in some cases maybe even cure Schizophrenia. So here we are at this place where we still don't have a quote unquote cure for Schizophrenia, but you could send LLMs into the future and start to forage the most likely all, all of the data in those fields probably could do that in an hour. Plus come up with a, a bunch of hypothesized different positive and negative result clinical trials that don't even exist yet. 
+0  
+01:30:01
+10,000 subjects in Scandinavia who, you know, go on ketogenic diet, who have a certain level of susceptibility to Schizophrenia based on what we know from twin studies. Things that never, ever, ever would be possible to do in an afternoon, maybe even in a year. There isn't funding, there isn't. And boom, get the answers back and let them present us those answers. And then you say, well, it's, it's artificial, but so are, are human brains coming up with these experiments, right? So to me, I'm starting to realize that it's not that we have to implement everything that AI tells us or offers us, it 
+2  
+01:30:36
+Just gives us, 
+0  
+01:30:37
+But it sure as hell gives us a great window into what might be happening or is likely to happen 
+2  
+01:30:43
+Specifically for Schizophrenia. I'm pretty sure that if we had these large language models 20 years ago, we would've known back then that Ketamine would've been a really good drug to try to help these people. 
+0  
+01:30:55
+Tell us about the relationship between Ketamine and Schizophrenia. Okay. Because I think a lot of people, and maybe you could define Schizophrenia, even though most people think about people hearing voices and psychosis, like there's, there's a bit more to it that maybe we just, you know, con bring out 
+2  
+01:31:10
+The contour. Okay? So one of the things now that we know, see the problem is that if you look at the endpoint, that doesn't tell you what started the problem. It started during early in development. You know, Schizophrenia is something that is, appears when, you know, late adolescence, early adulthood, but it actually is already a problem, genetic problem from the get go. 
+0  
+01:31:35
+So what is the concordance in identical twins? Meaning if you have one identical twin, if you have, if you have identical twins in the womb, right? And one is destined to be right, full blown schizophrenic, okay, what's the probability the other, 
+2  
+01:31:45
+So, so here's, here's, here's the experiment, okay? This is very, very, been replicated many, many times in mice, I should say. Oh, no, actually it'd be, it was, okay, lemme start with a human. Okay. So Ketamine is, was for a long time, and it still is a party drug, special K, 
+0  
+01:32:04
+I've never taken it, but this is what I 
+2  
+01:32:06
+Hear. I haven't, I don't 
+0  
+01:32:07
+Know, it's a socio anesthetic, 
+2  
+01:32:08
+Right? But I'll tell you what happens, because I've, I've talked to these, you know, people who've done this. You take Ketamine sub anesthetic, by the way, it's an anesthetic, it's given to children. It's a pretty good anesthetic and it's also used veterinary medicine. But in any case, you give it, you give it to, you take, you know, the young adults, here's what they experience, they experience out of body experience. You know, they, they, they have a wonderful feeling of energy and they're very, you know, it's a, it's a high, but it's a very unusual high. Now, you know, if, if, if they just go and have one experience, but if they have two, like they, they, they party two days in a row. 
+2  
+01:32:52
+A lot of them come into the emergency room. And here's what the, what the symptoms are, full-blown psychosis, full blown. We're talking about, you know, indistinguishable from a schizophrenic break. So 
+0  
+01:33:08
+Auditory hallucinations. 
+2  
+01:33:09
+Yeah, auditory hallucinations, you know, paranoia. Very, very advanced. You know, you'd say that, my god, this this person here is, is really, is is gone, you know, in, in has become a schizophrenic. And this is really, like you say, the symptoms are the same. However, if you isolate them for a couple days, they'll come back, right? So, so it means that Schizophrenia can induce, I'm sorry, Ketamine can induce a form of Schizophrenia psychosis temporarily, not permanently, fortunately. Okay, so what is it? Attack? Okay. And there's another literature on this. It turns out that it binds to a, a form of receptor or glutamate receptor called NMDA receptors, which are very important by way for learning and memory. 
+2  
+01:33:56
+But we know the target and we also know what the, the, the acute outcome is that it, it reduces the strength of the inhibitory circuit. The, the, the inter neurons that use inhibitory transmitters get the, the, the enzyme that creates the inhibitory transmitter is downregulated. And what does that do? It means that there's more excitation. And what does that mean? When there's more excitation, it means that there's more activity in the cortex and there's actually much more Vigor. And, and you do, you, you, you start becoming crazy, right? If it's too much activity. So this is interesting. So this is, this is telling us, I think that we should be thinking about, and, and now there's a whole field now in psychiatry that has to do with, you know, the glutamate hypothesis for the, the, the, the first where, where the actual imbalance first occurs. 
+2  
+01:34:52
+It's an imbalance between the excitatory inhibitory systems that are in the cortex are keep you in balance. 
+0  
+01:34:58
+And NMDA and methyl desparate receptors are glutamate receptors. Yes, they are. They're one one class. 
+2  
+01:35:04
+That's one class. That's right. Okay. So now here is hypothesis for why Ketamine might be good for depression. People are taking it now who are depressed, right? So here you have a drug that causes over excitation, and here you have a person who's under exci depression is associated with lower excitatory activity in some parts of the cortex. Well, if you titrate it, you can come back into balance, right? So you, what you do is you fight depression with Schizophrenia a touch of Schizophrenia. Now you, you know, you have to keep giving, I think once every three weeks they have to have a, a, you know, a new dose of Ketamine. 
+2  
+01:35:50
+But it's helped an enormous number of people with very, very severe, you know, clinical depression. So, so as we learn more about the mechanisms underlying some of these disorders, the better we are gonna be at extrapolating and, and coming up with some solutions, at least to prevent if it getting worse. By the way, I'm pretty sure that the large language models could have figured this out, you know, long ago. So 
+0  
+01:36:15
+In an attempt to understand how we might be able to leverage these large language models, now, how would we have used these large language models long ago? Let's say you had 20, 24 AI technology in 19, let's have fun here. 1998, the year that I started graduate school, right? At that time it was like the dopamine hypothesis is Schizophrenia was in every textbook. There was a little bit about glutamate perhaps, but you know, it was all about dopamine. So how would the large language models have discovered this Ketamine was known as a drug. Ketamine, by the way, is very similar to PCP. 
+0  
+01:36:56
+Yes. ine, which also binds the an MDA receptor. Right? So 
+2  
+01:37:02
+How would, which is also a part of drug, 
+0  
+01:37:04
+Which is also, yeah. Not one I recommend nor Ketamine, frankly, I don't, I don't recommend any recreational drugs, but I'm not a recreational drug guy. But what would those large language models do if they, so you've got 2024 technology placed into 1998, they're forging for existing knowledge, but then are they able to make predictions like, Hey, this stuff is gonna turn out to be wrong, or, Hey, this stuff. 
+2  
+01:37:30
+Okay, okay. You know, you know, this is all very, very speculative and really we can begin actually to see this happening now. So I have a colleague at the Salk Institute, rusty Gage v very distinguished neuroscientist. And he was, he was one of the, he, he discovered that there are new neurons being born in the hippocampus, right? Which is something in adults, which is something that in a textbook says that doesn't happen, right? So 
+0  
+01:38:01
+Yeah, that was around 1998 that Rusty 
+2  
+01:38:03
+Did that. Yeah. Right. That's right. And I actually have a paper with him where, where, where we tested LTP long-term potentiation of, for actually the effects of exercise. A neurogenesis 
+0  
+01:38:15
+Exercise increases neurogenesis. Yeah. 
+2  
+01:38:17
+It it, it increases the, the, the, the, the cells. Yeah. It increases neurogenesis and also this, the, the cells that are, are active are become part of the circuit. More cells become integrated. 
+0  
+01:38:28
+And this is true in humans as well, right? Yeah. 
+2  
+01:38:30
+We, and there it was some cancer drug that was given that, you know, that they showed that it was, there are new cells that were able, that they were able to later in postmortem to actually see that they were born in the adult. Okay. So here we are, okay. In 1998. And the question is, can you, can you jump, can you jump into the future? Okay. So Rusty, we were had, you know, had the happened to talk about this issue about, you know, he's using these large language models now for his research. I said, oh, wow. How do you use it? 
+2  
+01:39:12
+And he said, we use it as a an Idea Pump. What? What do you mean Idea? Pump? Well, we, you know, we give it all of the experiments that we've done and, and we have it, you know, the, the literature, it's access to the literature and so forth. And we ask it for ideas for new experiments. 
+0  
+01:39:27
+Oh, I love it. I love it. I was on a plane where I sat next to a guy that worked at, works at Google, and he, he's one of the main people there in terms of voice to, to text and text to voice software. And he showed me something, I'll provide a link to it. 'cause it's another one of these open resource things. And I'm not super techie. I'm not like the, I don't get an F in technology. I don't get an a plus. I'm kind of in the middle. So I think I'm pretty representative of the average listener for this podcast, presumably. And what he showed me is that you can take, you open up this website and you can take PDFs or you could take URLs. So websites, website addresses, and you just place them in the margin. 
+0  
+01:40:10
+You literally just drag and drop them there. And then you can ask questions and the AI will generate answers that are based on the content of whatever you put into this margin, those PDFs, those websites. And the cool thing is it references them so you know which one, which article it came from, right? And, and then you can start asking it more sophisticated questions like in the two examples of the effects of a drug, one being very strong and one being very weak. Which of these papers do you think is more rigorous Based on, you know, subject number, but also kind of the strength of the findings? 
+0  
+01:40:52
+You know, a pretty vague thing. Strength of findings is pretty vague, right? Anyone that argues those are weak findings or those aren't enough subjects, well, we know a hell of a lot about human memory from one patient. Hm. So strength of findings when people Yep. Is a subjective thing, right? You really have to be an expert in a field to understand strength of findings. And even then, and what's amazing is it starts giving back answers. Like, well, if you're concerned about number of subjects, this paper, but that's a pretty obvious one, which one had more subjects? But it can start critiquing these statistics that they used in these papers. Oh, wow. In very sophisticated ways, huh? And explain back to you why certain papers may not be interesting and others are more interesting. 
+0  
+01:41:36
+And it starts to weight the evidence. Oh my God. And then you say, well, with that weighted evidence, can you hypothesize what would happen if, and so I've done a little bit of this where it starts trying to predict the future. Wow. Based on, you know, 10 papers that you gave it five minutes ago. Amazing. I don't think any professor could do that, except in their very specific area of interest. And if they were already familiar with the papers, and it would take them many hours if not days, to read all those papers in detail, 
+2  
+01:42:06
+And they, they might not actually come up with the same answers. Right? Right. Yeah. So, so this is, so actually this is something that is happening in medicine, by the way, for, for doctors who are using AI as an assistant. This is, this is really interesting. So, and this is dermatology was a paper in nature, you know, skin lesions, there's several thou 2000 skin lesions. And some of them are, are, you know, cancerous and others are benign. And so any case they, they tested the expert doctors and then they tested an ai and, and they were do both doing about, you know, 90% right. 
+2  
+01:42:46
+However, if you let the doctor use the ai, it boosts the doctor to 98%, 
+0  
+01:42:52
+98% accuracy. Yes. 
+2  
+01:42:54
+And what's going on there? It's very interesting. So it turns out that although the, they got the same 90%, they had different expertise that the AI had access to more data. And so it could look at the lesions that were rare that the Dr. May never have seen. Okay? But the doctor has more in-depth knowledge of the most common ones that he's seen over and over again, and knows the subtleties and so forth. But, so putting them together, it makes so much sense that they're going to improve if they work together. And I think that now what you're saying is that using AI as a tool for discovery, it it with the, you know, the expert who's interpreting and, and, and looking at the arguments, the statistical arguments, and also looking at the paper and maybe in a new way, maybe that's the future of science. 
+2  
+01:43:47
+Maybe that's what's gonna happen. Everybody, everybody's worried about, oh, AI's gonna replace us. It's gonna be much better than we are. Everything. And, and humans are obsolete. Nothing can be further from the case. Our strengths and weaknesses are different, and we, by working together, it's going to strengthen, it's, you know, both, you know, what we do and what AI does, and, and it's, it's, it's gonna be partnership. It's not gonna be adversarial, it's gonna be a partnership. 
+0  
+01:44:16
+Would you say that's the case for things like understanding or discovering treatments for neurologic illness, for avoiding, you know, large scale catastrophes? Like can it predict macro movements? Let me give a an example Here in Los Angeles, there's occasionally an accident on the freeway. You have a lot of cameras over freeways nowadays. You have cameras in cars. You can imagine all of the data being sent in, in real time. And you could probably predict accidents pretty easily. I mean, these are just moving objects, right? 
+0  
+01:44:57
+At a specific rate, right? Who's driving haphazardly. Okay. Okay. But you could also potentially signal takeover of the brakes or the steering wheel of a car and prevent accidents. I mean, certain cars already do that, but could you essentially eliminate, well, let's do something even more important. Let's eliminate traffic. I don't know if you can do that, but, 'cause that's a funnel problem. But could you, could you predict physical events in the world into the future? Okay, 
+2  
+01:45:27
+This has already been done not for traffic, but for hurricanes. So you've, you know, as you know, the weather is extremely difficult to predict. And except here in California where it's always gonna be sunny, right? But now what they've done is to feed a lot of previous data from previous hurricanes and also simulations of hurricanes. You can simulate them in a com, in a supercomputer it takes days and weeks. So it is not very useful for actually accurately predicting where it's gonna hit Florida. But they, what they did was after training up the AI on all of this data, it was able to predict with much better accuracy exactly where in Florida it is gonna make landfall. 
+2  
+01:46:19
+And it it does that in on your laptop in 10 minutes. 
+0  
+01:46:25
+Incredible. So I, something just clicked for me, and it's probably obvious to you and to most people, but I, I think this is true. I think what I'm about to say is true. At the beginning of our conversation, we were talking about the acquisition of knowledge versus the implementation of knowledge. Just learning facts versus learning how to implement those facts in the form of physical action or cognitive action, right? Math problem is cognitive action, physical action. Okay? AI can do both knowledge acquisition, it can learn facts, long lists of facts and combinations of facts. But presumably it can also run a lot of problem sets and solve a lot of problem sets. 
+0  
+01:47:05
+I don't think, except with some crude still to me, examples of robotics that it's very good at action yet, but it will probably get there at some point. Robots are getting better, but they're not, they're not doing what we're doing yet. But it seems to me that as long as they can acquire knowledge and then solve different problem sets, different iterations of combinations of knowledge, that basically they are in a position to take any data about prior events or current events and make pretty darn good predictions about the future and run those back to us quickly enough and to themselves quickly enough that they could play out the different iterations. 
+0  
+01:47:51
+And so I'm thinking, you know, one of the problems that seems to have really vexed neuroscientists in the field of medicine and the general public has been like the, the increase in the at least diagnosis of autism. I've heard so many different hypotheses over the years. I think we're still pretty much in the fog on this one. It, it is a tough, could, could AI start to come up with new and, and potential solutions and, and treatments if they're necessary, but maybe get to the heart of this, this problem? It 
+2  
+01:48:22
+Might, and it, it depends on the data you have. It depends on the complexity of the disease, but it will happen. In other words, we will use those tools at the best we can. 'cause obviously this, if, if you could make any progress at all and, and jump into the future, wow, that would save lives. That would help so many people out there. I mean, I, I really think the promise here is so great that even though there are flaws and there are regulatory problems, we just, we really, really have to really push. And, and we have to do that in a way that is going to help people, you know, in terms of making their jobs better and, and helping them solve problems that otherwise they would've had difficulty with and so forth. 
+2  
+01:49:14
+And it's beginning to happen, but, you know, it's, these are early days. So we're at a stage right now with AI that is similar to what happened after the first flight of the Wright Brothers. You know, in other words, 
+0  
+01:49:30
+It's that significant. The, 
+2  
+01:49:31
+The, the, the achievement that the Wright brothers made was to get off the ground 10 feet and since power forward with a human being a hundred feet, right? That was it. That was the first flight. And it took an enormous amount of improvements. The, the most difficult thing that had to be solved was control. How do you control it? How do you make it go in the direction you want it to go? And shades of what's happening now in AI is that, you know, we are off the ground. We, we are not going very far yet, but who knows where it will take us into the future. 
+0  
+01:50:05
+Let's talk about Parkinson's disease, a depletion of dopamine neurons that leads to difficulty in smooth movement generation and also some cognitive and mood based dysfunction. Tell us about your work on Parkinson's and, and what, what did you learn? 
+2  
+01:50:26
+So as, as you point out, Parkinson's is first a degenerative disease. It's It's very interesting because the dopamine cells are a particular part of the brain, the brainstem, and, and they are the ones that are responsible for Procedural Learning. I told you before about temporal difference. It's dopamine cells. And it's a very powerful way for the, it's a global signal. It's called a neuromodulator because it modulates all the other signals taking place, you know, throughout the cortex. And also it's very important for learning sequences of actions, you know, that produce survival for survival. 
+2  
+01:51:13
+And, but the, the problem is that with certain environmental insults, you know, of especially, you know, toxins like pesticides, those neurons are very vulnerable. And when they die, you get all of the symptoms that you just described, that these, the people who have lost those cells actually before the treatment, you know, l-dopa, which is a dopamine precursor, they actually were, became comatose. Right. They didn't move, they were still alive, but they just didn't move at all. 
+2  
+01:51:55
+You know, they, they, they It's tragic. Yeah. Locked in, it's called. Yeah. It's tragic. Tragic. So when the, when the first trials of, of, of L-dopa were, were given to them, it was magical because suddenly they started talking again. So, I mean, this is amazing. Amazing. I'm 
+0  
+01:52:13
+Curious, when they started talking again, did they report that their brain state during the locked in phase Yes. Was slow velocity. Like, was it sort of like a dreamlike state or they felt like they were in a nap? Or were they in there like screaming to get out? Because their physical velocity obviously was zero. They're locked in after all. Right. And I've long wondered when coming back from a run or from waking up from a great night's sleep, when I shift into my, you know, waking state, whether or not physical velocity and Cognitive Velocity are 
+2  
+01:52:47
+Linked. Okay. Okay. That's a wonderful observation or a question. You, you know, I bet you know the answer. Okay, here's, here's something that is really amazing. It's, it was discovered interestingly, when, you know, they, they tend to move slowly, as you said, but to them cognitively, they, they think they're moving fast. Now it's not because they can't move fast, because you can say, well, can you move faster? Sure. And they move normal, right? But to them, they think they're moving at, you know, super loc. So it's 
+0  
+01:53:19
+A set point issue. So 
+2  
+01:53:20
+It's a set point issue. Yes. It's all about set points. That's what, what's really going on. And, and, and the set point gets further and further down. You know, that now, now they, they, without moving at all, they think they're moving. Right? I mean, this is what's going on, by the way. You can ask them, you know, what was it like, you know, we were talking to you and you didn't respond. Oh, I didn't feel like it, 
+0  
+01:53:40
+The brain confabulate an answer 
+2  
+01:53:42
+They have. Yeah. Well, they, they, they, that they confabulated it because they didn't have enough energy or they, they couldn't initiate, they couldn't initiate actions. That's one of the things that they have trouble with it, with movements, you know, starting a movement. Yeah. 
+0  
+01:53:56
+As you can tell, I'm, I'm fascinated by this notion of Cognitive Velocity. And again, there may be a better or more accurate or official language for, for it, but I feel like it, it encompasses so much of what we try to do when we learn. And the fact that during sleep you have these very vivid dreams during rapid eye movement sleep. So Cognitive Velocity is very fast time perception is different, right. Than in slow, slow wave sleep dreams. And I really think there's something to it as a, as a, at least one metric that relates to brain state. Yes. I've long thought that we know so much more about brain states during sleep than we do about wakeful brain states. Right, right. Like we talk about focus, motivated flow. 
+0  
+01:54:38
+I mean the, these are not scientific terms. I'm not, I'm not being disparaging of them. They're pretty much all we've got until we come up with something better. But like, we're biologists and neuroscientists and computational neuroscientists in your case and, and we're like trying to figure out like, like what brain state are we in right now? Our Cognitive Velocity is a, is a, you know, a, a certain value. But I think the more that people think about this, you know, I'll venture to say that the more that they think a little bit about their Cognitive Velocity at different times of day, right. Start to notice that there's a tends to be a few times of day for me. It tends to be early to late midmorning. And then again in the evening after a little bit of trough and energy, that boy, that hour and a half each, like, that's the time to get real work done. 
+0  
+01:55:25
+I do, 
+2  
+01:55:25
+I have the 
+0  
+01:55:26
+Same, I can, I can mentally sprint far at those times. Right. But there are other times of day when molasses, I don't care how much caffeine I drink, I don't care unless it's a stressful event that I need to meet. The demands of that stress. You, I just can't, I can't get to that faster pace while I'm also engaging. You can read faster, you can listen, but you, you're not using the information. You're not storing the information. That's right. What times a day for you are, are 
+2  
+01:55:54
+Yeah, I i I get most done in the morning and then you write later af after dinner is, is also di different though. I think in the morning I'm, I'm better at creative stuff and then I think that in the evening I'm better at actually just cranking it out, you know. 
+0  
+01:56:15
+Interesting. Given the relationship between body temperature and circadian rhythm. Oh, right. I would like to run an experiment that relates core body temperature to Cognitive Velocity. 
+2  
+01:56:26
+I, you know, I've actually noticed this is something that is just purely subjective, but the temperature at the salt inside the building is kept setting five. It's like, you know, it's rock solid. But in the afternoon I feel a little chilly. It's probably my, you know, internal Sure. You know, 
+0  
+01:56:49
+Tempera, body temperature source, 
+2  
+01:56:50
+Tempera come down, body tempera temperature. Yeah. It's probably going down. And that may correspond to the loss of energy, you know, the amount of the, the ability for the brain and everything else. By the way, you know, this is Q 10. This is a jargon every single enzyme in, in your, every cell can go at different rates depending on the temperature. Right. And so, yeah. So the body temperature's doing this and all the cells are doing this too. Right. So this is the, it's an explanation. I'm not sure if it's the right one, but 
+0  
+01:57:19
+Yeah, Craig Heller, my colleague at Stanford in the biology department has beautifully described how the enzymatic control over pyruvate, I believe it is controls muscular failure. That local muscular failure, you know, when people are like trying to move some resistance has everything to do with the temperature, the local temperature. Wow. That shuts down certain enzymatic processes that don't allow the muscles to contract the same way, you know, he knows the details and he covered them on this podcast, I'm forgetting the details. You start to go, wow, like these enzymes are so beautifully controlled by temperature. And of course his laboratory is focused on ways to bypass those temperature or to change temperature locally in order to bypass those limitations and, and have shown them again and again. 
+0  
+01:58:05
+It's, it's just incredible. Yeah. I don't, I, here we're speculating about what it would mean for Cognitive Velocity, but I think it's such a different world to think about the underlying biology as opposed to just thinking about like a drug. You know, you increase dopamine and norepinephrine and, and epinephrine, the, so-called catecholamines and you're gonna increase energy, focus and alertness, but you're gonna pay the price. You're gonna have a trough in energy focus and alertness. That's proportional to how much greater it was when you took the drug. Boy, 
+2  
+01:58:32
+Amphetamines are a good example. Boy, you know, FFF you, you're going a mile a minute when you're taking the drug. Of course, you know, you, it's, it's, it's from a stand that that's your impression. And the reality is you don't actually accomplish that much more, 
+0  
+01:58:49
+Have any LLMs. So AI been used to answer this really pressing question of what is going to be the consequence on cognition for these young brains that have been weaned while taking Ritalin, Adderall, Vyvanse and other stimulants. 'cause we have a, we have, you know, millions of, of kids that have been raised. 
+2  
+01:59:07
+I've done this experiment on our, our, you know, whole cadre, a whole generation. And you know, I, I really would like to know the answer. You're, you're, I, I wonder if anybody's studying it. That's really a great question. 'cause we, we gave them speed effectively, you know, the drug that it causes the brain to be activated. But, but by the way, but, but you know, the, the, the, you know, there's the consequence is that, you know, when it wears off, you have no energy. Right. Right. You, you just completely spent Yeah. 
+0  
+01:59:38
+That's, that's it. That's the pit. 
+2  
+01:59:40
+That's the pit. And so, and, and, but that's why you take more of it. You see that's the problem is it's, it's a spiral. 
+0  
+01:59:49
+I love how today you're making it so very clear how computation, how math and computers and AI now are really shaping the way that we think about these biological problems, which are also psychological problems, which are also daily challenges. I also love that we touched on Mitochondria and how to replenish Mitochondria. I wanna make sure that we talk about a couple of things that I know are in the back of people's minds, no pun intended here, which are consciousness and Free Will. Normally I don't like to talk about these things, not because they're sensitive, but because I find the discussions around them typically to be more philosophical than neurobiological, and they tend to be pretty circular. 
+0  
+02:00:31
+And so you get people like Kevin Mitchell, who's a real, I think he has a book about Free Will. He believes in Free Will. You've got people like Robert Polsky who wrote the book, determined he doesn't believe in Free Will. How do you feel about Free Will and is it even a discussion that we should be having? 
+2  
+02:00:49
+Well, if you go back 500 years, you know, to middle ages, the, the, the, the concept didn't exist, or at least not in the way we use it, because everybody, it was, it was the, the way that we, that humans felt about the, you know, the world and how it worked and, and, and its, its impact on them was that it's all fate. They have this concept of fate, which is that there's nothing you can, you can do that, that something is, is, is gonna happen to you because of the what's going on in the, the gods above or whatever it is. Right? You, you attribute it to the, to the physical forces around you that caused it, not not to your own Free, Will not that to something that you did that caused you to this to happen to you. 
+2  
+02:01:38
+Right. So, so I think that it, it it, these words that, by the way that we use Free, Will consciousness intelligence, understanding their weasel words, because you can't pin them down. There is no definition of consciousness that everybody agrees on. And it's tough. It's tough to solve a problem, a scientific problem if you don't have a definition that you can agree on. And, and, you know, there's this big controversy about whether these large language models understand language or not. Right. The way we do, and, and, and what, what it really is revealing is we don't understand what understanding is. 
+2  
+02:02:21
+We literally, we don't have a really good argument or measure, you know, that you can measure someone's understanding and then apply it to the chat GDP and see whether it's the same. It, it probably isn't exactly the same, but maybe there's some continuum here we're talking about. Right. You know, the way I look at it, you know, it's as if an alien suddenly landed on earth and started talking to us in English. Right. And the only thing we could be sure of, but it was that it's not human. Right. 
+0  
+02:03:00
+I met some people that I wondered about their terrestrial origins. 
+2  
+02:03:05
+Okay. Okay. Well, okay. Now there's a big diversity amongst humans too. You are right 
+0  
+02:03:10
+About that. Yeah, yeah, yeah. Certain colleagues of ours at UCSD years ago, one in particular in the physics department, who I absolutely adore as a human being, just had such an unusual pattern of speech, of behavior, totally appropriate behavior, but just unusual in the middle of a faculty meeting would just kind of turn to me and start talking while the other person was presenting. And I was like, maybe not now. And they'd go and he would say, oh, okay. But in any other domain, you'd say he was very socially adept. And so, you know, there's certain people that just kind of discard with convention and he kinda wanted, like, is he an alien? It's kind of cool in a, in a cool way. Yeah. Like, you know, he's one of my, again, a friend and somebody I really delighted it. 
+2  
+02:03:52
+It's true. It's true. You know? No, no. Every not everybody has adopted the same social conventions. You know, it could be a touch of autism. 
+0  
+02:04:02
+I mean Yeah, 
+2  
+02:04:03
+That's a problem that, I mean, in other words, they're very high functioning autistic people out there. 
+0  
+02:04:08
+Well, he's brilliant this 
+2  
+02:04:09
+Guy. And, and often they are, you know, it, it's, it, there are high people who are brilliant that with autism, but, but, you know, 
+0  
+02:04:18
+Could you build an LLM that was more on one end of the spectrum versus the other to see what kind of information they forward? I 
+2  
+02:04:25
+Reviewed the paper. I reviewed a 
+0  
+02:04:26
+Paper. It seemed like it would be a, a, a really important thing to do 
+2  
+02:04:30
+That it's been done. Okay. There was a paper that I reviewed where they, they, they took the LLM and they fine tuned it with different data from people with different disorders, you know, the, the autism and so forth, and sociopaths, you know, 
+0  
+02:04:49
+That's scary. And but you wanna know the answers. No, no. And, 
+2  
+02:04:52
+And they got, they got these LMS to behave just like those people who have these disorders. You can get them to behave that way. Yes. 
+0  
+02:05:00
+Could you do political leaning and values? 
+2  
+02:05:05
+I haven't seen that, but it's pretty clear that to me at least, that, that if, if you can do sociopathy, you can probably do any political belief, you know, but 
+0  
+02:05:15
+You could also view all this as, you could take benevolent tracks. You could also say hyper creative, sensitive to emotional tone of voices, and find out what kind of information that person brings. Excuse me, that LLM Okay. Brings back versus somebody who is very right oriented towards just the content of people's words as opposed to what, what, you know, because among people, you find this, you know, if you've ever left a party with a significant other, and sometimes someone will say, I've had this experience with like, did you see that interaction between so and Soandso? I'm like, no, what are you talking about? Like, did you hear that? I'm like, no, not at all. I didn't hear, I heard the words, but I did not pick up on what you were picking up on. 
+0  
+02:05:57
+Right. And it was clear that there's two very different experiences of the same content. Right. Based purely on a, on a difference in interpretation of the tonality. Okay. 
+2  
+02:06:06
+There's a lot of information that is, as you point out, which has to do with the tone, the in spatial expressions. You know, there, there, there's a tremendous amount of information that is, is passed not just with words, but with all the other parts of the visual input and so forth. And some people are good at picking that up and others are not. There's a tremendous variability between individuals and, you know, that's, that's biology is all about diversity and it's all about, you know, needing gene pool that's very diverse so that you can evolve and, and survive catastrophic changes that occur in the climate, for example. 
+2  
+02:06:50
+But wouldn't it be wonderful if we could create LLM that could understand what the, those differences are Now just think about it. Right? Like 
+0  
+02:07:10
+A truly diverse LLM that integrated all those differences. Yeah, 
+2  
+02:07:14
+But here's how, what you'd have to do, what you'd have to do is to train it up on data from a bunch of individuals, human individuals. Now, one of the things about these LLMs is that they don't have a single persona. They can adopt any persona. You have to tell it what what you're expecting from 
+0  
+02:07:33
+Or ask it in a way that works for you and you'll get back a certain persona. 
+2  
+02:07:37
+Yeah. If, if you, if you, if like I once gave it an abstract from a paper, very technical, a computational paper, and I said, you are a neuroscientist, and I want you to explain this abstract to a 10-year-old. It, it did it in, in a way that I could never have done it. It really accurate, simplified it, was it accurate? It, some of the subtleties were not in it, but it explained, you know, what plasticity it was and explained what a synapse is. And you know, it amazing it 
+0  
+02:08:04
+Did that. It's almost like a qualifying exam for a graduate student. I saw something today on X, formerly known as Twitter that blew my mind that I wanted your thoughts on. That is very appropriate to what you're saying right now, which is someone was asking questions of an LLM on chat, GPT or maybe one of these other Anthropic or Claude or something like that. I probably misuse those names that one of the, the, the AI online sites. And somewhere in the middle of its answers, the LLM decided to just take a break and start looking at pictures of landscapes in Yosemite. Like the LLM was, was doing what? 
+0  
+02:08:45
+A what a what a maybe cognitive cognitively fatigued person or what any kind of online person, person online would do, which was to like take a break and look at a couple pictures of something they, you know, maybe they're thinking about going camping there or something. And then get back to whatever task we hear about hallucinations in ai, right? That's something that it can imagine things that aren't there that like a human brain. But that blew my mind. 
+2  
+02:09:11
+I haven't encountered that. But, you know, isn't it fascinating, you know, that that's a sign of, of, of real generative internal model. If, if it's, see here's the thing that real, the thing that most distinguishes I think an LLM from a human is that, you know, if, if you, if if, if you go into a room quiet room and just sit there without any sensory stimulation, your brain keeps thinking, right? In other words, you, you think about what you wanna do, you know, planning ahead or something that happened to you during the day, right? Your brain is always generating internally, you know, after talking to you. 
+2  
+02:09:55
+One of these large language models just goes blank. There is no self continuous self-generated thoughts. 
+0  
+02:10:05
+And yet we know self-generated thought and in particular brain activity during sleep, as you illustrate earlier with the example of Sleep, Spindles and rapid eye movement sleep are absolutely critical for shaping the knowledge that we were experienced during the day. So yes. So these LLMs are not quite where we are at yet. I mean, they, they can outperform us in certain things. Like go, but how soon will we have LLMs AI that is with self-generated internal activity? 
+2  
+02:10:42
+We're, we're getting closer. And, and so this is something I'm working on myself actually trying to understand how that's done in our own brains was generating continual brain activity that leads to, you know, planning and things that we don't know what the answer to that is yet in neuroscience, it, it, it, and by the way, you go to a lecture and you, you hear the words one after the next over an hour and you see the slides when after the next, at the end you ask a question, right? Just let's think about what you just did. Somehow you're able to integrate all that information over the hour and, and then use your long-term memory then to come up with some insight or some issue that you want that, how did your brain remember all that information? 
+2  
+02:11:35
+Working memory, traditional working memory, that neuroscientists study only if you're a few seconds, like, or maybe a telephone number or something. But we're talking about long-term working memory. We don't understand how that was done. And LLMs actually, large language models can do something. It's called in context learning. And, and it is a really, it was a great surprise because there is no plasticity. The thing learns at the beginning. You train it up on data and then all it does after that is to inference, you know, fast loop of activity one word after the next, right? That that's what happens with no learning. 
+2  
+02:12:15
+No learning. But it's been noticed that as you continue your dialogue, it seems to get better at things. How could that be, how could it be in context learning, even though there's no plasticity? That's a mystery. We don't know the answer to that question yet, but we also don't know what the answer it is. What, what the answer is for humans either. 
+0  
+02:12:38
+Right. Could I ask you a few questions about you? And as it relates to science and your trajectory, building off of what you were just saying, do you have a practice of meditation or eyes closed, sensory input reduced or shut down to drive your thinking in a particular way? Or are you, you know, at your computer talking to your students in postdocs and sprinting on the beach? 
+2  
+02:13:07
+You know, it's funny or asleep. No, it's funny you mentioned that. 'cause I get my best ideas, not sprinting on the beach, but, you know, just either walking or jogging and it's, it's wonderful. I don't know, I think, you know, serotonin goes up, it's another neuromodulator. I think that that stimulates ideas and thoughts. And so inevitably I come back to the by office and I can't remember any of those great ideas. 
+0  
+02:13:35
+What do you do about that? 
+2  
+02:13:36
+Well, now I take notes. 
+0  
+02:13:38
+Okay. Voice memos. Yeah. 
+2  
+02:13:40
+And, and some of them pan out, you know, there's no doubt about it. Sure. That, that you're put into a situation. It is a form of meditation. You know, if you're running in a steady pace, nothing distracting about, you know, the beach 
+0  
+02:13:56
+Or do you listen to music or podcasts or, no, 
+2  
+02:13:58
+I, I never listen to anything except, except my, my own thoughts. 
+0  
+02:14:01
+So there's a, a former guest on this podcast who, she happens to be triple degreed from Harvard, but she's more in the kinda like personal coach space, but very, very high level and impressive mind, impressive human all around. And she has this concept of worthlessness that can be used to accomplish a number of different things. But this idea that allowing oneself or, or creating conditions for oneself to enter states throughout the day or maybe once a day of very minimal sensory input, no lecture, no podcast, no book, no music, nothing. And allowing the brain to just kind of idle and go a little bit non-linear, if you will, right. 
+0  
+02:14:46
+Where we're not constructing thoughts or paying attention to anyone else's thoughts through those media venues in any kind of structured way as a source of great ideas and creativity. Yeah. 
+2  
+02:14:58
+It, it's been studied, psychologists call it Mind Wandering 
+0  
+02:15:00
+Mind Wandering. Yeah. 
+2  
+02:15:01
+It, it's, it is a significant literature and it, it's often when you have an aha mo moment, when you know your mind and it's wandering and it's, it's thinking nonlinearly in the sense of not following a sequence that is logical, you know, hopping from thing to thing. Often that's when you get a, a great idea with just letting your mind wander. Yeah. And that happens to me. 
+0  
+02:15:29
+I, I wonder whether Social, Media and just texting and phones in general have eliminated a lot of the, you know, walks to the car after work where one would normally not be on a call or in communication with anyone or anything. I used to do experiments where I was, you know, like pipetting and running am you know, immunohistochemistry. And it was very relaxing. And I could think while I was doing, 'cause I knew the procedures and then, you know, you had to pay attention to certain things, write them down. Okay. Okay. But I would often feel like, wow, I'm both working and relaxing and thinking of things. And then I, I would listen to music sometimes. Okay, 
+2  
+02:16:02
+So we have a whole session, you know, a, a clip in Learning How to Learn about exactly this phenomenon. Here's, here's what we tell our students, right? Is that, you know, if you're having trouble with some concept or you know, you don't understand something, you're beating your head against the wall, don't stop, stop. Just go off and do something. Go off and, and clean the dishes, go off and, you know, walk around the block. And inevitably what happens is when you come back, your, your mind is clear and you figure out what to do. And, and that's one of the best pieces of advice that anybody could get because, you know, we don't, nobody has told us how the brain works, right? 
+2  
+02:16:49
+We, we, we, we, you, some people are really good at intuiting because they've experienced you maybe and, and, and, and, but everybody, I, okay, the other thing is, everybody I know who's really made important contributions, and I'll bet you're one of them. You know, you are struggling with some problem at night and you go to bed and you wake up in the morning, ah, that's the solution. That's what I should do, right? First 
+0  
+02:17:18
+Thing in the morning when I wake up is when I, I'm almost bombarded with, I wouldn't say insight and not always meaningful insight, but certainly what was unclear becomes immediately clear on waking. That's 
+2  
+02:17:32
+Right. That's the thing that is so amazing about sleep. And, and, and, and you can see people who know this can, can count on it. In other words, the key is to think about it before you go to sleep. Right? Your brain works on it during the sleep period, right? And so, you know, don't watch TV because then who knows what your brain's gonna work on. You know, use, you know, use the time before you fall asleep to think about something that is bothering you or maybe something that, you know, you're trying to understand maybe a, you know, a paper that you've, you read the paper and say, oh, you know, I'm, I'm tired, I'm gonna go to sleep. You wake up in the morning and say, oh, I know what's going on in that paper. Yeah. I mean, that's what happens. 
+2  
+02:18:13
+You can use, you know, once you know something about how the brain works, you can take advantage of that. 
+0  
+02:18:17
+Do you pay attention to your dreams? Do you record them? 
+2  
+02:18:21
+No. No. Okay. So here's the problem. Dreams seem so iconic and, and a lot of people, you know, somehow attribute things to them. But it, it, it, there has never been any good theory or any good understanding, first of all why we dream. We still, I mean, it's still not completely clear. I mean, there are some ideas, but, or what trigger why this particular dream is this, is does that have some significance for you? And the only thing that I know that might explain a little bit is that, you know, the, the dreams are often very visual. 
+2  
+02:19:06
+You know, rapid eye movement, sleep so that there's something happening that the, the, actually it's interesting, all the neuromodulators are downregulated during sleep and then during REM sleep, acetylcholine comes up, right? So that's a very powerful neuromodulator. It's important for attention, for example. But it doesn't come up in the prefrontal cortex, which means that the circuits in the prefrontal cortex that are interpreting what the sensory input coming in are not turned on. So any of these, whatever happens in your visual cortex is not being monitored anymore. So you get bizarre things, you know, that you start floating and you know, things happen to you and, you know, it's, it's not anchored anymore. 
+2  
+02:19:48
+And so, but that still doesn't explain why, right. Why you have that period. It's important. 'cause if you block it and there are some sleeping pills that do block it, you, you know, it really does cause problems with, you know, normal cognitive function. 
+0  
+02:20:03
+Cannabis as well. People who come off cannabis experience a tremendous rem rebound Ah, interesting. Lots of dreaming in the, you know, the days and weeks and months after cannabis. Wow. Which I don't wanna call it withdrawal 'cause that has a different meaning. No, no, it's, 
+2  
+02:20:21
+It's, it's a, it's the imbalance that was caused of, you know, because the, the brain adjusted to the, you know, the endocannabinoid levels and now it, it is gotta go back and it takes time. But it's interesting, isn't it interesting? It affects dreams. I I think that may be a clue. Maybe 
+0  
+02:20:38
+We should, yeah. Very, very common phenomenon. I'm told I'm not a cannabis user, but no judgment there. I just am not, it's actually a, a book I read years ago when I was in college, so a long time ago by Alan Hobson, who was out at Harvard. Oh yeah, I know him. Yeah. Who Oh, cool. So I, I never met him. But he had this interesting idea that dreams in particular rapid eye movement dreams were so very similar to the experience that one has on certain psychedelics. LSD, urg acid ide or Psilocybin. And that perhaps dreams are revealing the Unconscious mind, you know, and not saying this in any psychological terms, you know, that, you know, when we're asleep, our conscious mind can't control thought and action in the same way, obviously. 
+0  
+02:21:29
+And kind of a, it's sort of a recession of the waterline, you know? So we're getting more of the, the Unconscious processing revealed, you 
+2  
+02:21:36
+Know, that's an interesting hypothesis. How would you test it? 
+0  
+02:21:42
+I'd probably have to put someone in a scanner, have 'em go to sleep, put 'em in the scanner on a Psilocybin journey. I see, okay. This kind of thing, you know, that it's tough. I mean, any of these observational studies, of course we both know are deficient in the sense that what you'd really like to do is control the neural activity. That's right. You'd like to get in there and tickle the neurons over here and see how the brain changes. And you'd love to get real time subjective report. This is the problem with sleep and dreaming is people, you can wake people up and ask them what they were just dreaming about, but you can't really know what they're dreaming about in real time. 
+2  
+02:22:15
+It's true. Yeah, it's true. By the way, you know, there are two kinds of dreams. Hmm. Very interesting. So if you wake someone up during rem sleep, you, you get very vivid changing. Dreams are always, they're always different and changing. But if you wake someone up during slow wave sleep, you often get a dream report. But it's a kind of dream that keeps repeating over and over again every night. And it's a very heavy emotional content. 
+0  
+02:22:42
+Interesting. That's in, in slow wave sleep. Yeah. Because I've had a few dreams over and over and over throughout my life. So this would be in slow wave sleep. 
+2  
+02:22:50
+Yeah, probably slow wave sleep. Yeah. 
+0  
+02:22:53
+Fascinating. As a neuroscientist who's computationally oriented, but really you incorporate the biology so well into your work. So that's one of the reasons you're, you, you're the, this luminary of your field and who's also now really excited about ai. What are you most excited about now? Like if you had, and you know, of course this isn't the case, but if you had like 24 more months to just pour yourself into something and then you had to hand the keys to your lab over to someone else, what would you go all in on? Well, 
+2  
+02:23:29
+So the NIH has something called the Pioneer Award. And what they're looking for are big ideas that could have a huge impact, right? So I put one in recently and, and, and here's the, the, the, the title is Temporal Context in Brains and Transformers 
+0  
+02:23:52
+And in Brains and Transforms 
+2  
+02:23:54
+Transformers, 
+0  
+02:23:54
+Performers, ai. 
+2  
+02:23:56
+Right? The, the, the key to chat GTP is the fact there's this new architecture, it's a deep learning architecture feedforward network, but it's called a transformer. And it has certain parts in it that are, are unique. It's one called self attention. And, and, and it's, it's, it's a way of doing what is called temporal context. It, what it does is it connects words that are far apart. You give it a sequence of words and it it can tell you the association, like if I use the word this, and then you have to figure out in the last sentence, what did it refer to? Well, there's three or four nouns it could have referred to. But from context you can figure out which one it does. 
+2  
+02:24:37
+And you can learn that association 
+0  
+02:24:39
+Could, could I just play with another example to make sure I understand this correctly? I've seen these word bubble charts, like if we were to say piano, you'd say keys, you'd say music, you'd say seat, you'd, and then, you know, it kind of builds out a word cloud of association. Oh yeah. Right, right. And then over here we'd say, I dunno, I'm thinking about the Salk Institute. I'd say Sunset, Stonehenge, anyone that looks up, there's this phenomenon, senge, this kind of, then you start building out a word cloud over there. Right. These are disparate things, except I've been to a classical music concert at the Salk Institute Symphony Sal twice. So they're not completely non overlapping. And so you start getting associations at a distance and eventually they bridge together. Is this what you're referring to? 
+0  
+02:25:20
+Y 
+2  
+02:25:20
+Yes. Okay. I think that that's an example, but it turns out that every word is ambiguous. It has like three, four meetings. And so you have to figure that out from context. And, and so in other words, there, there are words that live together and, and that come up often. And you can learn that from just by, you know, predicting the next word in a sentence. That's how a transformer is trained. You give it a bunch of words and it keeps predicting the next word in a sentence. No, 
+0  
+02:25:48
+Like in my email. Now it tries to predict the next word. Yes, exactly. And it's, it's mostly right part of the 
+2  
+02:25:53
+Time. Okay, well, but that's because it's a very primitive version of this algorithm. What happened is, if you treat, if you train it up on enough it, and not, not only can it answer the next word, it it, it build internally builds up a semantic representation in the same way you describe the words that are related to each other. Having, you know, associations. It can figure that out. And it has representations inside this very large network with trillions of, of parameters, unbelievable how big they're gotten. And the, those, those associations now form an internal model of the meaning of the sentence. 
+2  
+02:26:36
+Literally. It, it, it, it, it, it's been, this is something that now we're, we're, we've probed to these transformers and so we, we pretty much are, are pretty confident. And that means that it's forming an internal model of the outside world, in this case, a bunch of words. And, and that's how it's able to actually respond to you in a way that is sensible, that makes sense and actually is interesting and so forth. And it's all the self attention I'm talking about. So in the case, my pioneer proposal is to figure out how does the brain do self attention, right? It it's gotta do it somehow. 
+2  
+02:27:17
+And I'll give you a little hint. Basal Ganglia, 
+0  
+02:27:22
+It's in the Basal Ganglia. 
+2  
+02:27:23
+That's my hypothesis. Well, we'll see, I mean, you know, the, I've, I'll be working with experimental people. I've worked with John Reynolds, for example, who studies primate visual cortex, and we've looked at Traveling Waves there and, and there are other people that have looked at in, in, in primates and these, you know, and so now these Traveling Waves, I think are also a part of the, the, the, you know, the puzzle pieces of the puzzle that are gonna give us a much better view of how the, the cortex is organized and how it interacts with the Basal Ganglia. I've already, we've already been there, but we're, we, we still, you know, neuroscientists have studied each one of these parts of the brain independently, and now we have to start thinking about putting the pieces of the puzzle together, right? 
+2  
+02:28:14
+Trying to get all the things that we know about these areas and see how they work together in a computational way. And that's really where I want to go. 
+0  
+02:28:24
+I love it. And I do hope they decide to fund your Pioneer award. I do too. Yeah. And should they ha make the bad decision not to, you know, maybe we'll figure out another way to get it, get the work done. Certainly you will. Terry, I, I wanna thank you first of all for coming here today, taking time out of your busy cognitive and running and teaching and research schedule to share your knowledge with us and also for the incredible work that you're doing on public education and teaching the public, I should say, giving the public resources to learn how to learn better at zero cost. So we will certainly provide links to Learning How to Learn and your book and to these other incredible resources that you've shared and you've also given us a ton of practical tools today related to exercise Mitochondria and some of the things that you do, which of course are just your versions of what you do. 
+0  
+02:29:18
+But that certainly, certainly are going to be a value to people, including me in our cognitive and physical pursuits and frankly just longevity. I mean, this, this is not lost on me in those listening, that your Vigor is, as I mentioned earlier, undeniable, and it's been such a pleasure over the years to just see the amount of focus and energy and enthusiasm that you bring to your work and to observe that it not only hasn't slowed, but you're picking up velocity. So thank you so much for educating us today. I, I know I speak on behalf of myself and many, many people listening and watching. This is a real gift, a real incredible experience to learn from you. 
+0  
+02:30:00
+Wow. So, so thank you so much. 
+2  
+02:30:02
+Well, thank you. And I have to say that I've been blessed over the years with wonderful students and wonderful colleagues, and I count you among them. Thank you. Who, who really I've learned a lot from. Thank you. But you know, we're, we're, you know, science is a social activity and, and we learn from each other and we all make mistakes, but we learn from our mistakes. And that's the beauty of science is that we can make progress. Now, you know, your career has been remarkable too, because you have affected and influenced more people than anybody else I know personally with, with the knowledge that you are broadcasting through your interviews, but also, you know, just in terms of your interests really. 
+2  
+02:30:52
+I'm, I'm really impressed with what you've done and, and I want you to keep you know at it because we, we need people like you, we need, we need scientists who can actually express and reach the public. If we, if we don't do that, everything we do is behind closed doors. Right. Nothing gets out. And, and so you're, you're one of the, the best of, of the breed in terms of being able to explain things in a clear way that gets through to more people than anybody else I know. 
+0  
+02:31:23
+Oh, well, thank you. I'm very honored to hear that. It's a labor of love for me. And, and I'll take those words in and I, I really appreciate it. It's an honor and a privilege to sit with you today. And please come back again. I would 
+2  
+02:31:34
+Be a love to. I would love to. Yeah. All right. 
+0  
+02:31:36
+Thank you, Terry. You're 
+2  
+02:31:37
+Welcome. 
+0  
+02:31:38
+Thank you for joining me for today's discussion with Dr. Terry Sejnowski to find links to his work, the Zero Cost Online Learning portal that he and his colleagues have developed, and to find links to his new book. Please see the show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast on both Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review. Please check out the Sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions or comments about the podcast or guests or topics that you'd like me to consider for the Huberman Lab podcast, please put those in the comment section on YouTube. 
+0  
+02:32:20
+I do read all the comments for those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols and Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers Protocols for everything from sleep to exercise, to stress control, Protocols related to focus and motivation. And of course, I provide the scientific substantiation for the Protocols that are included. The book is now available by presale at Protocols Book dot com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body. 
+0  
+02:33:01
+If you're not already following me on Social Media, I'm Huberman Lab on all Social Media platforms. So that's Instagram X, formerly known as Twitter Threads, Facebook and LinkedIn. And on all those platforms, I discuss science and science related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content on the Huberman Lab podcast. Again, that's Huberman Lab on all Social Media platforms. If you haven't already subscribed to our Neural Network Newsletter, our Neural Network Newsletter is a zero cost monthly newsletter. That includes podcast summaries as well as Protocols in the form of brief one to three page PDFs. Those one to three page PDFs cover things like deliberate heat exposure, deliberate cold exposure. We have a foundational fitness protocol. 
+0  
+02:33:43
+We also have Protocols for optimizing your sleep dopamine, and much more. Again, all available completely zero cost. Simply go to Huberman Lab dot com, go to the menu tab, scroll down to newsletter, and provide your email. We do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Terry Sadowski. And last but certainly not least, thank you for your interest in science.

@@ -332,8 +332,8 @@ def main():
     # Initialize and train DeepSeek model
     finetuner = DeepSeekQAFinetuner(
         model_name="deepseek-ai/deepseek-coder-1.3b-base",
-        data_dir="../data/qa_pairs/huberman_lab",
-        output_dir="./fine_tuned_models/deepseek",
+        data_dir="../../data/qa_pairs/huberman_lab",
+        output_dir="../../models/fine_tuned_deep_seek",
         batch_size=4,  # Adjusted after many trials to get this to work on Colab's gpu for a while
         epochs=3, # Kept number of epochs small but still took 6 hours to train
         learning_rate=2e-5,

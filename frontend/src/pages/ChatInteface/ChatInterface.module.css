@@ -4,6 +4,7 @@
   color: #ffffff;
   display: flex;
   flex-direction: column;
+  position: relative; /* Allow absolute positioning of modelSelector */
 }
 
 .chatContainer {
@@ -28,6 +29,57 @@
   flex: 1;
   overflow-y: auto;
   margin-bottom: 2rem;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  position: relative;
+}
+
+/* Model selector in top-left of webpage */
+.modelSelector {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  z-index: 10; /* Ensure it stays above other content */
+}
+
+.modelSelector label {
+  font-size: 0.9rem;
+  color: #dddddd;
+}
+
+.modelSelector select {
+  padding: 0.4rem 0.6rem;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background-color: #2a2a2a;
+  color: #ffffff;
+  font-size: 0.9rem;
+}
+
+.loadingSpinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.spinnerCircle {
+  border: 8px solid rgba(255, 255, 255, 0.1);
+  border-top: 8px solid #ffffff;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 .inputArea {
@@ -44,27 +96,3 @@
   flex-wrap: wrap;
   justify-content: center;
 }
-
-.actionButton {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  padding: 0.5rem 1rem;
-  border-radius: 0.75rem;
-  background-color: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  color: #ffffff;
-  font-size: 0.875rem;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.actionButton:hover {
-  background-color: rgba(255, 255, 255, 0.15);
-  border-color: rgba(255, 255, 255, 0.2);
-}
-
-.icon {
-  font-size: 1.25rem;
-}
-

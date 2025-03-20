@@ -7,51 +7,31 @@
       "question": "Who is Dr. Roger Sch Welt and what are his areas of expertise?",
       "answer": "Dr. Roger Sch Welt is a board-certified medical doctor specializing in pulmonology and sleep medicine. He works in the intensive care unit at Loma Linda University and is involved in medical and public health education through his online channel, MedCram.",
       "type": "general",
-      "topic": [
-        "Dr. Roger Sch Welt",
-        "Pulmonology",
-        "Sleep Medicine"
-      ]
+      "topic": "Pulmonology, Sleep Medicine"
     },
     {
       "question": "What is the NEWSTART mnemonic and how does it relate to health?",
       "answer": "NEWSTART is a mnemonic that stands for Nutrition, Exercise, Water, Sunlight, Temperance, Air, Rest, and Trust. It represents the pillars of health that can help improve general well-being and strengthen the immune system to avoid getting sick.",
       "type": "specific",
-      "topic": [
-        "NEWSTART",
-        "Health Pillars",
-        "Immune System"
-      ]
+      "topic": "Health Pillars, Immune System"
     },
     {
       "question": "How does sunlight affect mitochondrial health according to Dr. Sch Welt?",
       "answer": "Sunlight, particularly infrared light, penetrates the skin and affects mitochondrial health by increasing melatonin production within mitochondria. This melatonin acts as a powerful antioxidant, reducing oxidative stress and potentially improving mitochondrial efficiency, which is crucial for overall health.",
       "type": "technical",
-      "topic": [
-        "Sunlight",
-        "Mitochondrial Health",
-        "Melatonin"
-      ]
+      "topic": "Sunlight, Mitochondrial Health, Melatonin"
     },
     {
       "question": "What are some benefits of being exposed to green spaces, as mentioned in the podcast?",
       "answer": "Exposure to green spaces is associated with reduced rates of diabetes, hypertension, and overall mortality. This may be due to the reflective properties of chlorophyll in plants, which increase exposure to beneficial infrared light.",
       "type": "specific",
-      "topic": [
-        "Green Spaces",
-        "Health Benefits",
-        "Infrared Light"
-      ]
+      "topic": "Green Spaces, Health Benefits, Infrared Light"
     },
     {
       "question": "What role does melatonin play in the mitochondria, and how is it different from its role in the pineal gland?",
       "answer": "In the mitochondria, melatonin acts as a powerful antioxidant that mitigates oxidative stress by neutralizing reactive oxygen species. This is different from its role in the pineal gland, where melatonin is released into the bloodstream to regulate sleep-wake cycles.",
       "type": "technical",
-      "topic": [
-        "Melatonin",
-        "Mitochondria",
-        "Pineal Gland"
-      ]
+      "topic": "Melatonin, Mitochondria, Pineal Gland"
     },
     {
       "question": "How does planting trees in urban areas affect residents' health?",
@@ -117,141 +97,94 @@
       "question": "Why might some people choose not to get the flu shot, despite its potential benefits?",
       "answer": "Some individuals, like the speaker in the podcast, choose not to get the flu shot because they have never experienced significant issues with the flu and prefer to rely on their natural immune response. They believe that getting the flu occasionally helps develop their own antibodies.",
       "type": "general",
-      "topic": [
-        "flu shot",
-        "personal health choices"
-      ]
+      "topic": "flu shot, personal health choices"
     },
     {
       "question": "How does the flu vaccine work, and what are its limitations?",
       "answer": "The flu vaccine provides the immune system with an advanced notice of the flu antigens, which can reduce the severity of symptoms if infected. However, it does not prevent infection entirely, and the strains included in the vaccine are based on predictions from previous flu seasons in the southern hemisphere.",
       "type": "specific",
-      "topic": [
-        "flu vaccine",
-        "immune response"
-      ]
+      "topic": "flu vaccine, immune response"
     },
     {
       "question": "What are some potential risks associated with the flu shot?",
       "answer": "The flu shot can cause allergic reactions, including anaphylactic shock. There was also an incident in Europe where a specific flu vaccine was associated with narcolepsy due to an autoimmune response affecting the brain's hypothalamus.",
       "type": "technical",
-      "topic": [
-        "flu shot risks",
-        "vaccine side effects"
-      ]
+      "topic": "flu shot risks, vaccine side effects"
+      
     },
     {
       "question": "What is the role of interferon in the immune response to viruses?",
       "answer": "Interferon is a crucial molecule in the innate immune system that has a broad ability to combat viruses. It is not affected by viral variants, making it an essential component of the body's defense against infections.",
       "type": "technical",
-      "topic": [
-        "immune system",
-        "interferon"
-      ]
+      "topic": "immune system, interferon"
+      
     },
     {
       "question": "How can external use of water influence the immune system during illness?",
       "answer": "External use of water, such as hot baths or hydrotherapy, can raise body temperature, which may enhance the secretion of interferon from lymphocytes. This increased interferon production can potentially boost the immune response to infections.",
       "type": "specific",
-      "topic": [
-        "hydrotherapy",
-        "immune system"
-      ]
+      "topic": "hydrotherapy, immune system"
     },
     {
       "question": "What is the historical significance of hydrotherapy in treating pneumonia before the discovery of penicillin?",
       "answer": "Hydrotherapy was used in sanitariums to treat pneumonia before the discovery of penicillin in 1928. It involved methods to increase body temperature, which reportedly reduced mortality rates to one-sixth compared to army hospitals at the time.",
       "type": "general",
-      "topic": [
-        "hydrotherapy",
-        "pneumonia",
-        "historical medicine"
-      ]
+      "topic": "hydrotherapy, pneumonia, historical medicine"
     },
     {
       "question": "How does heat exposure, such as in a sauna, affect the body's immune response?",
       "answer": "Heat exposure increases core body temperature, which can enhance immune response by upregulating transcription factors that lead to increased interferon production. This process is similar to the historical practice of using heat to treat infections.",
       "type": "specific",
-      "topic": [
-        "immune response",
-        "sauna",
-        "heat therapy"
-      ]
+      "topic": "immune response, sauna, heat therapy"
     },
     {
       "question": "What is the mechanism by which cold exposure liberates white blood cells into circulation?",
       "answer": "Cold exposure causes vasoconstriction, which leads to the demargination of white blood cells from the blood vessel walls into circulation. This increases their availability to respond to infections.",
       "type": "technical",
-      "topic": [
-        "cold exposure",
-        "white blood cells",
-        "immune system"
-      ]
+      "topic": "cold exposure, white blood cells, immune system"
+      
     },
     {
       "question": "Why is N-acetylcysteine (NAC) used in the treatment of Tylenol overdose and what are its other potential benefits?",
       "answer": "NAC is used in Tylenol overdose to replenish glutathione in the liver, preventing liver failure. It also acts as a mucolytic, breaking down mucus, and may help prevent oxidative stress-related complications in infections like COVID-19.",
       "type": "specific",
-      "topic": [
-        "N-acetylcysteine",
-        "liver health",
-        "oxidative stress"
-      ]
+      "topic": "N-acetylcysteine, liver health, oxidative stress"
     },
     {
       "question": "How might the practice of heat and cold contrast therapy, such as in Russian banyas, benefit health?",
       "answer": "Heat and cold contrast therapy, practiced in Russian banyas, involves alternating between hot and cold environments. This can enhance circulation, improve immune function, and potentially lock in body heat to maintain elevated core temperature for health benefits.",
       "type": "general",
-      "topic": [
-        "contrast therapy",
-        "banyas",
-        "circulation"
-      ]
+      "topic": "contrast therapy, banyas, circulation"
     },
     {
       "question": "What is NAC and how does it affect flu symptoms?",
       "answer": "NAC, or N-acetylcysteine, is a compound that, according to a multi-centered double-blinded placebo-controlled trial, does not reduce the number of influenza infections but significantly reduces symptoms such as runny nose and sore throat.",
       "type": "general",
-      "topic": [
-        "NAC",
-        "flu symptoms"
-      ]
+      "topic": "NAC, flu symptoms"
     },
     {
       "question": "Why might eucalyptus oil be beneficial for the immune system?",
       "answer": "Eucalyptus oil has been shown in in vitro studies to stimulate phagocytosis in the innate immune system, enhancing the ability of immune cells to engulf harmful particles. However, it should not be ingested as it is potent and can be harmful if taken internally.",
       "type": "specific",
-      "topic": [
-        "eucalyptus oil",
-        "immune system"
-      ]
+      "topic": "eucalyptus oil, immune system"
     },
     {
       "question": "How does zinc contribute to immune system function?",
       "answer": "Zinc acts as a co-factor in several enzymatic reactions within the immune system, which can enhance immune function. However, it is important to monitor copper levels when taking high doses of zinc to avoid deficiencies.",
       "type": "technical",
-      "topic": [
-        "zinc",
-        "immune system"
-      ]
+      "topic": "zinc, immune system"
     },
     {
       "question": "What are the potential risks associated with vaping compared to smoking?",
       "answer": "While vaping may contain fewer toxins than smoking, it is still harmful to the lungs and can lead to conditions like popcorn lung. Additionally, vaping often contains higher concentrations of nicotine, which can be more addictive.",
       "type": "general",
-      "topic": [
-        "vaping",
-        "smoking"
-      ]
+      "topic": "vaping, smoking"
     },
     {
       "question": "What is the impact of artificial light on metabolic health?",
       "answer": "Artificial light, especially LED lights, lacks the full spectrum of natural light, particularly red and infrared light. This imbalance can disrupt circadian rhythms and contribute to metabolic issues, such as obesity and glucose regulation problems.",
       "type": "specific",
-      "topic": [
-        "artificial light",
-        "metabolic health"
-      ]
+      "topic": "artificial light, metabolic health"
     },
     {
       "question": "Why is it important to have bright days and dim nights for our health?",

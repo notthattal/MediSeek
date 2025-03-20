@@ -9,7 +9,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 EPISODES_API = "https://backend.podscribe.ai/api/series/1524727/episodes-list?numEpisodes=100000"
 EPISODE_URL = "https://app.podscribe.ai/episode/{}"
 HEADERS = {"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
-SAVE_FOLDER = "./data/raw_transcripts"
+SAVE_FOLDER = "../data/raw_transcripts"
 
 def get_episode_links():
     response = requests.get(EPISODES_API, headers=HEADERS)

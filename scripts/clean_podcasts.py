@@ -58,8 +58,8 @@ def process_file(input_file, output_file):
 
 def main():
     podcast_name = "huberman_lab"
-    input_folder = "./data/raw_transcripts"
-    output_folder = "./data/clean_transcripts"
+    input_folder = "../data/raw_transcripts"
+    output_folder = "../data/clean_transcripts"
     output_folder = os.path.join(output_folder, podcast_name)
 
     os.makedirs(output_folder, exist_ok=True)

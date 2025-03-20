@@ -1,6 +1,7 @@
 '''
 This script implements PodcastQAGenertor, which utilizes gpt4o to generate question-answer pairs that
 will be fed into the models (both for traditional and the fine-tuned LLM). 
+Took 12 hours to generate 30 QA pairs per podcast episode (total of 384 episodes)
 '''
 import os
 import json
@@ -26,12 +27,11 @@ class PodcastQAGenerator:
         Initialize the QA Generator
         
         Args:
-            api_key (str): OpenAI API key
             output_dir (str): Directory to save generated QA pairs
             model (str): OpenAI model to use
             max_tokens (int): Maximum tokens for response
         """
-        self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY")) # Set up a .env and add api key to run
         self.output_dir = output_dir
         self.model = model
         self.max_tokens = max_tokens
@@ -245,6 +245,7 @@ class PodcastQAGenerator:
         
         Args:
             transcript_dir (str): Directory containing transcript files
+            podcast_name (str): Directory for the specific podcast name
             file_extension (str): File extension of transcript files
             
         Returns:
@@ -293,7 +294,7 @@ if __name__ == "__main__":
     print(f'podcast_name = {args.podcast_name}')
 
     '''
-    python podcast_qa_generator.py --transcript_dir './data/clean_transcripts/huberman_lab' --output_dir './data/qa_pairs' --podcast_name huberman_lab
+    python podcast_qa_generator.py --transcript_dir '../data/clean_transcripts/huberman_lab' --output_dir '../data/qa_pairs' --podcast_name huberman_lab
     '''
 
     output_dir = os.path.join(args.output_dir, args.podcast_name)

@@ -432,7 +432,7 @@ def predict_answer(model, tokenizer, question, beam_width=5):
 
 def main():
     # set QA-pair folder
-    folder_path = "./data/qa_pairs/huberman_lab"
+    folder_path = "../data/qa_pairs/huberman_lab"
 
     # get the dataframe of all QA pairs
     df = load_all_data(folder_path)
@@ -480,7 +480,7 @@ def main():
     print(predict_answer(model, tokenizer, "How can omega-3 fatty acids benefit brain health?", beam_width=5))
 
     # save the model
-    torch.save(model, 'seq2seq_model.pth')
+    torch.save(model, '../models/seq2seq_model.pth')
 
 if __name__ == '__main__':
     main()

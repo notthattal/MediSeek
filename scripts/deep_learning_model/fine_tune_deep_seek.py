@@ -1,3 +1,12 @@
+'''
+This script contains code that implements the fine-tuning process of DeepSeek 7b. 
+It utilizes PEFT library for fine-tuning transformers with Attention layers (since it gets hard to freeze weights 
+when attention layers are involved)
+It utilizes LoRa for faster fine-tuning (since we are only focused on updating the derivative of the weigths 
+by breaking it down to two matrices A and B)
+This function was used to fine-tune deep seek on Colab (copy pasted the function into a notebook that 
+we uploaded to Colab and trained on an A100)
+'''
 import os
 import json
 import pandas as pd
@@ -24,6 +33,9 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class DeepSeekQAFinetuner:
+    '''
+    Class that implements the Fine-tuner for Deep Seek based on the QA pairs generated using gpt-4o
+    '''
     def __init__(
         self,
         model_name="deepseek-ai/deepseek-llm-1.3b-base",
@@ -322,10 +334,10 @@ def main():
         model_name="deepseek-ai/deepseek-coder-1.3b-base",
         data_dir="../data/qa_pairs/huberman_lab",
         output_dir="./fine_tuned_models/deepseek",
-        batch_size=4,  # Adjust based on your GPU memory
-        epochs=3,
+        batch_size=4,  # Adjusted after many trials to get this to work on Colab's gpu for a while
+        epochs=3, # Kept number of epochs small but still took 6 hours to train
         learning_rate=2e-5,
-        load_in_8bit=True  # Set to True if you have limited GPU memory
+        load_in_8bit=True  # Setting this true since we didn't want to risk running out of GPU compute
     )
     
     # Train the model

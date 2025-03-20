@@ -175,3 +175,10 @@ cython_debug/
 
 
 
+
+# Pth files 
+seq2seq_model.pth
+models/
+models.zip
+fine_tuned_deep_seek_and_checkpoints.zip
+deep_learning_model/fine_tuned_models.zip

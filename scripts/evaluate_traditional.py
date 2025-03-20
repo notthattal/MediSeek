@@ -1,3 +1,9 @@
+'''
+Script to evaluate the traditional model we created. It uses 'rouge1_f', 'rouge2_f', 'rougeL_f', 'bleu', 'meteor', 'bertscore_f1'.
+The initial thought was to work on a separate evaluation for each of the approaches, but then we realized that it would look better
+if they were all combined into one script and one HTML file. Didn't feel right to delete the code after writing it.
+NOTE: The HTML part was generated using Claude 3.7 since we kept running into weird bugs
+'''
 import torch
 import json
 import os
@@ -134,7 +140,7 @@ def evaluate_model(model, tokenizer, test_data, device='cpu', beam_width=5):
     
     return results, avg_metrics
 
-def save_evaluation_results(results, avg_metrics, output_file="evaluation_results.json"):
+def save_evaluation_results(results, avg_metrics, output_file="../evaluation_results/evaluation_results_lstm.json"):
     """
     Save evaluation results to a file
     """
@@ -163,9 +169,10 @@ def save_evaluation_results(results, avg_metrics, output_file="evaluation_result
     
     print(f"Evaluation results saved to {output_file}")
 
-def visualize_results(results, avg_metrics, output_file="evaluation_visualization.html"):
+def visualize_results(results, avg_metrics, output_file="../evaluation_results/evaluation_visualization_lstm.html"):
     """
     Create a visualization of evaluation results
+    The part that implements the HTML file creation was made using Clause 3.7
     """
     import matplotlib.pyplot as plt
     import base64
@@ -298,7 +305,7 @@ def main():
     print(f"Using device: {device}")
     
     # Load test data
-    test_data = load_test_data("./data/qa_pairs/huberman_lab", test_split=0.1)
+    test_data = load_test_data("../data/qa_pairs/huberman_lab", test_split=0.1)
     print(f"Loaded {len(test_data)} test examples")
     
     # Load tokenizer
@@ -314,7 +321,7 @@ def main():
 
     # Create model
     model = Seq2Seq(vocab_size, embedding_dim, hidden_dim).to(device)
-    checkpoint = torch.load('seq2seq_model.pth', map_location=device, weights_only=False)
+    checkpoint = torch.load('../models/seq2seq_model.pth', map_location=device, weights_only=False)
     model = checkpoint
     model.to(device)
     

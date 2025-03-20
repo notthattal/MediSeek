@@ -1,0 +1,2 @@
+API_GATEWAY_ID=5cfwvrzfs5
+API_URL=https://5cfwvrzfs5.execute-api.us-east-1.amazonaws.com/prod

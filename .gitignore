@@ -175,6 +175,3 @@ cython_debug/
 
 
 
-
-# Pth files 
-seq2seq_model.pth

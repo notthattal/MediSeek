@@ -56,7 +56,6 @@ MediSeek/
 │ │ └── fine_tune_deep_seek.py
 │ └── traditional_model/
 │ ├── __init__.py
-│ ├── qa_prep.ipynb
 │ ├── traditional_model.py
 │ ├── clean_podcasts.py
 │ ├── evaluate_traditional.py

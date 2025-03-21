@@ -4,7 +4,7 @@
 
 .inputContainer {
   display: flex;
-  align-items: flex-end; /* Changed from center to align with bottom of textarea */
+  align-items: flex-end;
   gap: 0.5rem;
   background-color: rgba(64, 65, 79, 0.9);
   border-radius: 1rem;
@@ -20,10 +20,10 @@
   font-size: 1rem;
   padding: 0.25rem;
   outline: none;
-  resize: none; /* Prevents user resizing */
-  max-height: 200px; /* Maximum height before scrolling */
-  overflow-y: auto; /* Add scrollbar when content exceeds max-height */
-  min-height: 24px; /* Maintain a minimum height */
+  resize: none;
+  max-height: 200px;
+  overflow-y: auto;
+  min-height: 24px;
   line-height: 1.5;
 }
 
@@ -76,4 +76,35 @@
 .iconButton:disabled {
   opacity: 0.5;
   cursor: not-allowed;
+}
+
+.errorMessage {
+  color: #ff5555;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.recordingDot {
+  width: 12px;
+  height: 12px;
+  background-color: #ff5555;
+  border-radius: 50%;
+  display: inline-block;
+  animation: pulse 1s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 0.7;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
 }

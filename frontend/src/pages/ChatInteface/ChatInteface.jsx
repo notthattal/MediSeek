@@ -262,19 +262,28 @@ const ChatInterface = () => {
 
   return (
     <div className={styles.container}>
-      {/* Model selection moved to top-left of the webpage */}
-      <div className={styles.modelSelector}>
-        <label htmlFor="modelSelect">Model:</label>
-        <select
-          id="modelSelect"
-          value={selectedModel}
-          onChange={(e) => setSelectedModel(e.target.value)}
+      <div className={styles.topRightButtons}>
+        <a 
+          href="./evaluation_results/" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className={styles.topButton}
+          title="Evaluation Results"
         >
-          <option value="lstm">LSTM (Fastest)</option>
-          <option value="deepseek">DeepSeek (Base)</option>
-          <option value="mediseek">MediSeek (Healthcare)</option>
-        </select>
+          <i className="bi bi-info-circle"></i>
+        </a>
+
+        <a 
+          href="https://github.com/notthattal/MediSeek" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          className={styles.topButton}
+          title="View on GitHub"
+        >
+          <i className="bi bi-github"></i>
+        </a>
       </div>
+
       {/* Chat container */}
       <div className={styles.chatContainer}>
         <h1 className={styles.heading}>MediSeek</h1>

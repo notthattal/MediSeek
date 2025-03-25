@@ -44,11 +44,7 @@ def clean_transcript(text):
     
     return text.strip()
 
-def process_file(input_file, output_file):
-    """Process a transcript file and save the cleaned version."""
-    with open(input_file, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
+def process_file(content, output_file):    
     cleaned = clean_transcript(content)
     
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -57,18 +53,33 @@ def process_file(input_file, output_file):
     print(f"Cleaned transcript saved to {output_file}")
 
 def main():
-    podcast_name = "huberman_lab"
     input_folder = "../data/raw_transcripts"
     output_folder = "../data/clean_transcripts"
-    output_folder = os.path.join(output_folder, podcast_name)
 
     os.makedirs(output_folder, exist_ok=True)
 
     for filename in os.listdir(input_folder):
         if filename.endswith(".txt"):
+            podcast_name, date = filename.replace('.txt', '').split('_')
             input_file = os.path.join(input_folder, filename)
-            output_file = os.path.join(output_folder, filename)
-            process_file(input_file, output_file)
+
+            """Process a transcript file and save the cleaned version."""
+            with open(input_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Skip files that are behind a paywall or don't have their transcriptions available
+            if "Uh oh! This transcript isn't yet available." in content or re.search(r'PAY \$\d+\.\d{2} TO GENERATE THIS TRANSCRIPT', content):
+                print(f"Skipping {filename} (unavailable transcript or paywall detected)")
+                continue 
+            
+            # Create subfolder for each podcast
+            podcast_folder = os.path.join(output_folder, podcast_name)
+            os.makedirs(podcast_folder, exist_ok=True)
+            
+            # Define output file path
+            output_file = os.path.join(podcast_folder, f"{date}.txt")
+            
+            process_file(content, output_file)
 
 # Example usage
 if __name__ == "__main__":

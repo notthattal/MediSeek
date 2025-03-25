@@ -16,3 +16,5 @@ scipy==1.13.1
 tensorboard==2.19.0
 scikit-learn==1.6.1
 seaborn==0.13.2
+selenium==4.30.0
+webdriver-manager==4.0.2
